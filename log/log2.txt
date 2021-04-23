@@ -1,0 +1,505 @@
+
+> quick@1.0.0 main C:\Projects\quick
+> npx ts-node src/main.ts
+
+focus: C:\Program Files\Git\usr\bin\mintty.exe
+tab: MINGW64:/c/Projects/quick
+clip: firefox
+mousemove
+mousedown
+focus: 
+tab: 
+mouseup
+focus: C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+tab: log.txt - quick - Visual Studio Code
+mouseclick
+tab: Release Notes: 1.53.0 - quick - Visual Studio Code
+keydown
+keypress
+keyup
+rloo
+tab: Visual Studio Code
+tab: package.json (1c0152d8) ⟷ package.json (b04fa5c2) - loot - Visual Studio Code
+
+tab: package.json - loot - Visual Studio Code
+tab: launch.json - loot - Visual Studio Code
+tab: collision-system.ts - loot - Visual Studio Code
+mousewheel
+clip: 			// Collide players with misc colliders
+			player.colliderEntitiesNearby.forEach((colliderEntity) => {
+				this.collisionsCheckedThisFrame++
+
+				const offset = resolveCollidersColliders(player.colliders, colliderEntity.colliders, ColliderTraits.BlockMovement)
+				if (offset) {
+					player.position = player.position.add(offset)
+				}
+			})
+
+tab: ● collision-system.ts - loot - Visual Studio Code
+xv
+
+clip: 						if (offset.len2() > 1) {
+							iter = 0
+						}
+
+c
+v
+tab: collision-system.ts - loot - Visual Studio Code
+s
+focus: C:\Program Files\ConEmu\ConEmu64.exe
+tab: MINGW64:/c/Projects/loot
+focus: 
+tab: 
+focus: C:\Program Files\Git\usr\bin\mintty.exe
+tab: MINGW64:/c/Projects/quick
+q
+focus: C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+tab: collision-system.ts - loot - Visual Studio Code
+focus: C:\Program Files\ConEmu\ConEmu64.exe
+tab: MINGW64:/c/Projects/loot
+client
+tab: npm
+tab: MINGW64:/c/Projects/loot
+hub
+tab: npm
+tab: MINGW64:/c/Projects/loot
+adv
+tab: npm
+
+focus: C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+tab: Discord
+tab: #loot-art - Discord
+tab: #loot-leads - Discord
+tab: #loot-general - Discord
+mousedrag
+focus: 
+tab: 
+focus: C:\Program Files\Git\usr\bin\mintty.exe
+tab: MINGW64:/c/Projects/quick
+focus: 
+tab: 
+focus: C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+tab: #loot-general - Discord
+focus: C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+tab: collision-system.ts - loot - Visual Studio Code
+focus: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+tab: about:blank - Google Chrome
+tab: Loot.io - Google Chrome
+focus: C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+tab: collision-system.ts - loot - Visual Studio Code
+dwdwssssssssssaaaaw
+Fmoveto
+tab: player.server.ts - loot - Visual Studio Code
+tab: ● player.server.ts - loot - Visual Studio Code
+this.disableCollisiosns ThisFrame = true
+clip: disableCollisionsThisFrame
+c.
+
+clip: 	disableCollisionsThisFrame: boolean
+
+x
+v
+clip: disableCollisionsThisFrame
+ = falsec
+cfgapgamemod
+tab: game-mode-configs.ts - loot - Visual Studio Code
+
+tab: server-mode-helpers.ts - loot - Visual Studio Code
+tab: ● player.server.ts - loot - Visual Studio Code
+this.pre	 = thithis.pos	.clone()
+tab: player.server.ts - loot - Visual Studio Code
+s
+focus: 
+tab: 
+focus: C:\Program Files\Git\usr\bin\mintty.exe
+tab: MINGW64:/c/Projects/quick
+focus: 
+tab: 
+focus: C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+tab: player.server.ts - loot - Visual Studio Code
+focus: 
+tab: 
+focus: C:\Program Files\Everything\Everything.exe
+tab: Everything
+tab: l - Everything
+tab: log - Everything
+tab: log2 - Everything
+log2
+tab: 
+focus: C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+tab: log2.txt - loot - Visual Studio Code
+
+focus: C:\Program Files\Everything\Everything.exe
+tab: log2 - Everything
+focus: C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+tab: log2.txt - loot - Visual Studio Code
+tab: player.server.ts - loot - Visual Studio Code
+tab: dev-debug-commands-system.ts - loot - Visual Studio Code
+focus: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+tab: about:blank - Google Chrome
+tab: Loot.io - Google Chrome
+focus: C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+tab: dev-debug-commands-system.ts - loot - Visual Studio Code
+tab: player.server.ts - loot - Visual Studio Code
+tab: ● player.server.ts - loot - Visual Studio Code
+clip: 		this.previousPosition.x = x
+
+pre	.x = xcvyy
+clip: previousPosition
+// settingc v to prevent very long
+ 
+large collision check
+tab: player.server.ts - loot - Visual Studio Code
+s
+focus: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+tab: about:blank - Google Chrome
+tab: Loot.io - Google Chrome
+ddddddddddt
+/wspeed 15
+ddwdsdssadddddddadsadwasasawdsdwwawdadasddddddawaaaaaadadwadadadsawasdddddddddddddddddddddddddddddwdddawdaswdasa
+ddddddddddddddddddddddddddddwwww
+swwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwddt
+/tt out
+aawwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwdwaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaadaaaaaaaaaaadaaaaaaaaaaaad
+daaaaaaaaaaassssssssssssssssssssssssssssssssssssssssssddddddddddddddwwwwwwwwwwwwwwwdddddddddddddddddddddddddddddddwaddddddddq1astt
+/speed 2
+wdddddddawaaaaaaaaaaaadddddddddddddddddddssssssssssssssssssssswaaaasssssssssssssssssssssssssaaaddddddddddddd1ad1ad1aadswawasada
+waasadsdwdwaasdwwasaaasdwasasdwdwasa
+dt
+/tt out
+awdaaaawwwsaaaaaaaaaaaaaaaaaadaaaaaaaaaaaaaaaaaaaassssssdwaassssssssssssssssaaaaa
+focus: C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+tab: player.server.ts - loot - Visual Studio Code
+pcoll
+tab: collision-system.ts - loot - Visual Studio Code
+
+tab: ● collision-system.ts - loot - Visual Studio Code
+tab: collision-system.ts - loot - Visual Studio Code
+s
+focus: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+tab: Loot.io - Google Chrome
+d
+
+focus: C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+tab: collision-system.ts - loot - Visual Studio Code
+tab: ● collision-system.ts - loot - Visual Studio Code
+focus: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+tab: Loot.io - Google Chrome
+ddddddddddddddddwt
+/tt out
+sdaaswsssssssssssaaaaaaaaaaadt
+t
+/speed 15
+focus: C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+tab: ● collision-system.ts - loot - Visual Studio Code
+daaaaaaaaaaaaadddaaaaaaaaswwwwwwwwwwwaadaaaaaaaaaaaaaaaassssswwwwwwwwwwwwwwwwwwwwwwdaaaaaaaadaaasdaswwwwwwwwwwwwwwwwwdwaaaaaaaaaaaaaaaaaasssssssda
+
+
+focus: 
+tab: 
+focus: C:\Program Files\Git\usr\bin\mintty.exe
+tab: MINGW64:/c/Projects/quick
+focus: 
+tab: 
+focus: C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+tab: ● collision-system.ts - loot - Visual Studio Code
+tab: collision-system.ts - loot - Visual Studio Code
+s
+F
+tab: ● collision-system.ts - loot - Visual Studio Code
+
+focus: C:\Program Files\ConEmu\ConEmu64.exe
+tab: MINGW64:/c/Projects/loot
+focus: C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+tab: ● collision-system.ts - loot - Visual Studio Code
+clip: propCollision
+let bool propeCollisinon = flasefalsec && !vcv = true
+clip: 							propCollision = true
+
+c
+v
+tab: collision-system.ts - loot - Visual Studio Code
+s
+tab: ● collision-system.ts - loot - Visual Studio Code
+const
+tab: collision-system.ts - loot - Visual Studio Code
+focus: 
+tab: 
+focus: C:\Program Files\ConEmu\ConEmu64.exe
+tab: MINGW64:/c/Projects/loot
+s
+focus: C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+tab: collision-system.ts - loot - Visual Studio Code
+focus: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+tab: about:blank - Google Chrome
+focus: C:\Program Files\ConEmu\ConEmu64.exe
+tab: MINGW64:/c/Projects/loot
+gdgd
+ 
+focus: C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+tab: collision-system.ts - loot - Visual Studio Code
+clip: rid A spatial gri
+Fv
+tab: ● collision-system.ts - loot - Visual Studio Code
+			
+        
+focus: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+tab: Loot.io - Google Chrome
+dsw
+sddddddddwsssssdddddddwt
+/speedtt out
+aaaaasssssssssssssssssssssaaaaaaadwtt
+/speed 15
+focus: C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+tab: ● collision-system.ts - loot - Visual Studio Code
+asssswwwwwwdwaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaasdawdwdsawddaaaaaaaaaaaaaaa
+focus: C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+tab: #loot-general - Discord
+tab: #pets - Discord
+
+tudow
+tab: #loot-code - Discord
+
+focus: C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+tab: ● collision-system.ts - loot - Visual Studio Code
+tab: collision-system.ts - loot - Visual Studio Code
+focus: C:\Program Files\ConEmu\ConEmu64.exe
+tab: MINGW64:/c/Projects/loot
+s
+gqgs
+gd
+ 
+   
+clip: er.updateCol
+focus: C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+tab: collision-system.ts - loot - Visual Studio Code
+Fv
+tab: ● collision-system.ts - loot - Visual Studio Code
+tab: collision-system.ts - loot - Visual Studio Code
+z
+tab: ● collision-system.ts - loot - Visual Studio Code
+focus: C:\Program Files\ConEmu\ConEmu64.exe
+tab: MINGW64:/c/Projects/loot
+clip: disableCollisionsThisFrame
+focus: C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+tab: ● collision-system.ts - loot - Visual Studio Code
+tab: player.server.ts - loot - Visual Studio Code
+    qFv
+tab: ● player.server.ts - loot - Visual Studio Code
+focus: C:\Program Files\ConEmu\ConEmu64.exe
+tab: MINGW64:/c/Projects/loot
+ 
+ 
+focus: C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+tab: ● player.server.ts - loot - Visual Studio Code
+       qpdebugcon
+tab: debug-config.ts - loot - Visual Studio Code
+tab: ● debug-config.ts - loot - Visual Studio Code
+clip: false
+focus: C:\Program Files\ConEmu\ConEmu64.exe
+tab: MINGW64:/c/Projects/loot
+falsecvogf	
+focus: C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+tab: ● debug-config.ts - loot - Visual Studio Code
+tab: debug-config.ts - loot - Visual Studio Code
+focus: C:\Program Files\ConEmu\ConEmu64.exe
+tab: MINGW64:/c/Projects/loot
+s 
+       
+ 
+q
+git add .
+g tit commit -m 'dadding ccd for player by breakingdoing smaller iterations of collisions  checks if player is moving fast'
+
+git push
+gpt
+focus: 
+tab: 
+focus: C:\Program Files\Git\usr\bin\mintty.exe
+tab: MINGW64:/c/Projects/quick
+
+focus: 
+tab: 
+focus: C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+tab: debug-config.ts - loot - Visual Studio Code
+focus: C:\Program Files\ConEmu\ConEmu64.exe
+tab: MINGW64:/c/Projects/loot
+clip: https://github.com/BitfoxGames/Loot.io/pull/new/player-ccd
+focus: C:\Windows\SystemApps\Microsoft.Windows.Cortana_cw5n1h2txyewy\SearchUI.exe
+tab: Cortana
+sfir
+focus: C:\Windows\explorer.exe
+tab: 
+focus: C:\Program Files\Mozilla Firefox\firefox.exe
+tab: Mozilla Firefox
+focus: C:\Windows\SystemApps\Microsoft.Windows.Cortana_cw5n1h2txyewy\SearchUI.exe
+tab: Cortana
+focus: C:\Program Files\Mozilla Firefox\firefox.exe
+tab: Mozilla Firefox
+s
+v
+tab: Comparing alpha...player-ccd · BitfoxGames/Loot.io — Mozilla Firefox
+
+clip: adding ccd for player by doing smaller iterations of collision checks…
+clip: if player is moving fast
+xvxs v
+ljk- player ccd
+tab: player ccd by MikeSchurman · Pull Request #661 · BitfoxGames/Loot.io — Mozilla Firefox
+fconsole
+fconsole.l
+clip: ayer.updateColliderP
+focus: 
+tab: 
+focus: C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+tab: debug-config.ts - loot - Visual Studio Code
+tab: ● collision-system.ts - loot - Visual Studio Code
+cFv
+s
+tab: collision-system.ts - loot - Visual Studio Code
+focus: C:\Program Files\ConEmu\ConEmu64.exe
+tab: MINGW64:/c/Projects/loot
+gs
+gd
+focus: 
+tab: 
+focus: C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+tab: collision-system.ts - loot - Visual Studio Code
+ q
+focus: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+tab: about:blank - Google Chrome
+tab: Loot.io - Google Chrome
+focus: 
+tab: 
+focus: C:\Program Files\Mozilla Firefox\firefox.exe
+tab: player ccd by MikeSchurman · Pull Request #661 · BitfoxGames/Loot.io — Mozilla Firefox
+clip: ccdProjectileCollisionCheck
+focus: 
+tab: 
+focus: C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+tab: collision-system.ts - loot - Visual Studio Code
+cFv
+tab: ● collision-system.ts - loot - Visual Studio Code
+focus: C:\Program Files\Mozilla Firefox\firefox.exe
+tab: player ccd by MikeSchurman · Pull Request #661 · BitfoxGames/Loot.io — Mozilla Firefox
+ServerProj	  
+focus: C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+tab: ● collision-system.ts - loot - Visual Studio Code
+tab: collision-system.ts - loot - Visual Studio Code
+focus: 
+tab: 
+focus: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+tab: Loot.io - Google Chrome
+s
+d
+
+focus: C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+tab: collision-system.ts - loot - Visual Studio Code
+focus: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+tab: Loot.io - Google Chrome
+dt
+/tt out
+t
+t
+/speed 15
+focus: C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+tab: collision-system.ts - loot - Visual Studio Code
+dsaaaaaaaaaaaaadswdaadadaswdaaaaaaaaaaaaaaaaaadaaaaaaadddddddddddaaaaaaaaaaaaaaaaassssssssssssssssssssssddddddddddddddwsaaaaaaadwdasdas
+focus: C:\Program Files\ConEmu\ConEmu64.exe
+tab: MINGW64:/c/Projects/loot
+gs
+git commit -am 'small cleanup'
+
+git push
+
+focus: C:\Program Files\Mozilla Firefox\firefox.exe
+tab: player ccd by MikeSchurman · Pull Request #661 · BitfoxGames/Loot.io — Mozilla Firefox
+tab: Gmail — Mozilla Firefox
+g
+tab: Mozilla Firefox
+g
+tab: Other Ocean Group, Inc. Mail — Mozilla Firefox
+tab: Inbox (1) - michael.schurman@gmail.com - Gmail — Mozilla Firefox
+tab: Super Bowl commercials - michael.schurman@gmail.com - Gmail — Mozilla Firefox
+tab: Inbox - michael.schurman@gmail.com - Gmail — Mozilla Firefox
+tab: Inbox - michael.schurman@otherocean.com - Other Ocean Group, Inc. Mail — Mozilla Firefox
+focus: C:\Program Files\ConEmu\ConEmu64.exe
+tab: MINGW64:/c/Projects/loot
+focus: 
+tab: 
+focus: C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+tab: #loot-code - Discord
+tab: #loot-notifications - Discord
+focus: C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+tab: collision-system.ts - loot - Visual Studio Code
+focus: 
+tab: 
+focus: C:\Program Files\Mozilla Firefox\firefox.exe
+tab: Inbox - michael.schurman@otherocean.com - Other Ocean Group, Inc. Mail — Mozilla Firefox
+tab: Mozilla Firefox
+tab: Agile Board - Sculpin QA — Mozilla Firefox
+tab: SOTI board - Agile Board - Sculpin QA — Mozilla Firefox
+focus: C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+tab: collision-system.ts - loot - Visual Studio Code
+focus: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+tab: about:blank - Google Chrome
+tab: Loot.io - Google Chrome
+focus: C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+tab: collision-system.ts - loot - Visual Studio Code
+ppalyser
+tab: ● player.server.ts - loot - Visual Studio Code
+focus: C:\Program Files\ConEmu\ConEmu64.exe
+tab: MINGW64:/c/Projects/loot
+tab: npm
+s
+tab: MINGW64:/c/Projects/loot
+gs
+gd
+focus: C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+tab: ● player.server.ts - loot - Visual Studio Code
+tab: player.server.ts - loot - Visual Studio Code
+s
+focus: C:\Program Files\ConEmu\ConEmu64.exe
+tab: MINGW64:/c/Projects/loot
+gd
+ 
+git commit -am 'removing unused var'
+
+focus: C:\Program Files\Mozilla Firefox\firefox.exe
+tab: 
+tab: Mozilla Firefox
+tab: Gmail — Mozilla Firefox
+tab: Super Bowl commercials - michael.schurman@gmail.com - Gmail — Mozilla Firefox
+focus: 
+tab: 
+focus: C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+tab: player.server.ts - loot - Visual Studio Code
+focus: C:\Program Files\ConEmu\ConEmu64.exe
+tab: MINGW64:/c/Projects/loot
+git push
+focus: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+tab: Loot.io - Google Chrome
+dddd
+
+focus: C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+tab: player.server.ts - loot - Visual Studio Code
+tab: ● player.server.ts - loot - Visual Studio Code
+focus: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+tab: Loot.io - Google Chrome
+tt
+/tt bea.*bos
+focus: C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+tab: ● player.server.ts - loot - Visual Studio Code
+sssssssssssssssssssssssssssssssssssssssssssssdds
+focus: C:\Program Files\ConEmu\ConEmu64.exe
+tab: MINGW64:/c/Projects/loot
+gs
+gbs
+git checkout lock	
+focus: C:\Program Files\Mozilla Firefox\firefox.exe
+tab: 
+
+tab: Gmail — Mozilla Firefox
+tab: Super Bowl commercials - michael.schurman@gmail.com - Gmail — Mozilla Firefox
+focus: C:\Program Files\ConEmu\ConEmu64.exe
+tab: MINGW64:/c/Projects/loot
+killnode

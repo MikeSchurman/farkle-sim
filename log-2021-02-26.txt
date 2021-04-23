@@ -1,0 +1,1928 @@
+
+> quick@1.0.0 keylogger C:\Projects\quick
+> npx ts-node src/keylogger.ts
+
+[2021/2/26-8:16-focus]	 C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+[2021/2/26-8:16-tab]	 #loot-marketing - Discord
+[2021/2/26-8:16-clip]	 https://www.reddit.com/r/science/comments/ls5hln/a_stereotype_suggests_that_atheists_lack_a_moral/
+mousemove
+mousedown
+[2021/2/26-8:16-focus]	 
+[2021/2/26-8:16-tab]	 
+mouseup
+[2021/2/26-8:16-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/26-8:16-tab]	 log-2021-02-24.txt - loot - Visual Studio Code
+mouseclick
+[2021/2/26-8:16-tab]	 .bashrc - loot - Visual Studio Code
+mousedrag
+[2021/2/26-8:17-focus]	 C:\Program Files\ConEmu\ConEmu64.exe
+[2021/2/26-8:17-tab]	 MINGW64:/c/Projects/loot
+[2021/2/26-8:17-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/26-8:17-tab]	 .bashrc - loot - Visual Studio Code
+[2021/2/26-8:17-focus]	 C:\Program Files\ConEmu\ConEmu64.exe
+[2021/2/26-8:17-tab]	 MINGW64:/c/Projects/loot
+keydown
+keypress
+keyup
+[2021/2/26-8:17-input]	 gd
+[2021/2/26-8:17-input]	 gs
+[2021/2/26-8:17-input]	 
+[2021/2/26-8:17-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/26-8:17-tab]	 .bashrc - loot - Visual Studio Code
+[2021/2/26-8:17-focus]	 C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[2021/2/26-8:17-tab]	 about:blank - Google Chrome
+[2021/2/26-8:17-tab]	 Loot.io - Google Chrome
+[2021/2/26-8:17-input]	 dddddddddddddddddddddddddddddddddddddddddddddddddddwssswat
+[2021/2/26-8:17-input]	 /
+[2021/2/26-8:17-input]	 /gosthost
+[2021/2/26-8:18-input]	 sdddddddddaaaaaaaassswddddddddddddddddddddddddddddddddddddddddddddddddddssssswwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaawddddddddddddddddddddddddddddddddddddddddddddwsssssssssssssssssssssssssssssssssssssssssssssssssssssssssddddddddddddddddddwwsaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaassssss
+[2021/2/26-8:18-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/26-8:18-tab]	 game-client.ts - loot - Visual Studio Code
+[2021/2/26-8:18-focus]	 
+[2021/2/26-8:18-tab]	 
+[2021/2/26-8:18-focus]	 C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[2021/2/26-8:18-tab]	 Loot.io - Google Chrome
+[2021/2/26-8:18-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/26-8:18-tab]	 game-client.ts - loot - Visual Studio Code
+[2021/2/26-8:18-focus]	 C:\Program Files\ConEmu\ConEmu64.exe
+[2021/2/26-8:18-tab]	 MINGW64:/c/Projects/loot
+[2021/2/26-8:18-input]	 git push
+[2021/2/26-8:18-input]	 gpt
+[2021/2/26-8:18-input]	 
+[2021/2/26-8:18-clip]	 https://github.com/BitfoxGames/Loot.io/pull/new/explosive-damage-bug
+[2021/2/26-8:18-focus]	 
+[2021/2/26-8:18-tab]	 
+[2021/2/26-8:18-focus]	 C:\Program Files\Mozilla Firefox\firefox.exe
+[2021/2/26-8:18-tab]	 A stereotype suggests that atheists lack a moral compass, but a new study has shown that this is untrue. Atheists compared to believers are less inclined to endorse moral values that serve group cohesion, but there were only minor differences between both groups for other moral values. (n=4,622) : science — Mozilla Firefox
+[2021/2/26-8:18-clip]	 https://www.reddit.com/r/science/comments/ls5hln/a_stereotype_suggests_that_atheists_lack_a_moral/
+[2021/2/26-8:19-focus]	 C:\Program Files\ConEmu\ConEmu64.exe
+[2021/2/26-8:19-tab]	 MINGW64:/c/Projects/loot
+[2021/2/26-8:19-clip]	 https://github.com/BitfoxGames/Loot.io/pull/new/explosive-damage-bug
+[2021/2/26-8:19-input]	 ac
+[2021/2/26-8:19-focus]	 C:\Program Files\Mozilla Firefox\firefox.exe
+[2021/2/26-8:19-tab]	 A stereotype suggests that atheists lack a moral compass, but a new study has shown that this is untrue. Atheists compared to believers are less inclined to endorse moral values that serve group cohesion, but there were only minor differences between both groups for other moral values. (n=4,622) : science — Mozilla Firefox
+[2021/2/26-8:19-tab]	 Mozilla Firefox
+[2021/2/26-8:19-input]	 cv
+[2021/2/26-8:19-tab]	 A stereotype suggests that atheists lack a moral compass, but a new study has shown that this is untrue. Atheists compared to believers are less inclined to endorse moral values that serve group cohesion, but there were only minor differences between both groups for other moral values. (n=4,622) : science — Mozilla Firefox
+[2021/2/26-8:19-tab]	 Mozilla Firefox
+[2021/2/26-8:19-tab]	 Hacker News — Mozilla Firefox
+[2021/2/26-8:19-input]	 
+[2021/2/26-8:19-tab]	 Why is the DOS path character "\"? (2005) | Hacker News — Mozilla Firefox
+mousewheel
+[2021/2/26-8:20-tab]	 Comparing alpha...explosive-damage-bug · BitfoxGames/Loot.io — Mozilla Firefox
+[2021/2/26-8:20-input]	 * fiFixes 2 issues:
+[2021/2/26-8:20-input]	 
+[2021/2/26-8:20-input]	 -explosive particlesrojectile s were sometimes larger than 0.5 grid units, so would fail to find enemies
+[2021/2/26-8:20-input]	 so eneies womies would fail to find them
+[2021/2/26-8:20-focus]	 C:\Program Files\ConEmu\ConEmu64.exe
+[2021/2/26-8:20-tab]	 MINGW64:/c/Projects/loot
+[2021/2/26-8:20-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/26-8:20-tab]	 game-client.ts - loot - Visual Studio Code
+[2021/2/26-8:20-tab]	 collision-system.ts - loot - Visual Studio Code
+[2021/2/26-8:21-input]	 Large
+[2021/2/26-8:21-tab]	 ● collision-system.ts - loot - Visual Studio Code
+[2021/2/26-8:21-input]	 
+[2021/2/26-8:21-clip]	 projectile.entitiesCollided
+[2021/2/26-8:21-input]	 c
+[2021/2/26-8:21-input]	 // this adds any enemies 
+[2021/2/26-8:22-input]	 that are hit by the projectile to `v`
+[2021/2/26-8:22-tab]	 collision-system.ts - loot - Visual Studio Code
+[2021/2/26-8:22-focus]	 C:\Program Files\ConEmu\ConEmu64.exe
+[2021/2/26-8:22-tab]	 MINGW64:/c/Projects/loot
+[2021/2/26-8:22-input]	 \//  which is ten prhen processed laerter when colisilisions are hanlddledks
+[2021/2/26-8:22-input]	 gs
+[2021/2/26-8:22-input]	 gd
+[2021/2/26-8:22-input]	 git coqgi tt d
+[2021/2/26-8:22-input]	  
+[2021/2/26-8:22-input]	 gq
+[2021/2/26-8:22-input]	 git commit -m 'adding comment'
+[2021/2/26-8:22-input]	 
+[2021/2/26-8:22-focus]	 
+[2021/2/26-8:22-tab]	 
+[2021/2/26-8:22-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/26-8:22-tab]	 collision-system.ts - loot - Visual Studio Code
+[2021/2/26-8:23-focus]	 
+[2021/2/26-8:23-tab]	 
+[2021/2/26-8:23-focus]	 C:\Program Files\Mozilla Firefox\firefox.exe
+[2021/2/26-8:23-tab]	 Comparing alpha...explosive-damage-bug · BitfoxGames/Loot.io — Mozilla Firefox
+[2021/2/26-8:23-input]	 . noNO ow we use the projectiles fradius for these explosions
+[2021/2/26-8:23-input]	 0- 
+[2021/2/26-8:23-input]	 the explosion projectile was sharing it's position with the
+[2021/2/26-8:24-input]	  arparent projectilee, so it's position was sometimes incorrmect
+[2021/2/26-8:24-tab]	 Explosive damage bug by MikeSchurman · Pull Request #729 · BitfoxGames/Loot.io — Mozilla Firefox
+[2021/2/26-8:24-focus]	 C:\Program Files\ConEmu\ConEmu64.exe
+[2021/2/26-8:24-tab]	 MINGW64:/c/Projects/loot
+[2021/2/26-8:24-input]	 git push
+[2021/2/26-8:24-input]	 
+[2021/2/26-8:24-focus]	 C:\Program Files\Mozilla Firefox\firefox.exe
+[2021/2/26-8:24-tab]	 Explosive damage bug by MikeSchurman · Pull Request #729 · BitfoxGames/Loot.io — Mozilla Firefox
+[2021/2/26-8:24-clip]	 debugDrawLine(enemy, projectil
+[2021/2/26-8:24-focus]	 C:\Program Files\ConEmu\ConEmu64.exe
+[2021/2/26-8:24-tab]	 MINGW64:/c/Projects/loot
+[2021/2/26-8:24-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/26-8:24-tab]	 collision-system.ts - loot - Visual Studio Code
+[2021/2/26-8:24-input]	 cFv
+[2021/2/26-8:24-tab]	 ● collision-system.ts - loot - Visual Studio Code
+[2021/2/26-8:24-tab]	 collision-system.ts - loot - Visual Studio Code
+[2021/2/26-8:24-tab]	 ● collision-system.ts - loot - Visual Studio Code
+[2021/2/26-8:24-focus]	 
+[2021/2/26-8:24-tab]	 
+[2021/2/26-8:24-focus]	 C:\Program Files\Mozilla Firefox\firefox.exe
+[2021/2/26-8:24-tab]	 Explosive damage bug by MikeSchurman · Pull Request #729 · BitfoxGames/Loot.io — Mozilla Firefox
+[2021/2/26-8:24-input]	 //z//s
+[2021/2/26-8:24-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/26-8:24-tab]	 collision-system.ts - loot - Visual Studio Code
+[2021/2/26-8:24-tab]	 debug-config.ts - loot - Visual Studio Code
+[2021/2/26-8:24-input]	 Fdrawgri
+[2021/2/26-8:24-tab]	 ● debug-config.ts - loot - Visual Studio Code
+[2021/2/26-8:24-tab]	 debug-config.ts - loot - Visual Studio Code
+[2021/2/26-8:24-focus]	 
+[2021/2/26-8:24-tab]	 
+[2021/2/26-8:24-focus]	 C:\Program Files\Mozilla Firefox\firefox.exe
+[2021/2/26-8:24-tab]	 Explosive damage bug by MikeSchurman · Pull Request #729 · BitfoxGames/Loot.io — Mozilla Firefox
+[2021/2/26-8:24-input]	 falses
+[2021/2/26-8:25-focus]	 C:\Program Files\ConEmu\ConEmu64.exe
+[2021/2/26-8:25-tab]	 MINGW64:/c/Projects/loot
+[2021/2/26-8:25-input]	 gs
+[2021/2/26-8:25-input]	 gd
+[2021/2/26-8:25-input]	 
+[2021/2/26-8:25-focus]	 
+[2021/2/26-8:25-tab]	 
+[2021/2/26-8:25-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/26-8:25-tab]	 debug-config.ts - loot - Visual Studio Code
+[2021/2/26-8:25-focus]	 C:\Program Files\ConEmu\ConEmu64.exe
+[2021/2/26-8:25-tab]	 MINGW64:/c/Projects/loot
+[2021/2/26-8:25-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/26-8:25-tab]	 debug-config.ts - loot - Visual Studio Code
+[2021/2/26-8:25-tab]	 collision-system.ts - loot - Visual Studio Code
+[2021/2/26-8:25-input]	 Fv
+[2021/2/26-8:25-tab]	 ● collision-system.ts - loot - Visual Studio Code
+[2021/2/26-8:25-tab]	 collision-system.ts - loot - Visual Studio Code
+[2021/2/26-8:25-focus]	 C:\Program Files\ConEmu\ConEmu64.exe
+[2021/2/26-8:25-tab]	 MINGW64:/c/Projects/loot
+[2021/2/26-8:25-input]	 sqgd
+[2021/2/26-8:25-input]	  qgit commit -am 'remove debug'
+[2021/2/26-8:25-input]	 
+[2021/2/26-8:25-input]	 git push
+[2021/2/26-8:25-input]	 
+[2021/2/26-8:25-focus]	 
+[2021/2/26-8:25-tab]	 
+[2021/2/26-8:25-focus]	 C:\Program Files\Mozilla Firefox\firefox.exe
+[2021/2/26-8:25-tab]	 Explosive damage bug by MikeSchurman · Pull Request #729 · BitfoxGames/Loot.io — Mozilla Firefox
+[2021/2/26-8:26-tab]	 Inbox - michael.schurman@otherocean.com - Other Ocean Group, Inc. Mail — Mozilla Firefox
+[2021/2/26-8:26-tab]	 Inbox - michael.schurman@gmail.com - Gmail — Mozilla Firefox
+[2021/2/26-8:26-focus]	 C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+[2021/2/26-8:26-tab]	 #loot-marketing - Discord
+[2021/2/26-8:26-tab]	 #loot-notifications - Discord
+[2021/2/26-8:26-focus]	 C:\Program Files\Mozilla Firefox\firefox.exe
+[2021/2/26-8:26-tab]	 Inbox - michael.schurman@gmail.com - Gmail — Mozilla Firefox
+[2021/2/26-8:26-tab]	 Explosive damage bug by MikeSchurman · Pull Request #729 · BitfoxGames/Loot.io — Mozilla Firefox
+[2021/2/26-8:26-tab]	 Mozilla Firefox
+[2021/2/26-8:26-tab]	 Agile Board - Sculpin QA — Mozilla Firefox
+[2021/2/26-8:26-tab]	 SOTI board - Agile Board - Sculpin QA — Mozilla Firefox
+[2021/2/26-8:26-focus]	 C:\Program Files\ConEmu\ConEmu64.exe
+[2021/2/26-8:26-tab]	 MINGW64:/c/Projects/loot
+[2021/2/26-8:26-input]	 gff apllpha
+[2021/2/26-8:26-input]	 
+[2021/2/26-8:26-input]	 git checkout alpha
+[2021/2/26-8:26-input]	 
+[2021/2/26-8:27-focus]	 C:\Program Files\Mozilla Firefox\firefox.exe
+[2021/2/26-8:27-tab]	 SOTI board - Agile Board - Sculpin QA — Mozilla Firefox
+[2021/2/26-8:27-focus]	 C:\Program Files\ConEmu\ConEmu64.exe
+[2021/2/26-8:27-tab]	 MINGW64:/c/Projects/loot
+[2021/2/26-8:27-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/26-8:27-tab]	 collision-system.ts - loot - Visual Studio Code
+[2021/2/26-8:27-tab]	 enemy.server.ts - loot - Visual Studio Code
+[2021/2/26-8:27-input]	 pbuff
+[2021/2/26-8:27-tab]	 buff.ts - loot - Visual Studio Code
+[2021/2/26-8:27-input]	 fremoveall
+[2021/2/26-8:27-tab]	 .bashrc - loot - Visual Studio Code
+[2021/2/26-8:27-focus]	 C:\Program Files\ConEmu\ConEmu64.exe
+[2021/2/26-8:27-tab]	 MINGW64:/c/Projects/loot
+[2021/2/26-8:27-input]	 p
+[2021/2/26-8:27-focus]	 
+[2021/2/26-8:27-tab]	 
+[2021/2/26-8:27-focus]	 C:\Program Files\Mozilla Firefox\firefox.exe
+[2021/2/26-8:27-tab]	 SOTI board - Agile Board - Sculpin QA — Mozilla Firefox
+[2021/2/26-8:27-focus]	 C:\Program Files\ConEmu\ConEmu64.exe
+[2021/2/26-8:27-tab]	 MINGW64:/c/Projects/loot
+[2021/2/26-8:27-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/26-8:27-tab]	 .bashrc - loot - Visual Studio Code
+[2021/2/26-8:27-input]	 pprojentman
+[2021/2/26-8:27-tab]	 projectile-effect-manager.ts - loot - Visual Studio Code
+[2021/2/26-8:27-input]	 
+[2021/2/26-8:28-input]	 j
+[2021/2/26-8:28-input]	 f
+[2021/2/26-8:28-input]	 
+[2021/2/26-8:28-input]	 F
+[2021/2/26-8:28-focus]	 C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[2021/2/26-8:28-tab]	 Untitled - Google Chrome
+[2021/2/26-8:28-focus]	 
+[2021/2/26-8:28-tab]	 
+[2021/2/26-8:28-focus]	 C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[2021/2/26-8:28-tab]	 Plain Text Protocols | Hacker News - Google Chrome
+[2021/2/26-8:28-tab]	 Amazon Sends ‘Vote No’ Instructions to Unionizing Employees | Hacker News - Google Chrome
+[2021/2/26-8:28-tab]	 Hacker News - Google Chrome
+[2021/2/26-8:28-tab]	 How to Unstick a Stuck Window - dummies - Google Chrome
+[2021/2/26-8:28-input]	 lo
+[2021/2/26-8:28-tab]	 Loot.io - Google Chrome
+[2021/2/26-8:28-clip]	 http://localhost:1234/?connectTo=adventure&skipToGame=true
+[2021/2/26-8:28-focus]	 
+[2021/2/26-8:28-tab]	 
+[2021/2/26-8:28-focus]	 C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[2021/2/26-8:28-tab]	 How to Unstick a Stuck Window - dummies - Google Chrome
+[2021/2/26-8:28-input]	 acvav
+[2021/2/26-8:28-tab]	 Loot.io - Google Chrome
+[2021/2/26-8:28-focus]	 
+[2021/2/26-8:28-tab]	 
+[2021/2/26-8:28-focus]	 C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[2021/2/26-8:28-tab]	 Loot.io - Google Chrome
+[2021/2/26-8:29-input]	 ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
+[2021/2/26-8:29-input]	 dddd
+[2021/2/26-8:29-focus]	 
+[2021/2/26-8:29-tab]	 
+[2021/2/26-8:29-focus]	 C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[2021/2/26-8:29-tab]	 Loot.io - Google Chrome
+[2021/2/26-8:29-input]	 ddww
+[2021/2/26-8:29-focus]	 
+[2021/2/26-8:29-tab]	 
+[2021/2/26-8:29-focus]	 C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[2021/2/26-8:29-tab]	 Loot.io - Google Chrome
+[2021/2/26-8:29-input]	 t
+[2021/2/26-8:29-input]	 /ghost
+[2021/2/26-8:29-input]	 
+[2021/2/26-8:30-input]	 c
+[2021/2/26-8:30-focus]	 
+[2021/2/26-8:30-tab]	 
+[2021/2/26-8:30-focus]	 C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[2021/2/26-8:30-tab]	 Untitled - Google Chrome
+[2021/2/26-8:30-tab]	 Inspect with Chrome Developer Tools - Google Chrome
+[2021/2/26-8:30-input]	 v
+[2021/2/26-8:30-tab]	 Loot.io - Google Chrome
+[2021/2/26-8:30-input]	 
+[2021/2/26-8:30-input]	 ddddddddddddddddddddddddddddddw
+[2021/2/26-8:30-input]	 asssst
+[2021/2/26-8:30-input]	 /onload
+[2021/2/26-8:30-input]	 tt
+[2021/2/26-8:30-input]	 /ghost
+[2021/2/26-8:30-input]	 tt
+[2021/2/26-8:30-input]	 /ghostonloatd /ghost
+[2021/2/26-8:30-input]	 ddddddddddwwwwwwww
+[2021/2/26-8:30-focus]	 
+[2021/2/26-8:30-tab]	 
+[2021/2/26-8:30-focus]	 C:\Program Files\Mozilla Firefox\firefox.exe
+[2021/2/26-8:30-tab]	 SOTI board - Agile Board - Sculpin QA — Mozilla Firefox
+[2021/2/26-8:31-tab]	 Explosive damage bug by MikeSchurman · Pull Request #729 · BitfoxGames/Loot.io — Mozilla Firefox
+[2021/2/26-8:31-tab]	 SOTI board - Agile Board - Sculpin QA — Mozilla Firefox
+[2021/2/26-8:31-focus]	 C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[2021/2/26-8:31-tab]	 Loot.io - Google Chrome
+[2021/2/26-8:31-focus]	 
+[2021/2/26-8:31-tab]	 
+[2021/2/26-8:31-focus]	 C:\Program Files\Mozilla Firefox\firefox.exe
+[2021/2/26-8:31-tab]	 SOTI board - Agile Board - Sculpin QA — Mozilla Firefox
+[2021/2/26-8:31-focus]	 
+[2021/2/26-8:31-tab]	 
+[2021/2/26-8:31-focus]	 C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[2021/2/26-8:31-tab]	 Loot.io - Google Chrome
+[2021/2/26-8:31-focus]	 
+[2021/2/26-8:31-tab]	 
+[2021/2/26-8:31-focus]	 C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[2021/2/26-8:31-tab]	 Loot.io - Google Chrome
+[2021/2/26-8:31-focus]	 
+[2021/2/26-8:31-tab]	 
+[2021/2/26-8:31-focus]	 C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[2021/2/26-8:31-tab]	 Loot.io - Google Chrome
+[2021/2/26-8:31-focus]	 
+[2021/2/26-8:31-tab]	 
+[2021/2/26-8:31-focus]	 C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[2021/2/26-8:31-tab]	 Loot.io - Google Chrome
+[2021/2/26-8:31-focus]	 
+[2021/2/26-8:31-tab]	 
+[2021/2/26-8:31-focus]	 C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[2021/2/26-8:31-tab]	 Loot.io - Google Chrome
+[2021/2/26-8:31-focus]	 
+[2021/2/26-8:31-tab]	 
+[2021/2/26-8:31-focus]	 C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[2021/2/26-8:31-tab]	 Loot.io - Google Chrome
+[2021/2/26-8:31-focus]	 
+[2021/2/26-8:31-tab]	 
+[2021/2/26-8:31-focus]	 C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[2021/2/26-8:31-tab]	 Loot.io - Google Chrome
+[2021/2/26-8:31-focus]	 
+[2021/2/26-8:31-tab]	 
+[2021/2/26-8:31-focus]	 C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[2021/2/26-8:31-tab]	 Loot.io - Google Chrome
+[2021/2/26-8:32-focus]	 
+[2021/2/26-8:32-tab]	 
+[2021/2/26-8:32-focus]	 C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[2021/2/26-8:32-tab]	 Loot.io - Google Chrome
+[2021/2/26-8:32-focus]	 
+[2021/2/26-8:32-tab]	 
+[2021/2/26-8:32-focus]	 C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[2021/2/26-8:32-tab]	 Loot.io - Google Chrome
+[2021/2/26-8:32-focus]	 
+[2021/2/26-8:32-tab]	 
+[2021/2/26-8:32-focus]	 C:\Program Files\Mozilla Firefox\firefox.exe
+[2021/2/26-8:32-tab]	 SOTI board - Agile Board - Sculpin QA — Mozilla Firefox
+[2021/2/26-8:32-focus]	 C:\Windows\explorer.exe
+[2021/2/26-8:32-tab]	 
+[2021/2/26-8:32-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/26-8:32-tab]	 projectile-effect-manager.ts - loot - Visual Studio Code
+[2021/2/26-8:32-focus]	 
+[2021/2/26-8:32-tab]	 
+[2021/2/26-8:32-focus]	 C:\Program Files\ConEmu\ConEmu64.exe
+[2021/2/26-8:32-tab]	 MINGW64:/c/Projects/loot
+[2021/2/26-8:32-input]	 git checkot ut turn-off-
+[2021/2/26-8:32-focus]	 
+[2021/2/26-8:32-tab]	 
+[2021/2/26-8:32-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/26-8:32-tab]	 projectile-effect-manager.ts - loot - Visual Studio Code
+[2021/2/26-8:32-focus]	 
+[2021/2/26-8:32-tab]	 
+[2021/2/26-8:32-focus]	 C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+[2021/2/26-8:32-tab]	 #loot-notifications - Discord
+[2021/2/26-8:32-focus]	 
+[2021/2/26-8:32-tab]	 
+[2021/2/26-8:32-focus]	 C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[2021/2/26-8:32-tab]	 Loot.io - Google Chrome
+[2021/2/26-8:33-focus]	 
+[2021/2/26-8:33-tab]	 
+[2021/2/26-8:33-focus]	 C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[2021/2/26-8:33-tab]	 Loot.io - Google Chrome
+[2021/2/26-8:33-focus]	 
+[2021/2/26-8:33-tab]	 
+[2021/2/26-8:33-focus]	 C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[2021/2/26-8:33-tab]	 Loot.io - Google Chrome
+[2021/2/26-8:33-focus]	 
+[2021/2/26-8:33-tab]	 
+[2021/2/26-8:33-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/26-8:33-tab]	 projectile-effect-manager.ts - loot - Visual Studio Code
+[2021/2/26-8:33-focus]	 
+[2021/2/26-8:33-tab]	 
+[2021/2/26-8:33-focus]	 C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[2021/2/26-8:33-tab]	 Loot.io - Google Chrome
+[2021/2/26-8:33-tab]	 New Tab - Google Chrome
+[2021/2/26-8:33-input]	 cv
+[2021/2/26-8:33-tab]	 Loot.io - Google Chrome
+[2021/2/26-8:33-input]	 
+[2021/2/26-8:33-input]	 dddddddddddddddd
+[2021/2/26-8:34-input]	 asdww
+[2021/2/26-8:34-focus]	 
+[2021/2/26-8:34-tab]	 
+[2021/2/26-8:34-focus]	 C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[2021/2/26-8:34-tab]	 Loot.io - Google Chrome
+[2021/2/26-8:34-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/26-8:34-tab]	 projectile-effect-manager.ts - loot - Visual Studio Code
+[2021/2/26-8:34-tab]	 player.client.ts - loot - Visual Studio Code
+[2021/2/26-8:34-input]	 F
+[2021/2/26-8:35-input]	 F
+[2021/2/26-8:35-tab]	 game-client.ts - loot - Visual Studio Code
+[2021/2/26-8:35-input]	  = 
+[2021/2/26-8:35-focus]	 
+[2021/2/26-8:35-tab]	 
+[2021/2/26-8:35-focus]	 C:\Program Files\Mozilla Firefox\firefox.exe
+[2021/2/26-8:35-tab]	 SOTI board - Agile Board - Sculpin QA — Mozilla Firefox
+[2021/2/26-8:36-focus]	 
+[2021/2/26-8:36-tab]	 
+[2021/2/26-8:36-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/26-8:36-tab]	 game-client.ts - loot - Visual Studio Code
+[2021/2/26-8:36-focus]	 C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[2021/2/26-8:36-tab]	 Untitled - Google Chrome
+[2021/2/26-8:36-tab]	 about:blank - Google Chrome
+[2021/2/26-8:36-tab]	 Loot.io - Google Chrome
+[2021/2/26-8:36-focus]	 
+[2021/2/26-8:36-tab]	 
+[2021/2/26-8:36-focus]	 C:\Program Files\Mozilla Firefox\firefox.exe
+[2021/2/26-8:36-tab]	 SOTI board - Agile Board - Sculpin QA — Mozilla Firefox
+[2021/2/26-8:36-tab]	 LOOT - Character Stat Model / Elemental Damage / Projectile Behavior / Formulas - Google Docs — Mozilla Firefox
+[2021/2/26-8:36-focus]	 C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[2021/2/26-8:36-tab]	 Loot.io - Google Chrome
+[2021/2/26-8:36-input]	 ddddddddddddddddddddddddddddddddddddddw
+[2021/2/26-8:37-input]	 0.25
+[2021/2/26-8:37-input]	 ds
+[2021/2/26-8:37-input]	 0.251
+[2021/2/26-8:37-focus]	 C:\Program Files\Mozilla Firefox\firefox.exe
+[2021/2/26-8:37-tab]	 LOOT - Character Stat Model / Elemental Damage / Projectile Behavior / Formulas - Google Docs — Mozilla Firefox
+[2021/2/26-8:37-focus]	 
+[2021/2/26-8:37-tab]	 
+[2021/2/26-8:37-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/26-8:37-tab]	 ● notes.md - Notes - Visual Studio Code
+[2021/2/26-8:37-input]	 
+[2021/2/26-8:38-input]	 # bad db sql mojo
+[2021/2/26-8:38-input]	 
+[2021/2/26-8:38-input]	 z
+[2021/2/26-8:38-input]	 
+[2021/2/26-8:38-input]	 
+[2021/2/26-8:38-input]	 
+[2021/2/26-8:38-input]	 zzzzzz
+[2021/2/26-8:38-input]	 $# TODO
+[2021/2/26-8:38-tab]	 notes.md - Notes - Visual Studio Code
+[2021/2/26-8:38-input]	 # how to improve inspectors
+[2021/2/26-8:38-focus]	 C:\Program Files\Mozilla Firefox\firefox.exe
+[2021/2/26-8:38-tab]	 LOOT - Character Stat Model / Elemental Damage / Projectile Behavior / Formulas - Google Docs — Mozilla Firefox
+[2021/2/26-8:39-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/26-8:39-tab]	 game-client.ts - loot - Visual Studio Code
+[2021/2/26-8:39-input]	 pbuffdefs
+[2021/2/26-8:39-tab]	 buff-definitions.ts - loot - Visual Studio Code
+[2021/2/26-8:39-input]	 fignite
+[2021/2/26-8:39-input]	 Fignirtepoten
+[2021/2/26-8:39-focus]	 C:\Program Files\Mozilla Firefox\firefox.exe
+[2021/2/26-8:39-tab]	 LOOT - Character Stat Model / Elemental Damage / Projectile Behavior / Formulas - Google Docs — Mozilla Firefox
+[2021/2/26-8:40-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/26-8:40-tab]	 buff-definitions.ts - loot - Visual Studio Code
+[2021/2/26-8:40-input]	 Fchillpot
+[2021/2/26-8:40-input]	 Fpotency
+[2021/2/26-8:40-tab]	 collision-system.ts - loot - Visual Studio Code
+[2021/2/26-8:41-focus]	 C:\Program Files\Mozilla Firefox\firefox.exe
+[2021/2/26-8:41-tab]	 LOOT - Character Stat Model / Elemental Damage / Projectile Behavior / Formulas - Google Docs — Mozilla Firefox
+[2021/2/26-8:41-input]	 fignit
+[2021/2/26-8:41-input]	 
+[2021/2/26-8:41-input]	 
+[2021/2/26-8:41-input]	 
+[2021/2/26-8:41-input]	 
+[2021/2/26-8:41-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/26-8:41-tab]	 collision-system.ts - loot - Visual Studio Code
+[2021/2/26-8:41-tab]	 buff-definitions.ts - loot - Visual Studio Code
+[2021/2/26-8:41-tab]	 ● buff-definitions.ts - loot - Visual Studio Code
+[2021/2/26-8:41-input]	 0.
+[2021/2/26-8:41-input]	 125
+[2021/2/26-8:42-focus]	 
+[2021/2/26-8:42-tab]	 
+[2021/2/26-8:42-focus]	 C:\Program Files\ConEmu\ConEmu64.exe
+[2021/2/26-8:42-tab]	 MINGW64:/c/Projects/loot
+[2021/2/26-8:42-input]	 cgit checkout 
+[2021/2/26-8:42-input]	 'ignit-e-damage --fix'
+[2021/2/26-8:42-input]	 
+[2021/2/26-8:42-input]	 -b 
+[2021/2/26-8:42-input]	 
+[2021/2/26-8:42-focus]	 
+[2021/2/26-8:42-tab]	 
+[2021/2/26-8:42-focus]	 C:\Windows\explorer.exe
+[2021/2/26-8:42-focus]	 C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[2021/2/26-8:42-tab]	 Untitled - Google Chrome
+[2021/2/26-8:42-tab]	 Inspect with Chrome Developer Tools - Google Chrome
+[2021/2/26-8:42-focus]	 C:\Program Files\ConEmu\ConEmu64.exe
+[2021/2/26-8:42-tab]	 MINGW64:/c/Projects/loot
+[2021/2/26-8:42-tab]	 npm
+[2021/2/26-8:42-focus]	 
+[2021/2/26-8:42-tab]	 
+[2021/2/26-8:42-focus]	 C:\Program Files\Mozilla Firefox\firefox.exe
+[2021/2/26-8:42-tab]	 LOOT - Character Stat Model / Elemental Damage / Projectile Behavior / Formulas - Google Docs — Mozilla Firefox
+[2021/2/26-8:43-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/26-8:43-tab]	 notes.md - Notes - Visual Studio Code
+[2021/2/26-8:43-tab]	 ● notes.md - Notes - Visual Studio Code
+[2021/2/26-8:43-input]	 
+[2021/2/26-8:43-input]	 
+[2021/2/26-8:43-input]	 
+[2021/2/26-8:43-input]	 # Ignite:
+[2021/2/26-8:44-input]	 0.25 chance to ignite if has fire damage
+[2021/2/26-8:44-input]	 applies 
+[2021/2/26-8:44-input]	 %25 of damage
+[2021/2/26-8:44-tab]	 ● buff-definitions.ts - loot - Visual Studio Code
+[2021/2/26-8:44-input]	 Fgignite popot
+[2021/2/26-8:44-tab]	 elemental-hit-pfx.ts - loot - Visual Studio Code
+[2021/2/26-8:44-input]	 F
+[2021/2/26-8:44-tab]	 collision-system.ts - loot - Visual Studio Code
+[2021/2/26-8:44-input]	 F
+[2021/2/26-8:44-tab]	 elemental-hit-pfx.ts - loot - Visual Studio Code
+[2021/2/26-8:44-tab]	 collision-system.ts - loot - Visual Studio Code
+[2021/2/26-8:44-tab]	 ● notes.md - Notes - Visual Studio Code
+[2021/2/26-8:44-input]	  over 2 seconds
+[2021/2/26-8:44-input]	 %
+[2021/2/26-8:45-tab]	 collision-system.ts - loot - Visual Studio Code
+[2021/2/26-8:45-tab]	 ● notes.md - Notes - Visual Studio Code
+[2021/2/26-8:45-input]	 #po poison
+[2021/2/26-8:45-input]	 
+[2021/2/26-8:45-clip]	 25% chance to ignite if has fire damage
+
+[2021/2/26-8:45-input]	 cv
+[2021/2/26-8:45-input]	 UfIf you have a weapon 
+[2021/2/26-8:45-input]	 that deals elemanental damage
+[2021/2/26-8:46-input]	 For each element of damage that youwr weapon has (normal/phsicysical damage is condisidered an element, then you have a chance 
+[2021/2/26-8:46-input]	 user user haspoison50
+[2021/2/26-8:46-input]	 to add the relative debuff:
+[2021/2/26-8:47-input]	 Fire -> Poison -> P
+[2021/2/26-8:47-input]	 poison
+[2021/2/26-8:47-input]	 %-=0
+[2021/2/26-8:47-clip]	 applies %25 of damage over 2 seconds
+
+[2021/2/26-8:47-input]	 cv
+[2021/2/26-8:50-focus]	 
+[2021/2/26-8:50-tab]	 
+[2021/2/26-8:50-focus]	 C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+[2021/2/26-8:50-tab]	 #loot-notifications - Discord
+[2021/2/26-8:50-tab]	 OhHeyThere, SamStiles - Discord
+[2021/2/26-8:50-input]	 this is highly unorthiodidox 
+[2021/2/26-8:50-input]	 
+[2021/2/26-8:51-input]	 9 is fine
+[2021/2/26-8:51-input]	 
+[2021/2/26-8:51-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/26-8:51-tab]	 collision-system.ts - loot - Visual Studio Code
+[2021/2/26-8:51-focus]	 C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+[2021/2/26-8:51-tab]	 OhHeyThere, SamStiles - Discord
+[2021/2/26-8:51-input]	 
+[2021/2/26-8:51-input]	 sonund s good to me
+[2021/2/26-8:52-input]	 > . I have some ideas but I'd prefer hearing from nont-me
+[2021/2/26-8:52-input]	 
+[2021/2/26-8:52-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/26-8:52-tab]	 collision-system.ts - loot - Visual Studio Code
+[2021/2/26-8:52-tab]	 ● buff-definitions.ts - loot - Visual Studio Code
+[2021/2/26-8:52-focus]	 
+[2021/2/26-8:52-tab]	 
+[2021/2/26-8:52-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/26-8:52-tab]	 ● notes.md - Notes - Visual Studio Code
+[2021/2/26-8:53-input]	 #Phy Physical -> Bleed
+[2021/2/26-8:53-input]	 100% chance to bleed if user has physical damage (thsis is invisible debuff
+[2021/2/26-8:53-input]	 
+[2021/2/26-8:53-focus]	 
+[2021/2/26-8:53-tab]	 
+[2021/2/26-8:53-focus]	 C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+[2021/2/26-8:53-tab]	 OhHeyThere, SamStiles - Discord
+[2021/2/26-8:53-focus]	 
+[2021/2/26-8:53-tab]	 
+[2021/2/26-8:53-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/26-8:53-tab]	 ● notes.md - Notes - Visual Studio Code
+[2021/2/26-8:54-focus]	 
+[2021/2/26-8:54-tab]	 
+[2021/2/26-8:54-focus]	 C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+[2021/2/26-8:54-tab]	 OhHeyThere, SamStiles - Discord
+[2021/2/26-8:54-focus]	 
+[2021/2/26-8:54-tab]	 
+[2021/2/26-8:54-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/26-8:54-tab]	 ● notes.md - Notes - Visual Studio Code
+[2021/2/26-8:54-focus]	 
+[2021/2/26-8:54-tab]	 
+[2021/2/26-8:54-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/26-8:54-tab]	 ● buff-definitions.ts - loot - Visual Studio Code
+[2021/2/26-8:54-focus]	 
+[2021/2/26-8:54-tab]	 
+[2021/2/26-8:54-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/26-8:54-tab]	 ● notes.md - Notes - Visual Studio Code
+[2021/2/26-8:55-input]	 if you deal 100% of 
+[2021/2/26-8:55-input]	 unit
+[2021/2/26-8:55-input]	 target health on them, tehhhey receive an addition 25% damage all at once (makes sense only in heal situations, or if you buff this
+[2021/2/26-8:55-input]	  buff
+[2021/2/26-8:56-input]	 # 
+[2021/2/26-8:56-input]	 Ice =>-> Chill
+[2021/2/26-8:56-input]	 50% chane ce to chilil if 
+[2021/2/26-8:56-clip]	 shooter
+[2021/2/26-8:56-input]	 shootercvv
+[2021/2/26-8:56-input]	 v
+[2021/2/26-8:56-input]	 shooter has ice damage
+[2021/2/26-8:56-input]	 
+[2021/2/26-8:56-input]	 
+[2021/2/26-8:57-input]	 There are more details in codocument, to o many to mention here
+[2021/2/26-8:57-input]	  (like duration, how they stack, etc...
+[2021/2/26-8:57-focus]	 
+[2021/2/26-8:57-tab]	 
+[2021/2/26-8:57-focus]	 C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+[2021/2/26-8:57-tab]	 OhHeyThere, SamStiles - Discord
+[2021/2/26-8:57-input]	 re-. You can check the docs but you'll go crait's a lot to understand.
+[2021/2/26-8:57-tab]	 #loot-notifications - Discord
+[2021/2/26-8:57-tab]	 #loot-game-design - Discord
+[2021/2/26-8:58-input]	 I'm boiling down the to the bathe elemtnental status bufsffs to the basics for QAs beennegit, fit, but there's os oso much detail in these. Should QA be responsible for testing every line item of design doc?
+[2021/2/26-8:58-input]	 
+[2021/2/26-8:58-focus]	 
+[2021/2/26-8:58-tab]	 
+[2021/2/26-8:58-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/26-8:58-tab]	 ● notes.md - Notes - Visual Studio Code
+[2021/2/26-8:58-input]	 .
+[2021/2/26-8:59-input]	  Chill does nothing on it's own but build up.
+[2021/2/26-8:59-input]	 
+[2021/2/26-8:59-focus]	 C:\Program Files\Mozilla Firefox\firefox.exe
+[2021/2/26-8:59-tab]	 LOOT - Character Stat Model / Elemental Damage / Projectile Behavior / Formulas - Google Docs — Mozilla Firefox
+[2021/2/26-8:59-clip]	 if enemy type == Basic enemy and stacks >= 20% of the target’s max health
+if enemy type == Champion enemy and stacks >= 6.66% of the target’s max health
+if enemy type == Boss enemy and stacks >= 2% of the target’s max health
+
+[2021/2/26-8:59-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/26-8:59-tab]	 ● notes.md - Notes - Visual Studio Code
+[2021/2/26-8:59-input]	 c
+[2021/2/26-8:59-input]	  Each application of chill adds 50% of youthe icdee damage to the chil sl stacks.
+[2021/2/26-8:59-input]	 v
+[2021/2/26-8:59-input]	 
+[2021/2/26-9:0-input]	 If chill stacks builds to enoughhigh endough, then it applies
+[2021/2/26-9:0-input]	  Chilled status, whcih ich slows down movement and attackRate.
+[2021/2/26-9:0-focus]	 
+[2021/2/26-9:0-tab]	 
+[2021/2/26-9:0-focus]	 C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+[2021/2/26-9:0-tab]	 #loot-game-design - Discord
+[2021/2/26-9:0-focus]	 
+[2021/2/26-9:0-tab]	 
+[2021/2/26-9:0-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/26-9:0-tab]	 ● notes.md - Notes - Visual Studio Code
+[2021/2/26-9:0-input]	 # Shcok ock ->Lightning -> 
+[2021/2/26-9:1-clip]	 50% chance to chill if shooter has ice damage. Chill does nothing on it's own but build up. Each application of chill adds 50% of the ice damage to the chill stacks.
+If chill stacks builds high enough, then it applies Chilled status, which slows down movement and attackRate.
+
+[2021/2/26-9:1-input]	 cv
+[2021/2/26-9:1-input]	 12.5
+[2021/2/26-9:1-input]	 shock 
+[2021/2/26-9:1-input]	 lightning
+[2021/2/26-9:1-input]	 Shock
+[2021/2/26-9:1-input]	 shock
+[2021/2/26-9:1-input]	 choslightningshock
+[2021/2/26-9:1-input]	 200
+[2021/2/26-9:1-input]	 shock
+[2021/2/26-9:1-input]	 Stun
+[2021/2/26-9:2-input]	  to 0
+[2021/2/26-9:2-focus]	 C:\Program Files\Mozilla Firefox\firefox.exe
+[2021/2/26-9:2-tab]	 LOOT - Character Stat Model / Elemental Damage / Projectile Behavior / Formulas - Google Docs — Mozilla Firefox
+[2021/2/26-9:2-clip]	 if enemy type == Basic enemy and stacks >= 40% of the target’s max health
+if enemy type == Champion enemy and stacks >= 20% of the target’s max health
+if enemy type == Boss enemy and stacks >= 20% of the target’s max health
+
+[2021/2/26-9:2-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/26-9:2-tab]	 ● notes.md - Notes - Visual Studio Code
+[2021/2/26-9:2-input]	 c
+[2021/2/26-9:2-input]	 v
+[2021/2/26-9:2-clip]	 
+For each element of damage that your weapon has (normal/physical damage is considered an element), then you have a chance to add the relative debuff:
+# Physical -> Bleed
+100% chance to bleed if shooter has physical damage (this is invisible debuff)
+if shooter deal 100% of target health on them, they receive an addition 25% damage all at once (makes sense only in heal situations, or if you buff this buff)
+# Fire -> Ignite
+25% chance to ignite if shooter has fire damage
+applies %25 of damage over 2 seconds
+# Poison -> Poison
+50% chance to poison if shooter has poison damage
+applies %25 of damage over 2 seconds
+# Ice -> Chill
+50% chance to chill if shooter has ice damage. Chill does nothing on it's own but build up. Each application of chill adds 50% of the ice damage to the chill stacks.
+If chill stacks builds high enough, then it applies Chilled status, which slows down movement and attackRate.
+if enemy type == Basic enemy and stacks >= 20% of the target’s max health
+if enemy type == Champion enemy and stacks >= 6.66% of the target’s max health
+if enemy type == Boss enemy and stacks >= 2% of the target’s max health
+# Lightning -> Shock
+12.5% chance to shock if shooter has lightning damage. Shock does nothing on it's own but build up. Each application of shock adds 200% of the lightning damage to the shock stacks.
+If shock stacks builds high enough, then it applies Stun status, which slows down movement and attackRate to 0.
+if enemy type == Basic enemy and stacks >= 40% of the target’s max health
+if enemy type == Champion enemy and stacks >= 20% of the target’s max health
+if enemy type == Boss enemy and stacks >= 20% of the target’s max health
+[2021/2/26-9:2-input]	 c
+[2021/2/26-9:2-focus]	 C:\Program Files\Mozilla Firefox\firefox.exe
+[2021/2/26-9:2-tab]	 LOOT - Character Stat Model / Elemental Damage / Projectile Behavior / Formulas - Google Docs — Mozilla Firefox
+[2021/2/26-9:2-tab]	 SOTI board - Agile Board - Sculpin QA — Mozilla Firefox
+[2021/2/26-9:2-input]	 Summary of Chnageaanges
+[2021/2/26-9:2-input]	 v
+[2021/2/26-9:2-input]	 Plese ase see docs 
+[2021/2/26-9:2-input]	  above for more detail
+[2021/2/26-9:3-input]	 .
+[2021/2/26-9:4-input]	 Summary of changes
+[2021/2/26-9:4-input]	 
+[2021/2/26-9:4-clip]	 https://sculpin.atlassian.net/browse/SOTI-2091
+[2021/2/26-9:4-focus]	 
+[2021/2/26-9:4-tab]	 
+[2021/2/26-9:4-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/26-9:4-tab]	 ● notes.md - Notes - Visual Studio Code
+[2021/2/26-9:5-input]	 v
+[2021/2/26-9:5-focus]	 C:\Program Files\Mozilla Firefox\firefox.exe
+[2021/2/26-9:5-tab]	 SOTI board - Agile Board - Sculpin QA — Mozilla Firefox
+[2021/2/26-9:5-focus]	 
+[2021/2/26-9:5-tab]	 
+[2021/2/26-9:5-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/26-9:5-tab]	 ● notes.md - Notes - Visual Studio Code
+[2021/2/26-9:5-clip]	 https://sculpin.atlassian.net/browse/SOTI-2091
+
+[2021/2/26-9:5-focus]	 C:\Program Files\Mozilla Firefox\firefox.exe
+[2021/2/26-9:5-tab]	 SOTI board - Agile Board - Sculpin QA — Mozilla Firefox
+[2021/2/26-9:5-input]	 cSee v
+[2021/2/26-9:5-input]	 for  for rough smummary of how these should work. See documentation for more detail.
+[2021/2/26-9:5-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/26-9:5-tab]	 ● buff-definitions.ts - loot - Visual Studio Code
+[2021/2/26-9:5-tab]	 buff-definitions.ts - loot - Visual Studio Code
+[2021/2/26-9:5-focus]	 
+[2021/2/26-9:5-tab]	 
+[2021/2/26-9:5-focus]	 C:\Program Files\ConEmu\ConEmu64.exe
+[2021/2/26-9:5-tab]	 npm
+[2021/2/26-9:5-tab]	 MINGW64:/c/Projects/loot
+[2021/2/26-9:5-input]	 s
+[2021/2/26-9:5-input]	 gs
+[2021/2/26-9:5-input]	 gd
+[2021/2/26-9:5-input]	 git commit -am 'fixing damage applied in ignite'
+[2021/2/26-9:5-input]	 
+[2021/2/26-9:6-focus]	 
+[2021/2/26-9:6-tab]	 
+[2021/2/26-9:6-focus]	 C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+[2021/2/26-9:6-tab]	 #loot-game-design - Discord
+[2021/2/26-9:6-focus]	 C:\Program Files\ConEmu\ConEmu64.exe
+[2021/2/26-9:6-tab]	 MINGW64:/c/Projects/loot
+[2021/2/26-9:6-tab]	 npm
+[2021/2/26-9:6-focus]	 
+[2021/2/26-9:6-tab]	 
+[2021/2/26-9:6-focus]	 C:\Program Files\Mozilla Firefox\firefox.exe
+[2021/2/26-9:6-tab]	 SOTI board - Agile Board - Sculpin QA — Mozilla Firefox
+[2021/2/26-9:6-tab]	 LOOT - Character Stat Model / Elemental Damage / Projectile Behavior / Formulas - Google Docs — Mozilla Firefox
+[2021/2/26-9:6-focus]	 C:\Program Files\ShareX\ShareX.exe
+[2021/2/26-9:6-tab]	 ShareX - Region capture
+[2021/2/26-9:6-focus]	 C:\Program Files\Mozilla Firefox\firefox.exe
+[2021/2/26-9:6-tab]	 LOOT - Character Stat Model / Elemental Damage / Projectile Behavior / Formulas - Google Docs — Mozilla Firefox
+[2021/2/26-9:6-focus]	 C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+[2021/2/26-9:6-tab]	 #loot-game-design - Discord
+[2021/2/26-9:6-input]	 I'm just curious if QA needs ot to know all these numbers and how they work:
+[2021/2/26-9:6-input]	 v
+[2021/2/26-9:6-input]	 or are they ujust testing for obvious bugs
+[2021/2/26-9:6-input]	 
+[2021/2/26-9:7-input]	 
+[2021/2/26-9:7-focus]	 C:\Program Files\Mozilla Firefox\firefox.exe
+[2021/2/26-9:7-tab]	 LOOT - Character Stat Model / Elemental Damage / Projectile Behavior / Formulas - Google Docs — Mozilla Firefox
+[2021/2/26-9:7-tab]	 SOTI board - Agile Board - Sculpin QA — Mozilla Firefox
+[2021/2/26-9:7-focus]	 
+[2021/2/26-9:7-tab]	 
+[2021/2/26-9:7-focus]	 C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+[2021/2/26-9:7-tab]	 #loot-game-design - Discord
+[2021/2/26-9:7-tab]	 #loot-qa - Discord
+[2021/2/26-9:7-focus]	 C:\Program Files\Mozilla Firefox\firefox.exe
+[2021/2/26-9:7-tab]	 SOTI board - Agile Board - Sculpin QA — Mozilla Firefox
+[2021/2/26-9:8-clip]	 https://sculpin.atlassian.net/browse/SOTI-2091
+[2021/2/26-9:8-focus]	 C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+[2021/2/26-9:8-tab]	 #loot-qa - Discord
+[2021/2/26-9:8-input]	 @loot	
+[2021/2/26-9:8-input]	 v
+[2021/2/26-9:8-focus]	 
+[2021/2/26-9:8-tab]	 
+[2021/2/26-9:8-focus]	 C:\Program Files\Mozilla Firefox\firefox.exe
+[2021/2/26-9:8-tab]	 SOTI board - Agile Board - Sculpin QA — Mozilla Firefox
+[2021/2/26-9:8-input]	 
+[2021/2/26-9:8-clip]	 https://sculpin.atlassian.net/browse/SOTI-2092
+[2021/2/26-9:8-focus]	 C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+[2021/2/26-9:8-tab]	 #loot-qa - Discord
+[2021/2/26-9:8-input]	 v
+[2021/2/26-9:8-input]	 
+[2021/2/26-9:8-input]	 there's a lot of detail
+[2021/2/26-9:8-input]	  in the supplied  documentation
+[2021/2/26-9:8-input]	 attached ilinked
+[2021/2/26-9:8-focus]	 C:\Program Files\Mozilla Firefox\firefox.exe
+[2021/2/26-9:8-tab]	 SOTI board - Agile Board - Sculpin QA — Mozilla Firefox
+[2021/2/26-9:9-clip]	 Add stats for elemental proc chances
+[2021/2/26-9:9-focus]	 C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+[2021/2/26-9:9-tab]	 #loot-qa - Discord
+[2021/2/26-9:9-input]	 ac - v
+[2021/2/26-9:9-focus]	 C:\Program Files\Mozilla Firefox\firefox.exe
+[2021/2/26-9:9-tab]	 SOTI board - Agile Board - Sculpin QA — Mozilla Firefox
+[2021/2/26-9:9-clip]	 Add debuffing status effects for elemental damage (ignite, chill, shock, poison, bleed)
+[2021/2/26-9:9-focus]	 C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+[2021/2/26-9:9-tab]	 #loot-qa - Discord
+[2021/2/26-9:9-input]	 ac
+[2021/2/26-9:9-input]	  - v (rough summary in the commensts nere)
+[2021/2/26-9:9-tab]	 #loot-game-design - Discord
+[2021/2/26-9:9-tab]	 #loot-qa - Discord
+[2021/2/26-9:9-input]	 , 
+[2021/2/26-9:10-input]	 which you can mostly ignore. Just make they seem to function as in summary
+[2021/2/26-9:10-input]	  and there's no bobvious bugs. Thanks
+[2021/2/26-9:10-input]	 
+[2021/2/26-9:10-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/26-9:10-tab]	 buff-definitions.ts - loot - Visual Studio Code
+[2021/2/26-9:10-focus]	 C:\Program Files\Mozilla Firefox\firefox.exe
+[2021/2/26-9:10-tab]	 SOTI board - Agile Board - Sculpin QA — Mozilla Firefox
+[2021/2/26-9:10-focus]	 C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+[2021/2/26-9:10-tab]	 #loot-qa - Discord
+[2021/2/26-9:11-input]	 tha rough implementino of onf p of pfx_fi+filters is one. It needs iteration. These have been in a few days but I just now wrote the sumamary s
+[2021/2/26-9:11-input]	 
+[2021/2/26-9:11-input]	 in
+[2021/2/26-9:11-input]	 
+[2021/2/26-9:13-focus]	 
+[2021/2/26-9:13-tab]	 
+[2021/2/26-9:13-focus]	 C:\Program Files\ConEmu\ConEmu64.exe
+[2021/2/26-9:13-tab]	 npm
+[2021/2/26-9:13-tab]	 MINGW64:/c/Projects/loot
+[2021/2/26-9:13-input]	 git pt
+[2021/2/26-9:13-input]	 
+[2021/2/26-9:13-clip]	 https://github.com/BitfoxGames/Loot.io/pull/new/ignite-damage-fix
+[2021/2/26-9:14-focus]	 
+[2021/2/26-9:14-tab]	 
+[2021/2/26-9:14-focus]	 C:\Program Files\Mozilla Firefox\firefox.exe
+[2021/2/26-9:14-tab]	 SOTI board - Agile Board - Sculpin QA — Mozilla Firefox
+[2021/2/26-9:14-tab]	 Mozilla Firefox
+[2021/2/26-9:14-input]	 v
+[2021/2/26-9:14-tab]	 Comparing alpha...ignite-damage-fix · BitfoxGames/Loot.io — Mozilla Firefox
+[2021/2/26-9:14-input]	 
+[2021/2/26-9:14-tab]	 fixing damage applied in ignite by MikeSchurman · Pull Request #730 · BitfoxGames/Loot.io — Mozilla Firefox
+[2021/2/26-9:17-focus]	 C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+[2021/2/26-9:17-tab]	 #loot-qa - Discord
+[2021/2/26-9:17-tab]	 #loot-general - Discord
+[2021/2/26-9:17-tab]	 #loot-marketing - Discord
+[2021/2/26-9:19-clip]	 "eat, sleep, rave, repeat"
+[2021/2/26-9:19-input]	 cvloot
+[2021/2/26-9:19-input]	 
+[2021/2/26-9:19-input]	 
+[2021/2/26-9:19-tab]	 #loot-code - Discord
+[2021/2/26-9:19-focus]	 C:\Program Files\Mozilla Firefox\firefox.exe
+[2021/2/26-9:19-tab]	 [SOTI-1977] Fix Ground Rendering on Teleport - Sculpin QA — Mozilla Firefox
+[2021/2/26-9:19-focus]	 C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+[2021/2/26-9:19-tab]	 #loot-code - Discord
+[2021/2/26-9:20-input]	 that was mine, because, we already havea  so a solution  (we fi'fix' the ground rendering during window resize)
+[2021/2/26-9:20-input]	 
+[2021/2/26-9:20-input]	 
+[2021/2/26-9:20-input]	 
+[2021/2/26-9:21-input]	 I thought it would be required for arena gates, but the telreport is so short it's not reequirequired for that (but might be needed for FTUE now?)
+[2021/2/26-9:21-input]	 
+[2021/2/26-9:21-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/26-9:21-tab]	 buff-definitions.ts - loot - Visual Studio Code
+[2021/2/26-9:21-focus]	 C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+[2021/2/26-9:21-tab]	 #loot-code - Discord
+[2021/2/26-9:21-tab]	 #loot-marketing - Discord
+[2021/2/26-9:22-tab]	 #loot-notifications - Discord
+[2021/2/26-9:22-input]	 much like power rangetsait ws as after my timea
+[2021/2/26-9:22-tab]	 #loot-code - Discord
+[2021/2/26-9:22-focus]	 C:\Program Files\Mozilla Firefox\firefox.exe
+[2021/2/26-9:22-tab]	 fixing damage applied in ignite by MikeSchurman · Pull Request #730 · BitfoxGames/Loot.io — Mozilla Firefox
+[2021/2/26-9:22-tab]	 [SOTI-1977] Fix Ground Rendering on Teleport - Sculpin QA — Mozilla Firefox
+[2021/2/26-9:22-tab]	 LOOT - Character Stat Model / Elemental Damage / Projectile Behavior / Formulas - Google Docs — Mozilla Firefox
+[2021/2/26-9:22-tab]	 SOTI board - Agile Board - Sculpin QA — Mozilla Firefox
+[2021/2/26-9:23-tab]	 Inbox (1) - michael.schurman@gmail.com - Gmail — Mozilla Firefox
+[2021/2/26-9:23-tab]	 Weekly Lunch Email Reminder - michael.schurman@gmail.com - Gmail — Mozilla Firefox
+[2021/2/26-9:23-tab]	 Inbox - michael.schurman@gmail.com - Gmail — Mozilla Firefox
+[2021/2/26-9:23-tab]	 Inbox - michael.schurman@otherocean.com - Other Ocean Group, Inc. Mail — Mozilla Firefox
+[2021/2/26-9:23-tab]	 Explosive damage bug by MikeSchurman · Pull Request #729 · BitfoxGames/Loot.io — Mozilla Firefox
+[2021/2/26-9:23-tab]	 SOTI board - Agile Board - Sculpin QA — Mozilla Firefox
+[2021/2/26-9:23-tab]	 Inbox - michael.schurman@otherocean.com - Other Ocean Group, Inc. Mail — Mozilla Firefox
+[2021/2/26-9:23-tab]	 Inbox - michael.schurman@gmail.com - Gmail — Mozilla Firefox
+[2021/2/26-9:23-tab]	 Inbox - michael.schurman@otherocean.com - Other Ocean Group, Inc. Mail — Mozilla Firefox
+[2021/2/26-9:23-tab]	 SOTI board - Agile Board - Sculpin QA — Mozilla Firefox
+[2021/2/26-9:23-clip]	 https://sculpin.atlassian.net/browse/SOTI-2511
+[2021/2/26-9:24-focus]	 C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+[2021/2/26-9:24-tab]	 #loot-code - Discord
+[2021/2/26-9:24-tab]	 #loot-general - Discord
+[2021/2/26-9:24-focus]	 C:\Program Files\Mozilla Firefox\firefox.exe
+[2021/2/26-9:24-tab]	 SOTI board - Agile Board - Sculpin QA — Mozilla Firefox
+[2021/2/26-9:24-clip]	 Slightly fade out other players' projectiles to see if "lowlighting" those helps visual clarity
+[2021/2/26-9:24-focus]	 C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+[2021/2/26-9:24-tab]	 #loot-general - Discord
+[2021/2/26-9:24-input]	 cI'm goint g to disable "v" becuase thause there's a bug in  this for the playtestL:
+[2021/2/26-9:24-input]	 `
+[2021/2/26-9:24-input]	 `
+[2021/2/26-9:25-input]	 it and I can't reproduce yet.
+[2021/2/26-9:25-input]	 
+[2021/2/26-9:25-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/26-9:25-tab]	 buff-definitions.ts - loot - Visual Studio Code
+[2021/2/26-9:25-focus]	 C:\Program Files\Mozilla Firefox\firefox.exe
+[2021/2/26-9:25-tab]	 SOTI board - Agile Board - Sculpin QA — Mozilla Firefox
+[2021/2/26-9:25-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/26-9:25-tab]	 buff-definitions.ts - loot - Visual Studio Code
+[2021/2/26-9:25-tab]	 collision-system.ts - loot - Visual Studio Code
+[2021/2/26-9:25-tab]	 projectile-effect-manager.ts - loot - Visual Studio Code
+[2021/2/26-9:26-tab]	 ● projectile-effect-manager.ts - loot - Visual Studio Code
+[2021/2/26-9:26-input]	 0 // 
+[2021/2/26-9:26-input]	  - disabling this due to bug temp
+[2021/2/26-9:26-focus]	 C:\Program Files\Mozilla Firefox\firefox.exe
+[2021/2/26-9:26-tab]	 SOTI board - Agile Board - Sculpin QA — Mozilla Firefox
+[2021/2/26-9:26-clip]	 SOTI-2511
+
+[2021/2/26-9:26-input]	 c
+[2021/2/26-9:26-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/26-9:26-tab]	 ● projectile-effect-manager.ts - loot - Visual Studio Code
+[2021/2/26-9:26-tab]	 projectile-effect-manager.ts - loot - Visual Studio Code
+[2021/2/26-9:26-focus]	 C:\Program Files\ConEmu\ConEmu64.exe
+[2021/2/26-9:26-tab]	 MINGW64:/c/Projects/loot
+[2021/2/26-9:26-tab]	 npm
+[2021/2/26-9:26-input]	  ((see vs
+[2021/2/26-9:26-tab]	 MINGW64:/c/Projects/loot
+[2021/2/26-9:26-input]	 git checkout disasble-ble-proj-fade
+[2021/2/26-9:26-input]	 
+[2021/2/26-9:26-input]	 -b 
+[2021/2/26-9:26-input]	 
+[2021/2/26-9:26-focus]	 C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+[2021/2/26-9:26-tab]	 #loot-general - Discord
+[2021/2/26-9:27-tab]	 #loot-marketing - Discord
+[2021/2/26-9:27-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/26-9:27-tab]	 projectile-effect-manager.ts - loot - Visual Studio Code
+[2021/2/26-9:27-focus]	 C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[2021/2/26-9:27-tab]	 about:blank - Google Chrome
+[2021/2/26-9:27-tab]	 Loot.io - Google Chrome
+[2021/2/26-9:27-clip]	 http://localhost:1234/?connectTo=adventure&skipToGame=true
+[2021/2/26-9:27-focus]	 
+[2021/2/26-9:27-tab]	 
+[2021/2/26-9:27-focus]	 C:\Windows\explorer.exe
+[2021/2/26-9:27-input]	 ac
+[2021/2/26-9:27-focus]	 C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[2021/2/26-9:27-tab]	 Inspect with Chrome Developer Tools - Google Chrome
+[2021/2/26-9:27-input]	 v
+[2021/2/26-9:27-tab]	 Loot.io - Google Chrome
+[2021/2/26-9:27-input]	 
+[2021/2/26-9:27-focus]	 
+[2021/2/26-9:27-tab]	 
+[2021/2/26-9:27-focus]	 C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+[2021/2/26-9:27-tab]	 #loot-marketing - Discord
+[2021/2/26-9:27-tab]	 #loot-general - Discord
+[2021/2/26-9:27-focus]	 C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[2021/2/26-9:27-tab]	 Loot.io - Google Chrome
+[2021/2/26-9:28-focus]	 
+[2021/2/26-9:28-tab]	 
+[2021/2/26-9:28-focus]	 C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[2021/2/26-9:28-tab]	 Loot.io - Google Chrome
+[2021/2/26-9:28-input]	 dddddddddddddddddddddddddd
+[2021/2/26-9:28-input]	 ddddddddddddddddddddddddddddddddddddddddddw
+[2021/2/26-9:28-focus]	 C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+[2021/2/26-9:28-tab]	 #loot-general - Discord
+[2021/2/26-9:28-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/26-9:28-tab]	 projectile-effect-manager.ts - loot - Visual Studio Code
+[2021/2/26-9:28-focus]	 C:\Program Files\ConEmu\ConEmu64.exe
+[2021/2/26-9:28-tab]	 MINGW64:/c/Projects/loot
+[2021/2/26-9:28-input]	 gs
+[2021/2/26-9:28-input]	 gd
+[2021/2/26-9:28-input]	 
+[2021/2/26-9:28-focus]	 C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+[2021/2/26-9:28-tab]	 #loot-general - Discord
+[2021/2/26-9:28-tab]	 benedict, Kaitlin Richard - Discord
+[2021/2/26-9:29-input]	 I think it went weelllll. Not quite as awesome as beams
+[2021/2/26-9:29-input]	 , but lightning 
+[2021/2/26-9:29-input]	 doesn't 
+[2021/2/26-9:29-input]	 but still good
+[2021/2/26-9:29-input]	 a good process overall
+[2021/2/26-9:29-input]	 .
+[2021/2/26-9:29-input]	  I think on my end, beams was very well defined
+[2021/2/26-9:30-input]	 a  task. Howe
+[2021/2/26-9:30-input]	 Status effects were well-defined, but, a lot of detail
+[2021/2/26-9:30-input]	  
+[2021/2/26-9:30-input]	 they had a that I probably should have known beforehand
+[2021/2/26-9:30-input]	 
+[2021/2/26-9:31-input]	  (although there wa ss so much detail it was hard to wrap my head around it at first)
+[2021/2/26-9:31-input]	 
+[2021/2/26-9:31-tab]	 #loot-general - Discord
+[2021/2/26-9:31-focus]	 C:\Program Files\ConEmu\ConEmu64.exe
+[2021/2/26-9:31-tab]	 MINGW64:/c/Projects/loot
+[2021/2/26-9:31-input]	 gs
+[2021/2/26-9:31-input]	 gd
+[2021/2/26-9:31-input]	 git commit -am ''
+[2021/2/26-9:31-input]	 disabling alphaproj alpha fade due to bug
+[2021/2/26-9:31-input]	 
+[2021/2/26-9:32-input]	 git push
+[2021/2/26-9:32-input]	 gpt
+[2021/2/26-9:32-input]	 
+[2021/2/26-9:32-clip]	 https://github.com/BitfoxGames/Loot.io/pull/new/disable-proj-fade
+[2021/2/26-9:32-focus]	 
+[2021/2/26-9:32-tab]	 
+[2021/2/26-9:32-focus]	 C:\Program Files\Mozilla Firefox\firefox.exe
+[2021/2/26-9:32-tab]	 SOTI board - Agile Board - Sculpin QA — Mozilla Firefox
+[2021/2/26-9:32-tab]	 Mozilla Firefox
+[2021/2/26-9:32-input]	 v
+[2021/2/26-9:32-tab]	 Comparing alpha...disable-proj-fade · BitfoxGames/Loot.io — Mozilla Firefox
+[2021/2/26-9:32-input]	 
+[2021/2/26-9:32-clip]	 disabling proj alpha fade due to bug
+[2021/2/26-9:32-input]	 c
+[2021/2/26-9:32-tab]	 disabling proj alpha fade due to bug by MikeSchurman · Pull Request #731 · BitfoxGames/Loot.io — Mozilla Firefox
+[2021/2/26-9:33-focus]	 
+[2021/2/26-9:33-tab]	 
+[2021/2/26-9:33-focus]	 C:\Program Files\ConEmu\ConEmu64.exe
+[2021/2/26-9:33-tab]	 npm
+[2021/2/26-9:33-tab]	 MINGW64:/c/Projects/loot
+[2021/2/26-9:33-focus]	 C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+[2021/2/26-9:33-tab]	 #loot-general - Discord
+[2021/2/26-9:33-tab]	 OhHeyThere, SamStiles - Discord
+[2021/2/26-9:33-focus]	 C:\Program Files\ConEmu\ConEmu64.exe
+[2021/2/26-9:33-tab]	 MINGW64:/c/Projects/loot
+[2021/2/26-9:33-input]	 gs
+[2021/2/26-9:33-input]	 git checkout alpha
+[2021/2/26-9:33-input]	 git merge disa	
+[2021/2/26-9:33-input]	 
+[2021/2/26-9:33-input]	 git pull
+[2021/2/26-9:33-input]	 
+[2021/2/26-9:33-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/26-9:33-tab]	 projectile-effect-manager.ts - loot - Visual Studio Code
+[2021/2/26-9:33-tab]	 MERGE_MSG - loot - Visual Studio Code
+[2021/2/26-9:33-focus]	 C:\Program Files\ConEmu\ConEmu64.exe
+[2021/2/26-9:33-tab]	 MINGW64:/c/Projects/loot
+[2021/2/26-9:33-input]	 git push
+[2021/2/26-9:33-input]	 
+[2021/2/26-9:33-tab]	 npm
+[2021/2/26-9:33-focus]	 
+[2021/2/26-9:33-tab]	 
+[2021/2/26-9:33-focus]	 C:\Program Files\Mozilla Firefox\firefox.exe
+[2021/2/26-9:33-tab]	 disabling proj alpha fade due to bug by MikeSchurman · Pull Request #731 · BitfoxGames/Loot.io — Mozilla Firefox
+[2021/2/26-9:33-tab]	 SOTI board - Agile Board - Sculpin QA — Mozilla Firefox
+[2021/2/26-9:33-focus]	 C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+[2021/2/26-9:33-tab]	 OhHeyThere, SamStiles - Discord
+[2021/2/26-9:34-input]	 good idea, be terhere in 5 min
+[2021/2/26-9:34-input]	 
+[2021/2/26-9:36-input]	 back
+[2021/2/26-9:37-input]	 
+[2021/2/26-9:37-tab]	 #loot-general - Discord
+[2021/2/26-9:37-tab]	 benedict, Kaitlin Richard - Discord
+[2021/2/26-9:37-tab]	 #loot-general - Discord
+[2021/2/26-9:37-tab]	 #loot-art - Discord
+[2021/2/26-9:38-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/26-9:38-tab]	 projectile-effect-manager.ts - loot - Visual Studio Code
+[2021/2/26-9:38-tab]	 ● projectile-effect-manager.ts - loot - Visual Studio Code
+[2021/2/26-9:38-input]	 
+[2021/2/26-9:38-input]	 //f
+[2021/2/26-9:38-input]	 
+[2021/2/26-9:39-focus]	 C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+[2021/2/26-9:39-tab]	 #loot-art - Discord
+[2021/2/26-9:39-focus]	 
+[2021/2/26-9:39-tab]	 
+[2021/2/26-9:39-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/26-9:39-tab]	 ● notes.md - Notes - Visual Studio Code
+[2021/2/26-9:39-input]	 
+[2021/2/26-9:39-input]	 
+[2021/2/26-9:39-input]	 
+[2021/2/26-9:39-input]	 
+[2021/2/26-9:42-tab]	 ● projectile-effect-manager.ts - loot - Visual Studio Code
+[2021/2/26-9:45-tab]	 ● notes.md - Notes - Visual Studio Code
+[2021/2/26-9:47-focus]	 C:\Windows\explorer.exe
+[2021/2/26-9:47-tab]	 
+[2021/2/26-9:47-focus]	 C:\Windows\SystemApps\ShellExperienceHost_cw5n1h2txyewy\ShellExperienceHost.exe
+[2021/2/26-9:47-tab]	 Date and Time Information
+[2021/2/26-9:47-focus]	 
+[2021/2/26-9:47-tab]	 
+[2021/2/26-9:47-focus]	 C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+[2021/2/26-9:47-tab]	 #loot-art - Discord
+[2021/2/26-9:47-tab]	 #loot-general - Discord
+[2021/2/26-9:47-tab]	 #loot-marketing - Discord
+[2021/2/26-9:47-tab]	 #loot-notifications - Discord
+[2021/2/26-9:48-tab]	 OhHeyThere, SamStiles - Discord
+[2021/2/26-9:48-focus]	 C:\Program Files\Mozilla Firefox\firefox.exe
+[2021/2/26-9:48-tab]	 [SOTI-2717] Collider Tweaker Updates - Sculpin QA — Mozilla Firefox
+[2021/2/26-9:48-clip]	 Improve the output format of the collider editor when you’re done – consider popping the output into a UI panel with a “copy to my clipboard” button
+[2021/2/26-9:48-input]	 c
+[2021/2/26-9:48-focus]	 C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+[2021/2/26-9:48-tab]	 OhHeyThere, SamStiles - Discord
+[2021/2/26-9:48-input]	 "v"
+[2021/2/26-9:48-input]	 ``
+[2021/2/26-9:49-input]	 my gut is to do this with the inexpspector, and not vue. If you guys disagree I may need a shoLet me know if you disagree
+[2021/2/26-9:49-input]	 
+[2021/2/26-9:49-tab]	 #loot-notifications - Discord
+[2021/2/26-9:49-tab]	 #loot-general - Discord
+[2021/2/26-9:49-tab]	 OhHeyThere, SamStiles - Discord
+[2021/2/26-9:49-input]	 techniacally the inspectors  is vue :D
+[2021/2/26-9:50-input]	 
+[2021/2/26-9:50-tab]	 #loot-general - Discord
+[2021/2/26-9:50-focus]	 C:\Program Files\Mozilla Firefox\firefox.exe
+[2021/2/26-9:50-tab]	 Mozilla Firefox
+[2021/2/26-9:50-tab]	 Reminder Bot - Help — Mozilla Firefox
+[2021/2/26-9:51-focus]	 
+[2021/2/26-9:51-tab]	 
+[2021/2/26-9:51-focus]	 C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+[2021/2/26-9:51-tab]	 #loot-general - Discord
+[2021/2/26-9:51-focus]	 C:\Program Files\Mozilla Firefox\firefox.exe
+[2021/2/26-9:51-tab]	 Inbox (1) - michael.schurman@otherocean.com - Other Ocean Group, Inc. Mail — Mozilla Firefox
+[2021/2/26-9:51-tab]	 Inbox - michael.schurman@otherocean.com - Other Ocean Group, Inc. Mail — Mozilla Firefox
+[2021/2/26-9:51-tab]	 [SOTI-2717] Collider Tweaker Updates - Sculpin QA — Mozilla Firefox
+[2021/2/26-9:51-tab]	 Reminder Bot - Help — Mozilla Firefox
+[2021/2/26-9:51-tab]	 LOOT - Character Stat Model / Elemental Damage / Projectile Behavior / Formulas - Google Docs — Mozilla Firefox
+[2021/2/26-9:51-tab]	 SOTI board - Agile Board - Sculpin QA — Mozilla Firefox
+[2021/2/26-9:51-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/26-9:51-tab]	 ● projectile-effect-manager.ts - loot - Visual Studio Code
+[2021/2/26-9:51-focus]	 C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+[2021/2/26-9:51-tab]	 #loot-general - Discord
+[2021/2/26-9:51-focus]	 C:\Program Files\Mozilla Firefox\firefox.exe
+[2021/2/26-9:51-tab]	 
+[2021/2/26-9:51-focus]	 C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+[2021/2/26-9:51-tab]	 #loot-general - Discord
+[2021/2/26-9:52-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/26-9:52-tab]	 ● projectile-effect-manager.ts - loot - Visual Studio Code
+[2021/2/26-9:52-input]	 
+[2021/2/26-9:52-clip]	 			console.log(`owner:${owner}`)
+
+[2021/2/26-9:52-input]	 	consolel.log(`ownere::{$$ownercv
+[2021/2/26-9:52-clip]	 owner.isPlayersEntit
+[2021/2/26-9:52-clip]	 isPlayersEntit
+[2021/2/26-9:52-clip]	 isPlayersEntity
+[2021/2/26-9:52-tab]	 projectile-effect-manager.ts - loot - Visual Studio Code
+[2021/2/26-9:52-input]	 cvcvycvs
+[2021/2/26-9:52-focus]	 C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[2021/2/26-9:52-tab]	 about:blank - Google Chrome
+[2021/2/26-9:52-tab]	 🚨 Build Error - Google Chrome
+[2021/2/26-9:52-focus]	 
+[2021/2/26-9:52-tab]	 
+[2021/2/26-9:52-focus]	 C:\Program Files\ConEmu\ConEmu64.exe
+[2021/2/26-9:52-tab]	 npm
+[2021/2/26-9:52-tab]	 MINGW64:/c/Projects/loot
+[2021/2/26-9:52-input]	 c
+[2021/2/26-9:52-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/26-9:52-tab]	 projectile-effect-manager.ts - loot - Visual Studio Code
+[2021/2/26-9:52-tab]	 ● projectile-effect-manager.ts - loot - Visual Studio Code
+[2021/2/26-9:53-input]	 if (owner 
+[2021/2/26-9:53-clip]	 instanceof ClientPlayer
+[2021/2/26-9:53-input]	 cv{
+[2021/2/26-9:53-clip]	 			}
+
+[2021/2/26-9:53-tab]	 projectile-effect-manager.ts - loot - Visual Studio Code
+[2021/2/26-9:53-focus]	 C:\Program Files\ConEmu\ConEmu64.exe
+[2021/2/26-9:53-tab]	 MINGW64:/c/Projects/loot
+[2021/2/26-9:53-input]	 xvs
+[2021/2/26-9:53-tab]	 npm
+[2021/2/26-9:53-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/26-9:53-tab]	 projectile-effect-manager.ts - loot - Visual Studio Code
+[2021/2/26-9:53-input]	 
+[2021/2/26-9:53-focus]	 
+[2021/2/26-9:53-tab]	 
+[2021/2/26-9:53-focus]	 C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[2021/2/26-9:53-tab]	 🚨 Build Error - Google Chrome
+[2021/2/26-9:53-input]	 
+[2021/2/26-9:53-focus]	 
+[2021/2/26-9:53-tab]	 
+[2021/2/26-9:53-focus]	 C:\Program Files\Mozilla Firefox\firefox.exe
+[2021/2/26-9:53-tab]	 SOTI board - Agile Board - Sculpin QA — Mozilla Firefox
+[2021/2/26-9:53-tab]	 Inbox - michael.schurman@otherocean.com - Other Ocean Group, Inc. Mail — Mozilla Firefox
+[2021/2/26-9:53-tab]	 Inbox (1) - michael.schurman@gmail.com - Gmail — Mozilla Firefox
+[2021/2/26-9:53-tab]	 Inbox - michael.schurman@gmail.com - Gmail — Mozilla Firefox
+[2021/2/26-9:53-tab]	 Inbox - michael.schurman@otherocean.com - Other Ocean Group, Inc. Mail — Mozilla Firefox
+[2021/2/26-9:53-tab]	 SOTI board - Agile Board - Sculpin QA — Mozilla Firefox
+[2021/2/26-9:53-focus]	 
+[2021/2/26-9:53-tab]	 
+[2021/2/26-9:53-focus]	 C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[2021/2/26-9:53-tab]	 localhost - Google Chrome
+[2021/2/26-9:53-input]	 
+[2021/2/26-9:53-focus]	 
+[2021/2/26-9:53-tab]	 
+[2021/2/26-9:53-focus]	 C:\Program Files\ConEmu\ConEmu64.exe
+[2021/2/26-9:53-tab]	 npm
+[2021/2/26-9:54-focus]	 
+[2021/2/26-9:54-tab]	 
+[2021/2/26-9:54-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/26-9:54-tab]	 projectile-effect-manager.ts - loot - Visual Studio Code
+[2021/2/26-9:54-focus]	 C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[2021/2/26-9:54-tab]	 Loot.io - Google Chrome
+[2021/2/26-9:54-input]	 ddddddddd
+[2021/2/26-9:54-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/26-9:54-tab]	 projectile-effect-manager.ts - loot - Visual Studio Code
+[2021/2/26-9:54-input]	 j
+[2021/2/26-9:55-tab]	 emitter.ts - loot - Visual Studio Code
+[2021/2/26-9:55-tab]	 projectile-effect-manager.ts - loot - Visual Studio Code
+[2021/2/26-9:56-focus]	 C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+[2021/2/26-9:56-tab]	 #loot-general - Discord
+[2021/2/26-9:56-tab]	 #vacation-notification - Discord
+[2021/2/26-9:56-tab]	 #loot-general - Discord
+[2021/2/26-9:56-input]	 #vact	
+[2021/2/26-9:56-input]	  
+[2021/2/26-9:56-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/26-9:56-tab]	 projectile-effect-manager.ts - loot - Visual Studio Code
+[2021/2/26-9:56-input]	 # vac
+[2021/2/26-9:56-tab]	 ● projectile-effect-manager.ts - loot - Visual Studio Code
+[2021/2/26-9:56-input]	 effect.alpha = 1
+[2021/2/26-9:57-input]	 
+[2021/2/26-9:57-clip]	 isNonlocalPlayer && NONLOCAL_PLAYER_ALPHA
+[2021/2/26-9:57-input]	 c
+[2021/2/26-9:57-input]	 
+[2021/2/26-9:57-clip]	 NONLOCAL_PLAYER_ALPHA
+[2021/2/26-9:57-input]	 	const alpha = v ? cv : 0(
+[2021/2/26-9:57-clip]	 alpha
+[2021/2/26-9:57-input]	 )cv
+[2021/2/26-9:58-clip]	 				// test to lower nonlocal-players projectiles alphas
+
+[2021/2/26-9:58-input]	 x
+[2021/2/26-9:58-input]	 v
+[2021/2/26-9:58-tab]	 projectile-effect-manager.ts - loot - Visual Studio Code
+[2021/2/26-9:58-input]	 s
+[2021/2/26-9:58-focus]	 C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[2021/2/26-9:58-tab]	 about:blank - Google Chrome
+[2021/2/26-9:58-focus]	 
+[2021/2/26-9:58-tab]	 
+[2021/2/26-9:58-focus]	 C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[2021/2/26-9:58-tab]	 Untitled - Google Chrome
+[2021/2/26-9:58-tab]	 Inspect with Chrome Developer Tools - Google Chrome
+[2021/2/26-9:58-tab]	 Loot.io - Google Chrome
+[2021/2/26-9:58-clip]	 http://localhost:1234/?connectTo=adventure&skipToGame=true
+[2021/2/26-9:58-tab]	 Inspect with Chrome Developer Tools - Google Chrome
+[2021/2/26-9:58-input]	 acav
+[2021/2/26-9:58-tab]	 Loot.io - Google Chrome
+[2021/2/26-9:58-input]	 
+[2021/2/26-9:58-focus]	 
+[2021/2/26-9:58-tab]	 
+[2021/2/26-9:58-focus]	 C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[2021/2/26-9:58-tab]	 Loot.io - Google Chrome
+[2021/2/26-9:58-input]	 ddddddddwaddddwdsadwddddddddddddddd
+[2021/2/26-9:58-input]	 sddddd
+[2021/2/26-9:59-focus]	 
+[2021/2/26-9:59-tab]	 
+[2021/2/26-9:59-focus]	 C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[2021/2/26-9:59-tab]	 Loot.io - Google Chrome
+[2021/2/26-9:59-input]	 ddddddssssd
+[2021/2/26-9:59-focus]	 
+[2021/2/26-9:59-tab]	 
+[2021/2/26-9:59-focus]	 C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+[2021/2/26-9:59-tab]	 #loot-general - Discord
+[2021/2/26-9:59-focus]	 
+[2021/2/26-9:59-tab]	 
+[2021/2/26-9:59-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/26-9:59-tab]	 projectile-effect-manager.ts - loot - Visual Studio Code
+[2021/2/26-9:59-tab]	 ● projectile-effect-manager.ts - loot - Visual Studio Code
+[2021/2/26-9:59-tab]	 projectile-effect-manager.ts - loot - Visual Studio Code
+[2021/2/26-9:59-input]	 1s
+[2021/2/26-9:59-focus]	 
+[2021/2/26-9:59-tab]	 
+[2021/2/26-9:59-focus]	 C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[2021/2/26-9:59-tab]	 Loot.io - Google Chrome
+[2021/2/26-9:59-focus]	 C:\Windows\explorer.exe
+[2021/2/26-9:59-tab]	 
+[2021/2/26-9:59-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/26-9:59-tab]	 projectile-effect-manager.ts - loot - Visual Studio Code
+[2021/2/26-9:59-focus]	 C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[2021/2/26-9:59-tab]	 about:blank - Google Chrome
+[2021/2/26-9:59-tab]	 Loot.io - Google Chrome
+[2021/2/26-9:59-focus]	 
+[2021/2/26-9:59-tab]	 
+[2021/2/26-9:59-focus]	 C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+[2021/2/26-9:59-tab]	 #loot-general - Discord
+[2021/2/26-9:59-tab]	 @Loquacious - Discord
+[2021/2/26-10:0-input]	 you don't want this ability -chain to take up X seconds
+[2021/2/26-10:0-input]	 ?
+[2021/2/26-10:0-input]	 /line
+[2021/2/26-10:0-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/26-10:0-tab]	 projectile-effect-manager.ts - loot - Visual Studio Code
+[2021/2/26-10:0-input]	 
+[2021/2/26-10:0-focus]	 
+[2021/2/26-10:0-tab]	 
+[2021/2/26-10:0-focus]	 C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[2021/2/26-10:0-tab]	 Loot.io - Google Chrome
+[2021/2/26-10:0-focus]	 
+[2021/2/26-10:0-tab]	 
+[2021/2/26-10:0-focus]	 C:\Windows\explorer.exe
+[2021/2/26-10:0-input]	 ddddddddddddddddddddddddddddddddddddddddc
+[2021/2/26-10:0-focus]	 C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[2021/2/26-10:0-tab]	 Inspect with Chrome Developer Tools - Google Chrome
+[2021/2/26-10:0-input]	 v
+[2021/2/26-10:0-tab]	 Loot.io - Google Chrome
+[2021/2/26-10:0-input]	 
+[2021/2/26-10:0-focus]	 
+[2021/2/26-10:0-tab]	 
+[2021/2/26-10:0-focus]	 C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+[2021/2/26-10:0-tab]	 @Loquacious - Discord
+[2021/2/26-10:0-focus]	 C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[2021/2/26-10:0-tab]	 Loot.io - Google Chrome
+[2021/2/26-10:1-focus]	 
+[2021/2/26-10:1-tab]	 
+[2021/2/26-10:1-focus]	 C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[2021/2/26-10:1-tab]	 Loot.io - Google Chrome
+[2021/2/26-10:1-input]	 ddddddddddddddddddddddddddddddwddsw
+[2021/2/26-10:1-focus]	 C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+[2021/2/26-10:1-tab]	 @Loquacious - Discord
+[2021/2/26-10:1-focus]	 C:\Program Files\ConEmu\ConEmu64.exe
+[2021/2/26-10:1-tab]	 MINGW64:/c/Projects/loot
+[2021/2/26-10:1-input]	 gbs
+[2021/2/26-10:1-input]	 git checkout dis	
+[2021/2/26-10:1-input]	 gitd
+[2021/2/26-10:1-input]	 
+[2021/2/26-10:1-clip]	  if (owner instanceof Client
+[2021/2/26-10:1-input]	  q
+[2021/2/26-10:1-focus]	 
+[2021/2/26-10:1-tab]	 
+[2021/2/26-10:1-focus]	 C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+[2021/2/26-10:1-tab]	 @Loquacious - Discord
+[2021/2/26-10:1-input]	 yeah I don't think that's possible
+[2021/2/26-10:2-input]	 . with existing stysystems
+[2021/2/26-10:2-input]	 
+[2021/2/26-10:2-input]	 doesn't sound *too* hard to add though
+[2021/2/26-10:2-input]	 
+[2021/2/26-10:2-tab]	 #loot-general - Discord
+[2021/2/26-10:2-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/26-10:2-tab]	 projectile-effect-manager.ts - loot - Visual Studio Code
+[2021/2/26-10:2-tab]	 ● projectile-effect-manager.ts - loot - Visual Studio Code
+[2021/2/26-10:2-input]	 
+[2021/2/26-10:2-clip]	 			// test to lower nonlocal-players projectiles alphas
+
+[2021/2/26-10:2-input]	 xv
+[2021/2/26-10:2-tab]	 projectile-effect-manager.ts - loot - Visual Studio Code
+[2021/2/26-10:2-input]	 s
+[2021/2/26-10:2-focus]	 C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[2021/2/26-10:2-tab]	 about:blank - Google Chrome
+[2021/2/26-10:2-tab]	 Loot.io - Google Chrome
+[2021/2/26-10:2-clip]	 http://localhost:1234/?connectTo=adventure&skipToGame=true
+[2021/2/26-10:2-focus]	 
+[2021/2/26-10:2-tab]	 
+[2021/2/26-10:2-focus]	 C:\Windows\explorer.exe
+[2021/2/26-10:2-input]	 ac
+[2021/2/26-10:2-focus]	 C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[2021/2/26-10:2-tab]	 Inspect with Chrome Developer Tools - Google Chrome
+[2021/2/26-10:3-input]	 v
+[2021/2/26-10:3-tab]	 Loot.io - Google Chrome
+[2021/2/26-10:3-focus]	 
+[2021/2/26-10:3-tab]	 
+[2021/2/26-10:3-focus]	 C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+[2021/2/26-10:3-tab]	 #loot-general - Discord
+[2021/2/26-10:3-input]	 
+[2021/2/26-10:3-tab]	 #loot-qa - Discord
+[2021/2/26-10:3-focus]	 C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[2021/2/26-10:3-tab]	 Loot.io - Google Chrome
+[2021/2/26-10:3-focus]	 
+[2021/2/26-10:3-tab]	 
+[2021/2/26-10:3-focus]	 C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[2021/2/26-10:3-tab]	 Loot.io - Google Chrome
+[2021/2/26-10:3-input]	 dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddssssss
+[2021/2/26-10:3-focus]	 
+[2021/2/26-10:3-tab]	 
+[2021/2/26-10:3-focus]	 C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[2021/2/26-10:3-tab]	 Loot.io - Google Chrome
+[2021/2/26-10:3-focus]	 C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+[2021/2/26-10:3-tab]	 #loot-qa - Discord
+[2021/2/26-10:3-focus]	 
+[2021/2/26-10:3-tab]	 
+[2021/2/26-10:3-focus]	 C:\Program Files\ConEmu\ConEmu64.exe
+[2021/2/26-10:3-tab]	 MINGW64:/c/Projects/loot
+[2021/2/26-10:3-input]	 gs
+[2021/2/26-10:3-input]	 git commit -am 
+[2021/2/26-10:3-input]	 'fix for 
+[2021/2/26-10:4-input]	 locamy--projectiles being faded out'
+[2021/2/26-10:4-input]	 
+[2021/2/26-10:4-input]	 git push
+[2021/2/26-10:4-input]	 
+[2021/2/26-10:4-tab]	 npm
+[2021/2/26-10:4-focus]	 
+[2021/2/26-10:4-tab]	 
+[2021/2/26-10:4-focus]	 C:\Program Files\Mozilla Firefox\firefox.exe
+[2021/2/26-10:4-tab]	 SOTI board - Agile Board - Sculpin QA — Mozilla Firefox
+[2021/2/26-10:4-tab]	 Mozilla Firefox
+[2021/2/26-10:4-tab]	 BitfoxGames/Loot.io: It's a video game about loot worms — Mozilla Firefox
+[2021/2/26-10:4-tab]	 Pull requests · BitfoxGames/Loot.io — Mozilla Firefox
+[2021/2/26-10:4-tab]	 Compare · BitfoxGames/Loot.io — Mozilla Firefox
+[2021/2/26-10:4-tab]	 Comparing alpha...disable-proj-fade · BitfoxGames/Loot.io — Mozilla Firefox
+[2021/2/26-10:5-input]	 The projectile effects ar epe pooled, and we weren't settingalpha wasn't being set to 1 if we didn't want it faded. Doing so now.
+[2021/2/26-10:5-tab]	 fix for my-projectiles being faded out by MikeSchurman · Pull Request #732 · BitfoxGames/Loot.io — Mozilla Firefox
+[2021/2/26-10:5-tab]	 Mozilla Firefox
+[2021/2/26-10:5-tab]	 Pull requests · BitfoxGames/Loot.io — Mozilla Firefox
+[2021/2/26-10:5-tab]	 SOTI board - Agile Board - Sculpin QA — Mozilla Firefox
+[2021/2/26-10:6-tab]	 Inbox - michael.schurman@otherocean.com - Other Ocean Group, Inc. Mail — Mozilla Firefox
+[2021/2/26-10:6-tab]	 Inbox - michael.schurman@gmail.com - Gmail — Mozilla Firefox
+[2021/2/26-10:6-tab]	 Pull requests · BitfoxGames/Loot.io — Mozilla Firefox
+[2021/2/26-10:6-tab]	 Inbox - michael.schurman@gmail.com - Gmail — Mozilla Firefox
+[2021/2/26-10:6-tab]	 Inbox - michael.schurman@otherocean.com - Other Ocean Group, Inc. Mail — Mozilla Firefox
+[2021/2/26-10:6-tab]	 Inbox - michael.schurman@gmail.com - Gmail — Mozilla Firefox
+[2021/2/26-10:6-focus]	 C:\Program Files\ConEmu\ConEmu64.exe
+[2021/2/26-10:6-tab]	 npm
+[2021/2/26-10:6-tab]	 MINGW64:/c/Projects/loot
+[2021/2/26-10:6-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/26-10:6-tab]	 projectile-effect-manager.ts - loot - Visual Studio Code
+[2021/2/26-10:6-focus]	 C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+[2021/2/26-10:6-tab]	 #loot-qa - Discord
+[2021/2/26-10:6-tab]	 @Loquacious - Discord
+[2021/2/26-10:6-input]	 yeah, we'd probably need to do it through official channels. Ce''est le view 
+[2021/2/26-10:6-focus]	 
+[2021/2/26-10:6-tab]	 
+[2021/2/26-10:6-focus]	 C:\Program Files\Mozilla Firefox\firefox.exe
+[2021/2/26-10:6-tab]	 Inbox - michael.schurman@gmail.com - Gmail — Mozilla Firefox
+[2021/2/26-10:6-tab]	 Mozilla Firefox
+[2021/2/26-10:7-input]	 c'etst l
+[2021/2/26-10:7-focus]	 C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+[2021/2/26-10:7-tab]	 @Loquacious - Discord
+[2021/2/26-10:7-input]	 a
+[2021/2/26-10:7-input]	 
+[2021/2/26-10:7-focus]	 C:\Program Files\Mozilla Firefox\firefox.exe
+[2021/2/26-10:7-tab]	 Pull requests · BitfoxGames/Loot.io — Mozilla Firefox
+[2021/2/26-10:7-focus]	 
+[2021/2/26-10:7-tab]	 
+[2021/2/26-10:7-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/26-10:7-tab]	 projectile-effect-manager.ts - loot - Visual Studio Code
+[2021/2/26-10:7-focus]	 C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+[2021/2/26-10:7-tab]	 @Loquacious - Discord
+[2021/2/26-10:7-tab]	 #loot-qa - Discord
+[2021/2/26-10:7-tab]	 #pei-office - Discord
+[2021/2/26-10:7-tab]	 #loot-general - Discord
+[2021/2/26-10:7-tab]	 #loot-marketing - Discord
+[2021/2/26-10:8-input]	 spoiler alrerert!
+[2021/2/26-10:8-input]	 
+[2021/2/26-10:8-input]	 a
+[2021/2/26-10:8-input]	 
+[2021/2/26-10:8-input]	 
+[2021/2/26-10:8-tab]	 @Loquacious - Discord
+[2021/2/26-10:9-input]	 yes. I could see using that
+[2021/2/26-10:9-input]	  in a few playces
+[2021/2/26-10:9-input]	  that would work I think
+[2021/2/26-10:9-input]	 
+[2021/2/26-10:9-tab]	 #loot-marketing - Discord
+[2021/2/26-10:10-tab]	 #loot-sprint-nuggets - Discord
+[2021/2/26-10:10-tab]	 #loot-leads - Discord
+[2021/2/26-10:10-tab]	 @Loquacious - Discord
+[2021/2/26-10:11-input]	 you running lcoalocally?
+[2021/2/26-10:11-input]	 
+[2021/2/26-10:11-input]	 I'd try a killnode
+[2021/2/26-10:11-input]	 
+[2021/2/26-10:11-focus]	 C:\Program Files\Mozilla Firefox\firefox.exe
+[2021/2/26-10:11-tab]	 Pull requests · BitfoxGames/Loot.io — Mozilla Firefox
+[2021/2/26-10:11-tab]	 Inbox - michael.schurman@gmail.com - Gmail — Mozilla Firefox
+[2021/2/26-10:11-tab]	 Inbox - michael.schurman@otherocean.com - Other Ocean Group, Inc. Mail — Mozilla Firefox
+[2021/2/26-10:11-tab]	 Inbox - michael.schurman@gmail.com - Gmail — Mozilla Firefox
+[2021/2/26-10:11-tab]	 Pull requests · BitfoxGames/Loot.io — Mozilla Firefox
+[2021/2/26-10:11-tab]	 Mozilla Firefox
+[2021/2/26-10:11-tab]	 Reminder Bot - Help — Mozilla Firefox
+[2021/2/26-10:11-tab]	 SOTI board - Agile Board - Sculpin QA — Mozilla Firefox
+[2021/2/26-10:11-tab]	 Inbox - michael.schurman@otherocean.com - Other Ocean Group, Inc. Mail — Mozilla Firefox
+[2021/2/26-10:11-tab]	 Inbox - michael.schurman@gmail.com - Gmail — Mozilla Firefox
+[2021/2/26-10:11-tab]	 Inbox - michael.schurman@otherocean.com - Other Ocean Group, Inc. Mail — Mozilla Firefox
+[2021/2/26-10:11-tab]	 SOTI board - Agile Board - Sculpin QA — Mozilla Firefox
+[2021/2/26-10:11-tab]	 Inbox - michael.schurman@otherocean.com - Other Ocean Group, Inc. Mail — Mozilla Firefox
+[2021/2/26-10:11-tab]	 Inbox - michael.schurman@gmail.com - Gmail — Mozilla Firefox
+[2021/2/26-10:11-focus]	 C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+[2021/2/26-10:11-tab]	 @Loquacious - Discord
+[2021/2/26-10:11-tab]	 #loot-leads - Discord
+[2021/2/26-10:12-tab]	 #tech-help - Discord
+[2021/2/26-10:12-tab]	 #loot-qa - Discord
+[2021/2/26-10:12-tab]	 #loot-sprint-nuggets - Discord
+[2021/2/26-10:12-tab]	 #loot-notifications - Discord
+[2021/2/26-10:12-tab]	 #loot-jira - Discord
+[2021/2/26-10:12-tab]	 #pei-office - Discord
+[2021/2/26-10:12-tab]	 #loot-qa - Discord
+[2021/2/26-10:12-tab]	 #loot-sprint-nuggets - Discord
+[2021/2/26-10:13-tab]	 #loot-leads - Discord
+[2021/2/26-10:14-input]	 @ben	
+[2021/2/26-10:14-input]	 I'm what would 
+[2021/2/26-10:14-input]	 aspect would we be shoing hwing him?
+[2021/2/26-10:14-input]	 
+[2021/2/26-10:14-focus]	 C:\Program Files\Mozilla Firefox\firefox.exe
+[2021/2/26-10:14-tab]	 
+[2021/2/26-10:14-focus]	 C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+[2021/2/26-10:14-tab]	 #loot-leads - Discord
+[2021/2/26-10:14-tab]	 #loot-marketing - Discord
+[2021/2/26-10:14-tab]	 #loot-qa - Discord
+[2021/2/26-10:14-tab]	 #pei-office - Discord
+[2021/2/26-10:14-tab]	 #loot-marketing - Discord
+[2021/2/26-10:14-tab]	 #loot-game-design - Discord
+[2021/2/26-10:14-tab]	 #loot-qa - Discord
+[2021/2/26-10:14-tab]	 #pei-office - Discord
+[2021/2/26-10:15-focus]	 C:\Program Files\Mozilla Firefox\firefox.exe
+[2021/2/26-10:15-tab]	 Inbox (1) - michael.schurman@gmail.com - Gmail — Mozilla Firefox
+[2021/2/26-10:15-tab]	 Mozilla Firefox
+[2021/2/26-10:15-input]	 red !g furnace
+[2021/2/26-10:15-tab]	 red furnace - Google Search — Mozilla Firefox
+[2021/2/26-10:15-input]	 
+[2021/2/26-10:15-input]	  charlotteotown
+[2021/2/26-10:15-tab]	 red furnace charlottetown - Google Search — Mozilla Firefox
+[2021/2/26-10:15-input]	 
+[2021/2/26-10:15-tab]	 Furnace Repair, Cleaning & Maintenance in Charlottetown PE | YellowPages.ca™ — Mozilla Firefox
+[2021/2/26-10:15-tab]	 Inbox (1) - michael.schurman@gmail.com - Gmail — Mozilla Firefox
+[2021/2/26-10:15-input]	 red
+[2021/2/26-10:15-tab]	 red clay in November - michael.schurman@gmail.com - Gmail — Mozilla Firefox
+[2021/2/26-10:16-tab]	 Mozilla Firefox
+[2021/2/26-10:16-input]	 red clay charlotteowntown
+[2021/2/26-10:16-tab]	 red clay charlottetown at DuckDuckGo — Mozilla Firefox
+[2021/2/26-10:16-input]	 
+[2021/2/26-10:16-tab]	 Inbox - michael.schurman@otherocean.com - Other Ocean Group, Inc. Mail — Mozilla Firefox
+[2021/2/26-10:16-tab]	 red clay in November - michael.schurman@gmail.com - Gmail — Mozilla Firefox
+[2021/2/26-10:16-tab]	 Inbox (1) - michael.schurman@gmail.com - Gmail — Mozilla Firefox
+[2021/2/26-10:16-tab]	 Inbox - michael.schurman@otherocean.com - Other Ocean Group, Inc. Mail — Mozilla Firefox
+[2021/2/26-10:16-tab]	 Inbox (1) - michael.schurman@gmail.com - Gmail — Mozilla Firefox
+[2021/2/26-10:16-input]	 red 
+[2021/2/26-10:16-tab]	 Ray's Tin Shop + Red Clay - michael.schurman@gmail.com - Gmail — Mozilla Firefox
+[2021/2/26-10:17-input]	 aray's tin shop
+[2021/2/26-10:17-input]	 
+[2021/2/26-10:17-tab]	 Inbox (1) - michael.schurman@gmail.com - Gmail — Mozilla Firefox
+[2021/2/26-10:17-tab]	 Inbox - michael.schurman@otherocean.com - Other Ocean Group, Inc. Mail — Mozilla Firefox
+[2021/2/26-10:17-tab]	 SOTI board - Agile Board - Sculpin QA — Mozilla Firefox
+[2021/2/26-10:17-tab]	 red clay charlottetown at DuckDuckGo — Mozilla Firefox
+[2021/2/26-10:17-tab]	 SOTI board - Agile Board - Sculpin QA — Mozilla Firefox
+[2021/2/26-10:17-focus]	 C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+[2021/2/26-10:17-tab]	 #pei-office - Discord
+[2021/2/26-10:17-focus]	 C:\Program Files\ConEmu\ConEmu64.exe
+[2021/2/26-10:17-tab]	 MINGW64:/c/Projects/loot
+[2021/2/26-10:17-tab]	 npm
+[2021/2/26-10:17-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/26-10:17-tab]	 projectile-effect-manager.ts - loot - Visual Studio Code
+[2021/2/26-10:17-focus]	 C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+[2021/2/26-10:17-tab]	 #pei-office - Discord
+[2021/2/26-10:17-tab]	 #loot-leads - Discord
+[2021/2/26-10:17-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/26-10:17-tab]	 projectile-effect-manager.ts - loot - Visual Studio Code
+[2021/2/26-10:17-input]	 the current penemeycli
+[2021/2/26-10:17-tab]	 enemy.client.ts - loot - Visual Studio Code
+[2021/2/26-10:17-input]	 
+[2021/2/26-10:17-focus]	 C:\Program Files\ShareX\ShareX.exe
+[2021/2/26-10:17-tab]	 ShareX - Region capture
+[2021/2/26-10:17-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/26-10:17-tab]	 enemy.client.ts - loot - Visual Studio Code
+[2021/2/26-10:17-focus]	 
+[2021/2/26-10:17-tab]	 
+[2021/2/26-10:17-focus]	 C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+[2021/2/26-10:17-tab]	 #loot-leads - Discord
+[2021/2/26-10:17-input]	 health bar is done with code:
+[2021/2/26-10:17-input]	 v
+[2021/2/26-10:18-input]	 
+[2021/2/26-10:18-input]	 
+[2021/2/26-10:18-input]	 we'd need a code task to  smallhook this up
+[2021/2/26-10:18-input]	 
+[2021/2/26-10:18-tab]	 #loot-sprint-nuggets - Discord
+[2021/2/26-10:18-tab]	 #pei-office - Discord
+[2021/2/26-10:18-tab]	 #loot-leads - Discord
+[2021/2/26-10:19-focus]	 
+[2021/2/26-10:19-tab]	 
+[2021/2/26-10:19-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/26-10:19-tab]	 enemy.client.ts - loot - Visual Studio Code
+[2021/2/26-10:19-focus]	 C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+[2021/2/26-10:19-tab]	 #loot-leads - Discord
+[2021/2/26-10:20-tab]	 #loot-code - Discord
+[2021/2/26-10:20-tab]	 #loot-leads - Discord
+[2021/2/26-10:20-tab]	 #loot-ui - Discord
+[2021/2/26-10:20-tab]	 #loot-art - Discord
+[2021/2/26-10:20-tab]	 #loot-game-design - Discord
+[2021/2/26-10:20-tab]	 #loot-general - Discord
+[2021/2/26-10:20-tab]	 #loot-broken-stuff - Discord
+[2021/2/26-10:20-tab]	 #loot-qa - Discord
+[2021/2/26-10:20-tab]	 #loot-playtesting - Discord
+[2021/2/26-10:20-tab]	 #loot-jira - Discord
+[2021/2/26-10:21-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/26-10:21-tab]	 enemy.client.ts - loot - Visual Studio Code
+[2021/2/26-10:21-focus]	 C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+[2021/2/26-10:21-tab]	 #loot-jira - Discord
+[2021/2/26-10:21-tab]	 #pei-office - Discord
+[2021/2/26-10:21-tab]	 #loot-leads - Discord
+[2021/2/26-10:21-focus]	 
+[2021/2/26-10:21-tab]	 
+[2021/2/26-10:21-focus]	 C:\Program Files\ConEmu\ConEmu64.exe
+[2021/2/26-10:21-tab]	 MINGW64:/c/Projects/loot
+[2021/2/26-10:21-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/26-10:21-tab]	 enemy.client.ts - loot - Visual Studio Code
+[2021/2/26-10:21-focus]	 
+[2021/2/26-10:21-tab]	 
+[2021/2/26-10:21-focus]	 C:\Program Files\Mozilla Firefox\firefox.exe
+[2021/2/26-10:21-tab]	 SOTI board - Agile Board - Sculpin QA — Mozilla Firefox
+[2021/2/26-10:21-tab]	 Inbox (1) - michael.schurman@gmail.com - Gmail — Mozilla Firefox
+[2021/2/26-10:21-tab]	 Michael, Monday is the RRSP deadline! - michael.schurman@gmail.com - Gmail — Mozilla Firefox
+[2021/2/26-10:21-tab]	 SOTI board - Agile Board - Sculpin QA — Mozilla Firefox
+[2021/2/26-10:22-focus]	 C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+[2021/2/26-10:22-tab]	 #loot-leads - Discord
+[2021/2/26-10:22-tab]	 #loot-general - Discord
+[2021/2/26-10:22-tab]	 #loot-qa - Discord
+[2021/2/26-10:22-focus]	 
+[2021/2/26-10:22-tab]	 
+[2021/2/26-10:22-focus]	 C:\Windows\explorer.exe
+[2021/2/26-10:22-focus]	 C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[2021/2/26-10:22-tab]	 Untitled - Google Chrome
+[2021/2/26-10:22-tab]	 Inspect with Chrome Developer Tools - Google Chrome
+[2021/2/26-10:23-input]	 lo
+[2021/2/26-10:23-input]	 hub
+[2021/2/26-10:23-tab]	 Loot.io - Google Chrome
+[2021/2/26-10:23-input]	 
+[2021/2/26-10:23-input]	 aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaasssssssssssssssssaaaaaaf
+[2021/2/26-10:23-focus]	 C:\Program Files\ShareX\ShareX.exe
+[2021/2/26-10:23-tab]	 ShareX - Region capture
+[2021/2/26-10:23-focus]	 C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[2021/2/26-10:23-tab]	 Loot.io - Google Chrome
+[2021/2/26-10:23-focus]	 C:\Program Files\ShareX\ShareX.exe
+[2021/2/26-10:23-tab]	 ShareX - Screen recording
+[2021/2/26-10:23-focus]	 C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[2021/2/26-10:23-tab]	 Loot.io - Google Chrome
+[2021/2/26-10:23-focus]	 C:\Program Files\ShareX\ShareX.exe
+[2021/2/26-10:23-tab]	 ShareX - Screen recording
+[2021/2/26-10:23-focus]	 C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[2021/2/26-10:23-tab]	 Loot.io - Google Chrome
+[2021/2/26-10:24-focus]	 C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+[2021/2/26-10:24-tab]	 #loot-qa - Discord
+[2021/2/26-10:24-focus]	 
+[2021/2/26-10:24-tab]	 
+[2021/2/26-10:24-focus]	 C:\Program Files\ShareX\ShareX.exe
+[2021/2/26-10:24-tab]	 NotificationForm
+[2021/2/26-10:24-focus]	 C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+[2021/2/26-10:24-tab]	 #loot-qa - Discord
+[2021/2/26-10:24-focus]	 C:\Program Files (x86)\VideoLAN\VLC\vlc.exe
+[2021/2/26-10:24-tab]	 VLC media player
+[2021/2/26-10:24-tab]	 swko4nkcn9.mp4 - VLC media player
+[2021/2/26-10:24-focus]	 C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+[2021/2/26-10:24-tab]	 #loot-qa - Discord
+[2021/2/26-10:24-focus]	 C:\Windows\explorer.exe
+[2021/2/26-10:24-tab]	 
+[2021/2/26-10:24-focus]	 C:\Program Files\Everything\Everything.exe
+[2021/2/26-10:24-tab]	 Everything
+[2021/2/26-10:24-tab]	 mp - Everything
+[2021/2/26-10:24-tab]	 mp4 - Everything
+[2021/2/26-10:24-input]	 mp4
+[2021/2/26-10:24-focus]	 C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+[2021/2/26-10:24-tab]	 #loot-qa - Discord
+[2021/2/26-10:24-input]	 it's a vertical screen size issue
+[2021/2/26-10:24-input]	 seems to be 
+[2021/2/26-10:24-input]	 
+[2021/2/26-10:24-focus]	 C:\Program Files\Everything\Everything.exe
+[2021/2/26-10:24-tab]	 mp4 - Everything
+[2021/2/26-10:24-focus]	 C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+[2021/2/26-10:24-tab]	 #loot-qa - Discord
+[2021/2/26-10:24-tab]	 #loot-broken-stuff - Discord
+[2021/2/26-10:25-input]	 neet d at oo buy the MTX Loot vVacuum attachment
+[2021/2/26-10:25-input]	 
+[2021/2/26-10:25-tab]	 #loot-ui - Discord
+[2021/2/26-10:25-focus]	 C:\Program Files\Mozilla Firefox\firefox.exe
+[2021/2/26-10:25-tab]	 Michael, Monday is the RRSP deadline! - michael.schurman@gmail.com - Gmail — Mozilla Firefox
+[2021/2/26-10:25-tab]	 Mozilla Firefox
+[2021/2/26-10:26-input]	 pay
+[2021/2/26-10:26-tab]	 Payworks Application Login — Mozilla Firefox
+[2021/2/26-10:26-input]	 
+[2021/2/26-10:26-tab]	 Sculpin QA Limited: P00113 -- Payroll Setup / Employment / Payworks.ca - We Work For You — Mozilla Firefox
+[2021/2/26-10:26-tab]	 Sculpin QA Limited: P00113 -- / Payworks.ca - We Work For You — Mozilla Firefox
+[2021/2/26-10:26-tab]	 Michael, Monday is the RRSP deadline! - michael.schurman@gmail.com - Gmail — Mozilla Firefox
+[2021/2/26-10:26-input]	 
+[2021/2/26-10:26-tab]	 Inbox - michael.schurman@otherocean.com - Other Ocean Group, Inc. Mail — Mozilla Firefox
+[2021/2/26-10:26-tab]	 Sculpin QA Limited: P00113 -- / Payworks.ca - We Work For You — Mozilla Firefox
+[2021/2/26-10:26-focus]	 C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+[2021/2/26-10:26-tab]	 #loot-ui - Discord
+[2021/2/26-10:26-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/26-10:26-tab]	 enemy.client.ts - loot - Visual Studio Code
+[2021/2/26-10:26-tab]	 projectile-effect-manager.ts - loot - Visual Studio Code
+[2021/2/26-10:26-tab]	 emitter.ts - loot - Visual Studio Code
+[2021/2/26-10:27-tab]	 collision-system.ts - loot - Visual Studio Code
+[2021/2/26-10:27-tab]	 elemental-hit-pfx.ts - loot - Visual Studio Code
+[2021/2/26-10:27-tab]	 game-client.ts - loot - Visual Studio Code
+[2021/2/26-10:27-focus]	 
+[2021/2/26-10:27-tab]	 
+[2021/2/26-10:27-focus]	 C:\Program Files\Mozilla Firefox\firefox.exe
+[2021/2/26-10:27-tab]	 Sculpin QA Limited: P00113 -- / Payworks.ca - We Work For You — Mozilla Firefox
+[2021/2/26-10:27-tab]	 SOTI board - Agile Board - Sculpin QA — Mozilla Firefox
+[2021/2/26-10:29-tab]	 Workload by assignee - MVP Milestone: Sprint 4 - Sculpin QA — Mozilla Firefox
+[2021/2/26-10:29-tab]	 SOTI board - Agile Board - Sculpin QA — Mozilla Firefox
+[2021/2/26-10:29-focus]	 C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+[2021/2/26-10:29-tab]	 #loot-ui - Discord
+[2021/2/26-10:29-tab]	 #loot-leads - Discord
+[2021/2/26-10:29-tab]	 #loot-game-design - Discord
+[2021/2/26-10:30-tab]	 #loot-qa - Discord
+[2021/2/26-10:30-tab]	 #loot-broken-stuff - Discord
+[2021/2/26-10:30-focus]	 C:\Program Files\Mozilla Firefox\firefox.exe
+[2021/2/26-10:30-tab]	 SOTI board - Agile Board - Sculpin QA — Mozilla Firefox
+[2021/2/26-10:30-focus]	 C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+[2021/2/26-10:30-tab]	 #loot-broken-stuff - Discord
+[2021/2/26-10:30-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/26-10:30-tab]	 game-client.ts - loot - Visual Studio Code
+[2021/2/26-10:30-input]	 ppropbeachpo
+[2021/2/26-10:30-input]	 
+[2021/2/26-10:30-input]	 pbeachpropbea
+[2021/2/26-10:30-tab]	 prop-configs-beach.ts - loot - Visual Studio Code
+[2021/2/26-10:30-input]	 
+[2021/2/26-10:30-input]	 fweast
+[2021/2/26-10:30-input]	 
+[2021/2/26-10:30-input]	 
+[2021/2/26-10:30-input]	 
+[2021/2/26-10:31-input]	 
+[2021/2/26-10:31-input]	 Fwest
+[2021/2/26-10:31-input]	 \b
+[2021/2/26-10:31-tab]	 poi-data.ts - loot - Visual Studio Code
+[2021/2/26-10:31-input]	 F
+[2021/2/26-10:31-tab]	 prop-configs-beach.ts - loot - Visual Studio Code
+[2021/2/26-10:31-tab]	 poi-data.ts - loot - Visual Studio Code
+[2021/2/26-10:32-input]	 F
+[2021/2/26-10:33-focus]	 C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+[2021/2/26-10:33-tab]	 #loot-broken-stuff - Discord
+[2021/2/26-10:33-tab]	 #loot-leads - Discord
+[2021/2/26-10:33-input]	 wiill the bars be pixi or vue?
+[2021/2/26-10:33-input]	 
+[2021/2/26-10:33-input]	 (or is that up to me?)
+[2021/2/26-10:33-input]	 
+[2021/2/26-10:33-input]	 tsam
+[2021/2/26-10:33-tab]	 @SamStiles - Discord
+[2021/2/26-10:33-input]	 seems like pixi would be more preerformant
+[2021/2/26-10:34-input]	 (some people don't think performant is a workd...... but I think it's useful)
+[2021/2/26-10:34-input]	 
+[2021/2/26-10:34-tab]	 #loot-leads - Discord
+[2021/2/26-10:34-focus]	 C:\Program Files\Mozilla Firefox\firefox.exe
+[2021/2/26-10:34-tab]	 Mozilla Firefox
+[2021/2/26-10:34-tab]	 [SOTI-2476] Hook Up Enemy Health Bars - Sculpin QA — Mozilla Firefox
+[2021/2/26-10:34-focus]	 C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+[2021/2/26-10:34-tab]	 #loot-leads - Discord
+[2021/2/26-10:35-input]	 tenemy
+[2021/2/26-10:35-input]	 
+[2021/2/26-10:35-input]	 t
+[2021/2/26-10:35-input]	 
+[2021/2/26-10:36-tab]	 #loot-game-design - Discord
+[2021/2/26-10:36-focus]	 C:\Program Files\Mozilla Firefox\firefox.exe
+[2021/2/26-10:36-tab]	 Mozilla Firefox
+[2021/2/26-10:36-tab]	 [SOTI-1645] Projectiles fired from Arcane Focus weapons have an incorrect projectile origin - Sculpin QA — Mozilla Firefox
+[2021/2/26-10:36-focus]	 C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+[2021/2/26-10:36-tab]	 #loot-game-design - Discord
+[2021/2/26-10:36-focus]	 C:\Program Files\Mozilla Firefox\firefox.exe
+[2021/2/26-10:36-tab]	 Mozilla Firefox
+[2021/2/26-10:36-tab]	 [SOTI-2713] Sync projectile release position with animation - Sculpin QA — Mozilla Firefox
+[2021/2/26-10:36-focus]	 C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+[2021/2/26-10:36-tab]	 #loot-game-design - Discord
+[2021/2/26-10:36-focus]	 C:\Program Files\Mozilla Firefox\firefox.exe
+[2021/2/26-10:36-tab]	 [SOTI-1645] Projectiles fired from Arcane Focus weapons have an incorrect projectile origin - Sculpin QA — Mozilla Firefox
+[2021/2/26-10:36-focus]	 C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+[2021/2/26-10:36-tab]	 #loot-game-design - Discord
+[2021/2/26-10:36-tab]	 @SamStiles - Discord
+[2021/2/26-10:37-input]	 yeah
+[2021/2/26-10:37-input]	 
+[2021/2/26-10:37-tab]	 #loot-game-design - Discord
+[2021/2/26-10:38-focus]	 C:\Program Files\Mozilla Firefox\firefox.exe
+[2021/2/26-10:38-tab]	 [SOTI-1645] Projectiles fired from Arcane Focus weapons have an incorrect projectile origin - Sculpin QA — Mozilla Firefox
+[2021/2/26-10:38-clip]	 https://sculpin.atlassian.net/browse/SOTI-1645
+[2021/2/26-10:38-focus]	 C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+[2021/2/26-10:38-tab]	 #loot-game-design - Discord
+[2021/2/26-10:38-input]	 c
+[2021/2/26-10:38-input]	 I'm going to conva
+[2021/2/26-10:39-tab]	 @ShelboBears - Discord
+[2021/2/26-10:39-input]	 news to me. I created the teicket
+[2021/2/26-10:39-input]	  as work to be done.
+[2021/2/26-10:39-input]	  I've asked for vavca for next sprint but it hasn't been approved yet
+[2021/2/26-10:40-input]	 . If I get it approved I'm not sure Iif I"ll have time. Dave/CallemAny coder could do this work
+[2021/2/26-10:40-input]	 
+[2021/2/26-10:40-tab]	 #loot-game-design - Discord
+[2021/2/26-10:40-tab]	 @ShelboBears - Discord
+[2021/2/26-10:40-input]	 the sprint 4 aspect a
+[2021/2/26-10:40-input]	 wasn't mentioned
+[2021/2/26-10:40-input]	 (I'm in game- 
+[2021/2/26-10:41-input]	 looking at ticktets now, I w've been redainading game-design)
+[2021/2/26-10:41-input]	 
+[2021/2/26-10:41-tab]	 #loot-game-design - Discord
+[2021/2/26-10:42-clip]	 SOTI-2713
+[2021/2/26-10:42-input]	 cv and SOTI_-1645 are conflated. Seems like they should be looked at at the same time
+[2021/2/26-10:42-input]	 , but, we *could* maybe 
+[2021/2/26-10:43-input]	 do them separately. I'ld like to chat to C@call	@dav	quick about it, if they have time before planning
+[2021/2/26-10:43-input]	 . 
+[2021/2/26-10:43-input]	 2713 was for enemies.
+[2021/2/26-10:43-input]	  sepdpecifcalfically. 
+[2021/2/26-10:43-input]	 I can do 2713, but it doesn't have to be me, it can be 
+[2021/2/26-10:44-input]	 any codercan be me/Dave/Caullum
+[2021/2/26-10:44-input]	 
+[2021/2/26-10:44-tab]	 #loot-leads - Discord
+[2021/2/26-10:45-input]	 boss names are done
+[2021/2/26-10:45-input]	  already
+[2021/2/26-10:45-input]	 /ehelathalth
+[2021/2/26-10:45-input]	 
+[2021/2/26-10:45-input]	 socks
+[2021/2/26-10:45-input]	 
+[2021/2/26-10:45-tab]	 #loot-art - Discord
+[2021/2/26-10:45-clip]	 https://discord.com/channels/355709901970079744/657291435984551948/812371369165455360
+[2021/2/26-10:45-tab]	 #loot-ui - Discord
+[2021/2/26-10:45-tab]	 #loot-leads - Discord
+[2021/2/26-10:45-input]	 v
+[2021/2/26-10:45-input]	 
+[2021/2/26-10:46-input]	 yes
+[2021/2/26-10:46-input]	 
+[2021/2/26-10:46-input]	  they are tat top of screen
+[2021/2/26-10:46-input]	 
+[2021/2/26-10:46-input]	 
+[2021/2/26-10:47-tab]	 #loot-ui - Discord
+[2021/2/26-10:47-tab]	 #loot-qa - Discord
+[2021/2/26-10:47-tab]	 #loot-ui - Discord
+[2021/2/26-10:47-focus]	 C:\Program Files\Mozilla Firefox\firefox.exe
+[2021/2/26-10:47-tab]	 [SOTI-1645] Projectiles fired from Arcane Focus weapons have an incorrect projectile origin - Sculpin QA — Mozilla Firefox
+[2021/2/26-10:47-tab]	 Inbox (2) - michael.schurman@otherocean.com - Other Ocean Group, Inc. Mail — Mozilla Firefox
+[2021/2/26-10:47-tab]	 [JIRA] Tyler Noiles mentioned you on SOTI-1645 - michael.schurman@otherocean.com - Other Ocean Group, Inc. Mail — Mozilla Firefox
+[2021/2/26-10:48-tab]	 Mozilla Firefox
+[2021/2/26-10:48-tab]	 [SOTI-1645] Projectiles fired from Arcane Focus weapons have an incorrect projectile origin - Sculpin QA — Mozilla Firefox
+[2021/2/26-10:48-tab]	 [SOTI-2713] Sync projectile release position with animation - Sculpin QA — Mozilla Firefox
+[2021/2/26-10:49-input]	 
+[2021/2/26-10:49-focus]	 
+[2021/2/26-10:49-tab]	 
+[2021/2/26-10:49-focus]	 C:\Windows\explorer.exe
+[2021/2/26-10:49-focus]	 C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[2021/2/26-10:49-tab]	 Untitled - Google Chrome
+[2021/2/26-10:49-tab]	 Inspect with Chrome Developer Tools - Google Chrome
+[2021/2/26-10:49-input]	 
+[2021/2/26-10:49-input]	 
+[2021/2/26-10:49-focus]	 C:\Program Files\Mozilla Firefox\firefox.exe
+[2021/2/26-10:49-tab]	 [SOTI-2713] Sync projectile release position with animation - Sculpin QA — Mozilla Firefox
+[2021/2/26-10:49-focus]	 C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+[2021/2/26-10:49-tab]	 #loot-ui - Discord
+[2021/2/26-10:49-input]	 when I hit ESC in chrome
+[2021/2/26-10:50-input]	  while in fullscreen, all it does is warn me to use f111 to exit fullscreen
+[2021/2/26-10:50-input]	 
+[2021/2/26-10:50-focus]	 
+[2021/2/26-10:50-tab]	 
+[2021/2/26-10:50-focus]	 C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[2021/2/26-10:50-tab]	 Untitled - Google Chrome
+[2021/2/26-10:50-tab]	 Inspect with Chrome Developer Tools - Google Chrome
+[2021/2/26-10:50-input]	 
+[2021/2/26-10:50-input]	 
+[2021/2/26-10:50-focus]	 C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+[2021/2/26-10:50-tab]	 #loot-ui - Discord
+[2021/2/26-10:51-input]	  (actually, it might just warn you automatically when going into fullscreen and having nothing to do with ESC)
+[2021/2/26-10:51-input]	 s
+[2021/2/26-10:51-input]	 
+[2021/2/26-10:51-tab]	 #loot-jira - Discord
+[2021/2/26-10:51-focus]	 C:\Program Files\Mozilla Firefox\firefox.exe
+[2021/2/26-10:51-tab]	 [SOTI-2713] Sync projectile release position with animation - Sculpin QA — Mozilla Firefox
+[2021/2/26-10:51-focus]	 C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+[2021/2/26-10:51-tab]	 #loot-jira - Discord
+[2021/2/26-10:51-input]	 tcall
+[2021/2/26-10:51-tab]	 @OhHeyThere - Discord
+[2021/2/26-10:52-input]	 da
+[2021/2/26-10:52-input]	 
+[2021/2/26-10:52-input]	 tdav
+[2021/2/26-10:52-tab]	 @Dave - Discord
+[2021/2/26-10:52-input]	 
+[2021/2/26-10:52-input]	 tcal
+[2021/2/26-10:52-tab]	 @OhHeyThere - Discord
+[2021/2/26-10:52-input]	 
+[2021/2/26-10:52-tab]	 #loot-jira - Discord
+[2021/2/26-10:52-tab]	 #loot-ui - Discord
+[2021/2/26-10:52-input]	 
+[2021/2/26-10:52-tab]	 #loot-qa - Discord
+[2021/2/26-10:53-input]	 what made it more difficult?
+[2021/2/26-10:53-input]	 
+[2021/2/26-10:53-focus]	 C:\Program Files\Mozilla Firefox\firefox.exe
+[2021/2/26-10:53-tab]	 [SOTI-2713] Sync projectile release position with animation - Sculpin QA — Mozilla Firefox
+[2021/2/26-10:53-tab]	 - Issues - Sculpin QA — Mozilla Firefox
+[2021/2/26-10:53-tab]	 Spoils of the Isles - Issues - Sculpin QA — Mozilla Firefox
+[2021/2/26-10:54-focus]	 C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+[2021/2/26-10:54-tab]	 #loot-qa - Discord
+[2021/2/26-10:54-focus]	 C:\Program Files\Mozilla Firefox\firefox.exe
+[2021/2/26-10:54-tab]	 Spoils of the Isles - Issues - Sculpin QA — Mozilla Firefox
+[2021/2/26-10:54-tab]	 [SOTI-2673] POI respawn timer skips when the user leaves the area and then renters it after a few seconds - Sculpin QA — Mozilla Firefox
+[2021/2/26-10:55-tab]	 [SOTI-2600] POI respawn countdown timer will remain on screen if the player is killed while the timer is displaying - Sculpin QA — Mozilla Firefox
+[2021/2/26-10:55-tab]	 [SOTI-2673] POI respawn timer skips when the user leaves the area and then renters it after a few seconds - Sculpin QA — Mozilla Firefox
+[2021/2/26-10:55-tab]	 Spoils of the Isles - Issues - Sculpin QA — Mozilla Firefox
+[2021/2/26-10:58-focus]	 C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+[2021/2/26-10:58-tab]	 #loot-qa - Discord
+[2021/2/26-10:59-input]	 yeah... 
+[2021/2/26-10:59-input]	 aagree it is hard. 
+[2021/2/26-10:59-input]	 (but maybe that is wahthat we're going for>?)
+[2021/2/26-10:59-focus]	 C:\Program Files\Mozilla Firefox\firefox.exe
+[2021/2/26-10:59-tab]	 Spoils of the Isles - Issues - Sculpin QA — Mozilla Firefox
+[2021/2/26-10:59-focus]	 C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+[2021/2/26-10:59-tab]	 #loot-qa - Discord
+[2021/2/26-10:59-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/26-10:59-tab]	 poi-data.ts - loot - Visual Studio Code
+[2021/2/26-10:59-focus]	 C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+[2021/2/26-10:59-tab]	 #loot-qa - Discord
+[2021/2/26-11:0-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/26-11:0-tab]	 poi-data.ts - loot - Visual Studio Code
+[2021/2/26-11:0-input]	 tpdebugcon
+[2021/2/26-11:0-tab]	 debug-config.ts - loot - Visual Studio Code
+[2021/2/26-11:0-input]	 
+[2021/2/26-11:0-input]	 fitems
+[2021/2/26-11:0-clip]	 		overrideItemRarity: 0, //ASTRONOMICAL_THRESHOLD
+
+[2021/2/26-11:0-focus]	 
+[2021/2/26-11:0-tab]	 
+[2021/2/26-11:0-focus]	 C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+[2021/2/26-11:0-tab]	 #loot-qa - Discord
+[2021/2/26-11:0-input]	 ctsam
+[2021/2/26-11:0-tab]	 @SamStiles - Discord
+[2021/2/26-11:0-input]	 v
+[2021/2/26-11:0-input]	 
+[2021/2/26-11:0-input]	 you can set with `set-debug/ if you ` know what that value is...
+[2021/2/26-11:0-input]	 
+[2021/2/26-11:0-tab]	 #loot-qa - Discord
+[2021/2/26-11:0-input]	 . When did igt get more diffciicult?
+[2021/2/26-11:1-input]	 
+[2021/2/26-11:1-tab]	 loot-voice - Discord
+[2021/2/26-11:1-tab]	 @SamStiles - Discord
+[2021/2/26-11:1-input]	 yes
+[2021/2/26-11:1-input]	 
+[2021/2/26-11:1-tab]	 loot-voice - Discord
+[2021/2/26-11:2-tab]	 #loot-game-design - Discord
+[2021/2/26-11:2-input]	 
+[2021/2/26-11:4-tab]	 loot-voice - Discord
+[2021/2/26-11:4-tab]	 #loot-ui - Discord
+[2021/2/26-11:4-input]	 
+[2021/2/26-11:4-tab]	 #loot-general - Discord
+[2021/2/26-11:5-tab]	 #loot-leads - Discord
+[2021/2/26-11:5-tab]	 loot-voice - Discord
+[2021/2/26-11:5-tab]	 #loot-qa - Discord
+[2021/2/26-11:5-tab]	 loot-voice - Discord
+[2021/2/26-11:5-tab]	 #loot-general - Discord
+[2021/2/26-11:5-tab]	 loot-voice - Discord
+[2021/2/26-11:6-tab]	 Discord Popout
+[2021/2/26-11:6-input]	 
+[2021/2/26-11:6-tab]	 loot-voice
+[2021/2/26-11:6-tab]	 #loot-general - Discord
+[2021/2/26-11:6-tab]	 #loot-sprint-nuggets - Discord
+[2021/2/26-11:7-tab]	 #loot-game-design - Discord
+[2021/2/26-11:7-tab]	 #loot-qa - Discord
+[2021/2/26-11:7-tab]	 #loot-sprint-nuggets - Discord
+[2021/2/26-11:7-input]	 :nug	regtro actions can easily be missed
+[2021/2/26-11:7-input]	 
+[2021/2/26-11:7-input]	 
+[2021/2/26-11:13-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/26-11:13-tab]	 debug-config.ts - loot - Visual Studio Code
+[2021/2/26-11:18-focus]	 C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+[2021/2/26-11:18-tab]	 #loot-sprint-nuggets - Discord
+[2021/2/26-11:19-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/26-11:19-tab]	 debug-config.ts - loot - Visual Studio Code
+[2021/2/26-11:22-focus]	 
+[2021/2/26-11:22-tab]	 
+[2021/2/26-11:22-focus]	 C:\Program Files\Mozilla Firefox\firefox.exe
+[2021/2/26-11:22-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/26-11:22-tab]	 debug-config.ts - loot - Visual Studio Code
+[2021/2/26-11:25-focus]	 C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+[2021/2/26-11:25-tab]	 #loot-sprint-nuggets - Discord
+[2021/2/26-11:25-tab]	 #loot-code - Discord
+[2021/2/26-11:26-tab]	 #loot-general - Discord
+[2021/2/26-11:26-tab]	 #loot-qa - Discord
+[2021/2/26-11:32-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/26-11:32-tab]	 debug-config.ts - loot - Visual Studio Code
+[2021/2/26-11:33-focus]	 C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+[2021/2/26-11:33-tab]	 loot-voice
+[2021/2/26-11:33-tab]	 #loot-qa - Discord
+[2021/2/26-11:33-tab]	 #loot-jira - Discord
+[2021/2/26-11:33-tab]	 #loot-notifications - Discord
+[2021/2/26-11:33-tab]	 #loot-sprint-nuggets - Discord
+[2021/2/26-11:38-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/26-11:38-tab]	 debug-config.ts - loot - Visual Studio Code
+[2021/2/26-11:38-focus]	 C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[2021/2/26-11:38-tab]	 Untitled - Google Chrome
+[2021/2/26-11:38-tab]	 about:blank - Google Chrome
+[2021/2/26-11:38-tab]	 Loot.io - Google Chrome
+[2021/2/26-11:39-focus]	 
+[2021/2/26-11:39-tab]	 
+[2021/2/26-11:39-focus]	 C:\Program Files\ConEmu\ConEmu64.exe
+[2021/2/26-11:39-tab]	 MINGW64:/c/Projects/loot
+[2021/2/26-11:39-tab]	 npm
+[2021/2/26-11:39-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/26-11:39-tab]	 debug-config.ts - loot - Visual Studio Code
+[2021/2/26-11:39-focus]	 
+[2021/2/26-11:39-tab]	 
+[2021/2/26-11:39-focus]	 C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+[2021/2/26-11:39-tab]	 loot-voice
+[2021/2/26-11:39-focus]	 
+[2021/2/26-11:39-tab]	 
+[2021/2/26-11:39-input]	 dad
+[2021/2/26-11:39-focus]	 C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[2021/2/26-11:39-tab]	 Loot.io - Google Chrome
+[2021/2/26-11:39-focus]	 
+[2021/2/26-11:39-tab]	 
+[2021/2/26-11:39-focus]	 C:\Program Files\ConEmu\ConEmu64.exe
+[2021/2/26-11:39-tab]	 npm
+[2021/2/26-11:39-input]	 d
+[2021/2/26-11:39-focus]	 C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[2021/2/26-11:39-tab]	 Loot.io - Google Chrome
+[2021/2/26-11:39-input]	 d
+[2021/2/26-11:39-focus]	 
+[2021/2/26-11:39-tab]	 
+[2021/2/26-11:39-focus]	 C:\Program Files\ConEmu\ConEmu64.exe
+[2021/2/26-11:39-tab]	 MINGW64:/c/Projects/loot
+[2021/2/26-11:39-input]	 killnode

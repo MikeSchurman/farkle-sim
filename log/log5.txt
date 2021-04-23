@@ -1,0 +1,221 @@
+
+> quick@1.0.0 main C:\Projects\quick
+> npx ts-node src/main.ts
+
+focus: C:\Windows\SystemApps\Microsoft.Windows.Cortana_cw5n1h2txyewy\SearchUI.exe
+tab: Cortana
+clip: https://twitter.com/Demilogic/status/1358661842147692549
+keydown
+keypress
+keyup
+sscan
+focus: C:\Windows\System32\WFS.exe
+tab: Windows Fax and Scan
+mousemove
+
+mousedown
+mouseup
+mouseclick
+tab: Select Device
+focus: C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+tab: #health - Discord
+tab: #loot-general - Discord
+mousewheel
+focus: C:\Program Files\Mozilla Firefox\firefox.exe
+tab: Andrew Spinks on Twitter: "I absolutely have not done anything to violate your terms of service, so I can take this no other way than you deciding to burn this bridge. Consider it burned. #Terraria for @GoogleStadia is canceled. My company will no longer support any of your platforms moving forward." / Twitter — Mozilla Firefox
+tab: Terraria on Stadia cancelled after developer's Google account gets locked | Hacker News — Mozilla Firefox
+mousedrag
+focus: C:\Program Files (x86)\HP\Digital Imaging\bin\Hpqdirec.exe
+tab: HP Solution Center
+focus: C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+tab: #loot-general - Discord
+focus: C:\Windows\System32\WFS.exe
+tab: New Scan
+focus: C:\Windows\explorer.exe
+tab: 
+focus: C:\Windows\System32\WFS.exe
+tab: New Scan
+focus: 
+tab: 
+focus: C:\Windows\SystemApps\ShellExperienceHost_cw5n1h2txyewy\ShellExperienceHost.exe
+tab: Jump List for Windows Fax and Scan
+focus: C:\Windows\explorer.exe
+tab: 
+focus: C:\Windows\System32\WFS.exe
+tab: New Scan
+focus: 
+tab: 
+focus: C:\Windows\explorer.exe
+focus: C:\Windows\SystemApps\ShellExperienceHost_cw5n1h2txyewy\ShellExperienceHost.exe
+tab: Jump List for Windows Fax and Scan
+focus: C:\Windows\System32\WFS.exe
+tab: New Scan
+tab: Windows Fax and Scan
+focus: C:\Windows\System32\Taskmgr.exe
+tab: Task Manager
+
+focus: 
+tab: 
+focus: C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+tab: generic-no-yes.panel.vue - loot - Visual Studio Code
+focus: 
+tab: 
+focus: C:\Windows\SystemApps\Microsoft.Windows.Cortana_cw5n1h2txyewy\SearchUI.exe
+tab: Cortana
+ssca
+focus: C:\Windows\explorer.exe
+tab: 
+focus: C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+tab: generic-no-yes.panel.vue - loot - Visual Studio Code
+focus: C:\Windows\SystemApps\Microsoft.Windows.Cortana_cw5n1h2txyewy\SearchUI.exe
+tab: Cortana
+ssca
+focus: C:\Windows\System32\WFS.exe
+tab: Windows Fax and Scan
+
+tab: Select Device
+tab: New Scan
+
+
+focus: C:\Program Files\Mozilla Firefox\firefox.exe
+tab: Terraria on Stadia cancelled after developer's Google account gets locked | Hacker News — Mozilla Firefox
+tab: Mozilla Firefox
+windows fax scan pdf
+tab: windows fax scan pdf at DuckDuckGo — Mozilla Firefox
+
+tab: Scanning documents to PDF with Windows Fax & Scan - Microsoft Community — Mozilla Firefox
+tab: Mozilla Firefox
+tab: How To Save Scanned Documents And Pictures As PDF In Windows 10 — Mozilla Firefox
+focus: C:\Windows\System32\WFS.exe
+tab: New Scan
+tab: 
+focus: C:\Program Files\Mozilla Firefox\firefox.exe
+tab: Andrew Spinks on Twitter: "I absolutely have not done anything to violate your terms of service, so I can take this no other way than you deciding to burn this bridge. Consider it burned. #Terraria for @GoogleStadia is canceled. My company will no longer support any of your platforms moving forward." / Twitter — Mozilla Firefox
+tab: Terraria on Stadia cancelled after developer's Google account gets locked | Hacker News — Mozilla Firefox
+focus: C:\Windows\System32\WFS.exe
+tab: Error
+tab: Windows Fax and Scan
+focus: C:\Program Files\Mozilla Firefox\firefox.exe
+tab: Terraria on Stadia cancelled after developer's Google account gets locked | Hacker News — Mozilla Firefox
+focus: C:\Program Files (x86)\HP\Digital Imaging\bin\Hpqdirec.exe
+tab: HP Solution Center
+focus: C:\Windows\System32\WFS.exe
+tab: Windows Fax and Scan
+tab: Select Device
+tab: New Scan
+tab: 
+tab: Error
+tab: Windows Fax and Scan
+focus: C:\Program Files\Mozilla Firefox\firefox.exe
+tab: Terraria on Stadia cancelled after developer's Google account gets locked | Hacker News — Mozilla Firefox
+focus: C:\Windows\System32\WFS.exe
+tab: Windows Fax and Scan
+tab: Select Device
+focus: C:\Program Files\Mozilla Firefox\firefox.exe
+tab: Terraria on Stadia cancelled after developer's Google account gets locked | Hacker News — Mozilla Firefox
+focus: C:\Windows\System32\WFS.exe
+tab: New Scan
+tab: 
+focus: C:\Program Files\Mozilla Firefox\firefox.exe
+tab: Inbox (1) - michael.schurman@otherocean.com - Other Ocean Group, Inc. Mail — Mozilla Firefox
+tab: [Alert] Forte Platform Returning Error Codes alert was triggered (Severe severity) - michael.schurman@otherocean.com - Other Ocean Group, Inc. Mail — Mozilla Firefox
+tab: Inbox - michael.schurman@otherocean.com - Other Ocean Group, Inc. Mail — Mozilla Firefox
+tab: Inbox - michael.schurman@gmail.com - Gmail — Mozilla Firefox
+tab: Mozilla Firefox
+tab: Facebook — Mozilla Firefox
+f
+focus: C:\Windows\System32\WFS.exe
+tab: Windows Fax and Scan
+tab: Print Pictures
+tab: Windows Fax and Scan
+
+tab: Print Pictures
+tab: Save Print Output As
+form1linda-form1
+tab: Print Pictures
+
+tab: Windows Fax and Scan
+tab: Select Device
+tab: Windows Fax and Scan
+tab: New Scan
+tab: 
+focus: C:\Program Files\Mozilla Firefox\firefox.exe
+tab: Facebook — Mozilla Firefox
+focus: C:\Windows\System32\WFS.exe
+tab: Windows Fax and Scan
+tab: Print Pictures
+tab: Save Print Output As
+lind-2
+tab: Print Pictures
+tab: Windows Fax and Scan
+
+tab: Select Device
+tab: Windows Fax and Scan
+tab: New Scan
+tab: 
+tab: Windows Fax and Scan
+tab: Print Pictures
+tab: Save Print Output As
+tab: Print Pictures
+linda3
+focus: 
+tab: 
+focus: C:\Program Files\Everything\Everything.exe
+tab: Everything
+tab: lin - Everything
+tab: linda - Everything
+tab: linda- - Everything
+linda-
+tab: 
+focus: C:\Program Files (x86)\Foxit Software\Foxit Reader\FoxitReader.exe
+tab: Foxit Reader
+tab: linda-form1.pdf - Foxit Reader
+focus: 
+tab: 
+focus: C:\Windows\System32\WFS.exe
+tab: Windows Fax and Scan
+focus: C:\Program Files\Everything\Everything.exe
+tab: 
+tab: linda- - Everything
+focus: C:\Program Files (x86)\Foxit Software\Foxit Reader\FoxitReader.exe
+tab: linda-form2.pdf - Foxit Reader
+focus: C:\Users\Michaels\AppData\Roaming\Foxit Software\Addon\Foxit Reader\FoxitReaderUpdater.exe
+tab: Foxit Reader Updater
+focus: C:\Program Files\Everything\Everything.exe
+tab: linda- - Everything
+tab: 
+focus: C:\Program Files (x86)\Foxit Software\Foxit Reader\FoxitReader.exe
+tab: linda-form2.pdf - Foxit Reader
+tab: linda-form3.pdf - Foxit Reader
+tab: linda-form2.pdf - Foxit Reader
+tab: linda-form1.pdf - Foxit Reader
+tab: linda-form2.pdf - Foxit Reader
+tab: linda-form3.pdf - Foxit Reader
+tab: Start - Foxit Reader
+focus: C:\Program Files\Everything\Everything.exe
+tab: linda- - Everything
+focus: C:\Windows\System32\WFS.exe
+tab: Windows Fax and Scan
+focus: C:\Program Files\Everything\Everything.exe
+tab: linda- - Everything
+focus: C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+tab: generic-no-yes.panel.vue - loot - Visual Studio Code
+focus: C:\Program Files\Mozilla Firefox\firefox.exe
+tab: Facebook — Mozilla Firefox
+tab: Inbox (1) - michael.schurman@gmail.com - Gmail — Mozilla Firefox
+lind
+focus: 
+tab: 
+focus: C:\Program Files\Everything\Everything.exe
+tab: linda- - Everything
+focus: C:\Program Files\Mozilla Firefox\firefox.exe
+tab: Inbox (1) - michael.schurman@gmail.com - Gmail — Mozilla Firefox
+medicoal forms
+see attached
+focus: 
+tab: 
+focus: C:\Windows\SystemApps\Microsoft.LockApp_cw5n1h2txyewy\LockApp.exe
+tab: Windows Default Lock Screen
+refresh_locale_list [476]: GetKeyboardLayoutList(0, NULL) found 4 layouts.
+refresh_locale_list [493]: Received 4 locales.
+load_input_helper [866]: refresh_locale_list() found 4 locale(s).

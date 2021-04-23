@@ -1,0 +1,267 @@
+
+> quick@1.0.0 keylogger C:\Projects\quick
+> npx ts-node src/keylogger.ts
+
+[2021/2/20-16:38-focus]	 C:\Program Files\Git\usr\bin\mintty.exe
+[2021/2/20-16:38-tab]	 MINGW64:/c/Projects/quick
+[2021/2/20-16:38-clip]	  log-`date +%Y-%m-%d`.txt
+mousemove
+mousedown
+mouseup
+mouseclick
+[2021/2/20-16:38-focus]	 
+[2021/2/20-16:38-tab]	 
+[2021/2/20-16:38-focus]	 C:\Program Files\Everything\Everything.exe
+[2021/2/20-16:38-tab]	 Everything
+keydown
+keypress
+keyup
+[2021/2/20-16:38-tab]	 l - Everything
+[2021/2/20-16:38-tab]	 lo - Everything
+[2021/2/20-16:38-tab]	 log - Everything
+[2021/2/20-16:38-input]	 log
+[2021/2/20-16:38-tab]	 
+[2021/2/20-16:38-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/20-16:38-tab]	 notes.md - Notes - Visual Studio Code
+[2021/2/20-16:38-tab]	 log-02-20.txt - Notes - Visual Studio Code
+[2021/2/20-16:38-focus]	 C:\Program Files\Everything\Everything.exe
+[2021/2/20-16:38-tab]	 log - Everything
+[2021/2/20-16:38-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/20-16:38-tab]	 log-02-20.txt - Notes - Visual Studio Code
+[2021/2/20-16:38-input]	 
+mousedrag
+[2021/2/20-16:38-focus]	 
+[2021/2/20-16:38-tab]	 
+[2021/2/20-16:38-focus]	 C:\Program Files\Mozilla Firefox\firefox.exe
+[2021/2/20-16:38-tab]	 aksharbarchha/Only-for-Youtubers: Sentiment Analysis of Youtube Video Comments using Youtube Data Api — Mozilla Firefox
+[2021/2/20-16:38-tab]	 disabled's comments | Hacker News — Mozilla Firefox
+mousewheel
+[2021/2/20-16:38-tab]	 MikeSchurman's comments | Hacker News — Mozilla Firefox
+[2021/2/20-16:39-tab]	 Mozilla Firefox
+[2021/2/20-16:39-tab]	 Add Comment | Hacker News — Mozilla Firefox
+[2021/2/20-16:39-input]	 Thatsnks for the detailed rspesponse.
+[2021/2/20-16:40-tab]	 aksharbarchha/Only-for-Youtubers: Sentiment Analysis of Youtube Video Comments using Youtube Data Api — Mozilla Firefox
+[2021/2/20-16:40-tab]	 raymondlo84/nvidia-jetson-ai-monitor: An example development repository for using Nvidia Jetson Nano or Xavier as health monitor using computer vision. — Mozilla Firefox
+[2021/2/20-16:40-tab]	 disabled's comments | Hacker News — Mozilla Firefox
+[2021/2/20-16:41-tab]	 How to have better arguments online | Hacker News — Mozilla Firefox
+[2021/2/20-16:41-tab]	 Add Comment | Hacker News — Mozilla Firefox
+[2021/2/20-16:41-input]	  
+[2021/2/20-16:41-input]	 I too
+[2021/2/20-16:41-tab]	 disabled's comments | Hacker News — Mozilla Firefox
+[2021/2/20-16:41-tab]	 raymondlo84/nvidia-jetson-ai-monitor: An example development repository for using Nvidia Jetson Nano or Xavier as health monitor using computer vision. — Mozilla Firefox
+[2021/2/20-16:41-tab]	 nickbild/browzen: BrowZen correlates your emotional states with the web sites you visit to give you actionable insights about how you spend your time browsing the web. — Mozilla Firefox
+[2021/2/20-16:41-tab]	 How to have better arguments online | Hacker News — Mozilla Firefox
+[2021/2/20-16:42-tab]	 Add Comment | Hacker News — Mozilla Firefox
+[2021/2/20-16:42-input]	  generally feel 
+[2021/2/20-16:42-input]	 bad using most social media
+[2021/2/20-16:42-input]	  (doomscrolling, etc..). Automating. Automating
+[2021/2/20-16:42-input]	 
+[2021/2/20-16:43-input]	 
+[2021/2/20-16:43-input]	 .
+[2021/2/20-16:44-input]	 , but there's probably a lot of other things I do on the computer that maeke me feel bad, I just have not noticed.
+[2021/2/20-16:44-tab]	 aksharbarchha/Only-for-Youtubers: Sentiment Analysis of Youtube Video Comments using Youtube Data Api — Mozilla Firefox
+[2021/2/20-16:44-tab]	 How to have better arguments online | Hacker News — Mozilla Firefox
+[2021/2/20-16:44-tab]	 RubixML/Sentiment: An example project using a feed-forward neural network for text sentiment classification trained with 25,000 movie reviews from the IMDB website. — Mozilla Firefox
+[2021/2/20-16:44-tab]	 aksharbarchha/Only-for-Youtubers: Sentiment Analysis of Youtube Video Comments using Youtube Data Api — Mozilla Firefox
+[2021/2/20-16:44-tab]	 How to have better arguments online | Hacker News — Mozilla Firefox
+[2021/2/20-16:44-tab]	 Top 10 Unix Command Line Utilities 2013 - Coldflake Blog — Mozilla Firefox
+[2021/2/20-16:44-tab]	 Adding a timestamp to command output in linux - Abdullah Diab's Blog — Mozilla Firefox
+[2021/2/20-16:44-tab]	 Sending cron output to a file with a timestamp in its name - Server Fault — Mozilla Firefox
+[2021/2/20-16:44-tab]	 How to have better arguments online | Hacker News — Mozilla Firefox
+[2021/2/20-16:44-tab]	 Sending cron output to a file with a timestamp in its name - Server Fault — Mozilla Firefox
+[2021/2/20-16:44-tab]	 How to have better arguments online | Hacker News — Mozilla Firefox
+[2021/2/20-16:44-tab]	 Add Comment | Hacker News — Mozilla Firefox
+[2021/2/20-16:44-input]	 
+[2021/2/20-16:44-input]	 
+[2021/2/20-16:44-input]	 I'v e written a simple 
+[2021/2/20-16:45-input]	 script to record most of what I do on my computer (ie what I type, what windows/tabs have focus, etc...
+[2021/2/20-16:45-input]	 ), .. Combining that iwthwwith Emotions monitor seems like 
+[2021/2/20-16:45-input]	 Correlating intofo 
+[2021/2/20-16:45-clip]	 Correlating 
+[2021/2/20-16:45-tab]	 Mozilla Firefox
+[2021/2/20-16:45-input]	 cv
+[2021/2/20-16:45-tab]	 Correlating at DuckDuckGo — Mozilla Firefox
+[2021/2/20-16:45-input]	 
+[2021/2/20-16:46-tab]	 Add Comment | Hacker News — Mozilla Firefox
+[2021/2/20-16:46-input]	 that 
+[2021/2/20-16:46-input]	 like it 
+[2021/2/20-16:46-input]	 could find patterns I'm not aware of. 
+[2021/2/20-16:46-input]	 Not sure Iif I'll 
+[2021/2/20-16:46-input]	 do that
+[2021/2/20-16:47-input]	 get around to tdo that but you never now.
+[2021/2/20-16:47-input]	 
+[2021/2/20-16:47-input]	 You've bgviven me lots otto look ingoto, thanks again.
+[2021/2/20-16:47-tab]	 MikeSchurman's comments | Hacker News — Mozilla Firefox
+[2021/2/20-16:58-focus]	 
+[2021/2/20-16:58-tab]	 
+[2021/2/20-16:58-focus]	 C:\Windows\SystemApps\Microsoft.LockApp_cw5n1h2txyewy\LockApp.exe
+[2021/2/20-16:58-tab]	 Windows Default Lock Screen
+[2021/2/20-17:50-focus]	 
+[2021/2/20-17:50-tab]	 
+[2021/2/20-17:50-focus]	 C:\Windows\explorer.exe
+[2021/2/20-17:50-tab]	 UnlockingWindow
+[2021/2/20-17:50-focus]	 C:\Program Files\Mozilla Firefox\firefox.exe
+[2021/2/20-17:50-tab]	 MikeSchurman's comments | Hacker News — Mozilla Firefox
+[2021/2/20-17:50-input]	 o
+[2021/2/20-17:51-tab]	 Hacker News — Mozilla Firefox
+[2021/2/20-17:51-tab]	 Adversarial.io – Fighting mass image recognition | Hacker News — Mozilla Firefox
+[2021/2/20-17:51-tab]	 Mozilla Firefox
+[2021/2/20-17:51-tab]	 adversarial.io | – Fighting mass image recognition — Mozilla Firefox
+[2021/2/20-17:52-tab]	 Hacker News — Mozilla Firefox
+[2021/2/20-17:52-tab]	 How to have better arguments online | Hacker News — Mozilla Firefox
+[2021/2/20-17:52-tab]	 Hacker News — Mozilla Firefox
+[2021/2/20-17:52-tab]	 New plant-based plastics can be chemically recycled with near-perfect efficiency | Hacker News — Mozilla Firefox
+[2021/2/20-17:53-tab]	 Mozilla Firefox
+[2021/2/20-17:53-tab]	 Facebook — Mozilla Firefox
+[2021/2/20-17:53-input]	 f
+[2021/2/20-17:53-tab]	 (1) Facebook — Mozilla Firefox
+[2021/2/20-17:53-tab]	 Facebook — Mozilla Firefox
+[2021/2/20-17:58-tab]	 Mozilla Firefox
+[2021/2/20-17:58-tab]	 YouTube — Mozilla Firefox
+[2021/2/20-17:58-input]	 y
+[2021/2/20-17:58-tab]	 Deriving Einstein's most famous equation: Why does energy = mass x speed of light squared? - YouTube — Mozilla Firefox
+[2021/2/20-18:0-tab]	 LOOT - Elemental CC Behaviours - Google Docs — Mozilla Firefox
+[2021/2/20-18:0-tab]	 LOOT - Character Stat Model / Elemental Damage / Projectile Behavior / Formulas - Google Docs — Mozilla Firefox
+[2021/2/20-18:0-tab]	 Hacker News — Mozilla Firefox
+[2021/2/20-18:1-tab]	 Deriving Einstein's most famous equation: Why does energy = mass x speed of light squared? - YouTube — Mozilla Firefox
+[2021/2/20-18:1-tab]	 Correlating at DuckDuckGo — Mozilla Firefox
+[2021/2/20-18:1-tab]	 Deriving Einstein's most famous equation: Why does energy = mass x speed of light squared? - YouTube — Mozilla Firefox
+[2021/2/20-18:1-tab]	 Adding a timestamp to command output in linux - Abdullah Diab's Blog — Mozilla Firefox
+[2021/2/20-18:1-tab]	 Deriving Einstein's most famous equation: Why does energy = mass x speed of light squared? - YouTube — Mozilla Firefox
+[2021/2/20-18:2-focus]	 C:\Program Files\Git\usr\bin\mintty.exe
+[2021/2/20-18:2-tab]	 MINGW64:/c/Projects/quick
+[2021/2/20-18:2-input]	 cat log	.txt
+[2021/2/20-18:3-input]	 qwc -l log	.	
+[2021/2/20-18:3-input]	 
+[2021/2/20-18:3-input]	 2
+[2021/2/20-18:3-input]	 3
+[2021/2/20-18:3-input]	 4
+[2021/2/20-18:3-input]	 
+[2021/2/20-18:3-input]	 5
+[2021/2/20-18:3-input]	 5
+[2021/2/20-18:3-input]	 
+[2021/2/20-18:3-input]	 6
+[2021/2/20-18:3-input]	 ls
+[2021/2/20-18:3-input]	 
+[2021/2/20-18:3-input]	 wc -cl 
+[2021/2/20-18:3-input]	 lo	.txt
+[2021/2/20-18:3-input]	 
+[2021/2/20-18:3-input]	 -		02	
+[2021/2/20-18:3-input]	 
+[2021/2/20-18:3-input]	 2	
+[2021/2/20-18:3-input]	 
+[2021/2/20-18:4-focus]	 
+[2021/2/20-18:4-tab]	 
+[2021/2/20-18:4-focus]	 C:\Program Files\Everything\Everything.exe
+[2021/2/20-18:4-tab]	 Everything
+[2021/2/20-18:4-tab]	 l - Everything
+[2021/2/20-18:4-tab]	 log - Everything
+[2021/2/20-18:4-tab]	 log- - Everything
+[2021/2/20-18:4-tab]	 log-2 - Everything
+[2021/2/20-18:4-tab]	 log-22 - Everything
+[2021/2/20-18:4-tab]	 log-2 - Everything
+[2021/2/20-18:4-input]	 log-22
+[2021/2/20-18:4-tab]	 
+[2021/2/20-18:4-tab]	 log-2 - Everything
+[2021/2/20-18:4-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/20-18:4-tab]	 log-2021-02-20.txt - Notes - Visual Studio Code
+[2021/2/20-18:4-input]	 
+[2021/2/20-18:4-tab]	 log-02-20.txt - Notes - Visual Studio Code
+[2021/2/20-18:4-input]	 fdisabled
+[2021/2/20-18:4-input]	 
+[2021/2/20-18:4-input]	 
+[2021/2/20-18:4-input]	 
+[2021/2/20-18:4-input]	 
+[2021/2/20-18:4-input]	 
+[2021/2/20-18:4-input]	 
+[2021/2/20-18:4-input]	 
+[2021/2/20-18:4-input]	 
+[2021/2/20-18:4-input]	 
+[2021/2/20-18:4-input]	 
+[2021/2/20-18:4-input]	 
+[2021/2/20-18:5-input]	 f
+[2021/2/20-18:5-focus]	 
+[2021/2/20-18:5-tab]	 
+[2021/2/20-18:5-focus]	 C:\Program Files\Mozilla Firefox\firefox.exe
+[2021/2/20-18:5-tab]	 Deriving Einstein's most famous equation: Why does energy = mass x speed of light squared? - YouTube — Mozilla Firefox
+[2021/2/20-18:5-focus]	 C:\Program Files\Everything\Everything.exe
+[2021/2/20-18:5-tab]	 log-2 - Everything
+[2021/2/20-18:5-focus]	 C:\Program Files\Mozilla Firefox\firefox.exe
+[2021/2/20-18:5-tab]	 Deriving Einstein's most famous equation: Why does energy = mass x speed of light squared? - YouTube — Mozilla Firefox
+[2021/2/20-18:5-focus]	 C:\Program Files\Git\usr\bin\mintty.exe
+[2021/2/20-18:5-tab]	 MINGW64:/c/Projects/quick
+[2021/2/20-18:5-focus]	 C:\Program Files\Mozilla Firefox\firefox.exe
+[2021/2/20-18:5-tab]	 Sending cron output to a file with a timestamp in its name - Server Fault — Mozilla Firefox
+[2021/2/20-18:6-tab]	 Deriving Einstein's most famous equation: Why does energy = mass x speed of light squared? - YouTube — Mozilla Firefox
+[2021/2/20-18:10-tab]	 Hacker News — Mozilla Firefox
+[2021/2/20-18:10-tab]	 Profile: MikeSchurman | Hacker News — Mozilla Firefox
+[2021/2/20-18:10-tab]	 MikeSchurman's comments | Hacker News — Mozilla Firefox
+[2021/2/20-18:10-tab]	 Deriving Einstein's most famous equation: Why does energy = mass x speed of light squared? - YouTube — Mozilla Firefox
+[2021/2/20-18:10-tab]	 New plant-based plastics can be chemically recycled with near-perfect efficiency | Hacker News — Mozilla Firefox
+[2021/2/20-18:10-tab]	 MikeSchurman's comments | Hacker News — Mozilla Firefox
+[2021/2/20-18:11-tab]	 Mozilla Firefox
+[2021/2/20-18:11-tab]	 ADHD tech stack: auto time tracking | by Piotr Migdał | Medium — Mozilla Firefox
+[2021/2/20-18:12-tab]	 New plant-based plastics can be chemically recycled with near-perfect efficiency | Hacker News — Mozilla Firefox
+[2021/2/20-18:12-tab]	 ADHD tech stack: auto time tracking | by Piotr Migdał | Medium — Mozilla Firefox
+[2021/2/20-18:13-tab]	 Mozilla Firefox
+[2021/2/20-18:13-tab]	 Facebook — Mozilla Firefox
+[2021/2/20-18:13-tab]	 New plant-based plastics can be chemically recycled with near-perfect efficiency | Hacker News — Mozilla Firefox
+[2021/2/20-18:14-input]	 f
+[2021/2/20-18:24-focus]	 
+[2021/2/20-18:24-tab]	 
+[2021/2/20-18:24-focus]	 C:\Windows\SystemApps\Microsoft.LockApp_cw5n1h2txyewy\LockApp.exe
+[2021/2/20-18:24-tab]	 Windows Default Lock Screen
+[2021/2/20-20:6-focus]	 
+[2021/2/20-20:6-tab]	 
+[2021/2/20-20:6-focus]	 C:\Program Files\Mozilla Firefox\firefox.exe
+[2021/2/20-20:6-tab]	 New plant-based plastics can be chemically recycled with near-perfect efficiency | Hacker News — Mozilla Firefox
+[2021/2/20-20:7-tab]	 Inbox - michael.schurman@gmail.com - Gmail — Mozilla Firefox
+[2021/2/20-20:7-tab]	 Inbox - michael.schurman@otherocean.com - Other Ocean Group, Inc. Mail — Mozilla Firefox
+[2021/2/20-20:7-tab]	 Inbox - michael.schurman@gmail.com - Gmail — Mozilla Firefox
+[2021/2/20-20:7-tab]	 Facebook — Mozilla Firefox
+[2021/2/20-20:9-input]	 di
+[2021/2/20-20:9-tab]	 Mozilla Firefox
+[2021/2/20-20:9-tab]	 Dino's Pizza Summerside - Food delivery - Summerside - Order online — Mozilla Firefox
+[2021/2/20-20:9-input]	 
+[2021/2/20-20:10-tab]	 Deriving Einstein's most famous equation: Why does energy = mass x speed of light squared? - YouTube — Mozilla Firefox
+[2021/2/20-20:14-tab]	 Mozilla Firefox
+[2021/2/20-20:14-tab]	 Facebook — Mozilla Firefox
+[2021/2/20-20:14-input]	 f
+[2021/2/20-20:26-focus]	 
+[2021/2/20-20:26-tab]	 
+[2021/2/20-20:26-focus]	 C:\Windows\SystemApps\Microsoft.LockApp_cw5n1h2txyewy\LockApp.exe
+[2021/2/20-20:26-tab]	 Windows Default Lock Screen
+[2021/2/21-10:18-focus]	 
+[2021/2/21-10:18-tab]	 
+[2021/2/21-10:18-focus]	 C:\Program Files\Mozilla Firefox\firefox.exe
+[2021/2/21-10:18-tab]	 Facebook — Mozilla Firefox
+[2021/2/21-10:18-tab]	 Inbox (1) - michael.schurman@gmail.com - Gmail — Mozilla Firefox
+[2021/2/21-10:18-tab]	 Inbox - michael.schurman@gmail.com - Gmail — Mozilla Firefox
+[2021/2/21-10:18-tab]	 Facebook — Mozilla Firefox
+[2021/2/21-10:18-tab]	 MikeSchurman's comments | Hacker News — Mozilla Firefox
+[2021/2/21-10:18-tab]	 Server Not Found — Mozilla Firefox
+[2021/2/21-10:18-focus]	 C:\Windows\explorer.exe
+[2021/2/21-10:18-tab]	 
+[2021/2/21-10:18-focus]	 C:\Windows\SystemApps\ShellExperienceHost_cw5n1h2txyewy\ShellExperienceHost.exe
+[2021/2/21-10:18-tab]	 Network Connections
+[2021/2/21-10:18-focus]	 
+[2021/2/21-10:18-tab]	 
+[2021/2/21-10:18-focus]	 C:\Program Files\Mozilla Firefox\firefox.exe
+[2021/2/21-10:18-tab]	 Server Not Found — Mozilla Firefox
+[2021/2/21-10:18-tab]	 MikeSchurman's comments | Hacker News — Mozilla Firefox
+[2021/2/21-10:18-input]	 
+[2021/2/21-10:18-clip]	 RescueTime
+[2021/2/21-10:18-input]	 c
+[2021/2/21-10:18-tab]	 "rescuetime" site:medium.com at DuckDuckGo — Mozilla Firefox
+[2021/2/21-10:19-tab]	 Track where you spend your time with RescueTime | by Michael Vinh Xuan Thanh | Luminesce | Medium — Mozilla Firefox
+[2021/2/21-10:19-tab]	 Sign in - Google Accounts — Mozilla Firefox
+[2021/2/21-10:19-tab]	 Track where you spend your time with RescueTime | by Michael Vinh Xuan Thanh | Luminesce | Medium — Mozilla Firefox
+[2021/2/21-10:19-tab]	 Unlimited access to everything on Medium — Mozilla Firefox
+[2021/2/21-10:19-tab]	 MikeSchurman's comments | Hacker News — Mozilla Firefox
+[2021/2/21-10:19-tab]	 ADHD tech stack: auto time tracking | by Piotr Migdał | Medium — Mozilla Firefox
+[2021/2/21-10:20-focus]	 C:\Program Files\Git\usr\bin\mintty.exe
+[2021/2/21-10:20-tab]	 MINGW64:/c/Projects/quick
+refresh_locale_list [476]: GetKeyboardLayoutList(0, NULL) found 4 layouts.
+refresh_locale_list [493]: Received 4 locales.
+load_input_helper [866]: refresh_locale_list() found 4 locale(s).
+Terminate batch job (Y/N)? 

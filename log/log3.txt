@@ -1,0 +1,1430 @@
+
+> quick@1.0.0 main C:\Projects\quick
+> npx ts-node src/main.ts
+
+focus: C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+tab: log2.txt - loot - Visual Studio Code
+clip: interactingWithPOIId
+mousemove
+mousedown
+mousedrag
+mouseup
+mouseclick
+focus: 
+tab: 
+focus: C:\Program Files\Everything\Everything.exe
+tab: log2 - Everything
+focus: C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+tab: log2.txt - loot - Visual Studio Code
+focus: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+tab: Loot.io - Google Chrome
+keydown
+keypress
+keyup
+d
+focus: C:\Program Files\Mozilla Firefox\firefox.exe
+tab: UI Progress - Google Slides — Mozilla Firefox
+foutpost
+
+a
+general st
+
+focus: C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+tab: log2.txt - loot - Visual Studio Code
+tab: game-client.ts - loot - Visual Studio Code
+focus: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+tab: Loot.io - Google Chrome
+focus: C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+tab: game-client.ts - loot - Visual Studio Code
+messageparamParam
+tab: ● game-client.ts - loot - Visual Studio Code
+
+mousewheel
+focus: C:\Program Files\Mozilla Firefox\firefox.exe
+tab: UI Progress - Google Slides — Mozilla Firefox
+focus: C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+tab: ● game-client.ts - loot - Visual Studio Code
+focus: 
+tab: 
+focus: C:\Users\Michaels\AppData\Local\Obsidian\Obsidian.exe
+tab: Notes - Obsidian v0.10.11
+focus: 
+tab: 
+focus: C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+tab: ● game-client.ts - loot - Visual Studio Code
+focus: C:\Program Files\Mozilla Firefox\firefox.exe
+tab: Inbox - michael.schurman@gmail.com - Gmail — Mozilla Firefox
+tab: Inbox - michael.schurman@otherocean.com - Other Ocean Group, Inc. Mail — Mozilla Firefox
+tab: Inbox - michael.schurman@gmail.com - Gmail — Mozilla Firefox
+tab: SOTI board - Agile Board - Sculpin QA — Mozilla Firefox
+focus: 
+tab: 
+focus: C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+tab: ● game-client.ts - loot - Visual Studio Code
+
+
+test
+ptestfil
+tab: test-filter.ts - loot - Visual Studio Code
+
+focus: C:\Program Files\Mozilla Firefox\firefox.exe
+tab: Inbox - michael.schurman@otherocean.com - Other Ocean Group, Inc. Mail — Mozilla Firefox
+tab: Inbox - michael.schurman@gmail.com - Gmail — Mozilla Firefox
+tab: Inbox - michael.schurman@otherocean.com - Other Ocean Group, Inc. Mail — Mozilla Firefox
+tab: Inbox - michael.schurman@gmail.com - Gmail — Mozilla Firefox
+bre
+english mustard	Hi Dad,
+
+Do you have any english mustartd?
+tab: Are you using these ES6 features in Vue? - michael.schurman@gmail.com - Gmail — Mozilla Firefox
+tab: Sent Mail - michael.schurman@gmail.com - Gmail — Mozilla Firefox
+tab: english mustard - michael.schurman@gmail.com - Gmail — Mozilla Firefox
+tab: Inbox - michael.schurman@otherocean.com - Other Ocean Group, Inc. Mail — Mozilla Firefox
+focus: C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+tab: test-filter.ts - loot - Visual Studio Code
+focus: C:\Program Files\ConEmu\ConEmu64.exe
+tab: MINGW64:/c/Projects/loot
+focus: C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+tab: test-filter.ts - loot - Visual Studio Code
+tab: ● test-filter.ts - loot - Visual Studio Code
+
+setTimeout(()=>{
+
+clip: twistFilter
+c
+tab: standard-library-additions.ts - loot - Visual Studio Code
+.remo	(v
+f
+
+tab: ● test-filter.ts - loot - Visual Studio Code
+clip: 		player.model.filters.remove(twistFilter)
+
+c
+.remove(
+clip: twistFilter
+cv
+clip: 		player.model.filters.remove(twistFilter)
+
+c
+clip: simpleAnimation_removeAnimations
+c
+v(
+
+clip: player.model.scale
+c
+clip: 		player.model.scale.x = 1
+
+v.x = 1cv1y
+clip: player
+cv
+player:ServerPlClientPl	
+clip: testPlayer
+tesPtPlayercvplayer
+clip: createTestFilter
+tab: ● game-client.ts - loot - Visual Studio Code
+cvc
+v(
+setTim	(
+clip: 					)
+
+xv
+() =>{
+clip: 					}
+
+xv
+, 1000
+this.cli	.plflclientpl
+
+
+
+
+
+z
+state.my	
+tab: ● test-filter.ts - loot - Visual Studio Code
+.
+tab: ● game-client.ts - loot - Visual Studio Code
+export 
+.
+
+tab: game-client.ts - loot - Visual Studio Code
+ks
+focus: 
+tab: 
+focus: C:\Program Files\Mozilla Firefox\firefox.exe
+tab: Inbox - michael.schurman@otherocean.com - Other Ocean Group, Inc. Mail — Mozilla Firefox
+tab: Mozilla Firefox
+tab: Hacker News — Mozilla Firefox
+h
+tab: Barcode scanner app on Google Play infects 10m users with one update | Hacker News — Mozilla Firefox
+focus: C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+tab: game-client.ts - loot - Visual Studio Code
+focus: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+tab: about:blank - Google Chrome
+tab: Loot.io - Google Chrome
+focus: 
+tab: 
+focus: C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+tab: game-client.ts - loot - Visual Studio Code
+focus: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+tab: Loot.io - Google Chrome
+ddt
+/tt bea.*bos
+sassssssssssssssssssssssssssssssssssssdf
+a
+focus: 
+tab: 
+focus: C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+tab: game-client.ts - loot - Visual Studio Code
+focus: 
+tab: 
+focus: C:\Program Files\Git\usr\bin\mintty.exe
+tab: MINGW64:/c/Projects/quick
+focus: C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+tab: game-client.ts - loot - Visual Studio Code
+focus: 
+tab: 
+focus: C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+tab: #loot-notifications - Discord
+focus: 
+tab: 
+focus: C:\Users\Michaels\AppData\Local\Obsidian\Obsidian.exe
+tab: Notes - Obsidian v0.10.11
+focus: C:\Windows\explorer.exe
+tab: 
+focus: C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+tab: #loot-notifications - Discord
+focus: C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+tab: game-client.ts - loot - Visual Studio Code
+tab: test-filter.ts - loot - Visual Studio Code
+clip: colorFilter
+tab: ● test-filter.ts - loot - Visual Studio Code
+cv
+focus: C:\Program Files\Mozilla Firefox\firefox.exe
+tab: Inbox (1) - michael.schurman@otherocean.com - Other Ocean Group, Inc. Mail — Mozilla Firefox
+tab: [JIRA] (SOTI-1608) fix bug in matchmaker that treats 1 player servers as full - michael.schurman@otherocean.com - Other Ocean Group, Inc. Mail — Mozilla Firefox
+tab: Inbox - michael.schurman@otherocean.com - Other Ocean Group, Inc. Mail — Mozilla Firefox
+focus: C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+tab: ● test-filter.ts - loot - Visual Studio Code
+focus: C:\Program Files\ConEmu\ConEmu64.exe
+tab: npm
+clip: Object.getRandomPointInColliders
+focus: C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+tab: ● test-filter.ts - loot - Visual Studio Code
+tab: ability-performer.ts - loot - Visual Studio Code
+Fv
+tab: collision-system.ts - loot - Visual Studio Code
+tab: ● collision-system.ts - loot - Visual Studio Code
+
+
+	if (bounds === null {
+
+
+
+const colliderBoudnsMndsMap = new Map(
+clip: AnyCollider[]
+cv, Bounds
+clip: AnyCollider[], Bounds
+x<>v
+
+export get
+Bounds() {
+
+clip: AnyCollider[]
+clip: collider
+cvcv 
+, 
+function 
+s
+
+
+clip: colliderBoundsMap
+c	if (!v.h	(collider: {
+v.set(collider, 
+return v.get(collider
+tab: advanced-brain.ts - loot - Visual Studio Code
+clip: 		const bounds = colliderConfigsBounds(colliderConfigs)
+
+c
+tab: colliders.ts - loot - Visual Studio Code
+tab: ● colliders.ts - loot - Visual Studio Code
+default:{
+focus: 
+tab: 
+focus: C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+tab: #loot-notifications - Discord
+
+tab: @Kaitlin Richard - Discord
+focus: 
+tab: 
+focus: C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+tab: @Kaitlin Richard - Discord
+focus: C:\Program Files\Mozilla Firefox\firefox.exe
+tab: [SOTI-1525] Reloading after code-change causes a number of issues (affects work-flow) - Sculpin QA — Mozilla Firefox
+tab: [SOTI-1538] Exception in howler if tabbed away from client - Sculpin QA — Mozilla Firefox
+focus: C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+tab: @Kaitlin Richard - Discord
+focus: C:\Program Files\Mozilla Firefox\firefox.exe
+tab: Mozilla Firefox
+tab: [SOTI-1524] Debug nengi view doesn't draw unless you resize your window - Sculpin QA — Mozilla Firefox
+tab: [SOTI-1525] Reloading after code-change causes a number of issues (affects work-flow) - Sculpin QA — Mozilla Firefox
+focus: C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+tab: @Kaitlin Richard - Discord
+2nd and 3rd of these are wfrom when wer were adding tech detpbt as bugs
+, and aren't user facing
+
+(and QA can't freally test them)
+focus: C:\Program Files\Mozilla Firefox\firefox.exe
+tab: [SOTI-1524] Debug nengi view doesn't draw unless you resize your window - Sculpin QA — Mozilla Firefox
+
+tab: [SOTI-1538] Exception in howler if tabbed away from client - Sculpin QA — Mozilla Firefox
+focus: C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+tab: @Kaitlin Richard - Discord
+save with 1st I suppose
+
+m
+
+focus: C:\Program Files\Mozilla Firefox\firefox.exe
+tab: [SOTI-1538] Exception in howler if tabbed away from client - Sculpin QA — Mozilla Firefox
+focus: C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+tab: @Kaitlin Richard - Discord
+focus: C:\Program Files\ConEmu\ConEmu64.exe
+tab: MINGW64:/c/Projects/loot
+focus: C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+tab: ● colliders.ts - loot - Visual Studio Code
+clip: export function colliderConfigBounds(colliderConfig: ColliderConfig): Bounds {
+	const posArray = colliderConfig.position
+	const pos = new Vector(posArray[0], posArray[1])
+	const bounds = new Bounds()
+	switch (colliderConfig.type) {
+		case ColliderType.Circle: {
+			const circleConfig = colliderConfig as CircleColliderConfig
+			bounds.minX = pos.x - circleConfig.radius
+			bounds.maxX = pos.x + circleConfig.radius
+			bounds.minY = pos.y - circleConfig.radius
+			bounds.maxY = pos.y + circleConfig.radius
+			break
+		}
+		case ColliderType.Ellipse: {
+			console.assert(!colliderConfig.angle)
+			const ellipseConfig = colliderConfig as EllipseColliderConfig
+			bounds.minX = pos.x - ellipseConfig.rX
+			bounds.maxX = pos.x + ellipseConfig.rX
+			bounds.minY = pos.y - ellipseConfig.rY
+			bounds.maxY = pos.y + ellipseConfig.rY
+			break
+		}
+		case ColliderType.Box: {
+			const boxConfig = colliderConfig as BoxColliderConfig
+			const angle = boxConfig.angle || 0
+			const TL = new Vector(pos.x, pos.y)
+			const TR = new Vector(pos.x + boxConfig.width, pos.y).rotate(angle)
+			const BL = new Vector(pos.x, pos.y + boxConfig.height).rotate(angle)
+			const BR = new Vector(pos.x + boxConfig.width, pos.y + boxConfig.height).rotate(angle)
+			const corners = [TL, TR, BL, BR]
+			bounds.minX = minBy(corners, (c) => c.x).x
+			bounds.maxX = maxBy(corners, (c) => c.x).x
+			bounds.minY = minBy(corners, (c) => c.y).y
+			bounds.maxY = maxBy(corners, (c) => c.y).y
+			break
+		}
+		case ColliderType.Polygon: {
+			console.assert(!colliderConfig.angle)
+			const polygonConfig = colliderConfig as PolygonColliderConfig
+			const fa = Float32Array.from(polygonConfig.vertices)
+			bounds.addVertexData(fa, 0, fa.length)
+			break
+		}
+		default: {
+			
+			}
+	}
+
+	return bounds
+}
+c
+
+
+v
+
+2zzcollider
+
+Collider
+Any
+.po	
+collider.po	
+Circl	
+rrrr
+focus: 
+tab: 
+focus: C:\Program Files\Mozilla Firefox\firefox.exe
+tab: [SOTI-1538] Exception in howler if tabbed away from client - Sculpin QA — Mozilla Firefox
+tab: [SOTI-1525] Reloading after code-change causes a number of issues (affects work-flow) - Sculpin QA — Mozilla Firefox
+tab: [SOTI-1524] Debug nengi view doesn't draw unless you resize your window - Sculpin QA — Mozilla Firefox
+focus: C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+tab: @Kaitlin Richard - Discord
+1524 is trivial to fix
+focus: C:\Program Files\Mozilla Firefox\firefox.exe
+tab: [SOTI-1525] Reloading after code-change causes a number of issues (affects work-flow) - Sculpin QA — Mozilla Firefox
+
+tab: [SOTI-1525] Tech Debt: Reloading after code-change causes a number of issues (affects work-flow) - Sculpin QA — Mozilla Firefox
+clip: 1525
+focus: C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+tab: @Kaitlin Richard - Discord
+cv is nebulous and might be quite the rabbit hole
+focus: C:\Program Files\Mozilla Firefox\firefox.exe
+tab: [SOTI-1538] Exception in howler if tabbed away from client - Sculpin QA — Mozilla Firefox
+tab: [SOTI-1538] Tech Debt: Exception in howler if tabbed away from client - Sculpin QA — Mozilla Firefox
+clip: 1538
+focus: C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+tab: @Kaitlin Richard - Discord
+c
+v
+ is somewhere between the 2... probablit might beeven be fixed
+ because we stopped sendingprocessing messages from thepvisual/audio  server if the client is tabbed away
+
+focus: C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+tab: ● colliders.ts - loot - Visual Studio Code
+Ellips	
+Box	
+whwh
+
+,.
+
+box
+
+ellipse
+
+circle
+
+
+	console.ass	(
+error
+`unhandled: ${
+ collider type
+clip: colliderConfig.type
+c
+clip: 			console.error(`unhandled collider type: ${colliderConfig.type}`)	
+
+vc
+vcollider
+focus: C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+tab: @Kaitlin Richard - Discord
+focus: C:\Program Files\Mozilla Firefox\firefox.exe
+tab: [SOTI-1538] Tech Debt: Exception in howler if tabbed away from client - Sculpin QA — Mozilla Firefox
+tab: Mozilla Firefox
+e
+tab: Amazon Music Unlimited | Stream Millions of Songs & Podcasts — Mozilla Firefox
+tab: Inbox (3) - michael.schurman@otherocean.com - Other Ocean Group, Inc. Mail — Mozilla Firefox
+tab: [JIRA] (SOTI-1538) Tech Debt: Exception in howler if tabbed away from client - michael.schurman@otherocean.com - Other Ocean Group, Inc. Mail — Mozilla Firefox
+tab: Inbox (2) - michael.schurman@otherocean.com - Other Ocean Group, Inc. Mail — Mozilla Firefox
+tab: [JIRA] (SOTI-1525) Tech Debt: Reloading after code-change causes a number of issues (affects work-flow) - michael.schurman@otherocean.com - Other Ocean Group, Inc. Mail — Mozilla Firefox
+tab: Inbox (1) - michael.schurman@otherocean.com - Other Ocean Group, Inc. Mail — Mozilla Firefox
+tab: [JIRA] (SOTI-1524) Tech Debt: Debug nengi view doesn't draw unless you resize your window - michael.schurman@otherocean.com - Other Ocean Group, Inc. Mail — Mozilla Firefox
+tab: Inbox - michael.schurman@otherocean.com - Other Ocean Group, Inc. Mail — Mozilla Firefox
+focus: C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+tab: @Kaitlin Richard - Discord
+focus: C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+tab: ● colliders.ts - loot - Visual Studio Code
+focus: C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+tab: @Kaitlin Richard - Discord
+tab: #loot-notifications - Discord
+tab: #loot-general - Discord
+focus: 
+tab: 
+focus: C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+tab: ● colliders.ts - loot - Visual Studio Code
+focus: C:\Users\Michaels\AppData\Local\Obsidian\Obsidian.exe
+tab: Notes - Obsidian v0.10.11
+focus: C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+tab: ● colliders.ts - loot - Visual Studio Code
+kc
+clip: 
+export function colliderConfigsBounds(colliderConfigs: ColliderConfig[]): Bounds {
+	const bounds = new Bounds()
+	colliderConfigs.forEach((colliderConfig) => {
+		const b = colliderConfigBounds(colliderConfig)
+		bounds.addBounds(b)
+	})
+	return bounds
+}
+c
+v
+
+s
+clip: collider: AnyCollider
+clip: colliders
+cvscv
+colliders
+
+clip: collidersConfigsBounds
+c
+
+
+clip: collidersBounds
+c
+tab: ● collision-system.ts - loot - Visual Studio Code
+v(collider
+console.log(`creating bounds dynamically
+.
+
+tab: collision-system.ts - loot - Visual Studio Code
+tab: ● colliders.ts - loot - Visual Studio Code
+s
+tab: colliders.ts - loot - Visual Studio Code
+ks
+focus: 
+tab: 
+focus: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+tab: Loot.io - Google Chrome
+
+ddddddddddddddddddddddwwwdw
+ddddddddddddddddddddddddddddddt
+/tt bea.*bos
+sadf
+f
+focus: C:\Program Files\ConEmu\ConEmu64.exe
+tab: npm
+clip: i
+clip: getRandomPointInColliders
+focus: C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+tab: colliders.ts - loot - Visual Studio Code
+tab: ability-performer.ts - loot - Visual Studio Code
+Fv
+fgetecent
+tab: collision-system.ts - loot - Visual Studio Code
+tab: ● collision-system.ts - loot - Visual Studio Code
+	bounds = getcollidersFboundsmap
+clip: getBounds
+tab: ability-performer.ts - loot - Visual Studio Code
+c
+tab: ● collision-system.ts - loot - Visual Studio Code
+v(colliders
+focus: 
+tab: 
+focus: C:\Windows\SystemApps\Microsoft.Windows.Cortana_cw5n1h2txyewy\SearchUI.exe
+tab: Cortana
+sscan
+focus: C:\Windows\System32\WFS.exe
+tab: Windows Fax and Scan
+
+tab: Select Device
+tab: New Scan
+focus: C:\Program Files (x86)\HP\Digital Imaging\bin\Hpqdirec.exe
+tab: HP Solution Center
+focus: C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+tab: ● collision-system.ts - loot - Visual Studio Code
+focus: C:\Windows\explorer.exe
+tab: 
+focus: C:\Windows\System32\WFS.exe
+tab: Windows Fax and Scan
+focus: 
+tab: 
+focus: C:\Windows\System32\Taskmgr.exe
+tab: Task Manager
+
+focus: C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+tab: ● collision-system.ts - loot - Visual Studio Code
+focus: C:\Windows\SystemApps\Microsoft.Windows.Cortana_cw5n1h2txyewy\SearchUI.exe
+tab: Cortana
+ssc
+focus: C:\Windows\explorer.exe
+tab: 
+focus: C:\Windows\System32\WFS.exe
+tab: Windows Fax and Scan
+
+tab: Select Device
+tab: New Scan
+focus: C:\Windows\SystemApps\Microsoft.Windows.Cortana_cw5n1h2txyewy\SearchUI.exe
+tab: Cortana
+shbp
+focus: C:\Windows\explorer.exe
+tab: 
+focus: C:\ProgramData\HP Photo Creations\PhotoProductCore.exe
+tab: HP Photo Creations
+focus: C:\Windows\System32\WFS.exe
+tab: New Scan
+tab: Windows Fax and Scan
+focus: C:\Users\Michaels\AppData\Local\Wox\app-1.3.578\Wox.exe
+tab: Hotkey sink
+focus: C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+tab: ● collision-system.ts - loot - Visual Studio Code
+tab: collision-system.ts - loot - Visual Studio Code
+s
+focus: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+tab: Loot.io - Google Chrome
+
+t
+/tt bea.*bos
+assssssssssssssssssssssssssssssssdf
+focus: C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+tab: collision-system.ts - loot - Visual Studio Code
+tab: ● collision-system.ts - loot - Visual Studio Code
+ s
+tab: collision-system.ts - loot - Visual Studio Code
+focus: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+tab: Loot.io - Google Chrome
+
+dt
+/tt bea.*bos
+asssssssssssssssssssssssssssssssssssssssssssdf
+focus: C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+tab: collision-system.ts - loot - Visual Studio Code
+tab: colliders.ts - loot - Visual Studio Code
+tab: collision-system.ts - loot - Visual Studio Code
+tab: adventure.ts - loot - Visual Studio Code
+F
+tab: collision-system.ts - loot - Visual Studio Code
+tab: adventure.ts - loot - Visual Studio Code
+tab: ● adventure.ts - loot - Visual Studio Code
+
+tab: adventure.ts - loot - Visual Studio Code
+.x.ys
+focus: 
+tab: 
+focus: C:\Program Files\Mozilla Firefox\firefox.exe
+tab: Inbox - michael.schurman@otherocean.com - Other Ocean Group, Inc. Mail — Mozilla Firefox
+tab: SOTI board - Agile Board - Sculpin QA — Mozilla Firefox
+tab: Mozilla Firefox
+tab: BitfoxGames/Loot.io: It's a video game about loot worms — Mozilla Firefox
+tab: Pull requests · BitfoxGames/Loot.io — Mozilla Firefox
+tab: Mozilla Firefox
+tab: HUB general store UI hookup by callumooi · Pull Request #660 · BitfoxGames/Loot.io — Mozilla Firefox
+tab: SOTI board - Agile Board - Sculpin QA — Mozilla Firefox
+tab: english mustard - michael.schurman@gmail.com - Gmail — Mozilla Firefox
+tab: Inbox - michael.schurman@otherocean.com - Other Ocean Group, Inc. Mail — Mozilla Firefox
+tab: english mustard - michael.schurman@gmail.com - Gmail — Mozilla Firefox
+tab: Inbox (1) - michael.schurman@gmail.com - Gmail — Mozilla Firefox
+tab: Inbox - michael.schurman@gmail.com - Gmail — Mozilla Firefox
+focus: C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+tab: adventure.ts - loot - Visual Studio Code
+focus: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+tab: Untitled - Google Chrome
+tab: Loot.io - Google Chrome
+focus: C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+tab: adventure.ts - loot - Visual Studio Code
+focus: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+tab: Loot.io - Google Chrome
+dddddddddddddddddddsssssst
+/tt bea.*boss
+ssaf
+swff
+dasaff
+aff
+focus: C:\Program Files\ShareX\ShareX.exe
+tab: ShareX - Region capture
+focus: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+tab: Loot.io - Google Chrome
+focus: C:\Program Files\ShareX\ShareX.exe
+tab: ShareX - Screen recording
+focus: 
+tab: 
+focus: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+tab: Loot.io - Google Chrome
+ffwff
+focus: C:\Program Files\ShareX\ShareX.exe
+tab: ShareX - Screen recording
+focus: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+tab: Loot.io - Google Chrome
+focus: C:\Program Files\ShareX\ShareX.exe
+tab: NotificationForm
+focus: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+tab: Loot.io - Google Chrome
+focus: C:\Program Files (x86)\VideoLAN\VLC\vlc.exe
+tab: 4Jxd42ziDm.mp4 - VLC media player
+tab: VLC media player updates
+tab: 4Jxd42ziDm.mp4 - VLC media player
+focus: C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+tab: adventure.ts - loot - Visual Studio Code
+tab: advanced-brain.ts - loot - Visual Studio Code
+tab: collision-system.ts - loot - Visual Studio Code
+tab: advanced-brain.ts - loot - Visual Studio Code
+tab: adventure.ts - loot - Visual Studio Code
+F
+tab: test-filter.ts - loot - Visual Studio Code
+tab: ● test-filter.ts - loot - Visual Studio Code
+
+teleportFilterconfiConfig
+
+F
+createEtTeleportFilter
+F
+tab: ● game-client.ts - loot - Visual Studio Code
+focus: 
+tab: 
+focus: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+tab: Loot.io - Google Chrome
+focus: 
+tab: 
+focus: C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+tab: ● game-client.ts - loot - Visual Studio Code
+focus: 
+tab: 
+focus: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+tab: Loot.io - Google Chrome
+asff
+ff
+focus: C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+tab: ● game-client.ts - loot - Visual Studio Code
+tab: ● test-filter.ts - loot - Visual Studio Code
+focus: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+tab: Loot.io - Google Chrome
+safaf
+focus: C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+tab: ● test-filter.ts - loot - Visual Studio Code
+0.5
+1
+focus: 
+tab: 
+focus: C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+tab: #loot-general - Discord
+tab: #loot-qa - Discord
+tab: #loot-game-design - Discord
+tab: #loot-art - Discord
+tab: #loot-notifications - Discord
+tab: #loot-leads - Discord
+focus: 
+tab: 
+focus: C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+tab: ● test-filter.ts - loot - Visual Studio Code
+ * 
+clip: restoreTime
+restoreTime: 1.5,c
+ * v
+c
+tab: test-filter.ts - loot - Visual Studio Code
+, vks
+focus: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+tab: Loot.io - Google Chrome
+
+focus: 
+tab: 
+focus: C:\Program Files (x86)\VideoLAN\VLC\vlc.exe
+tab: 4Jxd42ziDm.mp4 - VLC media player
+focus: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+tab: Loot.io - Google Chrome
+t
+/tt bea.*bos
+asssssssssssssssssssssssssssssssssssssssdf
+aweff
+focus: C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+tab: test-filter.ts - loot - Visual Studio Code
+focus: 
+tab: 
+focus: C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+tab: #loot-leads - Discord
+focus: C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+tab: test-filter.ts - loot - Visual Studio Code
+tab: ● test-filter.ts - loot - Visual Studio Code
+kc
+inOutCurve
+
+clip: teleportFilterConfig
+c
+v
+if (F!== pro
+tab: debug-client.ts - loot - Visual Studio Code
+'
+clip: if (process.env.NODE_ENV !== 'production') {
+
+tab: ● test-filter.ts - loot - Visual Studio Code
+c
+v}
+
+whiteFilter
+whiteFPlayerFitllter
+
+twistScreenFittlter
+
+focus: C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+tab: #loot-leads - Discord
+tab: #loot-ui - Discord
+tab: #loot-qa - Discord
+focus: C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+tab: ● test-filter.ts - loot - Visual Studio Code
+tab: test-filter.ts - loot - Visual Studio Code
+s
+focus: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+tab: Untitled - Google Chrome
+tab: about:blank - Google Chrome
+tab: localhost:1234/?connectTo=adventure&skipToGame=true - Google Chrome
+tab: Loot.io - Google Chrome
+t
+/tt bea.*bos
+asssssssssssssssssssssssssssssssssdf
+dff
+focus: 
+tab: 
+focus: C:\Windows\explorer.exe
+focus: C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+tab: #loot-qa - Discord
+white flash
+
+tab: #loot-game-design - Discord
+a
+teleport
+
+tab: #loot-art - Discord
+afomrrom""mik:mik	hasattachas:
+
+tab: #loot-general - Discord
+focus: C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+tab: test-filter.ts - loot - Visual Studio Code
+focus: C:\Windows\SystemApps\Microsoft.Windows.Cortana_cw5n1h2txyewy\SearchUI.exe
+tab: Cortana
+svlsc
+focus: C:\Windows\explorer.exe
+tab: 
+
+focus: C:\Program Files (x86)\VideoLAN\VLC\vlc.exe
+tab: VLC media player
+focus: C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+tab: test-filter.ts - loot - Visual Studio Code
+focus: 
+tab: 
+focus: C:\Windows\explorer.exe
+focus: C:\Program Files\Everything\Everything.exe
+tab: Everything
+tab: mp4 - Everything
+mp4
+tab: 
+focus: C:\Program Files (x86)\VideoLAN\VLC\vlc.exe
+tab: 4Jxd42ziDm.mp4 - VLC media player
+focus: C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+tab: #loot-general - Discord
+tab: #loot-qa - Discord
+tab: #loot-general - Discord
+tab: #loot-notifications - Discord
+focus: C:\Program Files (x86)\VideoLAN\VLC\vlc.exe
+tab: 4Jxd42ziDm.mp4 - VLC media player
+focus: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+tab: Loot.io - Google Chrome
+dwasssssafaf
+wfwsaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaadddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddaaatt
+/speed 45
+aaaaaaaaaaadddddadatt
+/speed -0
+0.9
+adtt
+/speed -0.5
+adwwdf
+sfaf
+w
+focus: C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+tab: test-filter.ts - loot - Visual Studio Code
+j
+focus: C:\Program Files\Mozilla Firefox\firefox.exe
+tab: 
+focus: C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+tab: test-filter.ts - loot - Visual Studio Code
+focus: C:\Program Files\Mozilla Firefox\firefox.exe
+tab: Gmail — Mozilla Firefox
+tab: english mustard - michael.schurman@gmail.com - Gmail — Mozilla Firefox
+Yeah, if you're going that would be 	. I can 
+
+focus: C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+tab: test-filter.ts - loot - Visual Studio Code
+focus: 
+tab: 
+focus: C:\Program Files\Mozilla Firefox\firefox.exe
+tab: Inbox (1) - michael.schurman@gmail.com - Gmail — Mozilla Firefox
+tab: Amazon Music Unlimited | Stream Millions of Songs & Podcasts — Mozilla Firefox
+tab: Inbox (1) - michael.schurman@otherocean.com - Other Ocean Group, Inc. Mail — Mozilla Firefox
+focus: C:\Program Files (x86)\VideoLAN\VLC\vlc.exe
+tab: 4Jxd42ziDm.mp4 - VLC media player
+tab: VLC media player
+tab: 4Jxd42ziDm.mp4 - VLC media player
+focus: 
+tab: 
+focus: C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+tab: #loot-notifications - Discord
+tab: #loot-general - Discord
+tab: #loot-qa - Discord
+tab: #loot-general - Discord
+tab: #loot-art - Discord
+tab: #loot-ui - Discord
+tab: #loot-leads - Discord
+tab: #loot-general - Discord
+focus: C:\Program Files (x86)\VideoLAN\VLC\vlc.exe
+tab: 4Jxd42ziDm.mp4 - VLC media player
+focus: C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+tab: #loot-general - Discord
+focus: C:\Program Files\Mozilla Firefox\firefox.exe
+tab: Inbox (1) - michael.schurman@otherocean.com - Other Ocean Group, Inc. Mail — Mozilla Firefox
+tab: Inbox - michael.schurman@otherocean.com - Other Ocean Group, Inc. Mail — Mozilla Firefox
+tab: Inbox (2) - michael.schurman@gmail.com - Gmail — Mozilla Firefox
+tab: english mustard - michael.schurman@gmail.com - Gmail — Mozilla Firefox
+FYI, Linda needs it for a recipe, some sort of english pie.. that's why we want 
+its's her first time making it so whe she doesn't want to substituete until we know what it 's uppsupposed to really be.
+focus: C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+tab: #loot-general - Discord
+focus: C:\Program Files\Mozilla Firefox\firefox.exe
+tab: english mustard - michael.schurman@gmail.com - Gmail — Mozilla Firefox
+focus: C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+tab: test-filter.ts - loot - Visual Studio Code
+clip: 	restoreTime: 1.5,
+
+tab: ● test-filter.ts - loot - Visual Studio Code
+xv
+
+
+blicnkOutTime
+
+
+clip: blinkOutTime
+c
+zv
+
+blinkDuration
+
+clip: blinkDuration
+cv
+
+
+clip: 	setTimeout(() => {
+		whitePlayerFilter.color = 0xffffff
+		player.model.filters = [whitePlayerFilter]
+	}, (blinkDuration * 1000) / 2)
+c
+
+v
+clip: 	Renderer.getInstance().stage.filters = [twistScreenFilter]
+
+c
+clip: 	Renderer.getInstance().stage.filters.push(twistScreenFilter)
+
+.addpush()c
+v1.5
+*
+
+whiteFlashTime: 0.5,
+clip: whiteFlashTime
+c
+, v * v
+focus: 
+tab: 
+focus: C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+tab: #loot-general - Discord
+tab: #loot-art - Discord
+tab: #loot-leads - Discord
+focus: C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+tab: ● test-filter.ts - loot - Visual Studio Code
+focus: C:\Users\Michaels\AppData\Local\Obsidian\Obsidian.exe
+tab: Notes - Obsidian v0.10.11
+focus: C:\Program Files\Mozilla Firefox\firefox.exe
+tab: Amazon Music Unlimited | Stream Millions of Songs & Podcasts — Mozilla Firefox
+focus: C:\Users\Michaels\AppData\Local\Obsidian\Obsidian.exe
+tab: Notes - Obsidian v0.10.11
+focus: C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+tab: ● test-filter.ts - loot - Visual Studio Code
+clip: 	Renderer.getInstance().stage.filters.push(twistScreenFilter)
+
+x
+v
+clip: 	restoreTime: 1.5,
+
+cvblinkInTime
+clip: blinkInTime
+2
+c
+// start  = - time 0
+// stwhite twist flash = time 0.5
+// end tw
+
+clean up - time 2.5
+-
+clip: 
+	setTimeout(() => {
+		Renderer.getInstance().stage.filters.push(twistScreenFilter)
+		whitePlayerFilter.color = 0xffffff
+		player.model.filters = [whitePlayerFilter]
+	}, (blinkDuration * 1000) * 1.5)
+x
+
+v
+
+focus: 
+tab: 
+focus: C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+tab: #loot-leads - Discord
+tab: #loot-general - Discord
+tab: #loot-qa - Discord
+focus: C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+tab: ● test-filter.ts - loot - Visual Studio Code
+focus: C:\Windows\explorer.exe
+tab: 
+focus: C:\Program Files\Mozilla Firefox\firefox.exe
+tab: Amazon Music Unlimited | Stream Millions of Songs & Podcasts — Mozilla Firefox
+tab: SOTI board - Agile Board - Sculpin QA — Mozilla Firefox
+focus: C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+tab: ● test-filter.ts - loot - Visual Studio Code
+clip: 	simpleAnimation_addAnimation(twistScreenFilter, (t) => (player.model.scale.x = mapToRange(t, shrinkStartTime, blinkDuration, 1, 0, true)))
+	simpleAnimation_addAnimation(twistScreenFilter, (t) => (player.model.scale.y = mapToRange(t, shrinkStartTime, blinkDuration, 1, 0, true)))
+
+c
+focus: C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+tab: #loot-qa - Discord
+tab: #loot-code - Discord
+tab: #loot-game-design - Discord
+tab: #loot-code - Discord
+tab: #loot-art - Discord
+tab: #loot-code - Discord
+focus: C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+tab: ● test-filter.ts - loot - Visual Studio Code
+clip: 		simpleAnimation_removeAnimations(twistScreenFilter)
+
+c
+v
+
+clip: 	simpleAnimation_addAnimation(twistScreenFilter, (t) => (twistScreenFilter.radius = t * radiusSpeed * inOutCurve(t, blinkDuration)))
+	simpleAnimation_addAnimation(twistScreenFilter, (t) => (twistScreenFilter.angle = t * angleSpeed * inOutCurve(t, blinkDuration)))
+
+c
+clip: 	simpleAnimation_addAnimation(twistScreenFilter, (t) => (twistScreenFilter.radius = t * radiusSpeed * inOutCurve(t, blinkDuration)))
+	simpleAnimation_addAnimation(twistScreenFilter, (t) => (twistScreenFilter.angle = t * angleSpeed * inOutCurve(t, blinkDuration)))
+	simpleAnimation_addAnimation(twistScreenFilter, (t) => (player.model.scale.x = mapToRange(t, shrinkStartTime, blinkDuration, 1, 0, true)))
+	simpleAnimation_addAnimation(twistScreenFilter, (t) => (player.model.scale.y = mapToRange(t, shrinkStartTime, blinkDuration, 1, 0, true)))
+
+cv
+
+0110
+tab: test-filter.ts - loot - Visual Studio Code
+s
+tab: ● test-filter.ts - loot - Visual Studio Code
+tab: test-filter.ts - loot - Visual Studio Code
+s
+focus: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+tab: Untitled - Google Chrome
+tab: about:blank - Google Chrome
+focus: 
+tab: 
+focus: C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+tab: #loot-code - Discord
+tab: #loot-qa - Discord
+you might be disonnectconnected, check console
+
+focus: C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+tab: test-filter.ts - loot - Visual Studio Code
+focus: C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+tab: #loot-qa - Discord
+tab: #loot-art - Discord
+tab: #loot-notifications - Discord
+tab: #loot-qa - Discord
+focus: C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+tab: test-filter.ts - loot - Visual Studio Code
+focus: 
+tab: 
+focus: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+tab: Loot.io - Google Chrome
+dt
+/insepectc 
+telepor
+
+focus: C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+tab: test-filter.ts - loot - Visual Studio Code
+clip: 	setTimeout(() => {
+		whitePlayerFilter.color = 0xffffff
+		player.model.filters = [whitePlayerFilter]
+	}, 1000 * whiteFlashTime)
+c
+tab: ● test-filter.ts - loot - Visual Studio Code
+
+v
+// telporteport in - time 1
+.push()
+
+focus: C:\Program Files\Mozilla Firefox\firefox.exe
+tab: 
+tab: Mozilla Firefox
+.remove()
+tab: Gmail — Mozilla Firefox
+tab: english mustard - michael.schurman@gmail.com - Gmail — Mozilla Firefox
+focus: C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+tab: ● test-filter.ts - loot - Visual Studio Code
+focus: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+tab: Loot.io - Google Chrome
+focus: C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+tab: ● test-filter.ts - loot - Visual Studio Code
+focus: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+tab: Loot.io - Google Chrome
+daaaaaaaaaaaaaaaad
+focus: C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+tab: ● test-filter.ts - loot - Visual Studio Code
+clip: blinkDuration * 1000
+c
+v + 
++
+() * 1000
+tab: test-filter.ts - loot - Visual Studio Code
+s
+focus: 
+tab: 
+focus: C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+tab: #loot-qa - Discord
+tab: @OhHeyThere - Discord
+focus: 
+tab: 
+focus: C:\Windows\explorer.exe
+focus: C:\Program Files\ConEmu\ConEmu64.exe
+tab: npm
+tab: MINGW64:/c/Projects/loot
+focus: C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+tab: @OhHeyThere - Discord
+any idea which hub,  1 or 2?
+focus: C:\Program Files\ConEmu\ConEmu64.exe
+tab: MINGW64:/c/Projects/loot
+tailhub1
+
+c2
+
+clip: [WARN]   [26198]{"name":"Marbled Scythe","dps":42,"physicalDamage":46,"attackRate":0.9317658118978502}
+onMessage error, disconnecting client Error: Cannot get 8 bit(s) from offset 224, 0 available
+    at BitBuffer.require.BitBuffer.getBits (/game/node_modules/nengi/core/binary/BitBuffer.js:73:9)
+    at BitBuffer.require.BitBuffer.readUInt8 (/game/node_modules/nengi/core/binary/BitBuffer.js:203:14)
+    at BitStream.bitStreamFactoryRead [as readUInt8] (/game/node_modules/nengi/core/binary/BitStream.js:14:37)
+    at Object.read (/game/node_modules/nengi/core/binary/types/UTF8String.js:19:50)
+    at readProp (/game/node_modules/nengi/core/protocol/read/readProp.js:23:31)
+    at readMessage (/game/node_modules/nengi/core/protocol/read/readMessage.js:32:25)
+    at readCommands (/game/node_modules/nengi/core/snapshot/reader/readCommands.js:13:23)
+    at readCommandBuffer (/game/node_modules/nengi/core/snapshot/reader/readCommandBuffer.js:49:32)
+    at Instance.onMessage (/game/node_modules/nengi/core/instance/Instance.js:193:34)
+    at Object.message (/game/node_modules/nengi/core/instance/Instance.js:132:22)
+    at /game/node_modules/@clusterws/cws/dist/shared.js:48:46
+nengi: disconnect:12                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+focus: C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+tab: @OhHeyThere - Discord
+```
+v```
+
+someitimes this is because the client and server oare out of sync
+
+tab: #loot-qa - Discord
+tab: #loot-code - Discord
+FYI, in hub now:
+```
+v
+```
+I think Callum is looking into, but could be server/client mismatch
+
+alph.loot.io in 22 
+
+tab: @OhHeyThere - Discord
+tab: #loot-code - Discord
+tab: #programming - Discord
+lau
+
+welcome back!
+
+tab: #loot-code - Discord
+tab: #loot-art - Discord
+tab: #loot-qa - Discord
+tab: #loot-code - Discord
+focus: C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+tab: test-filter.ts - loot - Visual Studio Code
+focus: C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+tab: #loot-code - Discord
+tab: #programming - Discord
+tab: #loot-code - Discord
+focus: C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+tab: test-filter.ts - loot - Visual Studio Code
+focus: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+tab: Loot.io - Google Chrome
+dddd
+focus: C:\Program Files\ConEmu\ConEmu64.exe
+tab: MINGW64:/c/Projects/loot
+
+c
+focus: 
+tab: 
+focus: C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+tab: test-filter.ts - loot - Visual Studio Code
+focus: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+tab: Loot.io - Google Chrome
+da
+t
+/inspcedect c teleport
+
+focus: C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+tab: test-filter.ts - loot - Visual Studio Code
+pclientpla
+tab: player.client.ts - loot - Visual Studio Code
+
+tab: ● player.client.ts - loot - Visual Studio Code
+ // TODO: removeffilters
+clip: this.model.filters
+c
+
+v = []
+tab: player.client.ts - loot - Visual Studio Code
+s
+focus: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+tab: about:blank - Google Chrome
+tab: localhost:1234/?connectTo=adventure&skipToGame=true - Google Chrome
+tab: Loot.io - Google Chrome
+focus: 
+tab: 
+focus: C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+tab: #loot-code - Discord
+focus: 
+tab: 
+focus: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+tab: Loot.io - Google Chrome
+t
+/inspectc teleport
+focus: 
+tab: 
+
+focus: C:\Program Files\Git\usr\bin\mintty.exe
+tab: MINGW64:/c/Projects/quick
+focus: C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+tab: player.client.ts - loot - Visual Studio Code
+focus: 
+tab: 
+focus: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+tab: Loot.io - Google Chrome
+focus: C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+tab: player.client.ts - loot - Visual Studio Code
+tab: test-filter.ts - loot - Visual Studio Code
+focus: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+tab: Loot.io - Google Chrome
+focus: C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+tab: test-filter.ts - loot - Visual Studio Code
+tab: ● test-filter.ts - loot - Visual Studio Code
+focus: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+tab: Loot.io - Google Chrome
+ddaaaaaa
+focus: C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+tab: ● test-filter.ts - loot - Visual Studio Code
+tab: test-filter.ts - loot - Visual Studio Code
+z
+clip: setTimeout
+c
+focus: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+tab: Loot.io - Google Chrome
+daaaaa
+
+focus: C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+tab: test-filter.ts - loot - Visual Studio Code
+Fgamemodecon
+
+F
+tab: game-client.ts - loot - Visual Studio Code
+tab: dev-tools-manager.ts - loot - Visual Studio Code
+tab: game-client.ts - loot - Visual Studio Code
+focus: 
+tab: 
+focus: C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+tab: #loot-code - Discord
+tab: #loot-ui - Discord
+tab: #loot-notifications - Discord
+focus: 
+tab: 
+focus: C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+tab: game-client.ts - loot - Visual Studio Code
+focus: 
+tab: 
+focus: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+tab: Loot.io - Google Chrome
+focus: C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+tab: game-client.ts - loot - Visual Studio Code
+tab: ● game-client.ts - loot - Visual Studio Code
+tab: test-filter.ts - loot - Visual Studio Code
+//
+tab: ● test-filter.ts - loot - Visual Studio Code
+
+
+tab: test-filter.ts - loot - Visual Studio Code
+ks
+focus: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+tab: Untitled - Google Chrome
+tab: about:blank - Google Chrome
+tab: Loot.io - Google Chrome
+focus: C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+tab: test-filter.ts - loot - Visual Studio Code
+tab: ● test-filter.ts - loot - Visual Studio Code
+tab: test-filter.ts - loot - Visual Studio Code
+tab: ● test-filter.ts - loot - Visual Studio Code
+tab: test-filter.ts - loot - Visual Studio Code
+focus: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+tab: Loot.io - Google Chrome
+setTimeou	zzzzzs
+
+focus: C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+tab: test-filter.ts - loot - Visual Studio Code
+focus: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+tab: Loot.io - Google Chrome
+
+focus: C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+tab: test-filter.ts - loot - Visual Studio Code
+tab: dev-tools-manager.ts - loot - Visual Studio Code
+tab: renderer.ts - loot - Visual Studio Code
+tab: ● renderer.ts - loot - Visual Studio Code
+//
+tab: renderer.ts - loot - Visual Studio Code
+focus: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+tab: Untitled - Google Chrome
+s
+tab: about:blank - Google Chrome
+tab: Loot.io - Google Chrome
+focus: C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+tab: test-filter.ts - loot - Visual Studio Code
+tab: dev-tools-manager.ts - loot - Visual Studio Code
+focus: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+tab: Loot.io - Google Chrome
+focus: 
+tab: 
+focus: C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+tab: #loot-notifications - Discord
+tab: #loot-code - Discord
+focus: C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+tab: dev-tools-manager.ts - loot - Visual Studio Code
+pplayer
+focus: C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+tab: #loot-code - Discord
+focus: 
+tab: 
+focus: C:\Program Files\Mozilla Firefox\firefox.exe
+tab: SOTI board - Agile Board - Sculpin QA — Mozilla Firefox
+tab: Amazon Music Unlimited | Stream Millions of Songs & Podcasts — Mozilla Firefox
+focus: C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+tab: #loot-code - Discord
+focus: C:\Program Files\ConEmu\ConEmu64.exe
+tab: MINGW64:/c/Projects/loot
+focus: 
+tab: 
+focus: C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+tab: dev-tools-manager.ts - loot - Visual Studio Code
+tab: player.client.ts - loot - Visual Studio Code
+tab: test-filter.ts - loot - Visual Studio Code
+tab: ● test-filter.ts - loot - Visual Studio Code
+tab: test-filter.ts - loot - Visual Studio Code
+	s
+f
+
+
+clip: blinkInTime
+c
+tab: ● test-filter.ts - loot - Visual Studio Code
+v
+, v
+clip: whiteOffTime
+whiteOffTime: 2.,c
+, vc
+v
+tab: test-filter.ts - loot - Visual Studio Code
+s
+focus: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+tab: Untitled - Google Chrome
+tab: about:blank - Google Chrome
+tab: Loot.io - Google Chrome
+focus: C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+tab: test-filter.ts - loot - Visual Studio Code
+focus: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+tab: Loot.io - Google Chrome
+focus: C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+tab: test-filter.ts - loot - Visual Studio Code
+focus: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+tab: Loot.io - Google Chrome
+3
+focus: C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+tab: test-filter.ts - loot - Visual Studio Code
+focus: 
+tab: 
+focus: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+tab: Loot.io - Google Chrome
+focus: C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+tab: test-filter.ts - loot - Visual Studio Code
+tab: ● test-filter.ts - loot - Visual Studio Code
+ * 1000
+clip: restoreTime
+xv * 
+focus: 
+tab: 
+focus: C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+tab: #loot-code - Discord
+tab: #loot-ui - Discord
+
+tab: #programming - Discord
+tab: #pets - Discord
+tab: #loot-ui - Discord
+tab: #programming - Discord
+focus: C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+tab: ● test-filter.ts - loot - Visual Studio Code
+"
+focus: C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+tab: #programming - Discord
+tab: #loot-ui - Discord
+focus: C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+tab: ● test-filter.ts - loot - Visual Studio Code
+console.log(
+focus: 
+tab: 
+focus: C:\Program Files\Mozilla Firefox\firefox.exe
+tab: Amazon Music Unlimited | Stream Millions of Songs & Podcasts — Mozilla Firefox
+tab: Mozilla Firefox
+english mustart substi
+tab: english mustard substitute at DuckDuckGo — Mozilla Firefox
+
+tab: Mozilla Firefox
+tab: Substitute for English Mustard | Our Everyday Life — Mozilla Firefox
+tab: Substitute for English Mustard — Mozilla Firefox
+focus: C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+tab: #loot-ui - Discord
+tab: #loot-general - Discord
+tab: #loot-qa - Discord
+focus: C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+tab: ● test-filter.ts - loot - Visual Studio Code
+focus: 
+tab: 
+focus: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+tab: Loot.io - Google Chrome
+a
+focus: 
+tab: 
+focus: C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+tab: ● test-filter.ts - loot - Visual Studio Code
+clip: 		console.log(`t1`)
+
+`t1cvv
+233`
+clip: 		console.log(`t3`)
+
+tab: test-filter.ts - loot - Visual Studio Code
+cv4s
+focus: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+tab: about:blank - Google Chrome
+tab: Loot.io - Google Chrome
+focus: 
+tab: 
+focus: C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+tab: test-filter.ts - loot - Visual Studio Code
+j
+focus: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+tab: Loot.io - Google Chrome
+3
+focus: C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+tab: test-filter.ts - loot - Visual Studio Code
+focus: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+tab: Loot.io - Google Chrome
+focus: 
+tab: 
+focus: C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+tab: test-filter.ts - loot - Visual Studio Code
+focus: 
+tab: 
+focus: C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+tab: #loot-qa - Discord
+tab: #loot-code - Discord
+focus: C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+tab: test-filter.ts - loot - Visual Studio Code
+focus: 
+tab: 
+focus: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+tab: Loot.io - Google Chrome
+focus: C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+tab: test-filter.ts - loot - Visual Studio Code
+focus: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+tab: Loot.io - Google Chrome
+refresh_locale_list [476]: GetKeyboardLayoutList(0, NULL) found 3 layouts.
+refresh_locale_list [493]: Received 3 locales.
+load_input_helper [866]: refresh_locale_list() found 3 locale(s).

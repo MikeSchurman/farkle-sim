@@ -1,0 +1,1105 @@
+
+> quick@1.0.0 keylogger C:\Projects\quick
+> npx ts-node src/keylogger.ts
+
+[2021/2/21-10:20-focus]	 C:\Program Files\Git\usr\bin\mintty.exe
+[2021/2/21-10:20-tab]	 MINGW64:/c/Projects/quick
+[2021/2/21-10:20-clip]	 RescueTime
+keydown
+keyup
+keypress
+[2021/2/21-10:20-input]	 ls | grep log-
+[2021/2/21-10:20-input]	 
+mousemove
+mousewheel
+mousedown
+mousedrag
+mouseup
+[2021/2/21-10:20-focus]	 C:\Program Files\Mozilla Firefox\firefox.exe
+[2021/2/21-10:20-tab]	 ADHD tech stack: auto time tracking | by Piotr Migdał | Medium — Mozilla Firefox
+mouseclick
+[2021/2/21-10:21-tab]	 Facebook — Mozilla Firefox
+[2021/2/21-10:22-input]	 
+[2021/2/21-10:23-clip]	 J’aime île-du-Prince Èdouard. J’aime tout! 
+[2021/2/21-10:23-tab]	 Mozilla Firefox
+[2021/2/21-10:23-input]	 ctra
+[2021/2/21-10:23-tab]	 Google Translate — Mozilla Firefox
+[2021/2/21-10:23-input]	 v
+[2021/2/21-10:23-tab]	 Facebook — Mozilla Firefox
+[2021/2/21-10:23-tab]	 Deriving Einstein's most famous equation: Why does energy = mass x speed of light squared? - YouTube — Mozilla Firefox
+[2021/2/21-10:24-tab]	 Adding a timestamp to command output in linux - Abdullah Diab's Blog — Mozilla Firefox
+[2021/2/21-10:24-tab]	 Top 10 Unix Command Line Utilities 2013 - Coldflake Blog — Mozilla Firefox
+[2021/2/21-10:24-tab]	 ADHD tech stack: auto time tracking | by Piotr Migdał | Medium — Mozilla Firefox
+[2021/2/21-10:26-tab]	 Quantum Game — Mozilla Firefox
+[2021/2/21-10:26-tab]	 Quantum-Game/bra-ket-vue: ⟨𝜑|𝜓⟩.vue - a Vue-based visualization of quantum states and operations — Mozilla Firefox
+[2021/2/21-10:26-tab]	 CodeSandbox — Mozilla Firefox
+[2021/2/21-10:26-tab]	 Loading... - CodeSandbox — Mozilla Firefox
+[2021/2/21-10:26-tab]	 bra-ket-vue - CodeSandbox — Mozilla Firefox
+[2021/2/21-10:29-tab]	 CodeSandbox — Mozilla Firefox
+[2021/2/21-10:29-tab]	 Loading... - CodeSandbox — Mozilla Firefox
+[2021/2/21-10:29-tab]	 Vue - CodeSandbox — Mozilla Firefox
+[2021/2/21-10:30-tab]	 New plant-based plastics can be chemically recycled with near-perfect efficiency | Hacker News — Mozilla Firefox
+[2021/2/21-10:30-tab]	 ADHD tech stack: auto time tracking | by Piotr Migdał | Medium — Mozilla Firefox
+[2021/2/21-10:30-tab]	 MikeSchurman's comments | Hacker News — Mozilla Firefox
+[2021/2/21-10:30-tab]	 ADHD tech stack: auto time tracking | by Piotr Migdał | Medium — Mozilla Firefox
+[2021/2/21-10:31-clip]	 Piotr Migdał
+456 Followers
+About
+
+Sign in
+ADHD tech stack: auto time tracking
+Piotr Migdał
+
+Piotr Migdał
+
+May 19, 2020·9 min read
+
+A few tips on automatic time tracking, especially for people with ADHD: how to get immediate feedback, for actions, not guilt.
+
+tl;dr: Qbserve when I was on macOS, now RescueTime + Custom New URL Tab (Chrome extension) pointing its report, so I get immediate feedback on my productivity (motivates me to keep moving), or the depth of my slacking (motivates me to start working). Plus I use Intention, for web browsing.
+
+I cannot stress enough the word immediate. Delayed reports (after a week, after a day, or whenever I check) sure give a bit of reality-check and insight on what to change (usually only the first time) but were not useful for actually implementing these changes. (I have ADHD if that matters. For some people insight might be enough.)
+
+    What then is time? If no one asks me, I know what it is. If I wish to explain it to him who asks, I do not know. — Augustine of Hippo
+
+Even though I have studied physics, time remains a mystery to me. I know I cannot keep track of time. I need some kind of “prosthetics” for my daily functioning, to even remotely stay on track. It is why, since I was 15 or so, I always wear a watch (no, a smartphone in my pocket is not enough). If I don’t have a watch, I feel confused.
+
+And how about work? Freelancing is great and gives me the freedom and flexibility I desire. However, it comes as a cost of the lack of external structure, to get work started and keep it on track. Sometimes all it takes checking a single (and relevant!) link, and 2h are gone (after a rabbit hole dive).
+Image for post
+Image for post
+Tweet by @tricina. “Just say organized and keep your routine” does little except instilling guilt.
+What does work (for me)
+
+There are a few easy things:
+
+    my watch (Fitbit, motivates me to walk more and sleep more; enough to charge once a week),
+    Google calendar (event not there = event does not exist),
+    alarms for everything (I need to get ready for a meeting in the evening? I set an alarm).
+
+Let me share what helped me with self-spying, that’s to say — time tracking. I need two things:
+
+    automatic time tracking (cannot require extra actions from my side)
+    real-time feedback on the display
+
+I cannot overemphasize the latter. If I get a summary after a week, or even — at the end of a day, it will guilt-trip me (at which I excel), but it won’t be helpful. I will blame myself and keep on slacking/sinning.
+What's worse: Catholic guilt or Jewish guilt? | The Tylt
+Catholics are famous for guilt-they're born with original sin, taught that "impure thoughts" are shameful and wrong…
+
+thetylt.com
+
+What I need is an always-watching deity that also provides immediate feedback. (“There is no ADHD when it comes to video games.” — we strive on fast, objective& actionable feedback!)
+Qbserve (macOS)
+
+I had my on-and-offs with many pieces of software. Until I saw Qbserve:
+Image for post
+Image for post
+Working alone (left), then started co-working with my friend, Kasia right).
+
+What is even more important, is the always-watching-cube in the taskbar, displaying my productivity score (the one with 6%):
+Image for post
+Image for post
+
+It looks so tiny, but for me, it was a game-changer:
+
+    it is persistent and does not require anything to click it,
+    when I want to check my stats, they are one click away.
+
+When I see it is lowish, I am motivated to start working, when it is high — motivated to continue (for reference, 6% is very low; but I didn’t use this laptop for work the given day).
+RescueTime + Custom New URL Tab
+
+However, in Dec 2019 I brought a new laptop, this time with Windows. To my surprise, it was easy to set up a dev environment (Anaconda, Node, and VSCode work almost the same). Another thing started to be a challenge: how to be productive, since I cannot use Qbserve AND a powerful graphics card has other good uses than deep learning? I installed RescueTime.
+Image for post
+Image for post
+The default view of RescueTime. For me, it is too much and too little information at the same time.
+
+It tracks reasonably well but misses one core feature — real-time feedback. That is, I know I can see reports at wish, but I would love to get frequent feedback. It cannot be conditional on my consciously checking it.
+
+I looked for extensions so that I would see it on the taskbar, but to no avail. However, then it clicked. I used some extensions to motivate myself with new tabs: Mortality New Tab (more on that in the “extra”) or a less morbid one: Momentum. Why not setting a new tab to RescueTime directly?
+
+So, I installed Custom New URL Tab Chrome extension and set it to https://www.rescuetime.com/browse/productivity/by/hour/.
+Image for post
+Image for post
+Image for post
+Image for post
+A productive day, and an unproductive day. Both are very far from extremes.
+
+Now each time I open a new tab (which I do all the time) I get a reality check. I more or less know how I procrastinate a given day, so I don’t need a summary of it. A summary of time is invaluable, though. A small note: the default view is at https://www.rescuetime.com/dashboard.
+ActivityWatch + Custom New URL Tab
+
+If you think that I underestimate the government power to sabotage me, you underestimate my ability to self-sabotage myself. However, if you prefer an open-source (and much more privacy-focused) alternative, there is ActivityWatch, that would work with the same URL tab redirect, this http://localhost:5600/#/timeline
+Image for post
+Image for post
+
+The interface is slightly less polished (and, unfortunately, I experience a delay between opening it and getting a chart), but the tracking works. Since it is in Vue I love, one day I might modify it to my needs.
+Intention
+
+There is one, very recent, plugin I use on all machines: Intention, I learned from an HN thread. (I used it on top of Qbserve / Rescue Time, not instead of it!) It only works for tabs, but since it is my main source of distractions (“just one more video”, “just one more comment”, etc), it matters.
+Image for post
+Image for post
+I set it for Facebook, Reddit, Hacker News, and Youtube. Other sites are not a problem.
+
+Breaks are crucial. My most productive times were ones where I:
+
+    worked hard on a single project,
+    took intensive but time-limited breaks.
+
+The best time ever was in high school while writing a mathematical paper and taking breaks with a Timeshock game (a pinboard, no storyline). We all know that no breaks is bad:
+Image for post
+Image for post
+You better take breaks., or end up as in The Shining.
+
+The problem is when I drift, and instead of a refreshing 15 min, it is a 2h rabbit hole journey, eating not only my time but also attention. But most of the current software does not address that.
+
+    I use social media after midnight, and it does not stop me then but cuts the global limit for the next day.
+    There is a nasty surprise when an app kicks me out, with no warning. It is so unpleasant (especially when I am in the middle of writing a long comment) that it may prompt be to uninstall it.
+    Too strict limits. Sometimes I know that a given day I need more social media.
+
+With Intention I:
+
+    know how much of my time is spent on distractions,
+    decide how much time I need,
+    I see the countdown (so I know if I need to wrap-up a reply, or if it makes sense to start writing a new one),
+    it automatically blocks these sites,
+    yet, it distinguishes between “normal use” of YouTube and e.g. using it for creating a workshop on deep learning (looking for video abstract of recent papers).
+
+What doesn't work (for me)
+
+I use Toggl for time tracking for projects when I am paid by the hour (minority). I tried to use it for other projects, and sometimes it makes it easier to stay on track. However, I often forgot to switch it on.
+
+There are a few plugins (e.g. ColdTurkey) that are “too nuclear”. Being halted in the middle of writing a reply (on Facebook or Hacker News), with no prior warning, left me disturbed. Even worse, when I used it for my WORK stuff, in data science or Quantum Game.
+
+I have my on-and-offs with Pomodoro, but it does not work on a consistent basis, at least — not when self-applied. There was not a single app I was able to use more for more than a few days. Often, I had a problem with starting or restarting. Pomodoro worked when someone else was controlling time (or we took turns, and I knew others depended on that as well), but not for solo work.
+
+Side note: why do ALL time-tracking pieces of software assume that the day starts at midnight? (Midnight does not seem to be anywhere near to the average of sleep time.)
+Some remarks
+
+I hope it inspired you a bit to track time. If it inspired you, great — no matter if you have ADHD or not. Of course, it is up to you what you consider a valuable time, and what a distraction. We need to admit that creative work pretty much needs a balance between random pursuits and inspirations, and focus to get something done. Also, rest is something different than a distraction. While I procrastinate a lot I am slowly learning how to rest (e.g. a revolutionary idea of having a day a wee
+
+To make it clear, such time-tracking helped me but is far for solving my problems. Unlike the topic of dating, where I went from clueless to fairly competent, when it comes to time organization I went from clueless to slightly less clueless.
+
+If you struggle with time organization, I recommend How to ADHD Youtube channel and Driven to Distraction: Recognizing and Coping with Attention Deficit Disorder book by Edward Hallowell & John Ratey. The term “prosthetic” comes from their book, in which they compare ADHD to be short-sighted. Wearing glasses or lenses is an acceptable solution, and people are not pushed to “just squint their eyes harder”.
+
+I thank Wojciech Jabłoński for bugging me to write it to write “ADHD tech stack”; thanks Anna Karpiuk and
+Sarah Martin,
+for remarks on the draft. It started as a Hacker News comment.
+
+If there is a need, I am happy to write on my TODO list with Evernote. I find it more useful than typical TODO apps, as it is more in the line of the Bullet Journal: if I don’t do a task, it is gone unless I take a conscious effort to write it down again.
+Extra: Mortality New Tab
+
+A close friend of mine showed me his display, with a rectangle in the background.
+Image for post
+Image for post
+Size can vary by screen size. Original here.
+
+Asked me if it is big. I said it is small.
+
+    Well, it is 365 x 100 pixels, and there are not as many days in your life. Think about every day, and if you spend it in a way that matters.
+
+My desktop is cluttered, so I rarely see it. But for a few years I have been seeing with each new tab (Mortality — New Tab):
+Image for post
+Image for post
+Each day it looks slightly different.
+
+It is a modern-day “memento mori”. Quite ironically, it motivated me to live to the fullest. With each new tab, I asked myself “Is opening this website the best thing I can do with this piece of time?”. It didn’t hold me for entertainment; it held me from making time pass through my fingers, unintentionally.
+Piotr Migdał
+
+Data scientist with a PhD in quantum physics. Develops Quantum Game with Photons. Support me at https://github.com/sponsors/stared.
+
+    Productivity
+    Time Management
+    Time Tracking
+    Adhd
+    Procrastination
+
+More from Piotr Migdał
+
+Data scientist with a PhD in quantum physics. Develops Quantum Game with Photons. Support me at https://github.com/sponsors/stared.
+
+Mar 23, 2020
+Doom 2016 vs Doom Eternal: UI side-by-side
+
+Demons invaded Earth and ruined Doom HUD. Some alternative titles:
+
+    A devilishly minimalistic style vs death by Candy Crush glitter.
+    An immersive vs casual game.
+    A dark journey vs demon piñata.
+
+Impressions
+
+Autumn 2019 I played Doom 2016 for the first time, and immediately fell in love. Everything was exactly in place: from the pace and mechanics, through graphics and the atmosphere, to UI and style. Gameplay just felt right — dynamic as hell, encouraging rolling up your sleeves, and getting into visceral contact with the enemy. We had all the best from Doom 1&2 (no talk, all action) plus much…
+
+Read more · 8 min read
+
+Published in Quantum Photons
+
+·Mar 2, 2020
+How I Learned to Stop Worrying and Love the Types & Tests
+
+On TypeScript, ESlint, jest, TSDoc, Travis-CI, and VSCode (with inspiration from the Zen of Python)
+
+It is fun to write fast without constraints, and run code in a flash. That is why I fell in love with Python and the Jupyter Notebook environment, a great tool for prototyping and interacting with data. However, interactive notebooks fall short when you want to write bigger, maintainable code. See the What’s wrong with computational notebooks? survey:
+Image for post
+Image for post
+Restructuring and cleaning up code (refactoring) is being listed as one task notebooks are not meant for. For further reading on the pros and cons of notebooks, see The First Notebook War.
+
+While I knew the concept of tests, I got discouraged by some overzealous test-driven development practices which make feature development slow and experimentation — even slower. In…
+
+Read more in Quantum Photons · 11 min read
+
+Oct 25, 2019
+“The Statues” by Jacek Kaczmarski
+
+“Posągi” (1989) translated from Polish by Anna Karpiuk and Piotr Migdał
+
+What bliss when a tyrant’s tall statues are shattered
+But in each shard of bronze in each shrapnel of stone
+There lingers a trace of the spark that once fluttered
+In the one that was thrown from the throne
+
+And all men who saw the almighty’s rise and fall
+And all new statues cast out of metal and dust
+Will carry a splinter of the same tyrant’s soul
+Fact of life never to be discussed
+
+What bliss when a tyrant’s tall statues are shattered But a void on the…
+
+Read more · 1 min read
+
+Published in Quantum Photons
+
+·Sep 26, 2019
+To make a cool game, you first have to play other cool games
+
+    “To steal ideas from one person is plagiarism; to steal from many is research.” — stolen from a few sources
+
+When our Quantum Game v2.0 team first got together to work on the game, we realized we were all quite different — a physicist, a designer, a writer, and a jeweler — getting ideas across and making them stick wasn’t the easiest thing in the world. To combat that issue, we had ourselves a day of research. No, not by digging through textbooks, journal articles or reviews. We powered up a projector and played some classic video games!
+Image for post
+Image for post
+
+Read more in Quantum Photons · 5 min read
+
+Jul 20, 2019
+Dreams, Drugs & ConvNets
+
+It seems that some artifacts generated by artificial neural networks are eerily similar to those created by our altered states of mind, be it dreams or thanks to psychedelics.
+
+While mentioning psychedelics (and showing trippy computer-generated images) has some entertainment value, my motivation is different, as explained in Exploring human vs machine learning (one blogpost at a time):
+
+    While each particular machine learning algorithm comes with its own artifacts and limitations, some issues are much broader. In fact, there are limitations of any learning process, machine or human alike. …
+
+Read more · 7 min read
+
+More From Medium
+Workspace Ergonomics
+Susan Murray
+How to Rethink Your Goals for Greater Success and Happiness
+Haris Mohammad
+Boost Your Productivity by Decluttering Your Office Space
+Brett Christensen
+How to Use Asana to Create an Editorial Calendar
+Shaunta Grimes in The Write Brain
+When Your Morning Routine Becomes a Burden — And how to Create one that Actually Serves You
+Julia Horvath in The Startup
+I Gave Up My Phone For A Month. Here’s What I Learned.
+Jen Sanfilippo
+An Extreme Guide to Simplifying Your Life so You Can Stress Less
+Tim Denning in The Startup
+I Need a Deadline To Get Anything Done, Ever
+Dr. Derek Austin 🥳 in The Startup
+
+About
+
+Help
+
+Legal
+
+[2021/2/21-10:31-input]	 ac
+[2021/2/21-10:31-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/21-10:31-tab]	 log-02-20.txt - Notes - Visual Studio Code
+[2021/2/21-10:31-input]	 polog
+[2021/2/21-10:31-tab]	 log-2021-02-20.txt - Notes - Visual Studio Code
+[2021/2/21-10:31-input]	 
+[2021/2/21-10:31-focus]	 C:\Windows\explorer.exe
+[2021/2/21-10:31-tab]	 quick
+[2021/2/21-10:31-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/21-10:31-tab]	 log-2021-02-21.txt - Notes - Visual Studio Code
+[2021/2/21-10:32-focus]	 C:\Program Files\Mozilla Firefox\firefox.exe
+[2021/2/21-10:32-tab]	 ADHD tech stack: auto time tracking | by Piotr Migdał | Medium — Mozilla Firefox
+[2021/2/21-10:32-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/21-10:32-tab]	 log-2021-02-21.txt - Notes - Visual Studio Code
+[2021/2/21-10:32-tab]	 log-02-20.txt - Notes - Visual Studio Code
+[2021/2/21-10:32-focus]	 C:\Windows\explorer.exe
+[2021/2/21-10:32-tab]	 quick
+[2021/2/21-10:32-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/21-10:32-tab]	 log-02-20.txt - Notes - Visual Studio Code
+[2021/2/21-10:32-focus]	 C:\Windows\explorer.exe
+[2021/2/21-10:32-tab]	 Michaels
+[2021/2/21-10:32-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/21-10:32-tab]	 log-02-20.txt - Notes - Visual Studio Code
+[2021/2/21-10:32-focus]	 C:\Program Files\Git\usr\bin\mintty.exe
+[2021/2/21-10:32-tab]	 MINGW64:/c/Projects/quick
+[2021/2/21-10:32-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/21-10:32-tab]	 log-02-20.txt - Notes - Visual Studio Code
+[2021/2/21-10:32-tab]	 enemy.server.ts - loot - Visual Studio Code
+[2021/2/21-10:32-input]	 rqui
+[2021/2/21-10:32-tab]	 Visual Studio Code
+[2021/2/21-10:32-tab]	 main.ts - quick - Visual Studio Code
+[2021/2/21-10:32-input]	 
+[2021/2/21-10:33-input]	 Ftab
+[2021/2/21-10:33-input]	 *.ts
+[2021/2/21-10:33-tab]	 keylogger.ts - quick - Visual Studio Code
+[2021/2/21-10:33-tab]	 main.ts - quick - Visual Studio Code
+[2021/2/21-10:33-tab]	 keylogger.ts - quick - Visual Studio Code
+[2021/2/21-10:33-focus]	 
+[2021/2/21-10:33-tab]	 
+[2021/2/21-10:33-focus]	 C:\Program Files\Everything\Everything.exe
+[2021/2/21-10:33-tab]	 Everything
+[2021/2/21-10:34-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/21-10:34-tab]	 Visual Studio Code
+[2021/2/21-10:34-tab]	 keylogger.ts - quick - Visual Studio Code
+[2021/2/21-10:34-input]	 
+[2021/2/21-10:34-input]	 ppack
+[2021/2/21-10:34-tab]	 package.json - quick - Visual Studio Code
+[2021/2/21-10:34-input]	 
+[2021/2/21-10:34-focus]	 C:\Windows\SystemApps\Microsoft.Windows.Cortana_cw5n1h2txyewy\SearchUI.exe
+[2021/2/21-10:34-tab]	 Cortana
+[2021/2/21-10:34-input]	 sgit
+[2021/2/21-10:34-focus]	 C:\Program Files\Git\usr\bin\mintty.exe
+[2021/2/21-10:34-tab]	 /usr/bin/bash --login -i
+[2021/2/21-10:34-tab]	 MINGW64:/c/Users/Michaels
+[2021/2/21-10:34-input]	 cd /Proj	c/cpPProj	quick
+[2021/2/21-10:34-tab]	 MINGW64:/c/Projects/quick
+[2021/2/21-10:34-input]	 
+[2021/2/21-10:34-focus]	 C:\Program Files\Mozilla Firefox\firefox.exe
+[2021/2/21-10:34-tab]	 ADHD tech stack: auto time tracking | by Piotr Migdał | Medium — Mozilla Firefox
+[2021/2/21-10:34-tab]	 Mozilla Firefox
+[2021/2/21-10:34-input]	 cygwin
+[2021/2/21-10:34-tab]	 cygwin at DuckDuckGo — Mozilla Firefox
+[2021/2/21-10:34-focus]	 C:\Program Files\Git\usr\bin\mintty.exe
+[2021/2/21-10:34-tab]	 MINGW64:/c/Projects/quick
+[2021/2/21-10:34-focus]	 
+[2021/2/21-10:34-tab]	 
+[2021/2/21-10:34-focus]	 C:\Windows\SystemApps\Microsoft.Windows.Cortana_cw5n1h2txyewy\SearchUI.exe
+[2021/2/21-10:34-tab]	 Cortana
+[2021/2/21-10:34-focus]	 C:\Program Files\Git\usr\bin\mintty.exe
+[2021/2/21-10:34-tab]	 MINGW64:/c/Projects/quick
+[2021/2/21-10:34-focus]	 C:\Program Files\Mozilla Firefox\firefox.exe
+[2021/2/21-10:34-tab]	 cygwin at DuckDuckGo — Mozilla Firefox
+[2021/2/21-10:34-input]	 scygwin
+[2021/2/21-10:34-tab]	 Cygwin — Mozilla Firefox
+[2021/2/21-10:35-tab]	 Opening setup-x86_64.exe
+[2021/2/21-10:35-tab]	 Cygwin — Mozilla Firefox
+[2021/2/21-10:35-tab]	 Opening setup-x86_64.exe
+[2021/2/21-10:35-tab]	 Cygwin — Mozilla Firefox
+[2021/2/21-10:35-input]	 
+[2021/2/21-10:35-tab]	 Library
+[2021/2/21-10:35-input]	 j
+[2021/2/21-10:35-tab]	 Cygwin — Mozilla Firefox
+[2021/2/21-10:35-focus]	 
+[2021/2/21-10:35-tab]	 
+[2021/2/21-10:35-focus]	 C:\Program Files\Mozilla Firefox\firefox.exe
+[2021/2/21-10:35-tab]	 Cygwin — Mozilla Firefox
+[2021/2/21-10:35-focus]	 C:\Users\Michaels\Downloads\setup-x86_64.exe
+[2021/2/21-10:35-tab]	 Cygwin Setup
+[2021/2/21-10:35-tab]	 Cygwin Setup - Choose Installation Type
+[2021/2/21-10:35-tab]	 Cygwin Setup - Choose Installation Directory
+[2021/2/21-10:35-tab]	 Cygwin Setup - Select Local Package Directory
+[2021/2/21-10:35-tab]	 Cygwin Setup - Select Connection Type
+[2021/2/21-10:35-tab]	 Cygwin Setup - Choose Download Site(s)
+[2021/2/21-10:36-tab]	 Cygwin Setup
+[2021/2/21-10:36-tab]	 Cygwin Setup - Select Packages
+[2021/2/21-10:37-tab]	 Cygwin Setup - Review and confirm changes
+[2021/2/21-10:37-tab]	 Cygwin Setup
+[2021/2/21-10:37-tab]	 0% - Cygwin Setup
+[2021/2/21-10:37-tab]	 2% - Cygwin Setup
+[2021/2/21-10:37-tab]	 3% - Cygwin Setup
+[2021/2/21-10:37-focus]	 
+[2021/2/21-10:37-tab]	 
+[2021/2/21-10:37-focus]	 C:\Program Files\Mozilla Firefox\firefox.exe
+[2021/2/21-10:37-tab]	 Library
+[2021/2/21-10:37-focus]	 C:\Windows\explorer.exe
+[2021/2/21-10:37-tab]	 
+[2021/2/21-10:37-focus]	 C:\Program Files\Git\usr\bin\mintty.exe
+[2021/2/21-10:37-tab]	 MINGW64:/c/Projects/quick
+[2021/2/21-10:37-input]	 nm npm run keylogger
+[2021/2/21-10:37-input]	 
+[2021/2/21-10:37-focus]	 
+[2021/2/21-10:37-tab]	 
+[2021/2/21-10:37-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/21-10:37-tab]	 package.json - quick - Visual Studio Code
+[2021/2/21-10:37-tab]	 keylogger.ts - quick - Visual Studio Code
+[2021/2/21-10:37-focus]	 C:\Windows\System32\Taskmgr.exe
+[2021/2/21-10:37-tab]	 Task Manager
+[2021/2/21-10:37-focus]	 
+[2021/2/21-10:37-tab]	 
+[2021/2/21-10:37-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/21-10:37-tab]	 keylogger.ts - quick - Visual Studio Code
+[2021/2/21-10:38-clip]	 allEvents
+[2021/2/21-10:38-focus]	 C:\Program Files\Everything\Everything.exe
+[2021/2/21-10:38-tab]	 Everything
+[2021/2/21-10:38-tab]	 log. - Everything
+[2021/2/21-10:38-input]	 l
+[2021/2/21-10:38-tab]	 log.ts - Everything
+[2021/2/21-10:38-tab]	 log.txt - Everything
+[2021/2/21-10:38-input]	 t
+[2021/2/21-10:38-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/21-10:38-tab]	 keylogger.ts - quick - Visual Studio Code
+[2021/2/21-10:38-focus]	 C:\Windows\System32\Taskmgr.exe
+[2021/2/21-10:38-tab]	 Task Manager
+[2021/2/21-10:38-focus]	 C:\Program Files\Everything\Everything.exe
+[2021/2/21-10:38-tab]	 log.txt - Everything
+[2021/2/21-10:38-focus]	 C:\Windows\System32\Taskmgr.exe
+[2021/2/21-10:38-tab]	 Task Manager
+[2021/2/21-10:39-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/21-10:39-tab]	 keylogger.ts - quick - Visual Studio Code
+[2021/2/21-10:39-focus]	 C:\Users\Michaels\Downloads\setup-x86_64.exe
+[2021/2/21-10:39-tab]	 58% - Cygwin Setup
+[2021/2/21-10:39-tab]	 59% - Cygwin Setup
+[2021/2/21-10:39-tab]	 60% - Cygwin Setup
+[2021/2/21-10:39-focus]	 C:\Windows\System32\Taskmgr.exe
+[2021/2/21-10:39-tab]	 Task Manager
+[2021/2/21-10:39-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/21-10:39-tab]	 keylogger.ts - quick - Visual Studio Code
+[2021/2/21-10:39-tab]	 main.ts - quick - Visual Studio Code
+[2021/2/21-10:39-tab]	 keylogger.ts - quick - Visual Studio Code
+[2021/2/21-10:39-tab]	 main.ts - quick - Visual Studio Code
+[2021/2/21-10:39-tab]	 keylogger.ts - quick - Visual Studio Code
+[2021/2/21-10:39-tab]	 utils.ts - quick - Visual Studio Code
+[2021/2/21-10:39-tab]	 keylogger.ts - quick - Visual Studio Code
+[2021/2/21-10:39-focus]	 C:\Program Files\Mozilla Firefox\firefox.exe
+[2021/2/21-10:39-tab]	 ADHD tech stack: auto time tracking | by Piotr Migdał | Medium — Mozilla Firefox
+[2021/2/21-10:39-tab]	 Adding a timestamp to command output in linux - Abdullah Diab's Blog — Mozilla Firefox
+[2021/2/21-10:40-tab]	 MikeSchurman's comments | Hacker News — Mozilla Firefox
+[2021/2/21-10:40-tab]	 Hacker News — Mozilla Firefox
+[2021/2/21-10:40-tab]	 Computer programming became the worst choice of career | Hacker News — Mozilla Firefox
+[2021/2/21-10:49-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/21-10:49-tab]	 keylogger.ts - quick - Visual Studio Code
+[2021/2/21-10:49-focus]	 C:\Program Files\Mozilla Firefox\firefox.exe
+[2021/2/21-10:49-tab]	 Computer programming became the worst choice of career | Hacker News — Mozilla Firefox
+[2021/2/21-10:49-input]	 	
+[2021/2/21-10:49-focus]	 C:\Windows\explorer.exe
+[2021/2/21-10:49-tab]	 
+[2021/2/21-10:49-tab]	 Task Switching
+[2021/2/21-10:49-focus]	 C:\Program Files\Git\usr\bin\mintty.exe
+[2021/2/21-10:49-tab]	 MINGW64:/c/Projects/quick
+[2021/2/21-10:49-input]	 				
+[2021/2/21-10:49-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/21-10:49-tab]	 keylogger.ts - quick - Visual Studio Code
+[2021/2/21-10:49-focus]	 C:\Program Files\Git\usr\bin\mintty.exe
+[2021/2/21-10:49-tab]	 MINGW64:/c/Projects/quick
+[2021/2/21-10:49-input]	 
+[2021/2/21-10:49-focus]	 
+[2021/2/21-10:49-tab]	 
+[2021/2/21-10:49-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/21-10:49-tab]	 keylogger.ts - quick - Visual Studio Code
+[2021/2/21-10:50-focus]	 C:\Program Files\Git\usr\bin\mintty.exe
+[2021/2/21-10:50-tab]	 MINGW64:/c/Projects/quick
+[2021/2/21-10:50-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/21-10:50-tab]	 keylogger.ts - quick - Visual Studio Code
+[2021/2/21-10:50-focus]	 C:\Program Files\Git\usr\bin\mintty.exe
+[2021/2/21-10:50-tab]	 MINGW64:/c/Projects/quick
+[2021/2/21-10:50-focus]	 C:\Program Files\Everything\Everything.exe
+[2021/2/21-10:50-tab]	 Everything
+[2021/2/21-10:50-tab]	 l - Everything
+[2021/2/21-10:50-tab]	 lo - Everything
+[2021/2/21-10:50-tab]	 log - Everything
+[2021/2/21-10:50-input]	 log
+[2021/2/21-10:50-tab]	 log. - Everything
+[2021/2/21-10:50-tab]	 log.t - Everything
+[2021/2/21-10:50-tab]	 log.tx - Everything
+[2021/2/21-10:50-input]	 .tx
+[2021/2/21-10:51-focus]	 
+[2021/2/21-10:51-tab]	 
+[2021/2/21-10:51-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/21-10:51-tab]	 keylogger.ts - quick - Visual Studio Code
+[2021/2/21-10:51-focus]	 C:\Program Files\Git\usr\bin\mintty.exe
+[2021/2/21-10:51-tab]	 MINGW64:/c/Projects/quick
+[2021/2/21-10:51-input]	 c
+[2021/2/21-10:51-focus]	 C:\Windows\System32\Taskmgr.exe
+[2021/2/21-10:51-tab]	 Task Manager
+[2021/2/21-10:51-focus]	 
+[2021/2/21-10:51-tab]	 
+[2021/2/21-10:51-focus]	 C:\Program Files\Git\usr\bin\mintty.exe
+[2021/2/21-10:51-tab]	 MINGW64:/c/Projects/quick
+[2021/2/21-10:51-focus]	 C:\Program Files\Mozilla Firefox\firefox.exe
+[2021/2/21-10:51-tab]	 Computer programming became the worst choice of career | Hacker News — Mozilla Firefox
+[2021/2/21-10:51-clip]	 People who don't earn much think they chose badly because they're not getting rich. People who chose jobs that pay well think they'd be happier in something more creative. People doing creative work wish they'd chosen something more stable. Practically everyone thinks they chose the wrong job. Most of them are right in the sense that they might actually be happier doing something else, but also most people could chose 50 different careers and still not find one that suits them.
+
+Without wishing to go all "internet philosopher", none of us is introspective enough about what makes us truly happy to know what we actually want. We define "happiness" by looking at other people and being envious of what they have - if only we had what some other person has we'd not be miserable any more. But everyone is doing that. It doesn't work. Read some Michel de Montaigne or Immanuel Kant and figure out what you want out of life, and then get it on your own terms. 
+[2021/2/21-10:51-input]	 c
+[2021/2/21-10:51-clip]	 By the sweat of your brow you will eat your food until you return to the ground, since from it you were taken; for dust you are and to dust you will return.
+[2021/2/21-10:51-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/21-10:51-tab]	 keylogger.ts - quick - Visual Studio Code
+[2021/2/21-10:51-input]	 c
+[2021/2/21-10:52-focus]	 C:\Program Files\Mozilla Firefox\firefox.exe
+[2021/2/21-10:52-tab]	 bra-ket-vue - CodeSandbox — Mozilla Firefox
+[2021/2/21-10:52-clip]	 https://codesandbox.io/s/bra-ket-vue-cydtt?file=/src/components/QuantumCircuits.vue
+[2021/2/21-10:52-tab]	 Vue - CodeSandbox — Mozilla Firefox
+[2021/2/21-10:52-input]	 c
+[2021/2/21-10:52-clip]	 https://codesandbox.io/s/vue-vue?file=/src/components/HelloWorld.vue
+[2021/2/21-10:52-tab]	 Quantum-Game/bra-ket-vue: ⟨𝜑|𝜓⟩.vue - a Vue-based visualization of quantum states and operations — Mozilla Firefox
+[2021/2/21-10:52-input]	 c
+[2021/2/21-10:52-clip]	 https://github.com/Quantum-Game/bra-ket-vue
+[2021/2/21-10:52-tab]	 ADHD tech stack: auto time tracking | by Piotr Migdał | Medium — Mozilla Firefox
+[2021/2/21-10:52-input]	 c
+[2021/2/21-10:52-clip]	 https://medium.com/@pmigdal/adhd-tech-stack-auto-time-tracking-b8ff5b6bc888
+[2021/2/21-10:52-tab]	 Computer programming became the worst choice of career | Hacker News — Mozilla Firefox
+[2021/2/21-10:52-input]	 c
+[2021/2/21-10:52-clip]	 https://news.ycombinator.com/item?id=26213434
+[2021/2/21-10:52-tab]	 How computer programming became the worst choice of career | Hacker News — Mozilla Firefox
+[2021/2/21-10:52-input]	 c
+[2021/2/21-10:53-tab]	 Hacker News — Mozilla Firefox
+[2021/2/21-10:54-tab]	 Alex Cabal: Standard Ebooks | Hacker News — Mozilla Firefox
+[2021/2/21-10:54-tab]	 Mozilla Firefox
+[2021/2/21-10:54-tab]	 Alex Cabal: Standard Ebooks – Mythaxis Review — Mozilla Firefox
+[2021/2/21-10:54-tab]	 Issue 1 – Mythaxis Review — Mozilla Firefox
+[2021/2/21-10:55-tab]	 Recommended – Mythaxis Review — Mozilla Firefox
+[2021/2/21-10:55-tab]	 Hacker News — Mozilla Firefox
+[2021/2/21-10:55-tab]	 Recommended – Mythaxis Review — Mozilla Firefox
+[2021/2/21-10:55-tab]	 Alex Cabal: Standard Ebooks | Hacker News — Mozilla Firefox
+[2021/2/21-10:55-tab]	 Standard Ebooks: Free public-domain ebooks, carefully produced | Hacker News — Mozilla Firefox
+[2021/2/21-10:55-tab]	 Standard Ebooks: Free and liberated ebooks, carefully produced for the true book lover. — Mozilla Firefox
+[2021/2/21-10:55-clip]	 https://standardebooks.org/
+[2021/2/21-10:55-input]	 c
+[2021/2/21-10:56-tab]	 Browse Standard Ebooks - Standard Ebooks: Free and liberated ebooks, carefully produced for the true book lover. — Mozilla Firefox
+[2021/2/21-10:56-tab]	 Mozilla Firefox
+[2021/2/21-10:56-tab]	 Heretics, by G. K. Chesterton - Free ebook download - Standard Ebooks: Free and liberated ebooks, carefully produced for the true book lover. — Mozilla Firefox
+[2021/2/21-10:58-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/21-10:58-tab]	 keylogger.ts - quick - Visual Studio Code
+[2021/2/21-10:58-focus]	 
+[2021/2/21-10:58-tab]	 
+[2021/2/21-10:58-focus]	 C:\Windows\SystemApps\Microsoft.Windows.Cortana_cw5n1h2txyewy\SearchUI.exe
+[2021/2/21-10:58-tab]	 Cortana
+[2021/2/21-10:58-input]	 scy
+[2021/2/21-10:58-focus]	 C:\Windows\explorer.exe
+[2021/2/21-10:58-tab]	 
+[2021/2/21-10:58-focus]	 C:\cygwin64\bin\mintty.exe
+[2021/2/21-10:58-tab]	 ~
+[2021/2/21-10:58-input]	 
+[2021/2/21-10:58-input]	 ls
+[2021/2/21-10:58-input]	 cd /cp/Proj	ects
+[2021/2/21-10:58-input]	 cd c
+[2021/2/21-10:58-input]	 cd c:
+[2021/2/21-10:58-tab]	 /cygdrive/c
+[2021/2/21-10:58-input]	 cd Proj	qui	
+[2021/2/21-10:58-tab]	 /cygdrive/c/Projects/quick
+[2021/2/21-10:58-input]	 git status
+[2021/2/21-10:58-input]	 gs
+[2021/2/21-10:58-input]	 
+[2021/2/21-10:58-input]	 pcd ~
+[2021/2/21-10:58-tab]	 ~
+[2021/2/21-10:58-input]	 pdwd
+[2021/2/21-10:58-input]	 
+[2021/2/21-10:58-input]	 cd ../
+[2021/2/21-10:58-input]	 cd ./
+[2021/2/21-10:58-input]	 gitk
+[2021/2/21-10:58-focus]	 C:\cygwin64\bin\wish8.6.exe
+[2021/2/21-10:58-tab]	 gitk
+[2021/2/21-10:58-input]	 
+[2021/2/21-10:59-focus]	 C:\cygwin64\bin\mintty.exe
+[2021/2/21-10:59-tab]	 ~
+[2021/2/21-10:59-input]	 cd c:
+[2021/2/21-10:59-tab]	 /cygdrive/c
+[2021/2/21-10:59-input]	 cd Proj	quick
+[2021/2/21-10:59-tab]	 /cygdrive/c/Projects/quick
+[2021/2/21-10:59-input]	 ls
+[2021/2/21-10:59-input]	 gitk
+[2021/2/21-10:59-focus]	 C:\cygwin64\bin\wish8.6.exe
+[2021/2/21-10:59-tab]	 quick: All files - gitk
+[2021/2/21-10:59-input]	 
+[2021/2/21-10:59-focus]	 C:\cygwin64\bin\mintty.exe
+[2021/2/21-10:59-tab]	 /cygdrive/c/Projects/quick
+[2021/2/21-10:59-input]	 cd ../lolot	o	
+[2021/2/21-10:59-tab]	 /cygdrive/c/Projects/loot
+[2021/2/21-10:59-input]	 gitk
+[2021/2/21-10:59-focus]	 C:\cygwin64\bin\wish8.6.exe
+[2021/2/21-10:59-tab]	 loot: All files - gitk
+[2021/2/21-10:59-focus]	 C:\cygwin64\bin\mintty.exe
+[2021/2/21-10:59-tab]	 /cygdrive/c/Projects/loot
+[2021/2/21-10:59-input]	 
+[2021/2/21-10:59-input]	 
+[2021/2/21-10:59-input]	 git status
+[2021/2/21-10:59-input]	 
+[2021/2/21-10:59-focus]	 C:\Windows\SystemApps\Microsoft.Windows.Cortana_cw5n1h2txyewy\SearchUI.exe
+[2021/2/21-10:59-tab]	 Cortana
+[2021/2/21-10:59-input]	 scon
+[2021/2/21-10:59-focus]	 C:\Program Files\ConEmu\ConEmu64.exe
+[2021/2/21-10:59-tab]	 ConEmu 210206 [64]
+[2021/2/21-10:59-tab]	 Program
+[2021/2/21-10:59-tab]	 MINGW64:/c/Projects/loot
+[2021/2/21-10:59-input]	 
+[2021/2/21-10:59-input]	 gs
+[2021/2/21-10:59-input]	 
+[2021/2/21-10:59-focus]	 C:\cygwin64\bin\mintty.exe
+[2021/2/21-10:59-tab]	 /cygdrive/c/Projects/loot
+[2021/2/21-11:0-clip]	 src/debug/shared/draw-shapes-message.ts
+[2021/2/21-11:0-input]	 git diff 
+[2021/2/21-11:0-input]	  q
+[2021/2/21-11:0-focus]	 C:\Program Files\ConEmu\ConEmu64.exe
+[2021/2/21-11:0-tab]	 MINGW64:/c/Projects/loot
+[2021/2/21-11:0-input]	 git config acore.atuutocrlf
+[2021/2/21-11:0-focus]	 C:\cygwin64\bin\mintty.exe
+[2021/2/21-11:0-tab]	 /cygdrive/c/Projects/loot
+[2021/2/21-11:0-input]	 git config core.autocrlf
+[2021/2/21-11:0-input]	 
+[2021/2/21-11:0-focus]	 
+[2021/2/21-11:0-tab]	 
+[2021/2/21-11:0-focus]	 C:\Program Files\Mozilla Firefox\firefox.exe
+[2021/2/21-11:0-tab]	 Heretics, by G. K. Chesterton - Free ebook download - Standard Ebooks: Free and liberated ebooks, carefully produced for the true book lover. — Mozilla Firefox
+[2021/2/21-11:1-tab]	 Hacker News — Mozilla Firefox
+[2021/2/21-11:1-tab]	 Boringtechnology.club | Hacker News — Mozilla Firefox
+[2021/2/21-11:1-tab]	 Choose Boring Technology — Mozilla Firefox
+[2021/2/21-11:6-clip]	 We can look to the case of Siegfried Sassoon and ponder whether this is the case or not for poetry, but I think it's mostly true in software. You can’t worry about the big picture and ask intelligent questions about the direction of the product if you’re busy arguing about which database or alerting system to use.
+[2021/2/21-11:6-input]	 c
+[2021/2/21-11:6-focus]	 C:\Program Files\Git\usr\bin\mintty.exe
+[2021/2/21-11:6-tab]	 MINGW64:/c/Projects/quick
+[2021/2/21-11:6-focus]	 C:\Program Files\Mozilla Firefox\firefox.exe
+[2021/2/21-11:6-tab]	 Choose Boring Technology — Mozilla Firefox
+[2021/2/21-11:7-clip]	 http://boringtechnology.club/
+[2021/2/21-11:7-input]	 c
+[2021/2/21-11:8-clip]	 There are known unknowns, that is, things that we know that we don’t know. And there are unknown unknowns, things that we don’t know and that we don’t know that we don’t know. #
+[2021/2/21-11:8-input]	 c
+[2021/2/21-11:8-clip]	 This applies in technology. This is an example of a known unknown. For a given database, we might not know what happens when a network partition occurs. But we know that a network partition is possible. Since we know that this is possible, we can test for this. Or we can just cross our fingers and hope that it doesn’t happen. Either way, we are informed about the possibility.
+[2021/2/21-11:8-input]	 c
+[2021/2/21-11:10-focus]	 C:\cygwin64\bin\mintty.exe
+[2021/2/21-11:10-tab]	 /cygdrive/c/Projects/loot
+[2021/2/21-11:10-focus]	 C:\Program Files\Mozilla Firefox\firefox.exe
+[2021/2/21-11:10-tab]	 Choose Boring Technology — Mozilla Firefox
+[2021/2/21-11:10-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/21-11:10-tab]	 keylogger.ts - quick - Visual Studio Code
+[2021/2/21-11:10-focus]	 
+[2021/2/21-11:10-tab]	 
+[2021/2/21-11:10-focus]	 C:\Program Files\Git\usr\bin\mintty.exe
+[2021/2/21-11:10-tab]	 MINGW64:/c/Projects/quick
+[2021/2/21-11:10-input]	 
+[2021/2/21-11:10-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/21-11:10-tab]	 keylogger.ts - quick - Visual Studio Code
+[2021/2/21-11:10-focus]	 C:\Program Files\Git\usr\bin\mintty.exe
+[2021/2/21-11:10-tab]	 MINGW64:/c/Projects/quick
+[2021/2/21-11:10-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/21-11:10-tab]	 keylogger.ts - quick - Visual Studio Code
+[2021/2/21-11:10-focus]	 C:\Program Files\Git\usr\bin\mintty.exe
+[2021/2/21-11:10-tab]	 MINGW64:/c/Projects/quick
+[2021/2/21-11:11-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/21-11:11-tab]	 keylogger.ts - quick - Visual Studio Code
+[2021/2/21-11:11-focus]	 C:\Program Files\Mozilla Firefox\firefox.exe
+[2021/2/21-11:11-tab]	 Choose Boring Technology — Mozilla Firefox
+[2021/2/21-11:11-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/21-11:11-tab]	 keylogger.ts - quick - Visual Studio Code
+[2021/2/21-11:12-tab]	 imgui_demo.d.ts - quick - Visual Studio Code
+[2021/2/21-11:12-focus]	 C:\Windows\explorer.exe
+[2021/2/21-11:12-tab]	 File Explorer
+[2021/2/21-11:12-tab]	 build
+[2021/2/21-11:12-tab]	 src
+[2021/2/21-11:12-tab]	 Progress
+[2021/2/21-11:12-tab]	 Delete Folder
+[2021/2/21-11:12-tab]	 src
+[2021/2/21-11:12-tab]	 100% complete
+[2021/2/21-11:12-tab]	 src
+[2021/2/21-11:12-focus]	 
+[2021/2/21-11:12-tab]	 
+[2021/2/21-11:12-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/21-11:12-tab]	 imgui_demo.d.ts (deleted) - quick - Visual Studio Code
+[2021/2/21-11:12-tab]	 keylogger.ts - quick - Visual Studio Code
+[2021/2/21-11:13-focus]	 C:\Windows\explorer.exe
+[2021/2/21-11:13-tab]	 src
+[2021/2/21-11:13-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/21-11:13-tab]	 keylogger.ts - quick - Visual Studio Code
+[2021/2/21-11:13-tab]	 main.ts - quick - Visual Studio Code
+[2021/2/21-11:13-focus]	 C:\Windows\System32\Taskmgr.exe
+[2021/2/21-11:13-tab]	 Task Manager
+[2021/2/21-11:13-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/21-11:13-tab]	 main.ts - quick - Visual Studio Code
+[2021/2/21-11:13-focus]	 C:\Windows\explorer.exe
+[2021/2/21-11:13-tab]	 src
+[2021/2/21-11:13-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/21-11:13-tab]	 main.ts - quick - Visual Studio Code
+[2021/2/21-11:13-focus]	 C:\Program Files\Git\usr\bin\mintty.exe
+[2021/2/21-11:13-tab]	 MINGW64:/c/Projects/quick
+[2021/2/21-11:13-focus]	 C:\Program Files\Mozilla Firefox\firefox.exe
+[2021/2/21-11:13-tab]	 Choose Boring Technology — Mozilla Firefox
+[2021/2/21-11:26-focus]	 
+[2021/2/21-11:26-tab]	 
+[2021/2/21-11:26-focus]	 C:\Windows\SystemApps\Microsoft.LockApp_cw5n1h2txyewy\LockApp.exe
+[2021/2/21-11:26-tab]	 Windows Default Lock Screen
+[2021/2/21-13:55-focus]	 
+[2021/2/21-13:55-tab]	 
+[2021/2/21-13:55-focus]	 C:\Windows\explorer.exe
+[2021/2/21-13:55-tab]	 UnlockingWindow
+[2021/2/21-13:55-input]	 j
+[2021/2/21-13:55-focus]	 C:\Program Files\Mozilla Firefox\firefox.exe
+[2021/2/21-13:55-tab]	 Choose Boring Technology — Mozilla Firefox
+[2021/2/21-13:55-focus]	 
+[2021/2/21-13:55-tab]	 
+[2021/2/21-13:55-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/21-13:55-tab]	 main.ts - quick - Visual Studio Code
+[2021/2/21-13:55-focus]	 C:\Program Files\Mozilla Firefox\firefox.exe
+[2021/2/21-13:55-tab]	 Choose Boring Technology — Mozilla Firefox
+[2021/2/21-13:55-tab]	 Inbox (1) - michael.schurman@gmail.com - Gmail — Mozilla Firefox
+[2021/2/21-13:55-tab]	 Your iCloud storage is full. - michael.schurman@gmail.com - Gmail — Mozilla Firefox
+[2021/2/21-13:55-tab]	 Mozilla Firefox
+[2021/2/21-13:55-input]	 sop top icloud is full messages
+[2021/2/21-13:55-tab]	 stop icloud is full messages at DuckDuckGo — Mozilla Firefox
+[2021/2/21-13:55-input]	 
+[2021/2/21-13:55-tab]	 How to stop getting the 'Storage Full' message on your iPhone | AppleInsider — Mozilla Firefox
+[2021/2/21-13:56-tab]	 stop icloud is full messages at DuckDuckGo — Mozilla Firefox
+[2021/2/21-13:56-tab]	 iCloud is full message. - Apple Community — Mozilla Firefox
+[2021/2/21-13:56-tab]	 Mozilla Firefox
+[2021/2/21-13:56-tab]	 Manage your iCloud storage - Apple Support — Mozilla Firefox
+[2021/2/21-13:59-tab]	 iCloud is full message. - Apple Community — Mozilla Firefox
+[2021/2/21-14:0-tab]	 Boringtechnology.club | Hacker News — Mozilla Firefox
+[2021/2/21-14:0-tab]	 Choose Boring Technology — Mozilla Firefox
+[2021/2/21-14:1-tab]	 Boringtechnology.club | Hacker News — Mozilla Firefox
+[2021/2/21-14:1-tab]	 Hacker News — Mozilla Firefox
+[2021/2/21-14:1-tab]	 Boringtechnology.club | Hacker News — Mozilla Firefox
+[2021/2/21-14:1-tab]	 Choose Boring Technology — Mozilla Firefox
+[2021/2/21-14:4-tab]	 Mozilla Firefox
+[2021/2/21-14:4-input]	 typescript to C# converter
+[2021/2/21-14:4-tab]	 typescript to C# converter at DuckDuckGo — Mozilla Firefox
+[2021/2/21-14:4-input]	 
+[2021/2/21-14:4-tab]	 TypeScript to C# Converter? : csharp — Mozilla Firefox
+[2021/2/21-14:11-tab]	 hez2010/TypedocConverter: This is a typedoc json to C# type bindings converter. — Mozilla Firefox
+[2021/2/21-14:11-tab]	 TypeScript to C# Converter? : csharp — Mozilla Firefox
+[2021/2/21-14:11-tab]	 iCloud is full message. - Apple Community — Mozilla Firefox
+[2021/2/21-14:11-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/21-14:11-tab]	 main.ts - quick - Visual Studio Code
+[2021/2/21-14:11-input]	 r
+[2021/2/21-14:11-tab]	 Visual Studio Code
+[2021/2/21-14:11-tab]	 dev-tools-manager.ts - loot-cull - Visual Studio Code
+[2021/2/21-14:11-input]	 
+[2021/2/21-14:11-focus]	 C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[2021/2/21-14:11-tab]	 about:blank - Google Chrome
+[2021/2/21-14:11-tab]	 localhost - Google Chrome
+[2021/2/21-14:11-focus]	 
+[2021/2/21-14:11-tab]	 
+[2021/2/21-14:11-focus]	 C:\Windows\explorer.exe
+[2021/2/21-14:11-focus]	 C:\Program Files\ConEmu\ConEmu64.exe
+[2021/2/21-14:11-tab]	 MINGW64:/c/Projects/loot
+[2021/2/21-14:11-input]	  cd .//./lo		ot-	
+[2021/2/21-14:11-tab]	 MINGW64:/c/Projects/loot-cull
+[2021/2/21-14:11-input]	 ls
+[2021/2/21-14:11-input]	 
+[2021/2/21-14:12-tab]	 MINGW64:/c/Projects/loot
+[2021/2/21-14:12-focus]	 
+[2021/2/21-14:12-tab]	 
+[2021/2/21-14:12-focus]	 C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[2021/2/21-14:12-tab]	 localhost - Google Chrome
+[2021/2/21-14:12-input]	 
+[2021/2/21-14:12-focus]	 C:\Program Files\ConEmu\ConEmu64.exe
+[2021/2/21-14:12-tab]	 MINGW64:/c/Projects/loot-cull
+[2021/2/21-14:12-input]	 clietnnt
+[2021/2/21-14:12-tab]	 npm
+[2021/2/21-14:12-input]	 
+[2021/2/21-14:12-tab]	 MINGW64:/c/Projects/loot
+[2021/2/21-14:12-focus]	 C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[2021/2/21-14:12-tab]	 localhost - Google Chrome
+[2021/2/21-14:12-input]	 
+[2021/2/21-14:12-input]	 
+[2021/2/21-14:12-tab]	 Loot.io - Google Chrome
+[2021/2/21-14:12-input]	 
+[2021/2/21-14:13-input]	 .
+[2021/2/21-14:13-input]	 
+[2021/2/21-14:13-input]	 1
+[2021/2/21-14:13-input]	 
+[2021/2/21-14:13-tab]	 devtools://devtools/bundled/devtools_app.html?remoteBase=https://chrome-devtools-frontend.appspot.com/serve_file/@73ee5087001dcef33047c4ed650471b225dd8caf/&can_dock=true&panel=elements&hasOtherClients=true&dockSide=undocked
+[2021/2/21-14:13-tab]	 DevTools - localhost:1234/
+[2021/2/21-14:13-tab]	 Loot.io - Google Chrome
+[2021/2/21-14:13-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/21-14:13-tab]	 dev-tools-manager.ts - loot-cull - Visual Studio Code
+[2021/2/21-14:13-focus]	 C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[2021/2/21-14:13-tab]	 Loot.io - Google Chrome
+[2021/2/21-14:13-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/21-14:13-tab]	 dev-tools-manager.ts - loot-cull - Visual Studio Code
+[2021/2/21-14:13-focus]	 C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[2021/2/21-14:13-tab]	 about:blank - Google Chrome
+[2021/2/21-14:14-tab]	 Loot.io - Google Chrome
+[2021/2/21-14:14-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/21-14:14-tab]	 dev-tools-manager.ts - loot-cull - Visual Studio Code
+[2021/2/21-14:14-focus]	 C:\Windows\explorer.exe
+[2021/2/21-14:14-tab]	 
+[2021/2/21-14:14-focus]	 C:\Program Files\Mozilla Firefox\firefox.exe
+[2021/2/21-14:14-tab]	 iCloud is full message. - Apple Community — Mozilla Firefox
+[2021/2/21-14:14-tab]	 Hacker News — Mozilla Firefox
+[2021/2/21-14:14-tab]	 Choose Boring Technology — Mozilla Firefox
+[2021/2/21-14:21-clip]	 The grim paradox of this law of software is that you should probably be using the tool that you hate the most. You hate it because you know the most about it.
+[2021/2/21-14:22-tab]	 Boringtechnology.club | Hacker News — Mozilla Firefox
+[2021/2/21-14:24-clip]	 "there are old pilots and there are bold pilots but there are no old bold pilots
+[2021/2/21-14:25-focus]	 C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[2021/2/21-14:25-tab]	 Loot.io - Google Chrome
+[2021/2/21-14:25-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/21-14:25-tab]	 array-property.vue - loot-cull - Visual Studio Code
+[2021/2/21-14:25-focus]	 
+[2021/2/21-14:25-tab]	 
+[2021/2/21-14:25-focus]	 C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[2021/2/21-14:25-tab]	 Loot.io - Google Chrome
+[2021/2/21-14:26-focus]	 
+[2021/2/21-14:26-tab]	 
+[2021/2/21-14:26-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/21-14:26-tab]	 array-property.vue - loot-cull - Visual Studio Code
+[2021/2/21-14:26-input]	 parray
+[2021/2/21-14:26-clip]	 RecursiveObjectTree
+[2021/2/21-14:26-input]	 cFv
+[2021/2/21-14:26-input]	 F
+[2021/2/21-14:26-input]	 c
+[2021/2/21-14:26-tab]	 recursive-object-tree.vue - loot-cull - Visual Studio Code
+[2021/2/21-14:27-tab]	 array-property.vue - loot-cull - Visual Studio Code
+[2021/2/21-14:27-tab]	 ● array-property.vue - loot-cull - Visual Studio Code
+[2021/2/21-14:27-input]	 vz
+[2021/2/21-14:27-tab]	 array-property.vue - loot-cull - Visual Studio Code
+[2021/2/21-14:27-input]	 z
+[2021/2/21-14:27-input]	 pobjectpr
+[2021/2/21-14:27-focus]	 C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[2021/2/21-14:27-tab]	 about:blank - Google Chrome
+[2021/2/21-14:27-input]	 
+[2021/2/21-14:27-tab]	 Loot.io - Google Chrome
+[2021/2/21-14:27-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/21-14:27-tab]	 array-property.vue - loot-cull - Visual Studio Code
+[2021/2/21-14:27-tab]	 recursive-object-tree.vue - loot-cull - Visual Studio Code
+[2021/2/21-14:28-tab]	 array-property.vue - loot-cull - Visual Studio Code
+[2021/2/21-14:28-tab]	 recursive-object-tree.vue - loot-cull - Visual Studio Code
+[2021/2/21-14:28-tab]	 array-property.vue - loot-cull - Visual Studio Code
+[2021/2/21-14:28-tab]	 recursive-object-tree.vue - loot-cull - Visual Studio Code
+[2021/2/21-14:28-tab]	 array-property.vue - loot-cull - Visual Studio Code
+[2021/2/21-14:28-tab]	 ● array-property.vue - loot-cull - Visual Studio Code
+[2021/2/21-14:28-tab]	 array-property.vue - loot-cull - Visual Studio Code
+[2021/2/21-14:28-input]	 //s
+[2021/2/21-14:28-focus]	 C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[2021/2/21-14:28-tab]	 about:blank - Google Chrome
+[2021/2/21-14:28-tab]	 Loot.io - Google Chrome
+[2021/2/21-14:28-focus]	 
+[2021/2/21-14:28-tab]	 
+[2021/2/21-14:28-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/21-14:28-tab]	 array-property.vue - loot-cull - Visual Studio Code
+[2021/2/21-14:28-clip]	 did you register the component correctly?
+[2021/2/21-14:28-focus]	 C:\Program Files\Mozilla Firefox\firefox.exe
+[2021/2/21-14:28-tab]	 Boringtechnology.club | Hacker News — Mozilla Firefox
+[2021/2/21-14:28-tab]	 Mozilla Firefox
+[2021/2/21-14:29-input]	 cv
+[2021/2/21-14:29-tab]	 did you register the component correctly? at DuckDuckGo — Mozilla Firefox
+[2021/2/21-14:29-input]	 
+[2021/2/21-14:29-tab]	 Mozilla Firefox
+[2021/2/21-14:29-tab]	 vue.js - <v-card> - did you register the component correctly? - Stack Overflow — Mozilla Firefox
+[2021/2/21-14:29-tab]	 Mozilla Firefox
+[2021/2/21-14:29-tab]	 Facebook — Mozilla Firefox
+[2021/2/21-14:29-input]	 f
+[2021/2/21-14:37-tab]	 iCloud is full message. - Apple Community — Mozilla Firefox
+[2021/2/21-14:37-focus]	 C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[2021/2/21-14:37-tab]	 Loot.io - Google Chrome
+[2021/2/21-14:37-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/21-14:37-tab]	 array-property.vue - loot-cull - Visual Studio Code
+[2021/2/21-14:37-tab]	 recursive-object-tree.vue - loot-cull - Visual Studio Code
+[2021/2/21-14:37-tab]	 array-property.vue - loot-cull - Visual Studio Code
+[2021/2/21-14:37-tab]	 recursive-object-tree.vue - loot-cull - Visual Studio Code
+[2021/2/21-14:38-clip]	 getComponentByPropType
+[2021/2/21-14:38-tab]	 array-property.vue - loot-cull - Visual Studio Code
+[2021/2/21-14:38-input]	 c
+[2021/2/21-14:38-input]	 fv
+[2021/2/21-14:38-focus]	 C:\Program Files\Mozilla Firefox\firefox.exe
+[2021/2/21-14:38-tab]	 iCloud is full message. - Apple Community — Mozilla Firefox
+[2021/2/21-14:38-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/21-14:38-tab]	 array-property.vue - loot-cull - Visual Studio Code
+[2021/2/21-14:38-focus]	 C:\Program Files\Mozilla Firefox\firefox.exe
+[2021/2/21-14:38-tab]	 iCloud is full message. - Apple Community — Mozilla Firefox
+[2021/2/21-14:38-tab]	 Choose Boring Technology — Mozilla Firefox
+[2021/2/21-14:38-clip]	 http://boringtechnology.club/
+[2021/2/21-14:38-input]	 c
+[2021/2/21-14:38-focus]	 
+[2021/2/21-14:38-tab]	 
+[2021/2/21-14:38-focus]	 C:\Windows\SystemApps\Microsoft.Windows.Cortana_cw5n1h2txyewy\SearchUI.exe
+[2021/2/21-14:38-tab]	 Cortana
+[2021/2/21-14:38-input]	 sdis
+[2021/2/21-14:38-focus]	 C:\Windows\explorer.exe
+[2021/2/21-14:38-tab]	 
+[2021/2/21-14:38-input]	 
+[2021/2/21-14:38-focus]	 C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+[2021/2/21-14:38-tab]	 Discord Updater
+[2021/2/21-14:38-tab]	 Discord
+[2021/2/21-14:38-tab]	 #loot-code - Discord
+[2021/2/21-14:39-tab]	 #senior-programmers - Discord
+[2021/2/21-14:39-tab]	 #loot-general - Discord
+[2021/2/21-14:39-tab]	 Discord
+[2021/2/21-14:39-focus]	 C:\Program Files\Mozilla Firefox\firefox.exe
+[2021/2/21-14:39-tab]	 Choose Boring Technology — Mozilla Firefox
+[2021/2/21-14:39-focus]	 C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[2021/2/21-14:39-tab]	 Loot.io - Google Chrome
+[2021/2/21-14:39-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/21-14:39-tab]	 array-property.vue - loot-cull - Visual Studio Code
+[2021/2/21-14:40-focus]	 C:\Program Files\Mozilla Firefox\firefox.exe
+[2021/2/21-14:40-tab]	 Choose Boring Technology — Mozilla Firefox
+[2021/2/21-14:40-tab]	 Boringtechnology.club | Hacker News — Mozilla Firefox
+[2021/2/21-14:40-tab]	 Hacker News — Mozilla Firefox
+[2021/2/21-14:40-tab]	 Your iCloud storage is full. - michael.schurman@gmail.com - Gmail — Mozilla Firefox
+[2021/2/21-14:40-tab]	 Inbox (1) - michael.schurman@gmail.com - Gmail — Mozilla Firefox
+[2021/2/21-14:40-tab]	 Inbox - michael.schurman@gmail.com - Gmail — Mozilla Firefox
+[2021/2/21-14:40-tab]	 Keep up with Alexa - michael.schurman@gmail.com - Gmail — Mozilla Firefox
+[2021/2/21-14:43-tab]	 Inbox - michael.schurman@gmail.com - Gmail — Mozilla Firefox
+[2021/2/21-14:43-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/21-14:43-tab]	 array-property.vue - loot-cull - Visual Studio Code
+[2021/2/21-14:43-tab]	 ● array-property.vue - loot-cull - Visual Studio Code
+[2021/2/21-14:43-tab]	 array-property.vue - loot-cull - Visual Studio Code
+[2021/2/21-14:43-input]	 //s
+[2021/2/21-14:43-focus]	 C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[2021/2/21-14:43-tab]	 about:blank - Google Chrome
+[2021/2/21-14:43-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/21-14:43-tab]	 array-property.vue - loot-cull - Visual Studio Code
+[2021/2/21-14:43-clip]	 RecursiveObjectTree
+[2021/2/21-14:43-tab]	 recursive-object-tree.vue - loot-cull - Visual Studio Code
+[2021/2/21-14:43-input]	 c
+[2021/2/21-14:43-focus]	 C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[2021/2/21-14:43-tab]	 Loot.io - Google Chrome
+[2021/2/21-14:43-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/21-14:43-tab]	 recursive-object-tree.vue - loot-cull - Visual Studio Code
+[2021/2/21-14:43-focus]	 C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[2021/2/21-14:43-tab]	 Loot.io - Google Chrome
+[2021/2/21-14:44-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/21-14:44-tab]	 recursive-object-tree.vue - loot-cull - Visual Studio Code
+[2021/2/21-14:44-input]	 F
+[2021/2/21-14:44-tab]	 array-property.vue - loot-cull - Visual Studio Code
+[2021/2/21-14:44-tab]	 helpers.ts - loot-cull - Visual Studio Code
+[2021/2/21-14:44-tab]	 recursive-object-tree.vue - loot-cull - Visual Studio Code
+[2021/2/21-14:45-tab]	 array-property.vue - loot-cull - Visual Studio Code
+[2021/2/21-14:45-tab]	 ● array-property.vue - loot-cull - Visual Studio Code
+[2021/2/21-14:45-tab]	 array-property.vue - loot-cull - Visual Studio Code
+[2021/2/21-14:45-input]	 s
+[2021/2/21-14:45-focus]	 C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[2021/2/21-14:45-tab]	 Loot.io - Google Chrome
+[2021/2/21-14:45-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/21-14:45-tab]	 array-property.vue - loot-cull - Visual Studio Code
+[2021/2/21-14:45-focus]	 
+[2021/2/21-14:45-tab]	 
+[2021/2/21-14:45-focus]	 C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[2021/2/21-14:45-tab]	 Loot.io - Google Chrome
+[2021/2/21-14:45-input]	 
+[2021/2/21-14:45-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/21-14:45-tab]	 array-property.vue - loot-cull - Visual Studio Code
+[2021/2/21-14:45-tab]	 ● array-property.vue - loot-cull - Visual Studio Code
+[2021/2/21-14:45-tab]	 array-property.vue - loot-cull - Visual Studio Code
+[2021/2/21-14:45-input]	 s
+[2021/2/21-14:45-tab]	 ● array-property.vue - loot-cull - Visual Studio Code
+[2021/2/21-14:45-tab]	 array-property.vue - loot-cull - Visual Studio Code
+[2021/2/21-14:45-input]	 //s
+[2021/2/21-14:45-tab]	 ● array-property.vue - loot-cull - Visual Studio Code
+[2021/2/21-14:45-tab]	 array-property.vue - loot-cull - Visual Studio Code
+[2021/2/21-14:45-tab]	 ● array-property.vue - loot-cull - Visual Studio Code
+[2021/2/21-14:45-tab]	 array-property.vue - loot-cull - Visual Studio Code
+[2021/2/21-14:46-input]	 //ss
+[2021/2/21-14:46-focus]	 C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[2021/2/21-14:46-tab]	 Loot.io - Google Chrome
+[2021/2/21-14:46-input]	 
+[2021/2/21-14:46-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/21-14:46-tab]	 array-property.vue - loot-cull - Visual Studio Code
+[2021/2/21-14:46-tab]	 ● array-property.vue - loot-cull - Visual Studio Code
+[2021/2/21-14:46-tab]	 array-property.vue - loot-cull - Visual Studio Code
+[2021/2/21-14:46-input]	  s
+[2021/2/21-14:46-tab]	 ● array-property.vue - loot-cull - Visual Studio Code
+[2021/2/21-14:46-tab]	 array-property.vue - loot-cull - Visual Studio Code
+[2021/2/21-14:46-input]	 //s
+[2021/2/21-14:46-focus]	 C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[2021/2/21-14:46-tab]	 about:blank - Google Chrome
+[2021/2/21-14:46-tab]	 Loot.io - Google Chrome
+[2021/2/21-14:46-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/21-14:46-tab]	 array-property.vue - loot-cull - Visual Studio Code
+[2021/2/21-14:46-tab]	 ● array-property.vue - loot-cull - Visual Studio Code
+[2021/2/21-14:46-tab]	 array-property.vue - loot-cull - Visual Studio Code
+[2021/2/21-14:46-input]	  s
+[2021/2/21-14:47-tab]	 recursive-object-tree.vue - loot-cull - Visual Studio Code
+[2021/2/21-14:47-tab]	 ● recursive-object-tree.vue - loot-cull - Visual Studio Code
+[2021/2/21-14:47-tab]	 recursive-object-tree.vue - loot-cull - Visual Studio Code
+[2021/2/21-14:47-input]	 Reucrcurursive	,s
+[2021/2/21-14:47-tab]	 ● recursive-object-tree.vue - loot-cull - Visual Studio Code
+[2021/2/21-14:47-input]	 import recu	 from './recursive
+[2021/2/21-14:47-tab]	 array-property.vue - loot-cull - Visual Studio Code
+[2021/2/21-14:47-clip]	 import RecursiveObjectTree from './recursive-object-tree.vue'
+
+[2021/2/21-14:48-tab]	 ● recursive-object-tree.vue - loot-cull - Visual Studio Code
+[2021/2/21-14:48-input]	 c
+[2021/2/21-14:48-tab]	 recursive-object-tree.vue - loot-cull - Visual Studio Code
+[2021/2/21-14:48-input]	 vs
+[2021/2/21-14:48-focus]	 C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[2021/2/21-14:48-tab]	 Untitled - Google Chrome
+[2021/2/21-14:48-tab]	 Loot.io - Google Chrome
+[2021/2/21-14:48-focus]	 
+[2021/2/21-14:48-tab]	 
+[2021/2/21-14:48-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/21-14:48-tab]	 recursive-object-tree.vue - loot-cull - Visual Studio Code
+[2021/2/21-14:48-tab]	 ● recursive-object-tree.vue - loot-cull - Visual Studio Code
+[2021/2/21-14:48-tab]	 recursive-object-tree.vue - loot-cull - Visual Studio Code
+[2021/2/21-14:48-tab]	 array-property.vue - loot-cull - Visual Studio Code
+[2021/2/21-14:48-input]	  s
+[2021/2/21-14:48-tab]	 ● array-property.vue - loot-cull - Visual Studio Code
+[2021/2/21-14:48-tab]	 array-property.vue - loot-cull - Visual Studio Code
+[2021/2/21-14:48-input]	  s
+[2021/2/21-14:48-focus]	 C:\Program Files\Mozilla Firefox\firefox.exe
+[2021/2/21-14:48-tab]	 Inbox - michael.schurman@gmail.com - Gmail — Mozilla Firefox
+[2021/2/21-14:48-tab]	 Mozilla Firefox
+[2021/2/21-14:48-tab]	 Facebook — Mozilla Firefox
+[2021/2/21-14:48-input]	 f
+[2021/2/21-14:49-tab]	 Mozilla Firefox
+[2021/2/21-14:49-tab]	 P.E.I. woman suffers cuts after flying ice smashes through car windshield | CBC News — Mozilla Firefox
+[2021/2/21-14:52-tab]	 Facebook — Mozilla Firefox
+[2021/2/21-14:54-tab]	 Mozilla Firefox
+[2021/2/21-14:54-tab]	 The Legend of Zelda games – ranked! | Games | The Guardian — Mozilla Firefox
+[2021/2/21-14:55-tab]	 Facebook — Mozilla Firefox
+[2021/2/21-14:57-input]	 bitcoin summerside
+[2021/2/21-14:57-tab]	 Mozilla Firefox
+[2021/2/21-14:57-tab]	 bitcoin summerside at DuckDuckGo — Mozilla Firefox
+[2021/2/21-14:57-input]	 
+[2021/2/21-14:57-tab]	 Mozilla Firefox
+[2021/2/21-14:57-tab]	 Steven Frizzell — Mozilla Firefox
+[2021/2/21-14:57-tab]	 Steven Frizzell | Facebook — Mozilla Firefox
+[2021/2/21-14:57-tab]	 Facebook — Mozilla Firefox
+[2021/2/21-14:58-tab]	 Steven Frizzell | Facebook — Mozilla Firefox
+[2021/2/21-15:0-tab]	 iCloud is full message. - Apple Community — Mozilla Firefox
+[2021/2/21-15:0-tab]	 Sending cron output to a file with a timestamp in its name - Server Fault — Mozilla Firefox
+[2021/2/21-15:0-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/21-15:0-tab]	 array-property.vue - loot-cull - Visual Studio Code
+[2021/2/21-15:0-focus]	 
+[2021/2/21-15:0-tab]	 
+[2021/2/21-18:46-focus]	 C:\Windows\SystemApps\Microsoft.LockApp_cw5n1h2txyewy\LockApp.exe
+[2021/2/21-18:46-tab]	 Windows Default Lock Screen
+[2021/2/21-18:46-focus]	 C:\Windows\explorer.exe
+[2021/2/21-18:46-tab]	 UnlockingWindow
+[2021/2/21-18:46-focus]	 
+[2021/2/21-18:46-tab]	 
+[2021/2/21-18:46-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/21-18:46-tab]	 array-property.vue - loot-cull - Visual Studio Code
+[2021/2/21-18:47-focus]	 
+[2021/2/21-18:47-tab]	 
+[2021/2/21-18:47-focus]	 C:\Program Files\Mozilla Firefox\firefox.exe
+[2021/2/21-18:47-tab]	 Sending cron output to a file with a timestamp in its name - Server Fault — Mozilla Firefox
+[2021/2/21-18:47-tab]	 Mozilla Firefox
+[2021/2/21-18:47-tab]	 Facebook — Mozilla Firefox
+[2021/2/21-18:47-input]	 f
+[2021/2/21-19:1-tab]	 (1) Facebook — Mozilla Firefox
+[2021/2/21-19:1-tab]	 Facebook — Mozilla Firefox
+[2021/2/21-19:1-input]	 lisa
+[2021/2/21-19:1-tab]	 Lisa Schurman-Smith | Facebook — Mozilla Firefox
+[2021/2/21-19:1-tab]	 Facebook — Mozilla Firefox
+[2021/2/21-19:13-tab]	 (1) Facebook — Mozilla Firefox
+[2021/2/21-19:19-focus]	 
+[2021/2/21-19:19-tab]	 
+[2021/2/21-19:19-focus]	 C:\Windows\SystemApps\Microsoft.LockApp_cw5n1h2txyewy\LockApp.exe
+[2021/2/21-19:19-tab]	 Windows Default Lock Screen
+[2021/2/22-8:25-focus]	 
+[2021/2/22-8:25-tab]	 
+[2021/2/22-8:25-focus]	 C:\Program Files\Mozilla Firefox\firefox.exe
+[2021/2/22-8:25-tab]	 (1) Facebook — Mozilla Firefox
+[2021/2/22-8:25-tab]	 Facebook — Mozilla Firefox
+[2021/2/22-8:25-tab]	 Sending cron output to a file with a timestamp in its name - Server Fault — Mozilla Firefox
+[2021/2/22-8:26-tab]	 Hacker News — Mozilla Firefox
+[2021/2/22-8:26-tab]	 Enable hibernation when Lockdown is enabled | Hacker News — Mozilla Firefox
+[2021/2/22-8:27-tab]	 Hacker News — Mozilla Firefox
+[2021/2/22-8:27-tab]	 People with extremist views less able to do complex mental tasks, research suggests | Psychology | The Guardian — Mozilla Firefox
+[2021/2/22-8:28-tab]	 Hacker News — Mozilla Firefox
+[2021/2/22-8:28-tab]	 Sending cron output to a file with a timestamp in its name - Server Fault — Mozilla Firefox
+[2021/2/22-8:28-tab]	 Top 10 Unix Command Line Utilities 2013 - Coldflake Blog — Mozilla Firefox
+[2021/2/22-8:28-tab]	 Adding a timestamp to command output in linux - Abdullah Diab's Blog — Mozilla Firefox
+[2021/2/22-8:28-tab]	 Inbox - michael.schurman@gmail.com - Gmail — Mozilla Firefox
+[2021/2/22-8:28-focus]	 
+[2021/2/22-8:28-tab]	 
+[2021/2/22-8:28-focus]	 C:\Program Files\Git\usr\bin\mintty.exe
+[2021/2/22-8:28-tab]	 MINGW64:/c/Projects/quick
+refresh_locale_list [476]: GetKeyboardLayoutList(0, NULL) found 4 layouts.
+refresh_locale_list [493]: Received 4 locales.
+load_input_helper [866]: refresh_locale_list() found 4 locale(s).
+Terminate batch job (Y/N)? 

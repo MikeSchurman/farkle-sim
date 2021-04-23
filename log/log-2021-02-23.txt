@@ -1,0 +1,2573 @@
+
+> quick@1.0.0 keylogger C:\Projects\quick
+> npx ts-node src/keylogger.ts
+
+[2021/2/23-8:35-focus]	 C:\Windows\SystemApps\Microsoft.Windows.Cortana_cw5n1h2txyewy\SearchUI.exe
+[2021/2/23-8:35-tab]	 Cortana
+[2021/2/23-8:35-clip]	  npm run keylogger >> log-`date +%Y-%m-%d.txt`
+keydown
+keypress
+keyup
+[2021/2/23-8:35-input]	 svcs
+mousemove
+[2021/2/23-8:35-focus]	 C:\Windows\explorer.exe
+[2021/2/23-8:35-tab]	 
+[2021/2/23-8:35-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/23-8:35-tab]	 Visual Studio Code
+[2021/2/23-8:35-input]	 
+[2021/2/23-8:35-tab]	 buff.ts - loot - Visual Studio Code
+mousedown
+mouseup
+mouseclick
+[2021/2/23-8:35-input]	 paloias
+[2021/2/23-8:35-input]	 bas
+[2021/2/23-8:35-tab]	 .bashrc - loot - Visual Studio Code
+[2021/2/23-8:35-input]	 
+[2021/2/23-8:35-tab]	 ● .bashrc - loot - Visual Studio Code
+[2021/2/23-8:36-input]	 alia s keylogger="v
+mousedrag
+[2021/2/23-8:36-tab]	 .bashrc - loot - Visual Studio Code
+[2021/2/23-8:36-focus]	 
+[2021/2/23-8:36-tab]	 
+[2021/2/23-8:36-focus]	 C:\Program Files\Git\usr\bin\mintty.exe
+[2021/2/23-8:36-tab]	 MINGW64:/c/Projects/quick/log
+refresh_locale_list [476]: GetKeyboardLayoutList(0, NULL) found 4 layouts.
+refresh_locale_list [493]: Received 4 locales.
+load_input_helper [866]: refresh_locale_list() found 4 locale(s).
+
+> quick@1.0.0 keylogger C:\Projects\quick
+> npx ts-node src/keylogger.ts
+
+[2021/2/23-8:36-focus]	 C:\Program Files\Git\usr\bin\mintty.exe
+[2021/2/23-8:36-tab]	 MINGW64:/c/Projects/quick/log
+[2021/2/23-8:36-clip]	  npm run keylogger >> log-`date +%Y-%m-%d.txt`
+mousemove
+mousedown
+mousedrag
+mouseup
+[2021/2/23-8:36-focus]	 
+[2021/2/23-8:36-tab]	 
+mouseclick
+[2021/2/23-8:36-focus]	 C:\Windows\explorer.exe
+keydown
+[2021/2/23-8:36-focus]	 C:\Program Files\Everything\Everything.exe
+[2021/2/23-8:36-tab]	 Everything
+keypress
+keyup
+[2021/2/23-8:36-tab]	 l - Everything
+[2021/2/23-8:36-tab]	 log - Everything
+[2021/2/23-8:36-input]	 log
+[2021/2/23-8:36-tab]	 
+[2021/2/23-8:36-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/23-8:36-tab]	 .bashrc - loot - Visual Studio Code
+[2021/2/23-8:36-tab]	 log-2021-02-23.txt - loot - Visual Studio Code
+[2021/2/23-8:36-input]	 
+[2021/2/23-8:36-focus]	 C:\Program Files\Everything\Everything.exe
+[2021/2/23-8:36-tab]	 log - Everything
+[2021/2/23-8:36-tab]	 t - Everything
+[2021/2/23-8:36-tab]	 tes - Everything
+[2021/2/23-8:36-tab]	 test - Everything
+[2021/2/23-8:36-tab]	 teste - Everything
+[2021/2/23-8:36-tab]	 testest - Everything
+[2021/2/23-8:36-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/23-8:36-tab]	 log-2021-02-23.txt - loot - Visual Studio Code
+[2021/2/23-8:36-input]	 testest
+[2021/2/23-8:36-focus]	 C:\Program Files\Everything\Everything.exe
+[2021/2/23-8:36-tab]	 testest - Everything
+[2021/2/23-8:36-tab]	 l - Everything
+[2021/2/23-8:36-tab]	 log - Everything
+[2021/2/23-8:36-tab]	 log.t - Everything
+[2021/2/23-8:36-tab]	 log. - Everything
+[2021/2/23-8:36-tab]	 log - Everything
+[2021/2/23-8:36-input]	 alog.t
+[2021/2/23-8:36-tab]	 
+[2021/2/23-8:36-tab]	 log - Everything
+mousewheel
+[2021/2/23-8:37-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/23-8:37-tab]	 log-2021-02-23.txt - loot - Visual Studio Code
+[2021/2/23-8:37-input]	 
+[2021/2/23-8:37-tab]	 .bashrc - loot - Visual Studio Code
+[2021/2/23-8:37-focus]	 
+[2021/2/23-8:37-tab]	 
+[2021/2/23-8:37-focus]	 C:\Program Files\Everything\Everything.exe
+[2021/2/23-8:37-tab]	 log - Everything
+[2021/2/23-8:37-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/23-8:37-tab]	 .bashrc - loot - Visual Studio Code
+[2021/2/23-8:37-focus]	 C:\Program Files\Git\usr\bin\mintty.exe
+[2021/2/23-8:37-tab]	 MINGW64:/c/Projects/quick/log
+[2021/2/23-8:37-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/23-8:37-tab]	 .bashrc - loot - Visual Studio Code
+[2021/2/23-8:37-focus]	 C:\Program Files\Git\usr\bin\mintty.exe
+[2021/2/23-8:37-tab]	 MINGW64:/c/Projects/quick/log
+[2021/2/23-8:37-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/23-8:37-tab]	 notes.md - Notes - Visual Studio Code
+[2021/2/23-8:37-tab]	 .bashrc - loot - Visual Studio Code
+[2021/2/23-8:37-focus]	 
+[2021/2/23-8:37-tab]	 
+[2021/2/23-8:37-focus]	 C:\Program Files\Mozilla Firefox\firefox.exe
+[2021/2/23-8:37-tab]	 How to find all files containing specific text on Linux – TecAdmin — Mozilla Firefox
+[2021/2/23-8:37-tab]	 reddit: the front page of the internet — Mozilla Firefox
+[2021/2/23-8:37-tab]	 10 Software Engineering Laws Everybody Loves to Ignore : programming — Mozilla Firefox
+[2021/2/23-8:37-tab]	 10 Software Engineering Laws Everybody Loves to Ignore — Mozilla Firefox
+[2021/2/23-8:37-clip]	 https://www.netmeister.org/blog/software-engineering-laws.html
+[2021/2/23-8:37-tab]	 How to find all files containing specific text on Linux – TecAdmin — Mozilla Firefox
+[2021/2/23-8:37-input]	 c
+[2021/2/23-8:37-tab]	 Agile Board - Sculpin QA — Mozilla Firefox
+[2021/2/23-8:37-tab]	 SOTI board - Agile Board - Sculpin QA — Mozilla Firefox
+[2021/2/23-8:38-tab]	 Inbox - michael.schurman@otherocean.com - Other Ocean Group, Inc. Mail — Mozilla Firefox
+[2021/2/23-8:38-tab]	 Inbox - michael.schurman@gmail.com - Gmail — Mozilla Firefox
+[2021/2/23-8:38-tab]	 Inbox - michael.schurman@otherocean.com - Other Ocean Group, Inc. Mail — Mozilla Firefox
+[2021/2/23-8:38-tab]	 SOTI board - Agile Board - Sculpin QA — Mozilla Firefox
+[2021/2/23-8:40-focus]	 C:\Program Files\ConEmu\ConEmu64.exe
+[2021/2/23-8:40-tab]	 MINGW64:/c/Projects/loot
+[2021/2/23-8:41-focus]	 
+[2021/2/23-8:41-tab]	 
+[2021/2/23-8:41-focus]	 C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+[2021/2/23-8:41-tab]	 @benedict - Discord
+[2021/2/23-8:41-focus]	 
+[2021/2/23-8:41-tab]	 
+[2021/2/23-8:41-focus]	 C:\Program Files\ConEmu\ConEmu64.exe
+[2021/2/23-8:41-tab]	 MINGW64:/c/Projects/loot
+[2021/2/23-8:41-tab]	 npm
+[2021/2/23-8:41-focus]	 C:\Program Files\Mozilla Firefox\firefox.exe
+[2021/2/23-8:41-tab]	 LOOT - Elemental CC Behaviours - Google Docs — Mozilla Firefox
+[2021/2/23-8:41-focus]	 C:\Program Files\ConEmu\ConEmu64.exe
+[2021/2/23-8:41-tab]	 npm
+[2021/2/23-8:41-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/23-8:41-tab]	 .bashrc - loot - Visual Studio Code
+[2021/2/23-8:41-tab]	 collision-system.ts - loot - Visual Studio Code
+[2021/2/23-8:41-input]	 Faddtoel
+[2021/2/23-8:41-input]	 faddtot
+[2021/2/23-8:41-focus]	 C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[2021/2/23-8:41-tab]	 Restore pages?
+[2021/2/23-8:42-tab]	 Loot.io - Google Chrome
+[2021/2/23-8:42-input]	 dd
+[2021/2/23-8:42-input]	 0
+[2021/2/23-8:42-input]	 5ddddddddddddddddddddddddddddddddddddddwwwwwwwdwwwwwa
+[2021/2/23-8:42-input]	 a
+[2021/2/23-8:42-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/23-8:42-tab]	 collision-system.ts - loot - Visual Studio Code
+[2021/2/23-8:42-input]	 Fp
+[2021/2/23-8:43-input]	 
+[2021/2/23-8:43-input]	 
+[2021/2/23-8:43-input]	 testData
+[2021/2/23-8:43-tab]	 ● collision-system.ts - loot - Visual Studio Code
+[2021/2/23-8:43-input]	 
+[2021/2/23-8:43-input]	 p
+[2021/2/23-8:43-input]	 buff cli
+[2021/2/23-8:43-tab]	 buff-definitions.client.ts - loot - Visual Studio Code
+[2021/2/23-8:43-input]	 
+[2021/2/23-8:44-input]	 fbleed
+[2021/2/23-8:44-input]	 F
+[2021/2/23-8:44-tab]	 buff-definitions.ts - loot - Visual Studio Code
+[2021/2/23-8:44-tab]	 ● buff-definitions.ts - loot - Visual Studio Code
+[2021/2/23-8:44-input]	 addto
+[2021/2/23-8:44-input]	 	
+[2021/2/23-8:44-input]	 
+[2021/2/23-8:44-input]	 
+[2021/2/23-8:44-input]	  tiriggered
+[2021/2/23-8:44-clip]	    ***
+[2021/2/23-8:44-input]	 c
+[2021/2/23-8:44-input]	 v***
+[2021/2/23-8:44-clip]	 addToElementalHitDebugString
+[2021/2/23-8:45-input]	 c
+[2021/2/23-8:45-clip]	 			addToElementalHitDebugString(`   adding chill stacks:${buff.stacks.toFixed(1)} threshold:${threshold.toFixed(1)}\n`)
+
+[2021/2/23-8:45-input]	 c
+[2021/2/23-8:45-input]	 vbleed
+[2021/2/23-8:45-clip]	 target
+[2021/2/23-8:45-input]	 cv
+[2021/2/23-8:45-input]	 
+[2021/2/23-8:45-focus]	 
+[2021/2/23-8:45-tab]	 
+[2021/2/23-8:45-focus]	 C:\Program Files\Mozilla Firefox\firefox.exe
+[2021/2/23-8:45-tab]	 LOOT - Elemental CC Behaviours - Google Docs — Mozilla Firefox
+[2021/2/23-8:45-tab]	 SOTI board - Agile Board - Sculpin QA — Mozilla Firefox
+[2021/2/23-8:45-tab]	 LOOT - Character Stat Model / Elemental Damage / Projectile Behavior / Formulas - Google Docs — Mozilla Firefox
+[2021/2/23-8:46-clip]	 “before defensive mitigation”
+[2021/2/23-8:46-focus]	 
+[2021/2/23-8:46-tab]	 
+[2021/2/23-8:46-focus]	 C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+[2021/2/23-8:46-tab]	 @benedict - Discord
+[2021/2/23-8:46-input]	 c
+[2021/2/23-8:46-focus]	 
+[2021/2/23-8:46-tab]	 
+[2021/2/23-8:46-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/23-8:46-tab]	 notes.md - Notes - Visual Studio Code
+[2021/2/23-8:46-input]	 
+[2021/2/23-8:46-tab]	 ● notes.md - Notes - Visual Studio Code
+[2021/2/23-8:46-input]	 
+[2021/2/23-8:46-input]	 v
+[2021/2/23-8:46-clip]	 mitigation”
+[2021/2/23-8:46-focus]	 
+[2021/2/23-8:46-tab]	 
+[2021/2/23-8:46-focus]	 C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+[2021/2/23-8:46-tab]	 @benedict - Discord
+[2021/2/23-8:46-input]	 c
+[2021/2/23-8:46-input]	 v
+[2021/2/23-8:46-input]	 
+[2021/2/23-8:46-input]	 
+[2021/2/23-8:46-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/23-8:46-tab]	 ● buff-definitions.ts - loot - Visual Studio Code
+[2021/2/23-8:47-input]	 5
+[2021/2/23-8:47-clip]	 				addToElementalHitDebugString(`   ***BLEEED triggered***`)
+
+[2021/2/23-8:47-input]	 cv
+[2021/2/23-8:47-clip]	 maxHealth * 0.25
+[2021/2/23-8:47-input]	 c
+[2021/2/23-8:47-input]	 
+[2021/2/23-8:47-input]	  damage:${v
+[2021/2/23-8:47-clip]	 bleedDamage
+[2021/2/23-8:47-input]	 const bleedDamage = vcv
+[2021/2/23-8:47-input]	 v
+[2021/2/23-8:48-tab]	 enemy.server.ts - loot - Visual Studio Code
+[2021/2/23-8:48-tab]	 ● buff-definitions.ts - loot - Visual Studio Code
+[2021/2/23-8:48-tab]	 buff-definitions.ts - loot - Visual Studio Code
+[2021/2/23-8:49-input]	 ks
+[2021/2/23-8:49-focus]	 C:\Program Files\Mozilla Firefox\firefox.exe
+[2021/2/23-8:49-tab]	 LOOT - Character Stat Model / Elemental Damage / Projectile Behavior / Formulas - Google Docs — Mozilla Firefox
+[2021/2/23-8:49-input]	 
+[2021/2/23-8:50-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/23-8:50-tab]	 buff-definitions.ts - loot - Visual Studio Code
+[2021/2/23-8:50-focus]	 
+[2021/2/23-8:50-tab]	 
+[2021/2/23-8:50-focus]	 C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+[2021/2/23-8:50-tab]	 @benedict - Discord
+[2021/2/23-8:50-input]	 tdan
+[2021/2/23-8:50-tab]	 @Polatrite - Discord
+[2021/2/23-8:50-input]	 
+[2021/2/23-8:50-focus]	 C:\Windows\explorer.exe
+[2021/2/23-8:50-tab]	 
+[2021/2/23-8:50-focus]	 C:\Windows\SystemApps\ShellExperienceHost_cw5n1h2txyewy\ShellExperienceHost.exe
+[2021/2/23-8:50-tab]	 Date and Time Information
+[2021/2/23-8:50-focus]	 C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+[2021/2/23-8:50-tab]	 @Polatrite - Discord
+[2021/2/23-8:50-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/23-8:50-tab]	 buff-definitions.ts - loot - Visual Studio Code
+[2021/2/23-8:50-focus]	 C:\Program Files\Mozilla Firefox\firefox.exe
+[2021/2/23-8:50-tab]	 LOOT - Character Stat Model / Elemental Damage / Projectile Behavior / Formulas - Google Docs — Mozilla Firefox
+[2021/2/23-8:50-tab]	 Inbox - michael.schurman@otherocean.com - Other Ocean Group, Inc. Mail — Mozilla Firefox
+[2021/2/23-8:50-tab]	 Inbox - michael.schurman@gmail.com - Gmail — Mozilla Firefox
+[2021/2/23-8:50-tab]	 Inbox - michael.schurman@otherocean.com - Other Ocean Group, Inc. Mail — Mozilla Firefox
+[2021/2/23-8:51-tab]	 [JIRA] (SOTI-2092) Add debuffing status effects for elemental damage (ignite, chill, shock, poison, bleed) - michael.schurman@otherocean.com - Other Ocean Group, Inc. Mail — Mozilla Firefox
+[2021/2/23-8:51-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/23-8:51-tab]	 buff-definitions.ts - loot - Visual Studio Code
+[2021/2/23-8:51-focus]	 
+[2021/2/23-8:51-tab]	 
+[2021/2/23-8:51-focus]	 C:\Program Files\ConEmu\ConEmu64.exe
+[2021/2/23-8:51-tab]	 npm
+[2021/2/23-8:51-tab]	 MINGW64:/c/Projects/loot
+[2021/2/23-8:51-tab]	 npm
+[2021/2/23-8:51-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/23-8:51-tab]	 buff-definitions.ts - loot - Visual Studio Code
+[2021/2/23-8:52-focus]	 
+[2021/2/23-8:52-tab]	 
+[2021/2/23-8:52-focus]	 C:\Program Files\Mozilla Firefox\firefox.exe
+[2021/2/23-8:52-tab]	 [JIRA] (SOTI-2092) Add debuffing status effects for elemental damage (ignite, chill, shock, poison, bleed) - michael.schurman@otherocean.com - Other Ocean Group, Inc. Mail — Mozilla Firefox
+[2021/2/23-8:52-tab]	 Mozilla Firefox
+[2021/2/23-8:52-input]	 e
+[2021/2/23-8:52-tab]	 Amazon Music Unlimited | Stream Millions of Songs & Podcasts — Mozilla Firefox
+[2021/2/23-8:52-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/23-8:52-tab]	 buff-definitions.ts - loot - Visual Studio Code
+[2021/2/23-8:52-focus]	 
+[2021/2/23-8:52-tab]	 
+[2021/2/23-8:52-focus]	 C:\Program Files\Mozilla Firefox\firefox.exe
+[2021/2/23-8:52-tab]	 Amazon Music Unlimited | Stream Millions of Songs & Podcasts — Mozilla Firefox
+[2021/2/23-8:52-tab]	 LOOT - Character Stat Model / Elemental Damage / Projectile Behavior / Formulas - Google Docs — Mozilla Firefox
+[2021/2/23-8:53-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/23-8:53-tab]	 buff-definitions.ts - loot - Visual Studio Code
+[2021/2/23-8:53-focus]	 C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[2021/2/23-8:53-tab]	 Untitled - Google Chrome
+[2021/2/23-8:53-tab]	 about:blank - Google Chrome
+[2021/2/23-8:53-tab]	 Loot.io - Google Chrome
+[2021/2/23-8:53-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/23-8:53-tab]	 buff-definitions.ts - loot - Visual Studio Code
+[2021/2/23-8:53-focus]	 
+[2021/2/23-8:53-tab]	 
+[2021/2/23-8:53-focus]	 C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[2021/2/23-8:53-tab]	 Loot.io - Google Chrome
+[2021/2/23-8:54-input]	 dddddddddddddddddddddddddddddddddd
+[2021/2/23-8:54-input]	 dw
+[2021/2/23-8:54-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/23-8:54-tab]	 buff-definitions.ts - loot - Visual Studio Code
+[2021/2/23-8:54-focus]	 C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[2021/2/23-8:54-tab]	 Loot.io - Google Chrome
+[2021/2/23-8:54-input]	 dw
+[2021/2/23-8:54-input]	 w
+[2021/2/23-8:55-focus]	 C:\Program Files\ShareX\ShareX.exe
+[2021/2/23-8:55-tab]	 ShareX - Region capture
+[2021/2/23-8:55-input]	 wddddddd
+[2021/2/23-8:55-focus]	 C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[2021/2/23-8:55-tab]	 Loot.io - Google Chrome
+[2021/2/23-8:55-focus]	 
+[2021/2/23-8:55-tab]	 
+[2021/2/23-8:55-focus]	 C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[2021/2/23-8:55-tab]	 Loot.io - Google Chrome
+[2021/2/23-8:55-focus]	 C:\Windows\System32\ApplicationFrameHost.exe
+[2021/2/23-8:55-tab]	 Photos
+[2021/2/23-8:55-focus]	 
+[2021/2/23-8:55-tab]	 
+[2021/2/23-8:55-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/23-8:55-tab]	 buff-definitions.ts - loot - Visual Studio Code
+[2021/2/23-8:55-focus]	 
+[2021/2/23-8:55-tab]	 
+[2021/2/23-8:55-focus]	 C:\Windows\System32\ApplicationFrameHost.exe
+[2021/2/23-8:55-tab]	 Photos
+[2021/2/23-8:55-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/23-8:55-tab]	 buff-definitions.ts - loot - Visual Studio Code
+[2021/2/23-8:55-tab]	 collision-system.ts - loot - Visual Studio Code
+[2021/2/23-8:56-input]	 .
+[2021/2/23-8:56-focus]	 
+[2021/2/23-8:56-tab]	 
+[2021/2/23-8:56-focus]	 C:\Windows\System32\ApplicationFrameHost.exe
+[2021/2/23-8:56-tab]	 Photos
+[2021/2/23-8:56-focus]	 
+[2021/2/23-8:56-tab]	 
+[2021/2/23-8:56-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/23-8:56-tab]	 collision-system.ts - loot - Visual Studio Code
+[2021/2/23-8:56-tab]	 ● collision-system.ts - loot - Visual Studio Code
+[2021/2/23-8:56-input]	 
+[2021/2/23-8:56-input]	 	this.applyElementalEffects().
+[2021/2/23-8:56-focus]	 C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[2021/2/23-8:56-tab]	 Loot.io - Google Chrome
+[2021/2/23-8:56-focus]	 
+[2021/2/23-8:56-tab]	 
+[2021/2/23-8:56-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/23-8:56-tab]	 ● collision-system.ts - loot - Visual Studio Code
+[2021/2/23-8:56-clip]	 		setElementalHitDebugString(`-----------\n`)
+
+		const statList = projectile.owningEntity.statList
+		const damageInstance = projectile.getDamageInstance()
+		for (let dpi = 0; dpi < damageProperties.length; dpi++) {
+			const damageProp = damageProperties[dpi]
+
+			let damage = damageInstance[damageProp]
+
+			const testData = elementalHitTestData[damageProp.replace('Damage', '')]
+			if (testData.enabled) {
+				damage = testData.damage
+			}
+
+			if (damage === 0) {
+				continue
+			}
+
+			//const damageType = damageInstance.maxDamageTypeBeforeRoll
+			const damageType = getDamageTypeFromProperty(damageProp)
+			const chanceStat = getStatusChanceFromDamageType(damageType)
+			const potencyStat = getStatusPotenecyFromDamageType(damageType)
+			let chance = statList.getStat(chanceStat)
+			let potency = projectile.owningEntity.statList.getStat(potencyStat)
+
+			if (testData.enabled) {
+				chance = testData.chance
+				potency = testData.potency
+			}
+
+			const loops = chanceToLoops(chance)
+
+			addToElementalHitDebugString(` ${damageProp}:${damage} ${chanceStat}:${chance} ${potencyStat}:${potency} loops:${loops}\n`)
+			for (let l = 0; l < loops; l++) {
+				const buffId = getBuffFromDamageType(damageType)
+				const stacks = potency * damage
+				addToElementalHitDebugString(`  damage:${damage} stacks:${stacks}\n`)
+				Buff.apply(buffId, projectile.owningEntity, target, stacks)
+			}
+		}
+
+		debugDrawText(getElementalHitDebugString(), target, 0xffffff, false, 10)
+		console.log(getElementalHitDebugString())
+[2021/2/23-8:56-input]	 x
+[2021/2/23-8:56-input]	 
+[2021/2/23-8:57-input]	 	private aplyplyElementalEffects() {
+[2021/2/23-8:57-input]	 v
+[2021/2/23-8:57-input]	 		
+[2021/2/23-8:57-clip]	 projectile: ServerProjectile,
+[2021/2/23-8:57-input]	 cv
+[2021/2/23-8:57-input]	 s
+[2021/2/23-8:57-tab]	 collision-system.ts - loot - Visual Studio Code
+[2021/2/23-8:58-tab]	 ● collision-system.ts - loot - Visual Studio Code
+[2021/2/23-8:58-input]	 projectile, target, target:
+[2021/2/23-8:58-clip]	 ICombatant
+[2021/2/23-8:58-input]	 cv
+[2021/2/23-8:58-tab]	 collision-system.ts - loot - Visual Studio Code
+[2021/2/23-8:58-focus]	 
+[2021/2/23-8:58-tab]	 
+[2021/2/23-8:58-input]	 s
+[2021/2/23-8:58-focus]	 C:\Windows\explorer.exe
+[2021/2/23-8:58-focus]	 C:\Program Files\ConEmu\ConEmu64.exe
+[2021/2/23-8:58-tab]	 MINGW64:/c/Projects/loot
+[2021/2/23-8:58-tab]	 npm
+[2021/2/23-8:58-tab]	 MINGW64:/c/Projects/loot
+[2021/2/23-8:58-focus]	 
+[2021/2/23-8:58-tab]	 
+[2021/2/23-8:58-focus]	 C:\Program Files\Mozilla Firefox\firefox.exe
+[2021/2/23-8:58-tab]	 LOOT - Character Stat Model / Elemental Damage / Projectile Behavior / Formulas - Google Docs — Mozilla Firefox
+[2021/2/23-8:58-focus]	 
+[2021/2/23-8:58-tab]	 
+[2021/2/23-8:58-focus]	 C:\Windows\System32\ApplicationFrameHost.exe
+[2021/2/23-8:58-tab]	 Photos
+[2021/2/23-8:58-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/23-8:58-tab]	 collision-system.ts - loot - Visual Studio Code
+[2021/2/23-8:59-tab]	 debug.server.ts - loot - Visual Studio Code
+[2021/2/23-8:59-tab]	 ● debug.server.ts - loot - Visual Studio Code
+[2021/2/23-8:59-input]	  = s
+[2021/2/23-8:59-tab]	 debug.server.ts - loot - Visual Studio Code
+[2021/2/23-8:59-input]	 s
+[2021/2/23-8:59-focus]	 C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[2021/2/23-8:59-tab]	 Untitled - Google Chrome
+[2021/2/23-8:59-tab]	 Loot.io - Google Chrome
+[2021/2/23-9:0-input]	 ddddaad
+[2021/2/23-9:0-input]	 dddddddddddddddddddddddddddddddddddddddddddddddddwwd
+[2021/2/23-9:0-input]	 dddd
+[2021/2/23-9:0-input]	 a
+[2021/2/23-9:1-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/23-9:1-tab]	 debug.server.ts - loot - Visual Studio Code
+[2021/2/23-9:2-focus]	 
+[2021/2/23-9:2-tab]	 
+[2021/2/23-9:2-focus]	 C:\Program Files\Mozilla Firefox\firefox.exe
+[2021/2/23-9:2-tab]	 LOOT - Character Stat Model / Elemental Damage / Projectile Behavior / Formulas - Google Docs — Mozilla Firefox
+[2021/2/23-9:2-focus]	 
+[2021/2/23-9:2-tab]	 
+[2021/2/23-9:2-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/23-9:2-tab]	 debug.server.ts - loot - Visual Studio Code
+[2021/2/23-9:3-tab]	 collision-system.ts - loot - Visual Studio Code
+[2021/2/23-9:3-tab]	 buff-definitions.ts - loot - Visual Studio Code
+[2021/2/23-9:3-tab]	 buff.ts - loot - Visual Studio Code
+[2021/2/23-9:4-tab]	 enemy.server.ts - loot - Visual Studio Code
+[2021/2/23-9:4-tab]	 buff-definitions.ts - loot - Visual Studio Code
+[2021/2/23-9:4-tab]	 buff-definitions.client.ts - loot - Visual Studio Code
+[2021/2/23-9:4-tab]	 debug.server.ts - loot - Visual Studio Code
+[2021/2/23-9:4-tab]	 collision-system.ts - loot - Visual Studio Code
+[2021/2/23-9:4-tab]	 buff-definitions.client.ts - loot - Visual Studio Code
+[2021/2/23-9:4-tab]	 collision-system.ts - loot - Visual Studio Code
+[2021/2/23-9:4-tab]	 buff-definitions.ts - loot - Visual Studio Code
+[2021/2/23-9:4-tab]	 entity-stat-list.ts - loot - Visual Studio Code
+[2021/2/23-9:4-tab]	 buff-definitions.ts - loot - Visual Studio Code
+[2021/2/23-9:4-tab]	 buff.shared.ts - loot - Visual Studio Code
+[2021/2/23-9:4-tab]	 buff-definitions.ts - loot - Visual Studio Code
+[2021/2/23-9:5-tab]	 ● buff-definitions.ts - loot - Visual Studio Code
+[2021/2/23-9:5-input]	 \//
+[2021/2/23-9:5-tab]	 buff.ts - loot - Visual Studio Code
+[2021/2/23-9:6-clip]	 		if (this.rollingStacksApplied?.length) {
+
+[2021/2/23-9:6-input]	 c
+[2021/2/23-9:6-tab]	 ● buff-definitions.ts - loot - Visual Studio Code
+[2021/2/23-9:6-tab]	 buff-definitions.ts - loot - Visual Studio Code
+[2021/2/23-9:6-input]	 s
+[2021/2/23-9:6-focus]	 C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[2021/2/23-9:6-tab]	 about:blank - Google Chrome
+[2021/2/23-9:6-tab]	 Loot.io - Google Chrome
+[2021/2/23-9:7-input]	 05ddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
+[2021/2/23-9:7-focus]	 
+[2021/2/23-9:7-tab]	 
+[2021/2/23-9:7-focus]	 C:\Windows\explorer.exe
+[2021/2/23-9:7-focus]	 C:\Program Files\ConEmu\ConEmu64.exe
+[2021/2/23-9:7-tab]	 npm
+[2021/2/23-9:7-input]	 da
+[2021/2/23-9:7-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/23-9:7-tab]	 buff-definitions.ts - loot - Visual Studio Code
+[2021/2/23-9:7-tab]	 buff.ts - loot - Visual Studio Code
+[2021/2/23-9:7-input]	 fwearoffst
+[2021/2/23-9:7-tab]	 ● buff.ts - loot - Visual Studio Code
+[2021/2/23-9:7-input]	 
+[2021/2/23-9:8-input]	 rmoevemoveStatcksDirectory()Direct() {
+[2021/2/23-9:8-input]	 
+[2021/2/23-9:8-clip]	 stacks: number
+[2021/2/23-9:8-input]	 cv
+[2021/2/23-9:8-clip]	 		throwIfNotFinite(stacks)
+
+[2021/2/23-9:8-input]	 cv
+[2021/2/23-9:8-input]	 f
+[2021/2/23-9:8-input]	 
+[2021/2/23-9:8-input]	 
+[2021/2/23-9:8-input]	 	this.stacks -= stacks
+[2021/2/23-9:8-input]	 
+[2021/2/23-9:9-input]	 if (this.re	.	.??.len	 {
+[2021/2/23-9:9-input]	 
+[2021/2/23-9:9-clip]	 stacks
+[2021/2/23-9:9-input]	 c
+[2021/2/23-9:9-input]	 for	i
+[2021/2/23-9:9-input]	 	
+[2021/2/23-9:9-input]	 vthis.roll	?.	
+[2021/2/23-9:9-clip]	 this.rollingStacksApplied
+[2021/2/23-9:9-input]	 c
+[2021/2/23-9:9-input]	 v
+[2021/2/23-9:9-clip]	 element
+[2021/2/23-9:9-input]	 c
+[2021/2/23-9:9-input]	 if (element.
+[2021/2/23-9:9-input]	 
+[2021/2/23-9:10-input]	 f
+[2021/2/23-9:10-input]	 
+[2021/2/23-9:10-input]	 
+[2021/2/23-9:10-input]	 
+[2021/2/23-9:10-input]	 
+[2021/2/23-9:10-input]	 
+[2021/2/23-9:10-input]	 
+[2021/2/23-9:10-input]	 
+[2021/2/23-9:10-clip]	 const [expiresAtTime, stackCount]
+[2021/2/23-9:10-input]	 czZ
+[2021/2/23-9:10-input]	 v
+[2021/2/23-9:10-clip]	 stackCount
+[2021/2/23-9:10-input]	 c
+[2021/2/23-9:10-input]	 v < stacks {
+[2021/2/23-9:10-input]	 stacks -= stackCou	
+[2021/2/23-9:10-input]	 
+[2021/2/23-9:10-input]	 
+[2021/2/23-9:10-input]	 const entry = 
+[2021/2/23-9:10-clip]	 this.rollingStacksApplied[i]
+[2021/2/23-9:10-clip]	 entry
+[2021/2/23-9:10-input]	 xvcv
+[2021/2/23-9:11-input]	 	entry[1] = -0 else {
+[2021/2/23-9:11-input]	 
+[2021/2/23-9:11-input]	 
+[2021/2/23-9:11-clip]	 				stacks -= stackCount
+				entry[1] = 0
+
+[2021/2/23-9:11-input]	 cv
+[2021/2/23-9:11-input]	 entry[1]
+[2021/2/23-9:12-clip]	 				stacks = 0
+
+[2021/2/23-9:12-input]	 - stackss = 0xv
+[2021/2/23-9:12-input]	 
+[2021/2/23-9:12-input]	 break;
+[2021/2/23-9:12-input]	 
+[2021/2/23-9:12-clip]	 removeStacksDirect
+[2021/2/23-9:12-input]	 console.log(c`v:${stacks
+[2021/2/23-9:12-clip]	 		console.log(`removeStacksDirect:${stacks}`)
+
+[2021/2/23-9:13-clip]	 stackCount
+[2021/2/23-9:13-input]	 cvc v
+[2021/2/23-9:13-clip]	 			console.log(` stackCount:${stackCount} < stacks:${stacks}`)
+
+[2021/2/23-9:13-input]	 ${v: < stacks:c
+[2021/2/23-9:13-input]	 v
+[2021/2/23-9:13-clip]	 entry[1]
+[2021/2/23-9:13-clip]	 				console.log(` entry[1] = ${entry[1]}`)
+
+[2021/2/23-9:13-input]	 cv = ${vcv
+[2021/2/23-9:13-clip]	 stacks
+[2021/2/23-9:13-tab]	 buff.ts - loot - Visual Studio Code
+[2021/2/23-9:13-clip]	 removeStacksDirect
+[2021/2/23-9:13-tab]	 buff-definitions.ts - loot - Visual Studio Code
+[2021/2/23-9:13-input]	 c stacks:${vsc
+[2021/2/23-9:13-tab]	 ● buff-definitions.ts - loot - Visual Studio Code
+[2021/2/23-9:14-input]	 buff.v(thresh	
+[2021/2/23-9:14-input]	 //
+[2021/2/23-9:14-tab]	 buff-definitions.ts - loot - Visual Studio Code
+[2021/2/23-9:14-input]	 s
+[2021/2/23-9:14-focus]	 C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+[2021/2/23-9:14-tab]	 @Polatrite - Discord
+[2021/2/23-9:14-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/23-9:14-tab]	 buff-definitions.ts - loot - Visual Studio Code
+[2021/2/23-9:14-focus]	 C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[2021/2/23-9:14-tab]	 Untitled - Google Chrome
+[2021/2/23-9:14-tab]	 about:blank - Google Chrome
+[2021/2/23-9:14-tab]	 Loot.io - Google Chrome
+[2021/2/23-9:15-input]	 05dddddddddddddddddddddddddddddddddddddw
+[2021/2/23-9:15-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/23-9:15-tab]	 buff-definitions.ts - loot - Visual Studio Code
+[2021/2/23-9:15-tab]	 buff.ts - loot - Visual Studio Code
+[2021/2/23-9:15-tab]	 ● buff.ts - loot - Visual Studio Code
+[2021/2/23-9:15-input]	 if (this.roll	
+[2021/2/23-9:15-input]	  {
+[2021/2/23-9:15-clip]	 		}
+
+[2021/2/23-9:15-tab]	 buff.ts - loot - Visual Studio Code
+[2021/2/23-9:15-input]	 xvs
+[2021/2/23-9:15-focus]	 C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[2021/2/23-9:15-tab]	 Untitled - Google Chrome
+[2021/2/23-9:15-tab]	 localhost:1234/?connectTo=adventure&skipToGame=true - Google Chrome
+[2021/2/23-9:15-tab]	 Loot.io - Google Chrome
+[2021/2/23-9:16-input]	 05dddddddddddddddddddddddddddddddddddww
+[2021/2/23-9:16-focus]	 C:\Program Files\ConEmu\ConEmu64.exe
+[2021/2/23-9:16-tab]	 npm
+[2021/2/23-9:17-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/23-9:17-tab]	 buff.ts - loot - Visual Studio Code
+[2021/2/23-9:17-tab]	 ● buff.ts - loot - Visual Studio Code
+[2021/2/23-9:17-input]	 
+[2021/2/23-9:17-input]	 /** removes stacks without calling any wearoff or update functions
+[2021/2/23-9:18-tab]	 buff.ts - loot - Visual Studio Code
+[2021/2/23-9:18-input]	 s
+[2021/2/23-9:18-focus]	 C:\Program Files\ConEmu\ConEmu64.exe
+[2021/2/23-9:18-tab]	 MINGW64:/c/Projects/loot
+[2021/2/23-9:18-input]	 gs
+[2021/2/23-9:18-input]	 
+[2021/2/23-9:18-input]	 gd
+[2021/2/23-9:18-input]	 
+[2021/2/23-9:18-input]	  
+[2021/2/23-9:18-clip]	 nsole.log(`### this.roll
+[2021/2/23-9:18-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/23-9:18-tab]	 buff.ts - loot - Visual Studio Code
+[2021/2/23-9:18-input]	 Fv
+[2021/2/23-9:18-tab]	 ● buff.ts - loot - Visual Studio Code
+[2021/2/23-9:18-input]	 
+[2021/2/23-9:18-focus]	 C:\Program Files\ConEmu\ConEmu64.exe
+[2021/2/23-9:18-tab]	 MINGW64:/c/Projects/loot
+[2021/2/23-9:18-input]	 z
+[2021/2/23-9:18-input]	   
+[2021/2/23-9:18-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/23-9:18-tab]	 ● buff.ts - loot - Visual Studio Code
+[2021/2/23-9:18-clip]	 e.log(`_reapply:`, stacks
+[2021/2/23-9:19-input]	 Fv
+[2021/2/23-9:19-focus]	 
+[2021/2/23-9:19-tab]	 
+[2021/2/23-9:19-focus]	 C:\Program Files\ConEmu\ConEmu64.exe
+[2021/2/23-9:19-tab]	 MINGW64:/c/Projects/loot
+[2021/2/23-9:19-input]	    
+[2021/2/23-9:19-input]	  
+[2021/2/23-9:19-input]	   
+[2021/2/23-9:19-input]	  
+[2021/2/23-9:19-input]	   
+[2021/2/23-9:19-input]	  
+[2021/2/23-9:19-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/23-9:19-tab]	 ● buff.ts - loot - Visual Studio Code
+[2021/2/23-9:19-clip]	 ***BLEEED
+[2021/2/23-9:19-tab]	 buff-definitions.ts - loot - Visual Studio Code
+[2021/2/23-9:19-input]	 Fv
+[2021/2/23-9:19-tab]	 ● buff-definitions.ts - loot - Visual Studio Code
+[2021/2/23-9:19-input]	 
+[2021/2/23-9:20-clip]	 	new BuffDefinition({
+		identifier: BuffIdentifier.Bleed,
+		duration: 6000,
+		startingStacks: 1,
+		stackStyle: StackStyle.RefreshDuration,
+		reapplyStacks: 1,
+		reapplyDuration: 6000,
+		updateStacksFn: (buff: Buff, oldStacks: number, newStacks: number) => {
+			const maxHealth = buff.appliedTo.maxHealth
+			const target = maxHealth * 0.25
+			addToElementalHitDebugString(`   adding bleed stacks:${buff.stacks.toFixed(1)} threshold:${target.toFixed(1)}\n`)
+			if (oldStacks < target && newStacks >= target) {
+				const bleedDamage = maxHealth * 0.25
+				addToElementalHitDebugString(`   ***BLEED triggered*** damage:${bleedDamage}`)
+				global.nengiInstance.addLocalMessage(new CreatePfxOneOffMessage('status-bleed', buff.appliedTo))
+				buff.appliedTo.takeDamageDirect(bleedDamage, false, DamageType.PHYSICAL, true, buff.owner.nid, buff.appliedTo.position, 0, 0)
+			}
+		},
+		showToClient: true,
+	}),
+[2021/2/23-9:20-input]	 c
+[2021/2/23-9:20-focus]	 C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+[2021/2/23-9:20-tab]	 @Polatrite - Discord
+[2021/2/23-9:20-tab]	 #loot-general - Discord
+[2021/2/23-9:20-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/23-9:20-tab]	 ● buff-definitions.ts - loot - Visual Studio Code
+[2021/2/23-9:20-focus]	 C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+[2021/2/23-9:20-tab]	 #loot-general - Discord
+[2021/2/23-9:20-tab]	 #loot-code - Discord
+[2021/2/23-9:21-tab]	 #loot-game-design - Discord
+[2021/2/23-9:21-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/23-9:21-tab]	 ● buff-definitions.ts - loot - Visual Studio Code
+[2021/2/23-9:22-input]	 
+[2021/2/23-9:22-input]	 
+[2021/2/23-9:22-focus]	 C:\Program Files\ConEmu\ConEmu64.exe
+[2021/2/23-9:22-tab]	 MINGW64:/c/Projects/loot
+[2021/2/23-9:22-input]	  
+[2021/2/23-9:22-input]	     
+[2021/2/23-9:22-input]	    
+[2021/2/23-9:22-clip]	 //throwIfNotF
+[2021/2/23-9:22-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/23-9:22-tab]	 ● buff-definitions.ts - loot - Visual Studio Code
+[2021/2/23-9:22-tab]	 entity-stat-list.ts - loot - Visual Studio Code
+[2021/2/23-9:22-input]	 Fv
+[2021/2/23-9:22-tab]	 ● entity-stat-list.ts - loot - Visual Studio Code
+[2021/2/23-9:22-tab]	 entity-stat-list.ts - loot - Visual Studio Code
+[2021/2/23-9:22-tab]	 ● entity-stat-list.ts - loot - Visual Studio Code
+[2021/2/23-9:22-tab]	 entity-stat-list.ts - loot - Visual Studio Code
+[2021/2/23-9:22-input]	 zks
+[2021/2/23-9:23-tab]	 ● entity-stat-list.ts - loot - Visual Studio Code
+[2021/2/23-9:23-input]	 , nmustExist:undefined
+[2021/2/23-9:23-input]	 ignore
+[2021/2/23-9:23-clip]	 ignoreMissingStat
+[2021/2/23-9:23-input]	 MissingStatc
+[2021/2/23-9:23-input]	 if (1!v {
+[2021/2/23-9:23-clip]	 		throwIfNotFinite(statValue, `no stat called ${statName}`)
+
+[2021/2/23-9:23-tab]	 entity-stat-list.ts - loot - Visual Studio Code
+[2021/2/23-9:23-focus]	 C:\Program Files\ConEmu\ConEmu64.exe
+[2021/2/23-9:23-tab]	 npm
+[2021/2/23-9:23-input]	 xvs
+[2021/2/23-9:23-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/23-9:23-tab]	 entity-stat-list.ts - loot - Visual Studio Code
+[2021/2/23-9:23-tab]	 ● entity-stat-list.ts - loot - Visual Studio Code
+[2021/2/23-9:24-tab]	 entity-stat-list.ts - loot - Visual Studio Code
+[2021/2/23-9:24-input]	  =s
+[2021/2/23-9:24-tab]	 ● entity-stat-list.ts - loot - Visual Studio Code
+[2021/2/23-9:24-input]	 :boolean
+[2021/2/23-9:24-focus]	 
+[2021/2/23-9:24-tab]	 
+[2021/2/23-9:24-focus]	 C:\Program Files\ConEmu\ConEmu64.exe
+[2021/2/23-9:24-tab]	 npm
+[2021/2/23-9:24-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/23-9:24-tab]	 ● entity-stat-list.ts - loot - Visual Studio Code
+[2021/2/23-9:24-tab]	 entity-stat-list.ts - loot - Visual Studio Code
+[2021/2/23-9:24-focus]	 C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[2021/2/23-9:24-tab]	 about:blank - Google Chrome
+[2021/2/23-9:24-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/23-9:24-tab]	 entity-stat-list.ts - loot - Visual Studio Code
+[2021/2/23-9:24-tab]	 ● entity-stat-list.ts - loot - Visual Studio Code
+[2021/2/23-9:24-input]	 ?s
+[2021/2/23-9:24-tab]	 entity-stat-list.ts - loot - Visual Studio Code
+[2021/2/23-9:24-focus]	 C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[2021/2/23-9:24-tab]	 Loot.io - Google Chrome
+[2021/2/23-9:24-input]	 
+[2021/2/23-9:25-input]	 dddddddd
+[2021/2/23-9:25-focus]	 C:\Program Files\ConEmu\ConEmu64.exe
+[2021/2/23-9:25-tab]	 npm
+[2021/2/23-9:25-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/23-9:25-tab]	 entity-stat-list.ts - loot - Visual Studio Code
+[2021/2/23-9:25-clip]	 projectileRiccochetCount
+[2021/2/23-9:25-tab]	 calculateItemTooltipData.ts - loot - Visual Studio Code
+[2021/2/23-9:25-input]	 Fv
+[2021/2/23-9:25-tab]	 ● calculateItemTooltipData.ts - loot - Visual Studio Code
+[2021/2/23-9:25-tab]	 calculateItemTooltipData.ts - loot - Visual Studio Code
+[2021/2/23-9:25-input]	 , trues
+[2021/2/23-9:25-focus]	 C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[2021/2/23-9:25-tab]	 Loot.io - Google Chrome
+[2021/2/23-9:25-focus]	 
+[2021/2/23-9:25-tab]	 
+[2021/2/23-9:25-focus]	 C:\Program Files\ConEmu\ConEmu64.exe
+[2021/2/23-9:25-tab]	 npm
+[2021/2/23-9:25-focus]	 
+[2021/2/23-9:25-tab]	 
+[2021/2/23-9:25-focus]	 C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[2021/2/23-9:25-tab]	 Loot.io - Google Chrome
+[2021/2/23-9:25-input]	 
+[2021/2/23-9:26-input]	 dddddddddddddddddddddddddddddddddd
+[2021/2/23-9:26-input]	 d
+[2021/2/23-9:26-input]	 ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddsd
+[2021/2/23-9:26-input]	 s
+[2021/2/23-9:27-focus]	 C:\Program Files\ConEmu\ConEmu64.exe
+[2021/2/23-9:27-tab]	 npm
+[2021/2/23-9:27-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/23-9:27-tab]	 calculateItemTooltipData.ts - loot - Visual Studio Code
+[2021/2/23-9:27-focus]	 C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[2021/2/23-9:27-tab]	 Untitled - Google Chrome
+[2021/2/23-9:27-tab]	 localhost:1234/?connectTo=adventure&skipToGame=true - Google Chrome
+[2021/2/23-9:27-tab]	 Loot.io - Google Chrome
+[2021/2/23-9:28-input]	 dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddsssssdddddddddddssssssssssssssssssssssssssssssswwwwwssssssdddddddddddddddddddddddddddddddddddssssssssssssssssssssswwwwwwwwwwwwwwwwwwat
+[2021/2/23-9:28-input]	 /ghost
+[2021/2/23-9:28-input]	 dwaaaaaaaaddddddddddddddddddddddddddssssswssssssssssssssssssssswwwwwwwwwwwwwwwwwwwwwaaaaaaaaaaaaaaaawddddddddddddddddddddddddssssssssaaaaaddddddddddddddddddddddddddddddddddddddddddddddwwdddddwdwddddddddddddddddddddddddddddddddddddddddddddddddddddddddddwdddddddddddddddddddddddddddddddddddddwwwwwwwwww
+[2021/2/23-9:28-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/23-9:28-tab]	 calculateItemTooltipData.ts - loot - Visual Studio Code
+[2021/2/23-9:29-tab]	 collision-system.ts - loot - Visual Studio Code
+[2021/2/23-9:29-input]	 Faddtoel
+[2021/2/23-9:29-tab]	 ● collision-system.ts - loot - Visual Studio Code
+[2021/2/23-9:29-input]	 ////
+[2021/2/23-9:29-tab]	 buff-definitions.ts - loot - Visual Studio Code
+[2021/2/23-9:29-tab]	 ● buff-definitions.ts - loot - Visual Studio Code
+[2021/2/23-9:29-input]	 ////
+[2021/2/23-9:29-input]	 ////
+[2021/2/23-9:29-input]	 ////
+[2021/2/23-9:29-tab]	 ● collision-system.ts - loot - Visual Studio Code
+[2021/2/23-9:29-input]	 ////
+[2021/2/23-9:29-tab]	 collision-system.ts - loot - Visual Studio Code
+[2021/2/23-9:29-input]	 //ks
+[2021/2/23-9:30-focus]	 C:\Program Files\ConEmu\ConEmu64.exe
+[2021/2/23-9:30-tab]	 MINGW64:/c/Projects/loot
+[2021/2/23-9:30-input]	 qgit diff
+[2021/2/23-9:30-input]	  
+[2021/2/23-9:30-focus]	 
+[2021/2/23-9:30-tab]	 
+[2021/2/23-9:30-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/23-9:30-tab]	 ● notes.md - Notes - Visual Studio Code
+[2021/2/23-9:30-input]	 
+[2021/2/23-9:30-input]	 
+[2021/2/23-9:30-input]	 removing stacks properly for rolling stacks
+[2021/2/23-9:30-input]	 
+[2021/2/23-9:30-focus]	 C:\Program Files\ConEmu\ConEmu64.exe
+[2021/2/23-9:30-tab]	 MINGW64:/c/Projects/loot
+[2021/2/23-9:30-input]	 directly
+[2021/2/23-9:30-input]	     
+[2021/2/23-9:31-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/23-9:31-tab]	 collision-system.ts - loot - Visual Studio Code
+[2021/2/23-9:31-tab]	 ● collision-system.ts - loot - Visual Studio Code
+[2021/2/23-9:31-input]	 fsetdebug//
+[2021/2/23-9:31-tab]	 debug.server.ts - loot - Visual Studio Code
+[2021/2/23-9:31-tab]	 buff-definitions.ts - loot - Visual Studio Code
+[2021/2/23-9:31-tab]	 ● collision-system.ts - loot - Visual Studio Code
+[2021/2/23-9:31-tab]	 debug.server.ts - loot - Visual Studio Code
+[2021/2/23-9:31-tab]	 Untitled-1 - loot - Visual Studio Code
+[2021/2/23-9:31-input]	 pn
+[2021/2/23-9:31-tab]	 debug.server.ts - loot - Visual Studio Code
+[2021/2/23-9:31-clip]	 
+let elementalHitDebugString = ''
+export function setElementalHitDebugString(s: string) {
+	elementalHitDebugString = s
+}
+export function addToElementalHitDebugString(s: string) {
+	elementalHitDebugString += s
+}
+export function getElementalHitDebugString() {
+	return elementalHitDebugString
+}
+
+[2021/2/23-9:31-tab]	 ● debug.server.ts - loot - Visual Studio Code
+[2021/2/23-9:31-tab]	 Untitled-1 - loot - Visual Studio Code
+[2021/2/23-9:31-tab]	 ● Untitled-1 - loot - Visual Studio Code
+[2021/2/23-9:31-tab]	 ● collision-system.ts - loot - Visual Studio Code
+[2021/2/23-9:31-input]	 xv
+[2021/2/23-9:31-clip]	 
+const elementStuff = { enabled: false, damage: 1, chance: 1, potency: 1 }
+
+const elementalHitTestData = {
+	physical: { ...elementStuff },
+	fire: { ...elementStuff },
+	ice: { ...elementStuff },
+	lightning: { ...elementStuff },
+	poison: { ...elementStuff },
+}
+if (process.env.NODE_ENV !== 'production') {
+	DevToolsManager.getInstance().addObjectByName('elementalTest', elementalHitTestData)
+	//DevToolsManager.getInstance().setDebugObject(elementalHitTestData)
+}
+[2021/2/23-9:31-tab]	 ● Untitled-1 - loot - Visual Studio Code
+[2021/2/23-9:31-input]	 x
+[2021/2/23-9:31-input]	 v
+[2021/2/23-9:31-tab]	 Save As
+[2021/2/23-9:31-input]	 .s
+[2021/2/23-9:32-input]	 elemental-debug
+[2021/2/23-9:32-tab]	 ● Untitled-1 - loot - Visual Studio Code
+[2021/2/23-9:32-tab]	 elemental-debug.ts - loot - Visual Studio Code
+[2021/2/23-9:32-input]	 
+[2021/2/23-9:32-tab]	 ● debug.server.ts - loot - Visual Studio Code
+[2021/2/23-9:32-tab]	 ● collision-system.ts - loot - Visual Studio Code
+[2021/2/23-9:32-input]	 
+[2021/2/23-9:32-tab]	 buff-definitions.ts - loot - Visual Studio Code
+[2021/2/23-9:32-tab]	 ● buff-definitions.ts - loot - Visual Studio Code
+[2021/2/23-9:32-input]	 
+[2021/2/23-9:33-tab]	 ● collision-system.ts - loot - Visual Studio Code
+[2021/2/23-9:33-input]	 fsetdeubFsetelem
+[2021/2/23-9:33-input]	 
+[2021/2/23-9:33-input]	 .
+[2021/2/23-9:33-input]	 ks
+[2021/2/23-9:33-tab]	 collision-system.ts - loot - Visual Studio Code
+[2021/2/23-9:33-input]	 .
+[2021/2/23-9:33-tab]	 ● collision-system.ts - loot - Visual Studio Code
+[2021/2/23-9:33-input]	 
+[2021/2/23-9:33-tab]	 elemental-debug.ts - loot - Visual Studio Code
+[2021/2/23-9:33-tab]	 ● elemental-debug.ts - loot - Visual Studio Code
+[2021/2/23-9:33-input]	 export 
+[2021/2/23-9:33-input]	 .
+[2021/2/23-9:33-input]	 
+[2021/2/23-9:34-input]	 elementalHitData
+[2021/2/23-9:34-input]	 
+[2021/2/23-9:34-tab]	 ● collision-system.ts - loot - Visual Studio Code
+[2021/2/23-9:34-input]	 .
+[2021/2/23-9:34-input]	 
+[2021/2/23-9:34-tab]	 ● elemental-debug.ts - loot - Visual Studio Code
+[2021/2/23-9:34-input]	 .
+[2021/2/23-9:34-input]	 
+[2021/2/23-9:34-clip]	 
+let elementalHitDebugString = ''
+export function setElementalHitDebugString(s: string) {
+	elementalHitDebugString = s
+}
+export function addToElementalHitDebugString(s: string) {
+	elementalHitDebugString += s
+}
+export function getElementalHitDebugString() {
+	return elementalHitDebugString
+}
+
+[2021/2/23-9:34-input]	 x
+[2021/2/23-9:34-input]	 
+[2021/2/23-9:34-input]	 v
+[2021/2/23-9:34-input]	 Hit
+[2021/2/23-9:35-tab]	 elemental-debug.ts - loot - Visual Studio Code
+[2021/2/23-9:35-input]	 ks
+[2021/2/23-9:35-tab]	 debug.server.ts - loot - Visual Studio Code
+[2021/2/23-9:35-tab]	 ● debug.server.ts - loot - Visual Studio Code
+[2021/2/23-9:35-input]	 
+[2021/2/23-9:35-focus]	 C:\Program Files\ConEmu\ConEmu64.exe
+[2021/2/23-9:35-tab]	 MINGW64:/c/Projects/loot
+[2021/2/23-9:35-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/23-9:35-tab]	 ● notes.md - Notes - Visual Studio Code
+[2021/2/23-9:35-tab]	 ● debug.server.ts - loot - Visual Studio Code
+[2021/2/23-9:35-tab]	 ● notes.md - Notes - Visual Studio Code
+[2021/2/23-9:35-input]	 s
+[2021/2/23-9:35-input]	 adding testing data for elemental hits
+[2021/2/23-9:35-focus]	 C:\Program Files\ConEmu\ConEmu64.exe
+[2021/2/23-9:35-tab]	 MINGW64:/c/Projects/loot
+[2021/2/23-9:35-input]	     
+[2021/2/23-9:35-input]	  
+[2021/2/23-9:36-input]	  
+[2021/2/23-9:36-focus]	 
+[2021/2/23-9:36-tab]	 
+[2021/2/23-9:36-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/23-9:36-tab]	 ● notes.md - Notes - Visual Studio Code
+[2021/2/23-9:36-tab]	 debug.server.ts - loot - Visual Studio Code
+[2021/2/23-9:36-input]	 addig ng chilledResetpgubuff
+[2021/2/23-9:36-tab]	 buff.shared.ts - loot - Visual Studio Code
+[2021/2/23-9:36-input]	 
+[2021/2/23-9:36-clip]	 ChilledResist
+[2021/2/23-9:36-tab]	 ● notes.md - Notes - Visual Studio Code
+[2021/2/23-9:36-input]	 c
+[2021/2/23-9:36-tab]	 buff.shared.ts - loot - Visual Studio Code
+[2021/2/23-9:36-clip]	 StunResist
+[2021/2/23-9:36-tab]	 ● notes.md - Notes - Visual Studio Code
+[2021/2/23-9:36-focus]	 
+[2021/2/23-9:36-tab]	 
+[2021/2/23-9:36-focus]	 C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+[2021/2/23-9:36-tab]	 #loot-game-design - Discord
+[2021/2/23-9:36-input]	 v and cv buffs
+[2021/2/23-9:36-tab]	 #loot-code - Discord
+[2021/2/23-9:37-input]	 
+[2021/2/23-9:37-input]	 the pfx jsons amost of 
+[2021/2/23-9:37-input]	  have the witehitespace removed
+[2021/2/23-9:37-input]	  (I think?). It's only when someone edits by hand and they use a pretitier that it adds all the whitespace.
+[2021/2/23-9:37-input]	 So 
+[2021/2/23-9:37-input]	 no-white-space is nromormal.
+[2021/2/23-9:37-input]	 
+[2021/2/23-9:38-input]	 
+[2021/2/23-9:38-focus]	 C:\Program Files\ConEmu\ConEmu64.exe
+[2021/2/23-9:38-tab]	 npm
+[2021/2/23-9:38-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/23-9:38-tab]	 buff.shared.ts - loot - Visual Studio Code
+[2021/2/23-9:38-focus]	 C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+[2021/2/23-9:38-tab]	 #loot-code - Discord
+[2021/2/23-9:39-input]	 nope, all good. If you do want to pretty it, there are extensions in vscode I can point you to
+[2021/2/23-9:39-input]	 
+[2021/2/23-9:39-focus]	 
+[2021/2/23-9:39-tab]	 
+[2021/2/23-9:39-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/23-9:39-tab]	 buff.shared.ts - loot - Visual Studio Code
+[2021/2/23-9:39-input]	 Ppretty
+[2021/2/23-9:39-input]	 jsontoo tools
+[2021/2/23-9:39-tab]	 Extension: JSON Tools - loot - Visual Studio Code
+[2021/2/23-9:39-focus]	 C:\Program Files\ShareX\ShareX.exe
+[2021/2/23-9:39-tab]	 ShareX - Region capture
+[2021/2/23-9:39-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/23-9:39-tab]	 Extension: JSON Tools - loot - Visual Studio Code
+[2021/2/23-9:39-input]	 
+[2021/2/23-9:39-focus]	 C:\Program Files\ShareX\ShareX.exe
+[2021/2/23-9:39-tab]	 ShareX - Region capture
+[2021/2/23-9:39-tab]	 ShareX - Annotate menu
+[2021/2/23-9:39-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/23-9:39-tab]	 Extension: JSON Tools - loot - Visual Studio Code
+[2021/2/23-9:40-focus]	 C:\Program Files\ShareX\ShareX.exe
+[2021/2/23-9:40-tab]	 ShareX - Region capture
+[2021/2/23-9:40-input]	 
+[2021/2/23-9:40-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/23-9:40-tab]	 Extension: JSON Tools - loot - Visual Studio Code
+[2021/2/23-9:40-focus]	 C:\Program Files\ShareX\ShareX.exe
+[2021/2/23-9:40-tab]	 ShareX - Region capture
+[2021/2/23-9:40-input]	 
+[2021/2/23-9:40-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/23-9:40-tab]	 Extension: JSON Tools - loot - Visual Studio Code
+[2021/2/23-9:40-focus]	 C:\Program Files\ShareX\ShareX.exe
+[2021/2/23-9:40-tab]	 ShareX - Region capture
+[2021/2/23-9:40-input]	 
+[2021/2/23-9:40-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/23-9:40-tab]	 Extension: JSON Tools - loot - Visual Studio Code
+[2021/2/23-9:40-focus]	 C:\Program Files\ShareX\ShareX.exe
+[2021/2/23-9:40-tab]	 ShareX - Region capture
+[2021/2/23-9:40-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/23-9:40-tab]	 Extension: JSON Tools - loot - Visual Studio Code
+[2021/2/23-9:40-focus]	 C:\Program Files\ShareX\ShareX.exe
+[2021/2/23-9:40-tab]	 ShareX - Region capture
+[2021/2/23-9:40-input]	 
+[2021/2/23-9:40-tab]	 ShareX - Annotate menu
+[2021/2/23-9:40-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/23-9:40-tab]	 Extension: JSON Tools - loot - Visual Studio Code
+[2021/2/23-9:40-focus]	 C:\Program Files\ShareX\ShareX.exe
+[2021/2/23-9:40-tab]	 ShareX - Region capture
+[2021/2/23-9:40-input]	 
+[2021/2/23-9:40-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/23-9:40-tab]	 Extension: JSON Tools - loot - Visual Studio Code
+[2021/2/23-9:40-focus]	 C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+[2021/2/23-9:40-tab]	 #loot-code - Discord
+[2021/2/23-9:40-input]	 v
+[2021/2/23-9:40-input]	 
+[2021/2/23-9:40-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/23-9:40-tab]	 Extension: JSON Tools - loot - Visual Studio Code
+[2021/2/23-9:40-input]	 Ppre
+[2021/2/23-9:41-focus]	 
+[2021/2/23-9:41-tab]	 
+[2021/2/23-9:41-focus]	 C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+[2021/2/23-9:41-tab]	 #loot-code - Discord
+[2021/2/23-9:41-input]	 P
+[2021/2/23-9:41-input]	 ctrl-shitft-p to bring up thcomanmands promptafter installing: 
+[2021/2/23-9:41-input]	  (this is super user
+[2021/2/23-9:41-input]	 ```
+[2021/2/23-9:41-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/23-9:41-tab]	 Extension: JSON Tools - loot - Visual Studio Code
+[2021/2/23-9:41-input]	 
+[2021/2/23-9:41-focus]	 C:\Program Files\ShareX\ShareX.exe
+[2021/2/23-9:41-tab]	 ShareX - Region capture
+[2021/2/23-9:41-input]	 Pprett
+[2021/2/23-9:41-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/23-9:41-tab]	 Extension: JSON Tools - loot - Visual Studio Code
+[2021/2/23-9:41-focus]	 
+[2021/2/23-9:41-tab]	 
+[2021/2/23-9:41-focus]	 C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+[2021/2/23-9:41-tab]	 #loot-code - Discord
+[2021/2/23-9:41-input]	 v
+[2021/2/23-9:42-input]	 theny type type pretty
+[2021/2/23-9:42-input]	 , and hit enter (assuming you have jsonPretty JSON highlighted)
+[2021/2/23-9:42-input]	 
+[2021/2/23-9:42-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/23-9:42-tab]	 Extension: JSON Tools - loot - Visual Studio Code
+[2021/2/23-9:42-tab]	 buff.shared.ts - loot - Visual Studio Code
+[2021/2/23-9:42-input]	 p[json
+[2021/2/23-9:42-tab]	 poison.json - loot - Visual Studio Code
+[2021/2/23-9:42-input]	 Pjsonpjson
+[2021/2/23-9:42-input]	 head
+[2021/2/23-9:42-tab]	 projectile-asp-head.json - loot - Visual Studio Code
+[2021/2/23-9:42-input]	 Ppre
+[2021/2/23-9:42-tab]	 ● projectile-asp-head.json - loot - Visual Studio Code
+[2021/2/23-9:42-input]	 
+[2021/2/23-9:42-tab]	 Visual Studio Code
+[2021/2/23-9:42-tab]	 poison.json - loot - Visual Studio Code
+[2021/2/23-9:43-tab]	 buff.shared.ts - loot - Visual Studio Code
+[2021/2/23-9:43-focus]	 C:\Program Files\ConEmu\ConEmu64.exe
+[2021/2/23-9:43-tab]	 MINGW64:/c/Projects/loot
+[2021/2/23-9:43-input]	  
+[2021/2/23-9:43-focus]	 
+[2021/2/23-9:43-tab]	 
+[2021/2/23-9:43-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/23-9:43-tab]	 ● notes.md - Notes - Visual Studio Code
+[2021/2/23-9:43-input]	 adding debug sringtingrinring for debugging status effects
+[2021/2/23-9:43-focus]	 
+[2021/2/23-9:43-tab]	 
+[2021/2/23-9:43-focus]	 C:\Program Files\ConEmu\ConEmu64.exe
+[2021/2/23-9:43-tab]	 MINGW64:/c/Projects/loot
+[2021/2/23-9:43-input]	  
+[2021/2/23-9:43-input]	  
+[2021/2/23-9:43-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/23-9:43-tab]	 ● notes.md - Notes - Visual Studio Code
+[2021/2/23-9:43-focus]	 C:\Program Files\ConEmu\ConEmu64.exe
+[2021/2/23-9:43-tab]	 MINGW64:/c/Projects/loot
+[2021/2/23-9:43-input]	 implemented chill (very close to shock
+[2021/2/23-9:44-input]	        
+[2021/2/23-9:44-input]	  
+[2021/2/23-9:44-input]	  q
+[2021/2/23-9:44-input]	 git commit -amgit add .
+[2021/2/23-9:44-input]	 git commit -m 
+[2021/2/23-9:44-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/23-9:44-tab]	 ● notes.md - Notes - Visual Studio Code
+[2021/2/23-9:44-clip]	 removing stacks directly for rolling stacks
+adding testing data for elemental hits
+adding ChilledResist and StunResist buffs
+adding debug string for debugging status effects
+implemented chill (very close to shock)
+[2021/2/23-9:44-focus]	 C:\Program Files\ConEmu\ConEmu64.exe
+[2021/2/23-9:44-tab]	 MINGW64:/c/Projects/loot
+[2021/2/23-9:44-input]	 c'
+[2021/2/23-9:44-input]	 
+[2021/2/23-9:44-input]	 zc
+[2021/2/23-9:44-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/23-9:44-tab]	 ● notes.md - Notes - Visual Studio Code
+[2021/2/23-9:44-input]	 got cit cmomit ommit -m '
+[2021/2/23-9:45-clip]	 -removing stacks directly for rolling stacks
+
+[2021/2/23-9:45-focus]	 C:\Program Files\ConEmu\ConEmu64.exe
+[2021/2/23-9:45-tab]	 MINGW64:/c/Projects/loot
+[2021/2/23-9:45-input]	 -z-----c
+[2021/2/23-9:45-focus]	 
+[2021/2/23-9:45-tab]	 
+[2021/2/23-9:45-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/23-9:45-tab]	 ● notes.md - Notes - Visual Studio Code
+[2021/2/23-9:45-input]	 
+[2021/2/23-9:45-clip]	 -adding testing data for elemental hits
+
+[2021/2/23-9:45-focus]	 C:\Program Files\ConEmu\ConEmu64.exe
+[2021/2/23-9:45-tab]	 MINGW64:/c/Projects/loot
+[2021/2/23-9:45-input]	 c
+[2021/2/23-9:45-focus]	 
+[2021/2/23-9:45-tab]	 
+[2021/2/23-9:45-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/23-9:45-tab]	 ● notes.md - Notes - Visual Studio Code
+[2021/2/23-9:45-input]	 
+[2021/2/23-9:45-clip]	 -adding ChilledResist and StunResist buffs
+
+[2021/2/23-9:45-focus]	 C:\Program Files\ConEmu\ConEmu64.exe
+[2021/2/23-9:45-tab]	 MINGW64:/c/Projects/loot
+[2021/2/23-9:45-input]	 cv
+[2021/2/23-9:45-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/23-9:45-tab]	 ● notes.md - Notes - Visual Studio Code
+[2021/2/23-9:45-focus]	 C:\Program Files\ConEmu\ConEmu64.exe
+[2021/2/23-9:45-tab]	 MINGW64:/c/Projects/loot
+[2021/2/23-9:45-input]	 cv
+[2021/2/23-9:45-tab]	 npm
+[2021/2/23-9:45-tab]	 MINGW64:/c/Projects/loot
+[2021/2/23-9:45-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/23-9:45-tab]	 ● notes.md - Notes - Visual Studio Code
+[2021/2/23-9:45-clip]	 -adding debug string for debugging status effects
+
+[2021/2/23-9:45-focus]	 
+[2021/2/23-9:45-tab]	 
+[2021/2/23-9:45-focus]	 C:\Program Files\ConEmu\ConEmu64.exe
+[2021/2/23-9:45-tab]	 MINGW64:/c/Projects/loot
+[2021/2/23-9:45-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/23-9:45-tab]	 ● notes.md - Notes - Visual Studio Code
+[2021/2/23-9:45-input]	 cv
+[2021/2/23-9:45-clip]	 -implemented chill (very close to shock)
+
+[2021/2/23-9:45-focus]	 C:\Program Files\ConEmu\ConEmu64.exe
+[2021/2/23-9:45-tab]	 MINGW64:/c/Projects/loot
+[2021/2/23-9:45-tab]	 npm
+[2021/2/23-9:45-input]	 cv
+[2021/2/23-9:45-tab]	 MINGW64:/c/Projects/loot
+[2021/2/23-9:45-input]	 '
+[2021/2/23-9:45-input]	 '
+[2021/2/23-9:45-input]	 
+[2021/2/23-9:46-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/23-9:46-tab]	 ● notes.md - Notes - Visual Studio Code
+[2021/2/23-9:46-focus]	 C:\Program Files\ConEmu\ConEmu64.exe
+[2021/2/23-9:46-tab]	 MINGW64:/c/Projects/loot
+[2021/2/23-9:46-input]	 there are no enemies that hdo these stauttus efectfects woith proc chance
+[2021/2/23-9:46-input]	 git push
+[2021/2/23-9:46-input]	 
+[2021/2/23-9:46-tab]	 npm
+[2021/2/23-9:46-tab]	 MINGW64:/c/Projects/loot
+[2021/2/23-9:46-tab]	 npm
+[2021/2/23-9:46-focus]	 
+[2021/2/23-9:46-tab]	 
+[2021/2/23-9:46-focus]	 C:\Program Files\Mozilla Firefox\firefox.exe
+[2021/2/23-9:46-tab]	 LOOT - Character Stat Model / Elemental Damage / Projectile Behavior / Formulas - Google Docs — Mozilla Firefox
+[2021/2/23-9:46-tab]	 Mozilla Firefox
+[2021/2/23-9:46-tab]	 BitfoxGames/Loot.io: It's a video game about loot worms — Mozilla Firefox
+[2021/2/23-9:46-tab]	 Mozilla Firefox
+[2021/2/23-9:46-tab]	 Comparing alpha...elemental-damage · BitfoxGames/Loot.io — Mozilla Firefox
+[2021/2/23-9:47-focus]	 C:\Program Files\ConEmu\ConEmu64.exe
+[2021/2/23-9:47-tab]	 MINGW64:/c/Projects/loot
+[2021/2/23-9:47-input]	 git ff alpha
+[2021/2/23-9:47-input]	 
+[2021/2/23-9:47-input]	 git merge alpha
+[2021/2/23-9:47-input]	 
+[2021/2/23-9:47-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/23-9:47-tab]	 buff.shared.ts - loot - Visual Studio Code
+[2021/2/23-9:47-tab]	 player.server.ts - loot - Visual Studio Code
+[2021/2/23-9:47-input]	 F<<<<
+[2021/2/23-9:47-tab]	 ● player.server.ts - loot - Visual Studio Code
+[2021/2/23-9:47-tab]	 player.server.ts - loot - Visual Studio Code
+[2021/2/23-9:47-focus]	 C:\Program Files\ConEmu\ConEmu64.exe
+[2021/2/23-9:47-tab]	 MINGW64:/c/Projects/loot
+[2021/2/23-9:47-input]	 s
+[2021/2/23-9:47-tab]	 npm
+[2021/2/23-9:47-tab]	 MINGW64:/c/Projects/loot
+[2021/2/23-9:47-input]	 cccgit commit
+[2021/2/23-9:47-input]	 
+[2021/2/23-9:47-input]	 gs
+[2021/2/23-9:47-input]	 git add .
+[2021/2/23-9:47-input]	 git
+[2021/2/23-9:48-input]	 
+[2021/2/23-9:48-focus]	 
+[2021/2/23-9:48-tab]	 
+[2021/2/23-9:48-focus]	 C:\Program Files\Mozilla Firefox\firefox.exe
+[2021/2/23-9:48-tab]	 Comparing alpha...elemental-damage · BitfoxGames/Loot.io — Mozilla Firefox
+[2021/2/23-9:48-tab]	 Mozilla Firefox
+[2021/2/23-9:48-tab]	 Facebook — Mozilla Firefox
+[2021/2/23-9:48-input]	 f
+[2021/2/23-9:48-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/23-9:48-tab]	 COMMIT_EDITMSG - loot - Visual Studio Code
+[2021/2/23-9:48-tab]	 player.server.ts - loot - Visual Studio Code
+[2021/2/23-9:48-focus]	 C:\Program Files\ConEmu\ConEmu64.exe
+[2021/2/23-9:48-tab]	 MINGW64:/c/Projects/loot
+[2021/2/23-9:48-input]	 
+[2021/2/23-9:48-input]	 
+[2021/2/23-9:48-tab]	 npm
+[2021/2/23-9:48-input]	 
+[2021/2/23-9:49-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/23-9:49-tab]	 player.server.ts - loot - Visual Studio Code
+[2021/2/23-9:49-focus]	 C:\Program Files\Mozilla Firefox\firefox.exe
+[2021/2/23-9:49-tab]	 Facebook — Mozilla Firefox
+[2021/2/23-9:51-tab]	 Comparing alpha...elemental-damage · BitfoxGames/Loot.io — Mozilla Firefox
+[2021/2/23-9:52-clip]	 //const damageType = damageInstanc
+[2021/2/23-9:52-input]	 c
+[2021/2/23-9:52-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/23-9:52-tab]	 player.server.ts - loot - Visual Studio Code
+[2021/2/23-9:52-tab]	 collision-system.ts - loot - Visual Studio Code
+[2021/2/23-9:52-input]	 Fv
+[2021/2/23-9:52-tab]	 ● collision-system.ts - loot - Visual Studio Code
+[2021/2/23-9:52-input]	 
+[2021/2/23-9:52-input]	 kc
+[2021/2/23-9:52-input]	 // keeping aroun d for now
+[2021/2/23-9:52-input]	 const
+[2021/2/23-9:52-input]	 kc
+[2021/2/23-9:52-input]	 constconst
+[2021/2/23-9:52-focus]	 C:\Program Files\Mozilla Firefox\firefox.exe
+[2021/2/23-9:52-tab]	 Comparing alpha...elemental-damage · BitfoxGames/Loot.io — Mozilla Firefox
+[2021/2/23-9:53-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/23-9:53-tab]	 ● collision-system.ts - loot - Visual Studio Code
+[2021/2/23-9:53-input]	 pdebugcon
+[2021/2/23-9:53-tab]	 debug-config.ts - loot - Visual Studio Code
+[2021/2/23-9:53-input]	 
+[2021/2/23-9:53-tab]	 ● debug-config.ts - loot - Visual Studio Code
+[2021/2/23-9:53-input]	 false
+[2021/2/23-9:53-input]	 Off
+[2021/2/23-9:53-focus]	 
+[2021/2/23-9:53-tab]	 
+[2021/2/23-9:53-focus]	 C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+[2021/2/23-9:53-tab]	 #loot-code - Discord
+[2021/2/23-9:53-tab]	 #loot-qa - Discord
+[2021/2/23-9:53-focus]	 
+[2021/2/23-9:53-tab]	 
+[2021/2/23-9:53-focus]	 C:\Program Files\Mozilla Firefox\firefox.exe
+[2021/2/23-9:53-tab]	 Comparing alpha...elemental-damage · BitfoxGames/Loot.io — Mozilla Firefox
+[2021/2/23-9:55-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/23-9:55-tab]	 ● debug-config.ts - loot - Visual Studio Code
+[2021/2/23-9:55-tab]	 debug-config.ts - loot - Visual Studio Code
+[2021/2/23-9:55-input]	 ks
+[2021/2/23-9:55-focus]	 C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[2021/2/23-9:55-tab]	 about:blank - Google Chrome
+[2021/2/23-9:55-tab]	 Loot.io - Google Chrome
+[2021/2/23-9:55-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/23-9:55-tab]	 debug-config.ts - loot - Visual Studio Code
+[2021/2/23-9:55-focus]	 C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[2021/2/23-9:55-tab]	 Loot.io - Google Chrome
+[2021/2/23-9:55-input]	 ddddddddddddddddddddddddddddddddddddssdsadt
+[2021/2/23-9:55-input]	 /onload
+[2021/2/23-9:55-input]	 
+[2021/2/23-9:56-input]	 ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddaadddsssssssssssasdsawdwdaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaasddddddddddddddddddddddddddddddddddddddddddddddddddddwaaaaaaaaaaaaaaaaaaaaaaaaaaaaaasssssssssssssssddddddddddwsaaaaaaaa
+[2021/2/23-9:56-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/23-9:56-tab]	 debug-config.ts - loot - Visual Studio Code
+[2021/2/23-9:56-focus]	 C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[2021/2/23-9:56-tab]	 Loot.io - Google Chrome
+[2021/2/23-9:57-input]	 saaaaaaaddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddaadddssaaaaaaaaaaaawddddddddddddddddddddddddddddddddswwwwwwwwwwwwwwwaaaaaaaaaaaasssssssssssssssssssssssssdwdddddddddsaddddsawddddddddddwsaasawddwwwssssssssssswwawwwwwwwwwwsdddddddddddawsdawwwwwwwwwwwwwwwwwwwwwwwwwwaaaaaaaaaaaaaaaaaaaaaaaafwfwwwsfffd
+[2021/2/23-9:57-input]	 ffffff
+[2021/2/23-9:57-input]	 
+[2021/2/23-9:57-input]	 
+[2021/2/23-9:57-input]	 1a2s#D$F
+[2021/2/23-9:57-tab]	 Save password?
+[2021/2/23-9:57-tab]	 Loot.io - Google Chrome
+[2021/2/23-9:58-input]	 dddddddsssssssssssssssssssssssssssssssssssssssaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaasawwwwwwwwwwwwwwwwwwwsdadaddaf
+[2021/2/23-9:58-input]	 d
+[2021/2/23-9:58-input]	 adds
+[2021/2/23-9:58-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/23-9:58-tab]	 debug-config.ts - loot - Visual Studio Code
+[2021/2/23-9:59-focus]	 C:\Program Files\ConEmu\ConEmu64.exe
+[2021/2/23-9:59-tab]	 MINGW64:/c/Projects/loot
+[2021/2/23-9:59-input]	 gs
+[2021/2/23-9:59-input]	 
+[2021/2/23-9:59-input]	 gd
+[2021/2/23-9:59-input]	   qgit commit -am 'code cleanup'
+[2021/2/23-9:59-input]	 
+[2021/2/23-9:59-input]	 git push
+[2021/2/23-9:59-focus]	 C:\Program Files\Mozilla Firefox\firefox.exe
+[2021/2/23-9:59-tab]	 Comparing alpha...elemental-damage · BitfoxGames/Loot.io — Mozilla Firefox
+[2021/2/23-9:59-input]	 
+[2021/2/23-9:59-input]	 fconsole.lo
+[2021/2/23-9:59-input]	 
+[2021/2/23-9:59-input]	 
+[2021/2/23-9:59-input]	 
+[2021/2/23-9:59-input]	 
+[2021/2/23-9:59-input]	 
+[2021/2/23-9:59-input]	 
+[2021/2/23-9:59-input]	 
+[2021/2/23-9:59-input]	 
+[2021/2/23-9:59-input]	 
+[2021/2/23-9:59-input]	 
+[2021/2/23-10:0-focus]	 
+[2021/2/23-10:0-tab]	 
+[2021/2/23-10:0-focus]	 C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+[2021/2/23-10:0-tab]	 #loot-qa - Discord
+[2021/2/23-10:0-tab]	 #loot-code - Discord
+[2021/2/23-10:0-focus]	 C:\Program Files\Mozilla Firefox\firefox.exe
+[2021/2/23-10:0-tab]	 Mozilla Firefox
+[2021/2/23-10:0-tab]	 [SOTI-2288] Run Ended - World Tier Completed UI Menu Hookup - Sculpin QA — Mozilla Firefox
+[2021/2/23-10:0-focus]	 
+[2021/2/23-10:0-tab]	 
+[2021/2/23-10:0-focus]	 C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+[2021/2/23-10:0-tab]	 #loot-code - Discord
+[2021/2/23-10:0-focus]	 
+[2021/2/23-10:0-tab]	 
+[2021/2/23-10:0-focus]	 C:\Program Files\Mozilla Firefox\firefox.exe
+[2021/2/23-10:0-tab]	 [SOTI-2288] Run Ended - World Tier Completed UI Menu Hookup - Sculpin QA — Mozilla Firefox
+[2021/2/23-10:0-input]	 Dan mentioned
+[2021/2/23-10:1-tab]	 Comparing alpha...elemental-damage · BitfoxGames/Loot.io — Mozilla Firefox
+[2021/2/23-10:1-tab]	 [SOTI-2288] Run Ended - World Tier Completed UI Menu Hookup - Sculpin QA — Mozilla Firefox
+[2021/2/23-10:1-tab]	 Mozilla Firefox
+[2021/2/23-10:1-tab]	 Agile Board - Sculpin QA — Mozilla Firefox
+[2021/2/23-10:1-tab]	 SOTI board - Agile Board - Sculpin QA — Mozilla Firefox
+[2021/2/23-10:1-focus]	 C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+[2021/2/23-10:1-tab]	 #loot-code - Discord
+[2021/2/23-10:1-input]	  that stat part was cut, but
+[2021/2/23-10:1-input]	  we already have that info right?
+[2021/2/23-10:1-input]	  (and maMallory said the 
+[2021/2/23-10:2-input]	 mentioned the stats were justjust added recently and the'ry're in). I naverever 
+[2021/2/23-10:2-input]	 
+[2021/2/23-10:2-input]	 they shouldb e  be part of the mesc screen
+[2021/2/23-10:2-input]	 
+[2021/2/23-10:3-input]	 if it's not much work I guess keep it? (nunless there was another reason Dan wanted it cut)
+[2021/2/23-10:3-input]	 
+[2021/2/23-10:3-focus]	 C:\Program Files\Mozilla Firefox\firefox.exe
+[2021/2/23-10:3-tab]	 Comparing alpha...elemental-damage · BitfoxGames/Loot.io — Mozilla Firefox
+[2021/2/23-10:3-tab]	 SOTI board - Agile Board - Sculpin QA — Mozilla Firefox
+[2021/2/23-10:4-tab]	 Mozilla Firefox
+[2021/2/23-10:4-tab]	 UI Progress - Google Slides — Mozilla Firefox
+[2021/2/23-10:4-focus]	 C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+[2021/2/23-10:4-tab]	 #loot-code - Discord
+[2021/2/23-10:4-input]	 actually I'm thinking about hte Player Profile screen
+[2021/2/23-10:4-input]	 ... ignore everything I've said. There's been no mention of 
+[2021/2/23-10:4-input]	 cutting the stats on this screen
+[2021/2/23-10:4-input]	 
+[2021/2/23-10:5-focus]	 C:\Program Files\Mozilla Firefox\firefox.exe
+[2021/2/23-10:5-tab]	 Inbox - michael.schurman@gmail.com - Gmail — Mozilla Firefox
+[2021/2/23-10:5-tab]	 [JIRA] (SOTI-2092) Add debuffing status effects for elemental damage (ignite, chill, shock, poison, bleed) - michael.schurman@otherocean.com - Other Ocean Group, Inc. Mail — Mozilla Firefox
+[2021/2/23-10:5-focus]	 C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+[2021/2/23-10:5-tab]	 #loot-code - Discord
+[2021/2/23-10:5-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/23-10:5-tab]	 debug-config.ts - loot - Visual Studio Code
+[2021/2/23-10:5-focus]	 
+[2021/2/23-10:5-tab]	 
+[2021/2/23-10:5-focus]	 C:\Program Files\Mozilla Firefox\firefox.exe
+[2021/2/23-10:5-tab]	 [JIRA] (SOTI-2092) Add debuffing status effects for elemental damage (ignite, chill, shock, poison, bleed) - michael.schurman@otherocean.com - Other Ocean Group, Inc. Mail — Mozilla Firefox
+[2021/2/23-10:5-tab]	 Comparing alpha...elemental-damage · BitfoxGames/Loot.io — Mozilla Firefox
+[2021/2/23-10:5-tab]	 UI Progress - Google Slides — Mozilla Firefox
+[2021/2/23-10:5-tab]	 Agile Board - Sculpin QA — Mozilla Firefox
+[2021/2/23-10:5-tab]	 SOTI board - Agile Board - Sculpin QA — Mozilla Firefox
+[2021/2/23-10:6-tab]	 Comparing alpha...elemental-damage · BitfoxGames/Loot.io — Mozilla Firefox
+[2021/2/23-10:6-input]	 Debuff Status Effects
+[2021/2/23-10:6-input]	 I[mplenetting status effects and visual fx for:
+[2021/2/23-10:6-input]	 
+[2021/2/23-10:6-focus]	 
+[2021/2/23-10:6-tab]	 
+[2021/2/23-10:6-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/23-10:6-tab]	 debug-config.ts - loot - Visual Studio Code
+[2021/2/23-10:6-tab]	 elemental-debug.ts - loot - Visual Studio Code
+[2021/2/23-10:6-focus]	 C:\Program Files\Mozilla Firefox\firefox.exe
+[2021/2/23-10:6-tab]	 Comparing alpha...elemental-damage · BitfoxGames/Loot.io — Mozilla Firefox
+[2021/2/23-10:6-input]	 * bleed
+[2021/2/23-10:6-input]	 
+[2021/2/23-10:6-input]	 ignite
+[2021/2/23-10:6-input]	 chill
+[2021/2/23-10:6-input]	 shock
+[2021/2/23-10:6-input]	 poison
+[2021/2/23-10:7-input]	 me
+[2021/2/23-10:7-tab]	 Debuff Status Effects by MikeSchurman · Pull Request #711 · BitfoxGames/Loot.io — Mozilla Firefox
+[2021/2/23-10:7-focus]	 
+[2021/2/23-10:7-tab]	 
+[2021/2/23-10:7-focus]	 C:\Windows\explorer.exe
+[2021/2/23-10:7-focus]	 C:\Program Files\ConEmu\ConEmu64.exe
+[2021/2/23-10:7-tab]	 MINGW64:/c/Projects/loot
+[2021/2/23-10:7-focus]	 C:\Program Files\Mozilla Firefox\firefox.exe
+[2021/2/23-10:7-tab]	 Debuff Status Effects by MikeSchurman · Pull Request #711 · BitfoxGames/Loot.io — Mozilla Firefox
+[2021/2/23-10:7-focus]	 C:\Program Files\ConEmu\ConEmu64.exe
+[2021/2/23-10:7-tab]	 MINGW64:/c/Projects/loot
+[2021/2/23-10:7-focus]	 C:\Program Files\Mozilla Firefox\firefox.exe
+[2021/2/23-10:7-tab]	 Debuff Status Effects by MikeSchurman · Pull Request #711 · BitfoxGames/Loot.io — Mozilla Firefox
+[2021/2/23-10:7-focus]	 C:\Program Files\ConEmu\ConEmu64.exe
+[2021/2/23-10:7-tab]	 MINGW64:/c/Projects/loot
+[2021/2/23-10:7-focus]	 C:\Windows\explorer.exe
+[2021/2/23-10:7-tab]	 Program Manager
+[2021/2/23-10:7-focus]	 
+[2021/2/23-10:7-tab]	 
+[2021/2/23-10:7-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/23-10:7-tab]	 elemental-debug.ts - loot - Visual Studio Code
+[2021/2/23-10:8-focus]	 
+[2021/2/23-10:8-tab]	 
+[2021/2/23-10:8-focus]	 C:\Program Files\Mozilla Firefox\firefox.exe
+[2021/2/23-10:8-tab]	 Debuff Status Effects by MikeSchurman · Pull Request #711 · BitfoxGames/Loot.io — Mozilla Firefox
+[2021/2/23-10:8-tab]	 SOTI board - Agile Board - Sculpin QA — Mozilla Firefox
+[2021/2/23-10:8-focus]	 
+[2021/2/23-10:8-tab]	 
+[2021/2/23-10:8-focus]	 C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+[2021/2/23-10:8-tab]	 #loot-code - Discord
+[2021/2/23-10:8-focus]	 
+[2021/2/23-10:8-tab]	 
+[2021/2/23-10:8-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/23-10:8-tab]	 ● notes.md - Notes - Visual Studio Code
+[2021/2/23-10:8-clip]	 before defensive mitigation
+[2021/2/23-10:8-focus]	 
+[2021/2/23-10:8-tab]	 
+[2021/2/23-10:8-focus]	 C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+[2021/2/23-10:8-tab]	 #loot-code - Discord
+[2021/2/23-10:8-input]	 c
+[2021/2/23-10:8-focus]	 C:\Program Files\Mozilla Firefox\firefox.exe
+[2021/2/23-10:8-tab]	 SOTI board - Agile Board - Sculpin QA — Mozilla Firefox
+[2021/2/23-10:8-focus]	 C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+[2021/2/23-10:8-tab]	 #loot-code - Discord
+[2021/2/23-10:8-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/23-10:8-tab]	 elemental-debug.ts - loot - Visual Studio Code
+[2021/2/23-10:8-input]	 Ffireres
+[2021/2/23-10:8-tab]	 enemy.server.ts - loot - Visual Studio Code
+[2021/2/23-10:8-tab]	 take-damage.ts - loot - Visual Studio Code
+[2021/2/23-10:9-focus]	 C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+[2021/2/23-10:9-tab]	 #loot-code - Discord
+[2021/2/23-10:9-input]	 tliam
+[2021/2/23-10:9-tab]	 @Loquacious - Discord
+[2021/2/23-10:9-input]	 a few more squestions... (almost done)
+[2021/2/23-10:9-input]	 "v" 
+[2021/2/23-10:9-focus]	 
+[2021/2/23-10:9-tab]	 
+[2021/2/23-10:9-focus]	 C:\Program Files\Mozilla Firefox\firefox.exe
+[2021/2/23-10:9-tab]	 SOTI board - Agile Board - Sculpin QA — Mozilla Firefox
+[2021/2/23-10:9-input]	 
+[2021/2/23-10:9-tab]	 Debuff Status Effects by MikeSchurman · Pull Request #711 · BitfoxGames/Loot.io — Mozilla Firefox
+[2021/2/23-10:9-tab]	 LOOT - Character Stat Model / Elemental Damage / Projectile Behavior / Formulas - Google Docs — Mozilla Firefox
+[2021/2/23-10:9-tab]	 LOOT - Elemental CC Behaviours - Google Docs — Mozilla Firefox
+[2021/2/23-10:9-tab]	 LOOT - Character Stat Model / Elemental Damage / Projectile Behavior / Formulas - Google Docs — Mozilla Firefox
+[2021/2/23-10:9-clip]	 Applies Buff stacks equal to 25% of the physical damage dealt before defensive mitigation
+
+[2021/2/23-10:9-focus]	 C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+[2021/2/23-10:9-tab]	 @Loquacious - Discord
+[2021/2/23-10:9-input]	 c
+[2021/2/23-10:9-input]	 1) Bleed says: "v"`
+[2021/2/23-10:10-focus]	 C:\Program Files\Mozilla Firefox\firefox.exe
+[2021/2/23-10:10-tab]	 LOOT - Character Stat Model / Elemental Damage / Projectile Behavior / Formulas - Google Docs — Mozilla Firefox
+[2021/2/23-10:10-input]	 `What does `before defensive mitigation` mean?
+[2021/2/23-10:10-focus]	 C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+[2021/2/23-10:10-tab]	 @Loquacious - Discord
+[2021/2/23-10:10-input]	 
+[2021/2/23-10:10-focus]	 
+[2021/2/23-10:10-tab]	 
+[2021/2/23-10:10-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/23-10:10-tab]	 take-damage.ts - loot - Visual Studio Code
+[2021/2/23-10:10-focus]	 
+[2021/2/23-10:10-tab]	 
+[2021/2/23-10:10-focus]	 C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+[2021/2/23-10:10-tab]	 @Loquacious - Discord
+[2021/2/23-10:10-input]	 
+[2021/2/23-10:10-focus]	 
+[2021/2/23-10:10-tab]	 
+[2021/2/23-10:10-focus]	 C:\Program Files\Mozilla Firefox\firefox.exe
+[2021/2/23-10:10-tab]	 LOOT - Character Stat Model / Elemental Damage / Projectile Behavior / Formulas - Google Docs — Mozilla Firefox
+[2021/2/23-10:10-focus]	 C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+[2021/2/23-10:10-tab]	 @Loquacious - Discord
+[2021/2/23-10:10-tab]	 @Dave - Discord
+[2021/2/23-10:10-focus]	 C:\Program Files\Mozilla Firefox\firefox.exe
+[2021/2/23-10:10-tab]	 LOOT - Character Stat Model / Elemental Damage / Projectile Behavior / Formulas - Google Docs — Mozilla Firefox
+[2021/2/23-10:10-focus]	 C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+[2021/2/23-10:10-tab]	 @Dave - Discord
+[2021/2/23-10:10-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/23-10:10-tab]	 take-damage.ts - loot - Visual Studio Code
+[2021/2/23-10:10-input]	 Fprojectilpserverproj
+[2021/2/23-10:10-tab]	 projectile.server.ts - loot - Visual Studio Code
+[2021/2/23-10:11-clip]	 onHitFn
+[2021/2/23-10:11-input]	 fonhitc
+[2021/2/23-10:11-focus]	 C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+[2021/2/23-10:11-tab]	 @Dave - Discord
+[2021/2/23-10:11-input]	 projectiles have a `v`... I think we were just going tos pa spawn an enemy
+[2021/2/23-10:11-input]	  using that callback. Sec let m, let me check if Dan said anything else
+[2021/2/23-10:11-input]	 tdan
+[2021/2/23-10:11-tab]	 @Polatrite - Discord
+[2021/2/23-10:11-input]	 vzv
+[2021/2/23-10:11-input]	 
+[2021/2/23-10:11-focus]	 C:\Program Files\ShareX\ShareX.exe
+[2021/2/23-10:11-tab]	 ShareX - Region capture
+[2021/2/23-10:12-focus]	 C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+[2021/2/23-10:12-tab]	 @Polatrite - Discord
+[2021/2/23-10:12-input]	 tdan
+[2021/2/23-10:12-tab]	 @Dave - Discord
+[2021/2/23-10:12-input]	 v
+[2021/2/23-10:12-input]	 here are dan's thoughts
+[2021/2/23-10:12-input]	 
+[2021/2/23-10:12-input]	 
+[2021/2/23-10:12-tab]	 #loot-code - Discord
+[2021/2/23-10:12-tab]	 @Loquacious - Discord
+[2021/2/23-10:13-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/23-10:13-tab]	 projectile.server.ts - loot - Visual Studio Code
+[2021/2/23-10:13-tab]	 take-damage.ts - loot - Visual Studio Code
+[2021/2/23-10:13-clip]	 	physicalDamage *= getDefenseMod(entity.statList, 'defense')
+	fireDamage *= getDefenseMod(entity.statList, 'fireResist')
+	iceDamage *= getDefenseMod(entity.statList, 'iceResist')
+	lightningDamage *= getDefenseMod(entity.statList, 'lightningResist')
+	poisonDamage *= getDefenseMod(entity.statList, 'poisonResist')
+
+[2021/2/23-10:13-focus]	 C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+[2021/2/23-10:13-tab]	 @Loquacious - Discord
+[2021/2/23-10:13-input]	 cfor phsysical, we have a `defense` stat:
+[2021/2/23-10:13-input]	 v
+[2021/2/23-10:13-input]	 
+[2021/2/23-10:13-focus]	 
+[2021/2/23-10:13-tab]	 
+[2021/2/23-10:13-focus]	 C:\Program Files\Git\usr\bin\mintty.exe
+[2021/2/23-10:13-tab]	 MINGW64:/c/Projects/quick/log
+[2021/2/23-10:13-focus]	 
+[2021/2/23-10:13-tab]	 
+[2021/2/23-10:13-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/23-10:13-tab]	 ● notes.md - Notes - Visual Studio Code
+[2021/2/23-10:13-focus]	 
+[2021/2/23-10:13-tab]	 
+[2021/2/23-10:13-focus]	 C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+[2021/2/23-10:13-tab]	 @Loquacious - Discord
+[2021/2/23-10:13-focus]	 
+[2021/2/23-10:13-tab]	 
+[2021/2/23-10:13-focus]	 C:\Program Files\Mozilla Firefox\firefox.exe
+[2021/2/23-10:13-tab]	 LOOT - Character Stat Model / Elemental Damage / Projectile Behavior / Formulas - Google Docs — Mozilla Firefox
+[2021/2/23-10:13-focus]	 C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+[2021/2/23-10:13-tab]	 @Loquacious - Discord
+[2021/2/23-10:14-input]	 so we'd be using the value *before* these get applied
+[2021/2/23-10:14-input]	 
+[2021/2/23-10:14-tab]	 #loot-code - Discord
+[2021/2/23-10:14-input]	 tliam
+[2021/2/23-10:14-tab]	 @Loquacious - Discord
+[2021/2/23-10:14-input]	 
+[2021/2/23-10:14-focus]	 
+[2021/2/23-10:14-tab]	 
+[2021/2/23-10:14-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/23-10:14-tab]	 take-damage.ts - loot - Visual Studio Code
+[2021/2/23-10:14-clip]	 physicalDamage
+[2021/2/23-10:14-input]	 c
+[2021/2/23-10:15-input]	 pcollis
+[2021/2/23-10:15-tab]	 collision-system.ts - loot - Visual Studio Code
+[2021/2/23-10:15-input]	 
+[2021/2/23-10:15-focus]	 
+[2021/2/23-10:15-tab]	 
+[2021/2/23-10:15-focus]	 C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+[2021/2/23-10:15-tab]	 @Loquacious - Discord
+[2021/2/23-10:15-tab]	 #loot-code - Discord
+[2021/2/23-10:15-tab]	 #loot-notifications - Discord
+[2021/2/23-10:16-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/23-10:16-tab]	 collision-system.ts - loot - Visual Studio Code
+[2021/2/23-10:16-focus]	 C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+[2021/2/23-10:16-tab]	 #loot-notifications - Discord
+[2021/2/23-10:16-input]	 tliam
+[2021/2/23-10:16-tab]	 @Loquacious - Discord
+[2021/2/23-10:16-input]	 2) I don't think we have any enemies that apply 
+[2021/2/23-10:16-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/23-10:16-tab]	 collision-system.ts - loot - Visual Studio Code
+[2021/2/23-10:17-input]	 pasp
+[2021/2/23-10:17-tab]	 asp.ts - loot - Visual Studio Code
+[2021/2/23-10:17-input]	 fpois
+[2021/2/23-10:17-clip]	 applyBuffsOnHit
+[2021/2/23-10:17-focus]	 C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+[2021/2/23-10:17-tab]	 @Loquacious - Discord
+[2021/2/23-10:17-input]	 c
+[2021/2/23-10:17-input]	 these buffs using the pcorrocChance
+[2021/2/23-10:17-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/23-10:17-tab]	 asp.ts - loot - Visual Studio Code
+[2021/2/23-10:17-clip]	 applyBuffsOnHit: [BuffIdentifier.Poison],
+[2021/2/23-10:17-focus]	 
+[2021/2/23-10:17-tab]	 
+[2021/2/23-10:17-focus]	 C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+[2021/2/23-10:17-tab]	 @Loquacious - Discord
+[2021/2/23-10:17-input]	 . Fo rr instance asps just do: c	`v`
+[2021/2/23-10:17-input]	 which is 100%a plpl apply this affeffeststatus. Mor e of a note/future implementation?
+[2021/2/23-10:17-tab]	 @Dave - Discord
+[2021/2/23-10:17-input]	 
+[2021/2/23-10:18-input]	 not sure what he meant by *hook* htough
+[2021/2/23-10:18-input]	 th
+[2021/2/23-10:18-input]	 
+[2021/2/23-10:18-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/23-10:18-tab]	 asp.ts - loot - Visual Studio Code
+[2021/2/23-10:19-focus]	 
+[2021/2/23-10:19-tab]	 
+[2021/2/23-10:19-focus]	 C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+[2021/2/23-10:19-tab]	 @Dave - Discord
+[2021/2/23-10:19-input]	 tdan
+[2021/2/23-10:19-tab]	 @Loquacious - Discord
+[2021/2/23-10:19-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/23-10:19-tab]	 asp.ts - loot - Visual Studio Code
+[2021/2/23-10:19-focus]	 
+[2021/2/23-10:19-tab]	 
+[2021/2/23-10:19-focus]	 C:\Program Files\Git\usr\bin\mintty.exe
+[2021/2/23-10:19-tab]	 MINGW64:/c/Projects/quick/log
+[2021/2/23-10:19-focus]	 C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+[2021/2/23-10:19-tab]	 @Loquacious - Discord
+[2021/2/23-10:19-focus]	 
+[2021/2/23-10:19-tab]	 
+[2021/2/23-10:19-focus]	 C:\Program Files\ConEmu\ConEmu64.exe
+[2021/2/23-10:19-tab]	 MINGW64:/c/Projects/loot
+[2021/2/23-10:19-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/23-10:19-tab]	 asp.ts - loot - Visual Studio Code
+[2021/2/23-10:19-tab]	 collision-system.ts - loot - Visual Studio Code
+[2021/2/23-10:19-focus]	 C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+[2021/2/23-10:19-tab]	 @Loquacious - Discord
+[2021/2/23-10:20-clip]	 Mod(entity.statList, 'defen
+[2021/2/23-10:20-focus]	 
+[2021/2/23-10:20-tab]	 
+[2021/2/23-10:20-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/23-10:20-tab]	 collision-system.ts - loot - Visual Studio Code
+[2021/2/23-10:20-tab]	 take-damage.ts - loot - Visual Studio Code
+[2021/2/23-10:20-input]	 cFv
+[2021/2/23-10:20-tab]	 enemy.server.ts - loot - Visual Studio Code
+[2021/2/23-10:20-tab]	 take-damage.ts - loot - Visual Studio Code
+[2021/2/23-10:21-tab]	 enemy.server.ts - loot - Visual Studio Code
+[2021/2/23-10:21-input]	 fvf
+[2021/2/23-10:21-input]	 f
+[2021/2/23-10:21-input]	 
+[2021/2/23-10:22-input]	 
+[2021/2/23-10:22-clip]	 		const damageToDeal = getDamageToDealFromDamageSource(this, damageSource, timesHit)
+
+[2021/2/23-10:22-tab]	 collision-system.ts - loot - Visual Studio Code
+[2021/2/23-10:22-input]	 c
+[2021/2/23-10:22-input]	 f
+[2021/2/23-10:22-input]	 
+[2021/2/23-10:22-input]	 f
+[2021/2/23-10:22-input]	 
+[2021/2/23-10:23-input]	 ftakedam
+[2021/2/23-10:23-focus]	 
+[2021/2/23-10:23-tab]	 
+[2021/2/23-10:23-focus]	 C:\Program Files\Mozilla Firefox\firefox.exe
+[2021/2/23-10:23-tab]	 LOOT - Character Stat Model / Elemental Damage / Projectile Behavior / Formulas - Google Docs — Mozilla Firefox
+[2021/2/23-10:23-tab]	 Mozilla Firefox
+[2021/2/23-10:23-input]	 h
+[2021/2/23-10:23-tab]	 Hacker News — Mozilla Firefox
+[2021/2/23-10:24-tab]	 The Pretty JSON Revolution — Mozilla Firefox
+[2021/2/23-10:28-tab]	 Inbox - michael.schurman@gmail.com - Gmail — Mozilla Firefox
+[2021/2/23-10:28-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/23-10:28-tab]	 collision-system.ts - loot - Visual Studio Code
+[2021/2/23-10:29-input]	 fonhit
+[2021/2/23-10:29-clip]	 		this.applyElementalEffects(projectile, target)
+
+[2021/2/23-10:29-tab]	 ● collision-system.ts - loot - Visual Studio Code
+[2021/2/23-10:29-input]	 x
+[2021/2/23-10:29-input]	 ftakedam
+[2021/2/23-10:29-input]	 
+[2021/2/23-10:30-input]	 v
+[2021/2/23-10:30-clip]	 entity
+[2021/2/23-10:30-input]	 cv, 
+[2021/2/23-10:30-input]	 timesHit
+[2021/2/23-10:30-input]	 , timesHit:number
+[2021/2/23-10:30-tab]	 take-damage.ts - loot - Visual Studio Code
+[2021/2/23-10:30-clip]	 getDamageToDealFromDamageSource
+[2021/2/23-10:30-tab]	 ● collision-system.ts - loot - Visual Studio Code
+[2021/2/23-10:30-input]	 c
+[2021/2/23-10:31-input]	 
+[2021/2/23-10:31-input]	 
+[2021/2/23-10:31-tab]	 take-damage.ts - loot - Visual Studio Code
+[2021/2/23-10:31-input]	 v()
+[2021/2/23-10:31-clip]	 export function getDamageToDealFromDamageSource(entity: ServerEnemy | ServerPlayer, damageSource: DamageSource, timesHit: number = 0) {
+
+[2021/2/23-10:31-input]	 c
+[2021/2/23-10:31-tab]	 ● take-damage.ts - loot - Visual Studio Code
+[2021/2/23-10:31-input]	 v}
+[2021/2/23-10:31-input]	 
+[2021/2/23-10:32-clip]	 getDamageToDealFromDamageSource2
+[2021/2/23-10:32-input]	 2c
+[2021/2/23-10:32-input]	 	v(entity, 
+[2021/2/23-10:32-clip]	 {
+		physicalDamage,
+		fireDamage,
+		iceDamage,
+		lightningDamage,
+		poisonDamage,
+		rawDamage,
+[2021/2/23-10:32-input]	 c
+[2021/2/23-10:32-input]	 let = v} = 
+[2021/2/23-10:32-clip]	 	return {
+		physicalDamage,
+		fireDamage,
+		iceDamage,
+		lightningDamage,
+		poisonDamage,
+		rawDamage,
+		isCritical: damageInst.isCritical,
+	}
+[2021/2/23-10:32-input]	 c
+[2021/2/23-10:32-input]	 v
+[2021/2/23-10:32-input]	 
+[2021/2/23-10:32-input]	 
+[2021/2/23-10:32-focus]	 
+[2021/2/23-10:32-tab]	 
+[2021/2/23-10:32-focus]	 C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+[2021/2/23-10:32-tab]	 @Loquacious - Discord
+[2021/2/23-10:33-tab]	 @Dave - Discord
+[2021/2/23-10:33-clip]	 onHitFn
+[2021/2/23-10:33-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/23-10:33-tab]	 ● take-damage.ts - loot - Visual Studio Code
+[2021/2/23-10:33-input]	 cFv
+[2021/2/23-10:33-focus]	 
+[2021/2/23-10:33-tab]	 
+[2021/2/23-10:33-focus]	 C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+[2021/2/23-10:33-tab]	 @Dave - Discord
+[2021/2/23-10:33-input]	 I've brought this up before, but I think things like explosive damage should happen regardless of what is htit. Hitting a prop should be the same as hitting an enemy.. IMO
+[2021/2/23-10:34-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/23-10:34-tab]	 ● take-damage.ts - loot - Visual Studio Code
+[2021/2/23-10:34-tab]	 projectile.server.ts - loot - Visual Studio Code
+[2021/2/23-10:34-focus]	 C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+[2021/2/23-10:34-tab]	 @Dave - Discord
+[2021/2/23-10:34-input]	 
+[2021/2/23-10:34-input]	 
+[2021/2/23-10:34-input]	 for ther re record, 
+[2021/2/23-10:35-input]	 I said above I was goig tng to do #2 (which diesn't diddn't use onHitFn), but your way is fine.
+[2021/2/23-10:35-input]	 
+[2021/2/23-10:35-input]	 I thin it'sk it's fine if OonHitFn is called for props, et or whatever
+[2021/2/23-10:35-input]	 
+[2021/2/23-10:35-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/23-10:35-tab]	 projectile.server.ts - loot - Visual Studio Code
+[2021/2/23-10:35-clip]	 target: ICombatant
+[2021/2/23-10:35-focus]	 C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+[2021/2/23-10:35-tab]	 @Dave - Discord
+[2021/2/23-10:35-input]	 cyou could change target from:
+[2021/2/23-10:35-input]	 `v`
+[2021/2/23-10:35-input]	 to :
+[2021/2/23-10:35-input]	 `target: {VectprorXU`Y
+[2021/2/23-10:36-input]	 if you want to, the yn you can psass in the position
+[2021/2/23-10:36-input]	 a
+[2021/2/23-10:36-tab]	 #loot-notifications - Discord
+[2021/2/23-10:36-tab]	 #loot-general - Discord
+[2021/2/23-10:36-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/23-10:36-tab]	 projectile.server.ts - loot - Visual Studio Code
+[2021/2/23-10:36-tab]	 ● take-damage.ts - loot - Visual Studio Code
+[2021/2/23-10:36-input]	  damages	, times	
+[2021/2/23-10:37-input]	 
+[2021/2/23-10:37-input]	 zz
+[2021/2/23-10:37-input]	 f
+[2021/2/23-10:37-input]	 
+[2021/2/23-10:37-input]	 PreDefense
+[2021/2/23-10:37-input]	 
+[2021/2/23-10:37-input]	 
+[2021/2/23-10:37-input]	 
+[2021/2/23-10:38-tab]	 ● collision-system.ts - loot - Visual Studio Code
+[2021/2/23-10:38-input]	 getpred	(
+[2021/2/23-10:38-input]	 damag
+[2021/2/23-10:38-input]	 projectile, 
+[2021/2/23-10:39-input]	 .
+[2021/2/23-10:39-input]	 F
+[2021/2/23-10:39-tab]	 ● take-damage.ts - loot - Visual Studio Code
+[2021/2/23-10:39-input]	 
+[2021/2/23-10:39-tab]	 ● collision-system.ts - loot - Visual Studio Code
+[2021/2/23-10:39-tab]	 ● take-damage.ts - loot - Visual Studio Code
+[2021/2/23-10:39-input]	  proj	.ectile.cgetdafgetdamgeage
+[2021/2/23-10:39-tab]	 player.server.ts - loot - Visual Studio Code
+[2021/2/23-10:39-tab]	 ● collision-system.ts - loot - Visual Studio Code
+[2021/2/23-10:40-clip]	 projectile
+[2021/2/23-10:40-tab]	 ● take-damage.ts - loot - Visual Studio Code
+[2021/2/23-10:40-input]	 c
+[2021/2/23-10:40-tab]	 ● collision-system.ts - loot - Visual Studio Code
+[2021/2/23-10:40-input]	 , timesHit
+[2021/2/23-10:40-tab]	 ● take-damage.ts - loot - Visual Studio Code
+[2021/2/23-10:40-input]	 
+[2021/2/23-10:40-input]	 
+[2021/2/23-10:40-tab]	 ● collision-system.ts - loot - Visual Studio Code
+[2021/2/23-10:40-input]	 
+[2021/2/23-10:40-tab]	 ● take-damage.ts - loot - Visual Studio Code
+[2021/2/23-10:40-clip]	 let {
+		physicalDamage,
+		fireDamage,
+		iceDamage,
+		lightningDamage,
+		poisonDamage,
+		rawDamage }
+[2021/2/23-10:40-tab]	 ● collision-system.ts - loot - Visual Studio Code
+[2021/2/23-10:41-input]	 c
+[2021/2/23-10:41-input]	  v =const
+[2021/2/23-10:41-clip]	 damageProperties
+[2021/2/23-10:41-input]	 c
+[2021/2/23-10:41-input]	 //
+[2021/2/23-10:41-clip]	 damageInstance
+[2021/2/23-10:41-input]	 cv
+[2021/2/23-10:41-input]	  
+[2021/2/23-10:41-input]	 
+[2021/2/23-10:42-input]	 
+[2021/2/23-10:42-tab]	 ● take-damage.ts - loot - Visual Studio Code
+[2021/2/23-10:42-clip]	 isCritical
+[2021/2/23-10:42-input]	 c
+[2021/2/23-10:42-input]	 , v
+[2021/2/23-10:42-input]	 
+[2021/2/23-10:42-input]	 
+[2021/2/23-10:42-input]	 
+[2021/2/23-10:43-tab]	 projectile.server.ts - loot - Visual Studio Code
+[2021/2/23-10:43-tab]	 ● take-damage.ts - loot - Visual Studio Code
+[2021/2/23-10:43-tab]	 take-damage.ts - loot - Visual Studio Code
+[2021/2/23-10:43-input]	 ks
+[2021/2/23-10:43-tab]	 collision-system.ts - loot - Visual Studio Code
+[2021/2/23-10:43-focus]	 
+[2021/2/23-10:43-tab]	 
+[2021/2/23-10:43-focus]	 C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+[2021/2/23-10:43-tab]	 #loot-general - Discord
+[2021/2/23-10:43-tab]	 #loot-notifications - Discord
+[2021/2/23-10:43-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/23-10:43-tab]	 collision-system.ts - loot - Visual Studio Code
+[2021/2/23-10:43-input]	 preDefenseDamage
+[2021/2/23-10:43-tab]	 ● collision-system.ts - loot - Visual Studio Code
+[2021/2/23-10:44-input]	 
+[2021/2/23-10:44-tab]	 collision-system.ts - loot - Visual Studio Code
+[2021/2/23-10:44-input]	 s
+[2021/2/23-10:44-tab]	 ● collision-system.ts - loot - Visual Studio Code
+[2021/2/23-10:44-tab]	 buff-definitions.ts - loot - Visual Studio Code
+[2021/2/23-10:44-input]	 faddelF
+[2021/2/23-10:44-tab]	 ● buff-definitions.ts - loot - Visual Studio Code
+[2021/2/23-10:44-input]	 
+[2021/2/23-10:44-input]	 
+[2021/2/23-10:44-input]	 
+[2021/2/23-10:44-input]	 .
+[2021/2/23-10:44-input]	 
+[2021/2/23-10:44-tab]	 ● collision-system.ts - loot - Visual Studio Code
+[2021/2/23-10:45-input]	 .
+[2021/2/23-10:45-input]	 
+[2021/2/23-10:45-input]	 .
+[2021/2/23-10:45-input]	 
+[2021/2/23-10:45-tab]	 take-damage.ts - loot - Visual Studio Code
+[2021/2/23-10:45-input]	 ks
+[2021/2/23-10:45-focus]	 C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[2021/2/23-10:45-tab]	 Untitled - Google Chrome
+[2021/2/23-10:45-tab]	 about:blank - Google Chrome
+[2021/2/23-10:45-tab]	 Loot.io - Google Chrome
+[2021/2/23-10:45-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/23-10:45-tab]	 take-damage.ts - loot - Visual Studio Code
+[2021/2/23-10:45-tab]	 collision-system.ts - loot - Visual Studio Code
+[2021/2/23-10:45-focus]	 
+[2021/2/23-10:45-tab]	 
+[2021/2/23-10:46-focus]	 C:\Windows\explorer.exe
+[2021/2/23-10:46-focus]	 C:\Program Files\Everything\Everything.exe
+[2021/2/23-10:46-tab]	 Everything
+[2021/2/23-10:46-tab]	 mp4 - Everything
+[2021/2/23-10:46-input]	 mp4
+[2021/2/23-10:46-tab]	 mp4$ - Everything
+[2021/2/23-10:46-input]	 $
+[2021/2/23-10:46-focus]	 C:\Windows\explorer.exe
+[2021/2/23-10:46-tab]	 File Explorer
+[2021/2/23-10:46-focus]	 C:\Program Files\Everything\Everything.exe
+[2021/2/23-10:46-tab]	 mp4$ - Everything
+[2021/2/23-10:46-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/23-10:46-tab]	 collision-system.ts - loot - Visual Studio Code
+[2021/2/23-10:46-focus]	 C:\Windows\explorer.exe
+[2021/2/23-10:46-tab]	 2021-02
+[2021/2/23-10:47-focus]	 C:\Program Files (x86)\VideoLAN\VLC\vlc.exe
+[2021/2/23-10:47-tab]	 VLC media player
+[2021/2/23-10:47-tab]	 K9AgoUgUAF.mp4 - VLC media player
+[2021/2/23-10:47-focus]	 
+[2021/2/23-10:47-tab]	 
+[2021/2/23-10:47-focus]	 C:\Windows\explorer.exe
+[2021/2/23-10:47-tab]	 2021-02
+[2021/2/23-10:47-focus]	 
+[2021/2/23-10:47-tab]	 
+[2021/2/23-10:47-focus]	 C:\Windows\explorer.exe
+[2021/2/23-10:47-tab]	 2021-02
+[2021/2/23-10:47-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/23-10:47-tab]	 collision-system.ts - loot - Visual Studio Code
+[2021/2/23-10:47-focus]	 C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[2021/2/23-10:47-tab]	 Loot.io - Google Chrome
+[2021/2/23-10:47-input]	 dddddddddddddddddddddddddddddddddddddddddddwast
+[2021/2/23-10:47-input]	 /onload /ghost /inspect 
+[2021/2/23-10:47-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/23-10:47-tab]	 collision-system.ts - loot - Visual Studio Code
+[2021/2/23-10:47-input]	 penvtesa
+[2021/2/23-10:48-input]	 eletest
+[2021/2/23-10:48-input]	 aelemde
+[2021/2/23-10:48-tab]	 elemental-debug.ts - loot - Visual Studio Code
+[2021/2/23-10:48-clip]	 elementalHitTest
+[2021/2/23-10:48-focus]	 C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[2021/2/23-10:48-tab]	 Loot.io - Google Chrome
+[2021/2/23-10:48-input]	 c
+[2021/2/23-10:48-input]	 
+[2021/2/23-10:48-input]	 dddddddddddddddddddddddddd
+[2021/2/23-10:49-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/23-10:49-tab]	 elemental-debug.ts - loot - Visual Studio Code
+[2021/2/23-10:49-tab]	 ● elemental-debug.ts - loot - Visual Studio Code
+[2021/2/23-10:49-input]	 
+[2021/2/23-10:49-tab]	 elemental-debug.ts - loot - Visual Studio Code
+[2021/2/23-10:49-input]	 s
+[2021/2/23-10:49-focus]	 C:\Program Files\ConEmu\ConEmu64.exe
+[2021/2/23-10:49-tab]	 MINGW64:/c/Projects/loot
+[2021/2/23-10:49-input]	 gs
+[2021/2/23-10:49-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/23-10:49-tab]	 elemental-debug.ts - loot - Visual Studio Code
+[2021/2/23-10:49-input]	 
+[2021/2/23-10:49-tab]	 collision-system.ts - loot - Visual Studio Code
+[2021/2/23-10:50-clip]	 elementalHitTestData
+[2021/2/23-10:50-input]	 c
+[2021/2/23-10:50-tab]	 ● collision-system.ts - loot - Visual Studio Code
+[2021/2/23-10:50-input]	 ku
+[2021/2/23-10:50-input]	 ku
+[2021/2/23-10:50-input]	 c v.enelalbebaledenabled ?
+[2021/2/23-10:50-input]	 e 
+[2021/2/23-10:50-input]	 let
+[2021/2/23-10:50-input]	 letlet
+[2021/2/23-10:50-tab]	 collision-system.ts - loot - Visual Studio Code
+[2021/2/23-10:50-input]	 s
+[2021/2/23-10:50-focus]	 
+[2021/2/23-10:50-tab]	 
+[2021/2/23-10:50-focus]	 C:\Program Files\Mozilla Firefox\firefox.exe
+[2021/2/23-10:50-tab]	 Inbox - michael.schurman@gmail.com - Gmail — Mozilla Firefox
+[2021/2/23-10:50-tab]	 [JIRA] (SOTI-2092) Add debuffing status effects for elemental damage (ignite, chill, shock, poison, bleed) - michael.schurman@otherocean.com - Other Ocean Group, Inc. Mail — Mozilla Firefox
+[2021/2/23-10:50-tab]	 Inbox (5) - michael.schurman@otherocean.com - Other Ocean Group, Inc. Mail — Mozilla Firefox
+[2021/2/23-10:51-tab]	 Inbox (4) - michael.schurman@otherocean.com - Other Ocean Group, Inc. Mail — Mozilla Firefox
+[2021/2/23-10:51-tab]	 Inbox (3) - michael.schurman@otherocean.com - Other Ocean Group, Inc. Mail — Mozilla Firefox
+[2021/2/23-10:51-tab]	 Inbox (2) - michael.schurman@otherocean.com - Other Ocean Group, Inc. Mail — Mozilla Firefox
+[2021/2/23-10:51-tab]	 [JIRA] (SOTI-2459) Adventure Outpost UI HUD Hook-up - michael.schurman@otherocean.com - Other Ocean Group, Inc. Mail — Mozilla Firefox
+[2021/2/23-10:51-tab]	 Inbox (1) - michael.schurman@otherocean.com - Other Ocean Group, Inc. Mail — Mozilla Firefox
+[2021/2/23-10:51-tab]	 Inbox - michael.schurman@otherocean.com - Other Ocean Group, Inc. Mail — Mozilla Firefox
+[2021/2/23-10:51-focus]	 C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[2021/2/23-10:51-tab]	 Loot.io - Google Chrome
+[2021/2/23-10:51-input]	 ddddddddddddddddddddddddddd
+[2021/2/23-10:51-input]	 aaaaaaaaaaaaaaaaaaaaattt
+[2021/2/23-10:51-input]	 /
+[2021/2/23-10:51-input]	 ghost
+[2021/2/23-10:52-input]	 dsssssssdw
+[2021/2/23-10:52-input]	 wdwsaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+[2021/2/23-10:52-input]	 ddddddddddddddddddddddddddddddd
+[2021/2/23-10:52-focus]	 C:\Program Files\Mozilla Firefox\firefox.exe
+[2021/2/23-10:52-tab]	 Inbox - michael.schurman@otherocean.com - Other Ocean Group, Inc. Mail — Mozilla Firefox
+[2021/2/23-10:52-tab]	 LOOT - Character Stat Model / Elemental Damage / Projectile Behavior / Formulas - Google Docs — Mozilla Firefox
+[2021/2/23-10:52-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/23-10:52-tab]	 collision-system.ts - loot - Visual Studio Code
+[2021/2/23-10:52-input]	 pbuff
+[2021/2/23-10:52-tab]	 buff-definitions.ts - loot - Visual Studio Code
+[2021/2/23-10:53-focus]	 C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[2021/2/23-10:53-tab]	 Loot.io - Google Chrome
+[2021/2/23-10:53-input]	 d
+[2021/2/23-10:53-input]	 a
+[2021/2/23-10:54-input]	 05dssddddddddddddddddddddddddaaaaaaaaaaaaawwwwwwwwwwddddddwwwwwwwwwwwwwasdsaaaaaaaaaaaaaaaaaaasddddddddddddddwwddwsdddaawwwwwwwwwdsaaaaaaaaaaaaadddddddddddddddddwwwwwwwwwwwwwwwwwwsaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaasaaaadswwwwwwwwwa
+[2021/2/23-10:54-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/23-10:54-tab]	 buff-definitions.ts - loot - Visual Studio Code
+[2021/2/23-10:54-focus]	 C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+[2021/2/23-10:54-tab]	 #loot-notifications - Discord
+[2021/2/23-10:54-tab]	 #loot-general - Discord
+[2021/2/23-10:55-input]	 
+[2021/2/23-10:55-focus]	 
+[2021/2/23-10:55-tab]	 
+[2021/2/23-10:55-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/23-10:55-tab]	 buff-definitions.ts - loot - Visual Studio Code
+[2021/2/23-10:55-focus]	 C:\Program Files\Git\usr\bin\mintty.exe
+[2021/2/23-10:55-tab]	 MINGW64:/c/Projects/quick/log
+[2021/2/23-10:55-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/23-10:55-tab]	 ● notes.md - Notes - Visual Studio Code
+[2021/2/23-10:55-tab]	 buff-definitions.ts - loot - Visual Studio Code
+[2021/2/23-10:55-input]	 F
+[2021/2/23-10:55-tab]	 player-buffs.ts - loot - Visual Studio Code
+[2021/2/23-10:56-focus]	 
+[2021/2/23-10:56-tab]	 
+[2021/2/23-10:56-focus]	 C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+[2021/2/23-10:56-tab]	 #loot-general - Discord
+[2021/2/23-10:57-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/23-10:57-tab]	 player-buffs.ts - loot - Visual Studio Code
+[2021/2/23-10:58-focus]	 C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+[2021/2/23-10:58-tab]	 #loot-general - Discord
+[2021/2/23-10:59-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/23-10:59-tab]	 player-buffs.ts - loot - Visual Studio Code
+[2021/2/23-10:59-tab]	 buff-definitions.ts - loot - Visual Studio Code
+[2021/2/23-10:59-tab]	 ● buff-definitions.ts - loot - Visual Studio Code
+[2021/2/23-10:59-input]	 
+[2021/2/23-10:59-input]	 	if (buff.statse {
+[2021/2/23-10:59-input]	 return
+[2021/2/23-10:59-clip]	 			if (buff.state) {
+				return
+			}
+[2021/2/23-10:59-input]	 c
+[2021/2/23-10:59-input]	 v
+[2021/2/23-10:59-input]	 
+[2021/2/23-11:0-input]	 
+[2021/2/23-11:0-tab]	 buff-definitions.ts - loot - Visual Studio Code
+[2021/2/23-11:0-input]	 s
+[2021/2/23-11:0-focus]	 C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[2021/2/23-11:0-tab]	 Untitled - Google Chrome
+[2021/2/23-11:0-tab]	 Loot.io - Google Chrome
+[2021/2/23-11:1-input]	 ddddddddddddddddddda045dwwwwwwwwwwwwwwwwwdssddddddddddddddddddsddwaaaaaattt
+[2021/2/23-11:1-input]	 /onloadp
+[2021/2/23-11:1-input]	 tt
+[2021/2/23-11:1-input]	 /onload inspectoa /ghost
+[2021/2/23-11:1-input]	 
+[2021/2/23-11:1-input]	 dddddddwwdwwaaaaaaaaaaaaaaaaaaaaaaaaaaaaaasdawsdsawwwaswdssssssssaaawdsa
+[2021/2/23-11:2-input]	 wddssaadwwwwawwwwwwwwwwadwddssssswaaaaaaaaaaaaaaaaasssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssaaaaaaaaaaaaaaaaaaaaaadddddddddwwwwwwwwwwwwwwwwdwdwwwwwwwwwwwwwwdwwda
+[2021/2/23-11:2-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/23-11:2-tab]	 buff-definitions.ts - loot - Visual Studio Code
+[2021/2/23-11:2-tab]	 ● buff-definitions.ts - loot - Visual Studio Code
+[2021/2/23-11:2-focus]	 C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[2021/2/23-11:2-tab]	 Loot.io - Google Chrome
+[2021/2/23-11:2-input]	 ssaaaaaaaaaaaaaaaaaaaaaattt
+[2021/2/23-11:2-input]	 /god
+[2021/2/23-11:2-input]	 d
+[2021/2/23-11:2-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/23-11:2-tab]	 ● buff-definitions.ts - loot - Visual Studio Code
+[2021/2/23-11:2-tab]	 buff-definitions.ts - loot - Visual Studio Code
+[2021/2/23-11:2-input]	 z
+[2021/2/23-11:3-tab]	 ● buff-definitions.ts - loot - Visual Studio Code
+[2021/2/23-11:3-focus]	 C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[2021/2/23-11:3-tab]	 Loot.io - Google Chrome
+[2021/2/23-11:3-input]	 ddwwwda
+[2021/2/23-11:3-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/23-11:3-tab]	 ● buff-definitions.ts - loot - Visual Studio Code
+[2021/2/23-11:3-tab]	 buff-definitions.ts - loot - Visual Studio Code
+[2021/2/23-11:3-input]	 z
+[2021/2/23-11:3-tab]	 collision-system.ts - loot - Visual Studio Code
+[2021/2/23-11:3-focus]	 C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[2021/2/23-11:3-tab]	 Loot.io - Google Chrome
+[2021/2/23-11:3-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/23-11:3-tab]	 collision-system.ts - loot - Visual Studio Code
+[2021/2/23-11:4-tab]	 buff.ts - loot - Visual Studio Code
+[2021/2/23-11:4-tab]	 collision-system.ts - loot - Visual Studio Code
+[2021/2/23-11:4-tab]	 buff.ts - loot - Visual Studio Code
+[2021/2/23-11:4-tab]	 buff-definitions.ts - loot - Visual Studio Code
+[2021/2/23-11:5-focus]	 C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[2021/2/23-11:5-tab]	 Loot.io - Google Chrome
+[2021/2/23-11:5-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/23-11:5-tab]	 buff.ts - loot - Visual Studio Code
+[2021/2/23-11:5-focus]	 C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[2021/2/23-11:5-tab]	 Loot.io - Google Chrome
+[2021/2/23-11:5-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/23-11:5-tab]	 buff.ts - loot - Visual Studio Code
+[2021/2/23-11:5-focus]	 C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+[2021/2/23-11:5-tab]	 #loot-general - Discord
+[2021/2/23-11:5-tab]	 @Dave - Discord
+[2021/2/23-11:5-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/23-11:5-tab]	 buff.ts - loot - Visual Studio Code
+[2021/2/23-11:5-input]	 pabilty
+[2021/2/23-11:5-tab]	 ability-performer.ts - loot - Visual Studio Code
+[2021/2/23-11:5-input]	 fspawnen
+[2021/2/23-11:6-focus]	 C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+[2021/2/23-11:6-tab]	 @Dave - Discord
+[2021/2/23-11:6-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/23-11:6-tab]	 ability-performer.ts - loot - Visual Studio Code
+[2021/2/23-11:6-input]	 you may want to jsut douust do it bespoke... ie 
+[2021/2/23-11:6-clip]	 			const nid = aiSys.spawnEnemy(enemyDef, pos.x, pos.y, this._owner.level, spawningRules.dropXP ? 1 : 0, spawningRules.dropLoot, this._owner.sourceBiome, this._owner.ownerPOI)
+
+[2021/2/23-11:6-input]	 c
+[2021/2/23-11:6-focus]	 C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+[2021/2/23-11:6-tab]	 @Dave - Discord
+[2021/2/23-11:6-input]	 just call:
+[2021/2/23-11:6-input]	 `v`
+[2021/2/23-11:6-input]	 with shard dude?
+[2021/2/23-11:6-input]	 
+[2021/2/23-11:7-input]	 idoes the boss need to track how many there are?
+[2021/2/23-11:7-input]	 
+[2021/2/23-11:7-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/23-11:7-tab]	 ability-performer.ts - loot - Visual Studio Code
+[2021/2/23-11:7-focus]	 C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+[2021/2/23-11:7-tab]	 @Dave - Discord
+[2021/2/23-11:7-input]	 they can do it in a slightathey can count the # of enemies in the arena before doing this
+[2021/2/23-11:7-input]	  attack, if so
+[2021/2/23-11:7-input]	 
+[2021/2/23-11:7-focus]	 C:\Program Files\Mozilla Firefox\firefox.exe
+[2021/2/23-11:7-tab]	 
+[2021/2/23-11:7-focus]	 C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+[2021/2/23-11:7-tab]	 @Dave - Discord
+[2021/2/23-11:7-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/23-11:7-tab]	 ability-performer.ts - loot - Visual Studio Code
+[2021/2/23-11:7-focus]	 C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+[2021/2/23-11:7-tab]	 @Dave - Discord
+[2021/2/23-11:8-input]	 would criteria check work for that?
+[2021/2/23-11:8-input]	 
+[2021/2/23-11:8-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/23-11:8-tab]	 ability-performer.ts - loot - Visual Studio Code
+[2021/2/23-11:8-tab]	 buff.ts - loot - Visual Studio Code
+[2021/2/23-11:8-focus]	 C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+[2021/2/23-11:8-tab]	 @Dave - Discord
+[2021/2/23-11:8-tab]	 #loot-general - Discord
+[2021/2/23-11:8-tab]	 #loot-art - Discord
+[2021/2/23-11:8-tab]	 @Dave - Discord
+[2021/2/23-11:9-input]	 that could be 2 different attacks, with most of the same data
+[2021/2/23-11:9-input]	 
+[2021/2/23-11:9-input]	 easy to dupe things by
+[2021/2/23-11:9-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/23-11:9-tab]	 buff.ts - loot - Visual Studio Code
+[2021/2/23-11:9-input]	 F...
+[2021/2/23-11:9-focus]	 C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+[2021/2/23-11:9-tab]	 @Dave - Discord
+[2021/2/23-11:9-input]	  using ... operator
+[2021/2/23-11:9-focus]	 
+[2021/2/23-11:9-tab]	 
+[2021/2/23-11:9-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/23-11:9-tab]	 buff.ts - loot - Visual Studio Code
+[2021/2/23-11:9-input]	 
+[2021/2/23-11:10-tab]	 skeleton-beach.ts - loot - Visual Studio Code
+[2021/2/23-11:10-tab]	 beach-boss-abilities.ts - loot - Visual Studio Code
+[2021/2/23-11:10-tab]	 skeleton-beach.ts - loot - Visual Studio Code
+[2021/2/23-11:10-focus]	 
+[2021/2/23-11:10-tab]	 
+[2021/2/23-11:10-focus]	 C:\Program Files\Git\usr\bin\mintty.exe
+[2021/2/23-11:10-tab]	 MINGW64:/c/Projects/quick/log
+[2021/2/23-11:10-focus]	 
+[2021/2/23-11:10-tab]	 
+[2021/2/23-11:10-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/23-11:10-tab]	 ● notes.md - Notes - Visual Studio Code
+[2021/2/23-11:10-focus]	 
+[2021/2/23-11:10-tab]	 
+[2021/2/23-11:10-focus]	 C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+[2021/2/23-11:10-tab]	 @Dave - Discord
+[2021/2/23-11:10-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/23-11:10-tab]	 skeleton-beach.ts - loot - Visual Studio Code
+[2021/2/23-11:10-tab]	 elemental-debug.ts - loot - Visual Studio Code
+[2021/2/23-11:10-tab]	 buff.ts - loot - Visual Studio Code
+[2021/2/23-11:10-tab]	 buff-definitions.ts - loot - Visual Studio Code
+[2021/2/23-11:11-tab]	 ● buff-definitions.ts - loot - Visual Studio Code
+[2021/2/23-11:11-input]	 console.log(`apply stun, 
+[2021/2/23-11:11-clip]	 buff.state
+[2021/2/23-11:11-clip]	 			console.log(`apply stun, buff.state:${buff.state}`)
+
+[2021/2/23-11:11-input]	 cv:${vc
+[2021/2/23-11:11-clip]	 wearOffFn
+[2021/2/23-11:11-input]	 vcv
+[2021/2/23-11:11-input]	 
+[2021/2/23-11:11-tab]	 buff-definitions.ts - loot - Visual Studio Code
+[2021/2/23-11:11-input]	 s
+[2021/2/23-11:11-focus]	 C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[2021/2/23-11:11-tab]	 Untitled - Google Chrome
+[2021/2/23-11:11-tab]	 about:blank - Google Chrome
+[2021/2/23-11:11-tab]	 localhost:1234/?connectTo=adventure&skipToGame=true - Google Chrome
+[2021/2/23-11:11-tab]	 Loot.io - Google Chrome
+[2021/2/23-11:11-focus]	 
+[2021/2/23-11:11-tab]	 
+[2021/2/23-11:11-focus]	 C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+[2021/2/23-11:11-tab]	 @Dave - Discord
+[2021/2/23-11:12-input]	 if (enemyCount < 10) then valid
+[2021/2/23-11:12-input]	 
+[2021/2/23-11:12-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/23-11:12-tab]	 buff-definitions.ts - loot - Visual Studio Code
+[2021/2/23-11:12-focus]	 
+[2021/2/23-11:12-tab]	 
+[2021/2/23-11:12-focus]	 C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[2021/2/23-11:12-tab]	 Loot.io - Google Chrome
+[2021/2/23-11:12-input]	 d
+[2021/2/23-11:12-input]	 05dddddddddddddddddddddddddddddddddwdwdassw
+[2021/2/23-11:12-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/23-11:12-tab]	 buff-definitions.ts - loot - Visual Studio Code
+[2021/2/23-11:12-focus]	 
+[2021/2/23-11:12-tab]	 
+[2021/2/23-11:12-focus]	 C:\Windows\explorer.exe
+[2021/2/23-11:12-focus]	 C:\Program Files\ConEmu\ConEmu64.exe
+[2021/2/23-11:12-tab]	 npm
+[2021/2/23-11:13-focus]	 C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[2021/2/23-11:13-tab]	 Loot.io - Google Chrome
+[2021/2/23-11:13-input]	 dsddddddwsadsssssssssadswaawasdsaaawdddddddadsaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaawwwwwwwwdawwttt
+[2021/2/23-11:13-input]	 /god
+[2021/2/23-11:13-input]	 dddddddddddddddddddddsdwwwwwwwwwwwwwwwwwwwwwaddddddddddd
+[2021/2/23-11:13-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/23-11:13-tab]	 buff-definitions.ts - loot - Visual Studio Code
+[2021/2/23-11:13-tab]	 ● buff-definitions.ts - loot - Visual Studio Code
+[2021/2/23-11:13-input]	 sa
+[2021/2/23-11:13-tab]	 buff-definitions.ts - loot - Visual Studio Code
+[2021/2/23-11:13-focus]	 C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[2021/2/23-11:13-tab]	 Loot.io - Google Chrome
+[2021/2/23-11:14-input]	 zassssssssssassssssssssssssssssssssssssawddwaaawa
+[2021/2/23-11:14-focus]	 C:\Program Files\ConEmu\ConEmu64.exe
+[2021/2/23-11:14-tab]	 npm
+[2021/2/23-11:14-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/23-11:14-tab]	 buff-definitions.ts - loot - Visual Studio Code
+[2021/2/23-11:14-focus]	 
+[2021/2/23-11:14-tab]	 
+[2021/2/23-11:14-focus]	 C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+[2021/2/23-11:14-tab]	 @Dave - Discord
+[2021/2/23-11:14-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/23-11:14-tab]	 buff-definitions.ts - loot - Visual Studio Code
+[2021/2/23-11:14-input]	 pcriter
+[2021/2/23-11:14-tab]	 action-criteria-helpers.ts - loot - Visual Studio Code
+[2021/2/23-11:14-input]	 
+[2021/2/23-11:15-tab]	 action-types.ts - loot - Visual Studio Code
+[2021/2/23-11:15-focus]	 C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+[2021/2/23-11:15-tab]	 @Dave - Discord
+[2021/2/23-11:15-input]	 yeyeah
+[2021/2/23-11:15-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/23-11:15-tab]	 action-types.ts - loot - Visual Studio Code
+[2021/2/23-11:15-input]	 
+[2021/2/23-11:15-tab]	 action-criteria-helpers.ts - loot - Visual Studio Code
+[2021/2/23-11:15-clip]	 generatePlayerIsInMeleeRangeCriteria
+[2021/2/23-11:15-focus]	 C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+[2021/2/23-11:15-tab]	 @Dave - Discord
+[2021/2/23-11:15-input]	 cwould be like v``
+[2021/2/23-11:15-input]	 , only with arhuge range and 
+[2021/2/23-11:15-input]	 AI_UNITS
+[2021/2/23-11:15-input]	 
+[2021/2/23-11:16-input]	 I'm pretty sure that bosses only care about tenemies in their arena
+[2021/2/23-11:16-input]	 , so if you had a range of 9999 it wshould work? You may want to confirm that
+[2021/2/23-11:16-input]	 
+[2021/2/23-11:16-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/23-11:16-tab]	 action-criteria-helpers.ts - loot - Visual Studio Code
+[2021/2/23-11:16-focus]	 C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+[2021/2/23-11:16-tab]	 @Dave - Discord
+[2021/2/23-11:16-input]	 I'm sure I could come up with a criteria tester if I spent 
+[2021/2/23-11:17-input]	  (using inspedcctor)  390 minutes on it. Probably would be useful?
+[2021/2/23-11:17-input]	 
+[2021/2/23-11:17-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/23-11:17-tab]	 action-criteria-helpers.ts - loot - Visual Studio Code
+[2021/2/23-11:17-focus]	 
+[2021/2/23-11:17-tab]	 
+[2021/2/23-11:17-focus]	 C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+[2021/2/23-11:17-tab]	 @Dave - Discord
+[2021/2/23-11:17-tab]	 #loot-art - Discord
+[2021/2/23-11:17-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/23-11:17-tab]	 action-criteria-helpers.ts - loot - Visual Studio Code
+[2021/2/23-11:18-focus]	 C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+[2021/2/23-11:18-tab]	 #loot-art - Discord
+[2021/2/23-11:18-tab]	 #loot-game-design - Discord
+[2021/2/23-11:18-input]	 part of shock /chill is that they slow the attack rate of enemies, however with the new ai brain that doesn't work (as discussed). I think I could make it work though. I've discussed with Dan a bit about how it could work
+[2021/2/23-11:18-input]	  (
+[2021/2/23-11:19-input]	 . Not sure if I should 'take that into sprint', or if that would be part of my current task of tgetting
+[2021/2/23-11:19-input]	  'status elements' into the game.
+[2021/2/23-11:19-input]	  Normally i I wouldn't have time but Callum keeps setaltalingealing all my stakssskstasks.
+[2021/2/23-11:19-input]	  We can discuss in standup maybe @tyl	
+[2021/2/23-11:19-input]	 
+[2021/2/23-11:20-input]	  (or after)
+[2021/2/23-11:20-input]	 
+[2021/2/23-11:20-tab]	 #loot-art - Discord
+[2021/2/23-11:20-tab]	 @Dave - Discord
+[2021/2/23-11:20-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/23-11:20-tab]	 action-criteria-helpers.ts - loot - Visual Studio Code
+[2021/2/23-11:21-input]	 c
+[2021/2/23-11:21-tab]	 Untitled-1 - loot - Visual Studio Code
+[2021/2/23-11:21-input]	 n
+[2021/2/23-11:21-tab]	 Save As
+[2021/2/23-11:21-input]	 s
+[2021/2/23-11:21-input]	 ciriteria-tester.ts
+[2021/2/23-11:21-tab]	 Untitled-1 - loot - Visual Studio Code
+[2021/2/23-11:21-tab]	 criteria-tester.ts - loot - Visual Studio Code
+[2021/2/23-11:21-input]	 
+[2021/2/23-11:21-tab]	 ● criteria-tester.ts - loot - Visual Studio Code
+[2021/2/23-11:21-input]	 
+[2021/2/23-11:21-input]	 constconst test = v.
+[2021/2/23-11:21-tab]	 action-criteria-helpers.ts - loot - Visual Studio Code
+[2021/2/23-11:21-input]	 
+[2021/2/23-11:21-clip]	 ActionCriteriaHelpers
+[2021/2/23-11:21-tab]	 ● criteria-tester.ts - loot - Visual Studio Code
+[2021/2/23-11:21-input]	 cv.
+[2021/2/23-11:21-input]	 .
+[2021/2/23-11:21-input]	 .
+[2021/2/23-11:21-input]	 
+[2021/2/23-11:22-input]	 Devt	.ig	().
+[2021/2/23-11:22-input]	 	t(test, 'criterierria
+[2021/2/23-11:22-input]	 cirterriteriaTesterexport addmo	
+[2021/2/23-11:22-input]	 module
+[2021/2/23-11:22-input]	 {
+[2021/2/23-11:22-input]	 cirriteria:
+[2021/2/23-11:22-focus]	 C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+[2021/2/23-11:22-tab]	 @Dave - Discord
+[2021/2/23-11:22-input]	 }
+[2021/2/23-11:22-tab]	 #loot-art - Discord
+[2021/2/23-11:23-input]	 thum
+[2021/2/23-11:23-input]	 
+[2021/2/23-11:23-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/23-11:23-tab]	 ● criteria-tester.ts - loot - Visual Studio Code
+[2021/2/23-11:23-input]	 ,
+[2021/2/23-11:23-input]	 
+[2021/2/23-11:23-focus]	 C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+[2021/2/23-11:23-tab]	 #loot-art - Discord
+[2021/2/23-11:23-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/23-11:23-tab]	 ● criteria-tester.ts - loot - Visual Studio Code
+[2021/2/23-11:23-input]	 test() => = () =>{
+[2021/2/23-11:23-input]	 
+[2021/2/23-11:24-input]	 :
+[2021/2/23-11:24-clip]	 criteriaTester
+[2021/2/23-11:24-input]	 cv.cri	
+[2021/2/23-11:24-input]	 Ftcriteria
+[2021/2/23-11:24-tab]	 action-runner.ts - loot - Visual Studio Code
+[2021/2/23-11:24-input]	 
+[2021/2/23-11:24-tab]	 ● criteria-tester.ts - loot - Visual Studio Code
+[2021/2/23-11:24-tab]	 action-runner.ts - loot - Visual Studio Code
+[2021/2/23-11:25-clip]	 actionCriterion_toDebugString
+[2021/2/23-11:25-input]	 c
+[2021/2/23-11:25-tab]	 ● criteria-tester.ts - loot - Visual Studio Code
+[2021/2/23-11:25-input]	 v(
+[2021/2/23-11:25-input]	 .
+[2021/2/23-11:25-clip]	 criteriaTester.criteria
+[2021/2/23-11:25-tab]	 action-runner.ts - loot - Visual Studio Code
+[2021/2/23-11:25-input]	 null, xv
+[2021/2/23-11:26-clip]	 export function actionCriteria_toDebugString(brain: AdvancedAIActionRunnerBrain, action: Action) {
+	const criteria: ActionCriteria = action.actionCriteria
+	const children = criteria.criterias.map((c) => actionCriterion_toDebugString(brain, c)).join('\n')
+	const dummyMap = new Map()
+	const onlyOnceString = action.shouldOccurOnlyOnce ? '(ONCE only)' : ''
+	const criteriaMet = checkCriteria(brain, criteria, dummyMap)
+	const metIcon = criteriaMet ? '✔️' : '❌'
+	const isMetString = `❓ isMet(${CriteriaSatisfactionQuantity[criteria.satisfactionQuantity]}): ${metIcon} ${onlyOnceString}`
+	return `    ${isMetString}\n${children}`
+}
+[2021/2/23-11:26-tab]	 ● criteria-tester.ts - loot - Visual Studio Code
+[2021/2/23-11:26-input]	 c
+[2021/2/23-11:26-input]	 
+[2021/2/23-11:26-input]	 v
+[2021/2/23-11:26-input]	 .
+[2021/2/23-11:26-input]	 
+[2021/2/23-11:26-tab]	 action-criteria-helpers.ts - loot - Visual Studio Code
+[2021/2/23-11:26-clip]	 {
+					criteriaTargets: CriteriaTarget.PLAYERS,
+					criteriaType: CriteriaType.WITHIN_RANGE,
+					criteriaValue: range,
+					minimumTargetsThatSatisfy: 1,
+				}
+[2021/2/23-11:26-tab]	 ● criteria-tester.ts - loot - Visual Studio Code
+[2021/2/23-11:26-focus]	 C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+[2021/2/23-11:26-tab]	 #loot-art - Discord
+[2021/2/23-11:26-input]	 c
+[2021/2/23-11:26-tab]	 #loot-code - Discord
+[2021/2/23-11:27-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/23-11:27-tab]	 ● criteria-tester.ts - loot - Visual Studio Code
+[2021/2/23-11:27-input]	 hey vue masters... the inspector doesn't work if objects are inside arrays... unless you 
+[2021/2/23-11:27-input]	 p
+[2021/2/23-11:27-focus]	 C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+[2021/2/23-11:27-tab]	 #loot-code - Discord
+[2021/2/23-11:27-focus]	 
+[2021/2/23-11:27-tab]	 
+[2021/2/23-11:27-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/23-11:27-tab]	 ● criteria-tester.ts - loot - Visual Studio Code
+[2021/2/23-11:27-input]	 change parray
+[2021/2/23-11:27-tab]	 array-property.vue - loot - Visual Studio Code
+[2021/2/23-11:27-focus]	 C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+[2021/2/23-11:27-tab]	 #loot-code - Discord
+[2021/2/23-11:27-input]	 
+[2021/2/23-11:27-input]	 array-`array-proprerty.vue` on the fly to get it to reload. Then they work. Would be really useful to figurre this out (
+[2021/2/23-11:27-input]	  (but there is the work around I just mentioned)
+[2021/2/23-11:28-input]	 
+[2021/2/23-11:28-clip]	 weapon-projec
+[2021/2/23-11:28-focus]	 
+[2021/2/23-11:28-tab]	 
+[2021/2/23-11:28-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/23-11:28-tab]	 array-property.vue - loot - Visual Studio Code
+[2021/2/23-11:28-input]	 cFv
+[2021/2/23-11:28-tab]	 asset-manager.ts - loot - Visual Studio Code
+[2021/2/23-11:28-input]	 F
+[2021/2/23-11:28-input]	 F
+[2021/2/23-11:28-input]	 F
+[2021/2/23-11:29-focus]	 C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+[2021/2/23-11:29-tab]	 #loot-code - Discord
+[2021/2/23-11:29-input]	 (looking)
+[2021/2/23-11:29-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/23-11:29-tab]	 asset-manager.ts - loot - Visual Studio Code
+[2021/2/23-11:29-input]	 
+[2021/2/23-11:29-input]	 pprojectilef
+[2021/2/23-11:29-tab]	 projectile-effect-manager.ts - loot - Visual Studio Code
+[2021/2/23-11:29-input]	 
+[2021/2/23-11:30-tab]	 ability-performer.ts - loot - Visual Studio Code
+[2021/2/23-11:30-input]	 pprojectilcontFprojectileocnfconf
+[2021/2/23-11:30-tab]	 action-types.ts - loot - Visual Studio Code
+[2021/2/23-11:30-tab]	 projectile-types.ts - loot - Visual Studio Code
+[2021/2/23-11:30-input]	 F
+[2021/2/23-11:30-tab]	 projectile.server.ts - loot - Visual Studio Code
+[2021/2/23-11:31-tab]	 projectile.client.ts - loot - Visual Studio Code
+[2021/2/23-11:31-tab]	 projectile.server.ts - loot - Visual Studio Code
+[2021/2/23-11:31-input]	 pcriterte
+[2021/2/23-11:31-tab]	 criteria-tester.ts - loot - Visual Studio Code
+[2021/2/23-11:31-tab]	 ● criteria-tester.ts - loot - Visual Studio Code
+[2021/2/23-11:31-tab]	 criteria-tester.ts - loot - Visual Studio Code
+[2021/2/23-11:31-input]	 akcs
+[2021/2/23-11:31-focus]	 C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[2021/2/23-11:31-tab]	 Untitled - Google Chrome
+[2021/2/23-11:31-tab]	 about:blank - Google Chrome
+[2021/2/23-11:31-focus]	 C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+[2021/2/23-11:31-tab]	 #loot-code - Discord
+[2021/2/23-11:31-tab]	 #loot-game-design - Discord
+[2021/2/23-11:32-input]	 it is pretty big yeah, but I have room in my task. This 1.
+[2021/2/23-11:32-input]	 
+[2021/2/23-11:32-input]	 my sprint
+[2021/2/23-11:32-input]	 
+[2021/2/23-11:33-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/23-11:33-tab]	 criteria-tester.ts - loot - Visual Studio Code
+[2021/2/23-11:33-focus]	 
+[2021/2/23-11:33-tab]	 
+[2021/2/23-11:33-focus]	 C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[2021/2/23-11:33-tab]	 Loot.io - Google Chrome
+[2021/2/23-11:33-input]	 d
+[2021/2/23-11:33-input]	 dddddddddddddddddddd
+[2021/2/23-11:33-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/23-11:33-tab]	 projectile.server.ts - loot - Visual Studio Code
+[2021/2/23-11:33-tab]	 elemental-hit-pfx.ts - loot - Visual Studio Code
+[2021/2/23-11:33-clip]	 const elementToTrailPfxMap = {
+	[DamageType.PHYSICAL]: ParticleEffectType.PROJECTILE_PHYSICAL_TRAIL,
+	[DamageType.FIRE]: ParticleEffectType.PROJECTILE_FIRE_TRAIL,
+	[DamageType.ICE]: ParticleEffectType.PROJECTILE_ICE_TRAIL,
+	[DamageType.LIGHTNING]: ParticleEffectType.PROJECTILE_LIGHTNING_TRAIL,
+	[DamageType.POISON]: ParticleEffectType.PROJECTILE_POISON_TRAIL,
+}
+[2021/2/23-11:33-focus]	 
+[2021/2/23-11:33-tab]	 
+[2021/2/23-11:33-focus]	 C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+[2021/2/23-11:33-tab]	 #loot-game-design - Discord
+[2021/2/23-11:33-input]	 c
+[2021/2/23-11:33-tab]	 #loot-code - Discord
+[2021/2/23-11:33-input]	 @ben	looks like it's coming from here:
+[2021/2/23-11:34-input]	 ```ts
+[2021/2/23-11:34-input]	 v```
+[2021/2/23-11:34-input]	 
+[2021/2/23-11:34-input]	  for the trailsdoes this line
+[2021/2/23-11:34-input]	  up with what you're seinggeing? 
+[2021/2/23-11:34-input]	 
+[2021/2/23-11:34-input]	 And, what shoul dhappedd happen, if you're physical, then use the waeapon trail?
+[2021/2/23-11:34-input]	 
+[2021/2/23-11:34-input]	 s
+[2021/2/23-11:34-input]	 
+[2021/2/23-11:35-tab]	 #loot-art - Discord
+[2021/2/23-11:35-focus]	 
+[2021/2/23-11:35-tab]	 
+[2021/2/23-11:35-focus]	 C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[2021/2/23-11:35-tab]	 Loot.io - Google Chrome
+[2021/2/23-11:35-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/23-11:35-tab]	 elemental-hit-pfx.ts - loot - Visual Studio Code
+[2021/2/23-11:35-focus]	 C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+[2021/2/23-11:35-tab]	 #loot-art - Discord
+[2021/2/23-11:35-tab]	 @JonInnes - Discord
+[2021/2/23-11:35-input]	 `git add .`
+[2021/2/23-11:35-input]	 
+[2021/2/23-11:36-tab]	 #loot-art - Discord
+[2021/2/23-11:36-tab]	 #loot-code - Discord
+[2021/2/23-11:36-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/23-11:36-tab]	 elemental-hit-pfx.ts - loot - Visual Studio Code
+[2021/2/23-11:36-tab]	 projectile.server.ts - loot - Visual Studio Code
+[2021/2/23-11:36-tab]	 player.server.ts - loot - Visual Studio Code
+[2021/2/23-11:37-tab]	 item-roller.ts - loot - Visual Studio Code
+[2021/2/23-11:37-tab]	 particle-config.ts - loot - Visual Studio Code
+[2021/2/23-11:37-focus]	 C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+[2021/2/23-11:37-tab]	 #loot-code - Discord
+[2021/2/23-11:37-input]	 for the head, looks
+[2021/2/23-11:37-input]	  like it's hooked up
+[2021/2/23-11:37-input]	 . 
+[2021/2/23-11:38-input]	  to be 
+[2021/2/23-11:38-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/23-11:38-tab]	 particle-config.ts - loot - Visual Studio Code
+[2021/2/23-11:38-clip]	 'staff-projectile-01'
+[2021/2/23-11:38-input]	 c
+[2021/2/23-11:38-focus]	 C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+[2021/2/23-11:38-tab]	 #loot-code - Discord
+[2021/2/23-11:38-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/23-11:38-tab]	 particle-config.ts - loot - Visual Studio Code
+[2021/2/23-11:38-input]	 F
+[2021/2/23-11:38-input]	 `
+[2021/2/23-11:38-focus]	 C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+[2021/2/23-11:38-tab]	 #loot-code - Discord
+[2021/2/23-11:38-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/23-11:38-tab]	 particle-config.ts - loot - Visual Studio Code
+[2021/2/23-11:38-tab]	 asset-manager.ts - loot - Visual Studio Code
+[2021/2/23-11:38-clip]	  `./pfx/weapon-projectiles/${weapon}/projectile-01.json`
+[2021/2/23-11:38-input]	 c
+[2021/2/23-11:38-focus]	 C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+[2021/2/23-11:38-tab]	 #loot-code - Discord
+[2021/2/23-11:38-input]	 `v
+[2021/2/23-11:38-input]	 
+[2021/2/23-11:39-input]	 0N${X} (so what
+[2021/2/23-11:39-input]	  you said it should be). I'll need to dig a bit after satandup
+[2021/2/23-11:39-input]	 
+[2021/2/23-11:39-tab]	 @JonInnes - Discord
+[2021/2/23-11:39-input]	 how did you enter the commit message?
+[2021/2/23-11:39-input]	 
+[2021/2/23-11:40-tab]	 #loot-code - Discord
+[2021/2/23-11:40-tab]	 #loot-ui - Discord
+[2021/2/23-11:40-tab]	 #loot-game-design - Discord
+[2021/2/23-11:40-input]	 This task is huge and spwrawling and it's ah a huge oversight of mine not going thtrough it witht  a fine-tooth comb.
+[2021/2/23-11:41-input]	  1 SP is allaughable, and I'm not sure how I left it there...
+[2021/2/23-11:41-input]	  I'll make a conscious effort to ponit betint better during planning
+[2021/2/23-11:41-input]	 . This taks ks sk
+[2021/2/23-11:41-input]	 
+[2021/2/23-11:42-tab]	 @JonInnes - Discord
+[2021/2/23-11:42-focus]	 C:\Program Files\ConEmu\ConEmu64.exe
+[2021/2/23-11:42-tab]	 MINGW64:/c/Projects/loot
+[2021/2/23-11:42-input]	 git commit
+[2021/2/23-11:42-input]	 
+[2021/2/23-11:42-focus]	 C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+[2021/2/23-11:42-tab]	 @JonInnes - Discord
+[2021/2/23-11:42-input]	 does ctrl-c get you out of vim?
+[2021/2/23-11:42-input]	 
+[2021/2/23-11:43-focus]	 C:\Program Files\ConEmu\ConEmu64.exe
+[2021/2/23-11:43-tab]	 MINGW64:/c/Projects/loot
+[2021/2/23-11:43-input]	 
+[2021/2/23-11:43-input]	 vim
+[2021/2/23-11:43-input]	 c
+[2021/2/23-11:43-focus]	 C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+[2021/2/23-11:43-tab]	 @JonInnes - Discord
+[2021/2/23-11:43-focus]	 C:\Program Files\ConEmu\ConEmu64.exe
+[2021/2/23-11:43-tab]	 MINGW64:/c/Projects/loot
+[2021/2/23-11:43-input]	 :qa
+[2021/2/23-11:43-focus]	 C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+[2021/2/23-11:43-tab]	 @JonInnes - Discord
+[2021/2/23-11:43-input]	 
+[2021/2/23-11:43-input]	 when I ctrl-c it tells me to:
+[2021/2/23-11:43-input]	 
+[2021/2/23-11:43-input]	 `:q`:a
+[2021/2/23-11:43-input]	 which might work depending on your state of vim
+[2021/2/23-11:43-input]	 
+[2021/2/23-11:44-input]	 1`never leave the boat, and never forget =-m` :D
+[2021/2/23-11:44-input]	 
+[2021/2/23-11:44-tab]	 #loot-game-design - Discord
+[2021/2/23-11:44-tab]	 #loot-ui - Discord
+[2021/2/23-11:44-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/23-11:44-tab]	 asset-manager.ts - loot - Visual Studio Code
+[2021/2/23-11:44-focus]	 C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[2021/2/23-11:44-tab]	 about:blank - Google Chrome
+[2021/2/23-11:44-tab]	 localhost:1234/?connectTo=adventure&skipToGame=true - Google Chrome
+[2021/2/23-11:44-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/23-11:44-tab]	 asset-manager.ts - loot - Visual Studio Code
+[2021/2/23-11:45-focus]	 C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[2021/2/23-11:45-tab]	 Loot.io - Google Chrome
+[2021/2/23-11:45-input]	 dddddddddddddddddddaaa
+[2021/2/23-11:45-focus]	 
+[2021/2/23-11:45-tab]	 
+[2021/2/23-11:45-focus]	 C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+[2021/2/23-11:45-tab]	 #loot-ui - Discord
+[2021/2/23-11:45-focus]	 C:\Program Files\Mozilla Firefox\firefox.exe
+[2021/2/23-11:45-tab]	 
+[2021/2/23-11:45-focus]	 C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+[2021/2/23-11:45-tab]	 #loot-ui - Discord
+[2021/2/23-11:45-focus]	 C:\Program Files\Mozilla Firefox\firefox.exe
+[2021/2/23-11:45-tab]	 Mozilla Firefox
+[2021/2/23-11:45-tab]	 Gmail — Mozilla Firefox
+[2021/2/23-11:45-focus]	 C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+[2021/2/23-11:45-tab]	 #loot-ui - Discord
+[2021/2/23-11:45-focus]	 
+[2021/2/23-11:45-tab]	 
+[2021/2/23-11:45-focus]	 C:\Program Files\Mozilla Firefox\firefox.exe
+[2021/2/23-11:45-tab]	 [BitfoxGames/Loot.io] A Parting Gift (#640) - michael.schurman@gmail.com - Gmail — Mozilla Firefox
+[2021/2/23-11:45-focus]	 C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+[2021/2/23-11:45-tab]	 #loot-ui - Discord
+[2021/2/23-11:46-tab]	 loot-voice - Discord
+[2021/2/23-11:46-focus]	 C:\Program Files\Mozilla Firefox\firefox.exe
+[2021/2/23-11:46-tab]	 LOOT - Character Stat Model / Elemental Damage / Projectile Behavior / Formulas - Google Docs — Mozilla Firefox
+[2021/2/23-11:46-tab]	 Mozilla Firefox
+[2021/2/23-11:46-tab]	 chrome treeview at DuckDuckGo — Mozilla Firefox
+[2021/2/23-11:46-input]	 chrome treeview
+[2021/2/23-11:46-input]	 
+[2021/2/23-11:46-tab]	 Mozilla Firefox
+[2021/2/23-11:46-tab]	 Gitlab TreeView - Chrome Web Store — Mozilla Firefox
+[2021/2/23-11:46-tab]	 Chrome Web Store - Extensions — Mozilla Firefox
+[2021/2/23-11:46-tab]	 Gitlab TreeView - Chrome Web Store — Mozilla Firefox
+[2021/2/23-11:46-tab]	 chrome treeview at DuckDuckGo — Mozilla Firefox
+[2021/2/23-11:46-tab]	 Sidewise Tree Style Tabs - Chrome Web Store — Mozilla Firefox
+[2021/2/23-11:46-tab]	 Chrome Web Store - Extensions — Mozilla Firefox
+[2021/2/23-11:46-tab]	 Sidewise Tree Style Tabs - Chrome Web Store — Mozilla Firefox
+[2021/2/23-11:47-tab]	 Mozilla Firefox
+[2021/2/23-11:47-input]	 t
+[2021/2/23-11:47-tab]	 Sidewise Tree Style Tabs - Chrome Web Store — Mozilla Firefox
+[2021/2/23-11:47-focus]	 
+[2021/2/23-11:47-tab]	 
+[2021/2/23-11:47-focus]	 C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+[2021/2/23-11:47-tab]	 loot-voice - Discord
+[2021/2/23-11:47-input]	 ttyle
+[2021/2/23-11:47-tab]	 @Tyno - Discord
+[2021/2/23-11:47-input]	 
+[2021/2/23-11:47-input]	 you might like this:
+[2021/2/23-11:47-input]	 v
+[2021/2/23-11:47-input]	 
+[2021/2/23-11:47-focus]	 C:\Program Files\Mozilla Firefox\firefox.exe
+[2021/2/23-11:47-tab]	 Sidewise Tree Style Tabs - Chrome Web Store — Mozilla Firefox
+[2021/2/23-11:47-clip]	 https://chrome.google.com/webstore/detail/sidewise-tree-style-tabs/biiammgklaefagjclmnlialkmaemifgo
+[2021/2/23-11:47-input]	 c
+[2021/2/23-11:47-focus]	 
+[2021/2/23-11:47-tab]	 
+[2021/2/23-11:47-focus]	 C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+[2021/2/23-11:47-tab]	 @Tyno - Discord
+[2021/2/23-11:47-input]	 v
+[2021/2/23-11:47-tab]	 loot-voice - Discord
+[2021/2/23-11:47-input]	 I haven't used , but I have something similar for firefox
+[2021/2/23-11:47-input]	 
+[2021/2/23-11:48-tab]	 #loot-general - Discord
+[2021/2/23-11:48-tab]	 @SamStiles - Discord
+[2021/2/23-11:49-input]	 k, sec
+[2021/2/23-11:49-input]	 
+[2021/2/23-11:49-focus]	 C:\Windows\explorer.exe
+[2021/2/23-11:49-tab]	 
+[2021/2/23-11:49-focus]	 C:\Program Files\ConEmu\ConEmu64.exe
+[2021/2/23-11:49-tab]	 npm
+[2021/2/23-11:49-tab]	 MINGW64:/c/Projects/loot
+[2021/2/23-11:49-input]	 gs
+[2021/2/23-11:49-input]	 
+[2021/2/23-11:49-input]	 git add .
+[2021/2/23-11:49-input]	 git commit -m 'testing criteria tester'
+[2021/2/23-11:49-input]	 
+[2021/2/23-11:49-focus]	 C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+[2021/2/23-11:49-tab]	 @SamStiles - Discord
+[2021/2/23-11:49-tab]	 loot-voice - Discord
+[2021/2/23-11:49-focus]	 C:\Program Files\ConEmu\ConEmu64.exe
+[2021/2/23-11:49-tab]	 MINGW64:/c/Projects/loot
+[2021/2/23-11:50-tab]	 npm
+[2021/2/23-11:50-tab]	 MINGW64:/c/Projects/loot
+[2021/2/23-11:50-input]	 ccc
+[2021/2/23-11:50-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/23-11:50-tab]	 asset-manager.ts - loot - Visual Studio Code
+[2021/2/23-11:50-input]	 FrawDamage
+[2021/2/23-11:50-tab]	 take-damage.ts - loot - Visual Studio Code
+[2021/2/23-11:50-tab]	 ● take-damage.ts - loot - Visual Studio Code
+[2021/2/23-11:50-input]	 }
+[2021/2/23-11:51-input]	 let  =-  
+[2021/2/23-11:51-input]	 { 
+[2021/2/23-11:51-clip]	 damageInst
+[2021/2/23-11:51-input]	 cv
+[2021/2/23-11:51-input]	 cosnt
+[2021/2/23-11:52-clip]	 const
+[2021/2/23-11:52-input]	 cv
+[2021/2/23-11:52-clip]	 isCritical
+[2021/2/23-11:52-input]	 const { cv 
+[2021/2/23-11:52-clip]	 getPreDefenseDamageToDealFromDamageSource
+[2021/2/23-11:52-input]	  = cv()
+[2021/2/23-11:53-input]	 
+[2021/2/23-11:53-clip]	 getPreDefenseDamageToDealFromDamageSource(damageSource, timesHit)
+
+[2021/2/23-11:53-input]	 x
+[2021/2/23-11:53-clip]	 preDefenseDamage
+[2021/2/23-11:53-input]	 	ocnst const damage = vpreDefenseDcvv
+[2021/2/23-11:53-input]	 
+[2021/2/23-11:53-tab]	 take-damage.ts - loot - Visual Studio Code
+[2021/2/23-11:53-focus]	 C:\Program Files\ConEmu\ConEmu64.exe
+[2021/2/23-11:53-tab]	 MINGW64:/c/Projects/loot
+[2021/2/23-11:53-input]	 sgskillnode

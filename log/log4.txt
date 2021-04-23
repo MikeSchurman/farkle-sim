@@ -1,0 +1,68 @@
+
+> quick@1.0.0 main C:\Projects\quick
+> npx ts-node src/main.ts
+
+focus: C:\Users\Michaels\AppData\Local\Obsidian\Obsidian.exe
+tab: Notes - Obsidian v0.10.11
+clip: https://twitter.com/Demilogic/status/1358661842147692549
+mousemove
+mousedown
+focus: 
+tab: 
+mouseup
+mouseclick
+focus: C:\Program Files\Git\usr\bin\mintty.exe
+tab: MINGW64:/c/Projects/quick
+focus: 
+tab: 
+focus: C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+tab: loot-voice - Discord
+mousewheel
+tab: #health - Discord
+tab: loot-voice - Discord
+focus: C:\Users\Michaels\AppData\Local\Obsidian\Obsidian.exe
+tab: Notes - Obsidian v0.10.11
+keydown
+keyup
+focus: C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+tab: loot-voice - Discord
+tab: #loot-code - Discord
+keypress
+I'm hoping this will make google change. There's a lot of horror stories of people losing all
+ their google hemails/etc... if you're popupllar enough on twitter it gets fixed. If not, you're out of oulluck.
+
+tab: loot-voice - Discord
+tab: #loot-code - Discord
+mousedrag
+tab: loot-voice - Discord
+tab: #loot-code - Discord
+tab: loot-voice - Discord
+focus: C:\Users\Michaels\AppData\Local\Obsidian\Obsidian.exe
+tab: Notes - Obsidian v0.10.11
+focus: 
+tab: 
+focus: C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+tab: loot-voice - Discord
+tab: #loot-code - Discord
+I think the issue is though, that very often it will never get resolved, as google deoesn't have enough people doing that, as they want to anautomate everything.
+ It's very kafakaesque. 
+They will probably reosolve this case, but, doesn't sound like
+ 
+this guy will be making ettteerriair
+aria for google stadiua, as thhis principle isis, if you're not the guy making terriaaria for good gle stadiu ht aa then this probably won't bget resolved.
+ And that's not ok with him
+
+(my response crossed a
+up
+tab: #loot-general - Discord
+:piz
+
+
+tab: #loot-code - Discord
+focus: 
+tab: 
+focus: C:\Windows\SystemApps\Microsoft.LockApp_cw5n1h2txyewy\LockApp.exe
+tab: Windows Default Lock Screen
+refresh_locale_list [476]: GetKeyboardLayoutList(0, NULL) found 3 layouts.
+refresh_locale_list [493]: Received 3 locales.
+load_input_helper [866]: refresh_locale_list() found 3 locale(s).

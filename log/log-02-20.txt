@@ -1,0 +1,1117 @@
+
+> quick@1.0.0 keylogger C:\Projects\quick
+> npx ts-node src/keylogger.ts
+
+[2021/2/20-11:6-focus]	 C:\Program Files\Git\usr\bin\mintty.exe
+[2021/2/20-11:6-tab]	 MINGW64:/c/Projects/quick
+[2021/2/20-11:6-clip]	 Can The Peel Sessions 
+mousemove
+mousedown
+mouseup
+mouseclick
+keydown
+keypress
+keyup
+[2021/2/20-11:6-input]	 t
+[2021/2/20-11:6-focus]	 
+[2021/2/20-11:6-tab]	 
+[2021/2/20-11:6-focus]	 C:\Program Files\Mozilla Firefox\firefox.exe
+[2021/2/20-11:6-tab]	 linux - How to add timestamp while redirecting stdout to file in Bash? - Stack Overflow — Mozilla Firefox
+[2021/2/20-11:6-tab]	 redirect to timestamped file at DuckDuckGo — Mozilla Firefox
+[2021/2/20-11:6-tab]	 Mozilla Firefox
+[2021/2/20-11:6-tab]	 Sending cron output to a file with a timestamp in its name - Server Fault — Mozilla Firefox
+mousewheel
+[2021/2/20-11:6-focus]	 C:\Program Files\Git\usr\bin\mintty.exe
+[2021/2/20-11:6-tab]	 MINGW64:/c/Projects/quick
+[2021/2/20-11:6-focus]	 C:\Windows\SystemApps\Microsoft.Windows.Cortana_cw5n1h2txyewy\SearchUI.exe
+[2021/2/20-11:6-tab]	 Cortana
+[2021/2/20-11:6-input]	 sgit
+[2021/2/20-11:6-focus]	 C:\Program Files\Git\usr\bin\mintty.exe
+[2021/2/20-11:6-tab]	 MINGW64:/c/Users/Michaels
+[2021/2/20-11:6-input]	 
+[2021/2/20-11:8-input]	 `data`deecho `data`e`
+[2021/2/20-11:8-input]	 
+[2021/2/20-11:8-focus]	 C:\Program Files\Mozilla Firefox\firefox.exe
+[2021/2/20-11:8-tab]	 Sending cron output to a file with a timestamp in its name - Server Fault — Mozilla Firefox
+[2021/2/20-11:8-tab]	 Mozilla Firefox
+[2021/2/20-11:8-focus]	 
+[2021/2/20-11:8-tab]	 
+[2021/2/20-11:8-focus]	 C:\Windows\explorer.exe
+[2021/2/20-11:8-focus]	 C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[2021/2/20-11:8-tab]	 Restore pages?
+[2021/2/20-11:8-tab]	 New Tab - Google Chrome
+[2021/2/20-11:8-tab]	 Restore pages?
+[2021/2/20-11:8-tab]	 Inspect with Chrome Developer Tools - Google Chrome
+[2021/2/20-11:8-tab]	 New Tab - Google Chrome
+mousedrag
+[2021/2/20-11:9-input]	 jupeseiter
+[2021/2/20-11:9-tab]	 jupiter - Google Search - Google Chrome
+[2021/2/20-11:9-input]	 
+[2021/2/20-11:9-tab]	 Save As
+[2021/2/20-11:9-tab]	 jupiter - Google Search - Google Chrome
+[2021/2/20-11:9-tab]	 New Tab - Google Chrome
+[2021/2/20-11:9-tab]	 Open
+[2021/2/20-11:10-input]	 odownl
+[2021/2/20-11:10-tab]	 New Tab - Google Chrome
+[2021/2/20-11:10-input]	 
+[2021/2/20-11:10-tab]	 jupiter - Google Search - Google Chrome
+[2021/2/20-11:10-tab]	 Inspect with Chrome Developer Tools - Google Chrome
+[2021/2/20-11:10-focus]	 C:\Program Files\Mozilla Firefox\firefox.exe
+[2021/2/20-11:10-tab]	 Mozilla Firefox
+[2021/2/20-11:10-focus]	 C:\Program Files\Git\usr\bin\mintty.exe
+[2021/2/20-11:10-tab]	 MINGW64:/c/Users/Michaels
+[2021/2/20-11:10-input]	 ls > 
+[2021/2/20-11:10-focus]	 C:\Program Files\Mozilla Firefox\firefox.exe
+[2021/2/20-11:10-tab]	 Top 10 Unix Command Line Utilities 2013 - Coldflake Blog — Mozilla Firefox
+[2021/2/20-11:10-tab]	 Sending cron output to a file with a timestamp in its name - Server Fault — Mozilla Firefox
+[2021/2/20-11:10-clip]	 `date +\%Y\%m\%d\%H\%M\%S`
+[2021/2/20-11:10-focus]	 C:\Program Files\Git\usr\bin\mintty.exe
+[2021/2/20-11:10-tab]	 MINGW64:/c/Users/Michaels
+[2021/2/20-11:10-input]	 cv
+[2021/2/20-11:10-input]	 -
+[2021/2/20-11:11-input]	 .txt
+[2021/2/20-11:11-input]	 olog-
+[2021/2/20-11:11-input]	 
+[2021/2/20-11:11-input]	 ls
+[2021/2/20-11:11-input]	 
+[2021/2/20-11:11-input]	 echo
+[2021/2/20-11:11-input]	 
+[2021/2/20-11:11-input]	 --
+[2021/2/20-11:11-input]	 -
+[2021/2/20-11:11-input]	 
+[2021/2/20-11:11-input]	 ::
+[2021/2/20-11:11-input]	 
+[2021/2/20-11:12-input]	 als >
+[2021/2/20-11:12-input]	 
+[2021/2/20-11:12-input]	 
+[2021/2/20-11:12-input]	 log-
+[2021/2/20-11:12-input]	 ls | grep lo	g	
+[2021/2/20-11:12-input]	 
+[2021/2/20-11:12-focus]	 C:\Program Files\Mozilla Firefox\firefox.exe
+[2021/2/20-11:12-tab]	 Mozilla Firefox
+[2021/2/20-11:12-input]	 windows file forbiggdden characters
+[2021/2/20-11:12-tab]	 windows file forbidden characters at DuckDuckGo — Mozilla Firefox
+[2021/2/20-11:12-input]	 
+[2021/2/20-11:12-tab]	 Forbidden File Names on Windows 10 – KIZU 514 — Mozilla Firefox
+[2021/2/20-11:13-focus]	 C:\Program Files\Git\usr\bin\mintty.exe
+[2021/2/20-11:13-tab]	 MINGW64:/c/Users/Michaels
+[2021/2/20-11:13-input]	 explorer .
+[2021/2/20-11:13-focus]	 C:\Windows\explorer.exe
+[2021/2/20-11:13-tab]	 Michaels
+[2021/2/20-11:13-input]	 
+[2021/2/20-11:13-focus]	 C:\Program Files\Git\usr\bin\mintty.exe
+[2021/2/20-11:13-tab]	 MINGW64:/c/Users/Michaels
+[2021/2/20-11:13-input]	 ls
+[2021/2/20-11:13-input]	 
+[2021/2/20-11:14-focus]	 
+[2021/2/20-11:14-tab]	 
+[2021/2/20-11:14-focus]	 C:\Windows\explorer.exe
+[2021/2/20-11:14-tab]	 Michaels
+[2021/2/20-11:14-tab]	 log-2021-02-20-111223.txt Properties
+[2021/2/20-11:14-clip]	 log-2021-02-20-111223.txt
+[2021/2/20-11:14-tab]	 Michaels
+[2021/2/20-11:14-input]	 ac
+[2021/2/20-11:14-focus]	 C:\Program Files\Git\usr\bin\mintty.exe
+[2021/2/20-11:14-tab]	 MINGW64:/c/Users/Michaels
+[2021/2/20-11:14-focus]	 
+[2021/2/20-11:14-tab]	 
+[2021/2/20-11:14-focus]	 C:\Windows\explorer.exe
+[2021/2/20-11:14-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/20-11:14-tab]	 notes.md - Notes - Visual Studio Code
+[2021/2/20-11:14-focus]	 
+[2021/2/20-11:14-tab]	 
+[2021/2/20-11:14-focus]	 C:\Windows\explorer.exe
+[2021/2/20-11:14-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/20-11:14-tab]	 enemy.server.ts - loot - Visual Studio Code
+[2021/2/20-11:14-focus]	 
+[2021/2/20-11:14-tab]	 
+[2021/2/20-11:14-focus]	 C:\Windows\explorer.exe
+[2021/2/20-11:14-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/20-11:14-tab]	 notes.md - Notes - Visual Studio Code
+[2021/2/20-11:14-tab]	 Untitled-1 - Notes - Visual Studio Code
+[2021/2/20-11:14-tab]	 ● log-2021-02-20-111223.txt • Untitled-1 - Notes - Visual Studio Code
+[2021/2/20-11:14-input]	 tvpnv
+[2021/2/20-11:14-input]	 Phex
+[2021/2/20-11:14-input]	 
+[2021/2/20-11:14-input]	 P
+[2021/2/20-11:14-input]	 c
+[2021/2/20-11:14-tab]	 Save As
+[2021/2/20-11:14-input]	 s
+[2021/2/20-11:15-input]	 test222.tsxt
+[2021/2/20-11:15-tab]	 ● log-2021-02-20-111223.txt • Untitled-1 - Notes - Visual Studio Code
+[2021/2/20-11:15-tab]	 test222.txt - Notes - Visual Studio Code
+[2021/2/20-11:15-input]	 
+[2021/2/20-11:15-input]	 Phe
+[2021/2/20-11:15-tab]	 test222.txt.hexdump - Notes - Visual Studio Code
+[2021/2/20-11:15-input]	 
+[2021/2/20-11:16-focus]	 
+[2021/2/20-11:16-tab]	 
+[2021/2/20-11:16-focus]	 C:\Program Files\Mozilla Firefox\firefox.exe
+[2021/2/20-11:16-tab]	 Forbidden File Names on Windows 10 – KIZU 514 — Mozilla Firefox
+[2021/2/20-11:16-tab]	 Mozilla Firefox
+[2021/2/20-11:16-tab]	 Facebook — Mozilla Firefox
+[2021/2/20-11:16-input]	 f
+[2021/2/20-11:17-clip]	 Cumo
+[2021/2/20-11:17-tab]	 Mozilla Firefox
+[2021/2/20-11:17-input]	 cv
+[2021/2/20-11:17-tab]	 Cumo at DuckDuckGo — Mozilla Firefox
+[2021/2/20-11:17-input]	 
+[2021/2/20-11:17-tab]	 Andrew Cuomo - Wikipedia — Mozilla Firefox
+[2021/2/20-11:17-tab]	 Facebook — Mozilla Firefox
+[2021/2/20-11:18-tab]	 Andrew Cuomo - Wikipedia — Mozilla Firefox
+[2021/2/20-11:18-tab]	 Forbidden File Names on Windows 10 – KIZU 514 — Mozilla Firefox
+[2021/2/20-11:18-focus]	 C:\Program Files\Git\usr\bin\mintty.exe
+[2021/2/20-11:18-tab]	 MINGW64:/c/Users/Michaels
+[2021/2/20-11:18-clip]	 the-5-elements-of-effective-thinking-toc.md
+[2021/2/20-11:28-focus]	 
+[2021/2/20-11:28-tab]	 
+[2021/2/20-11:28-focus]	 C:\Windows\SystemApps\Microsoft.LockApp_cw5n1h2txyewy\LockApp.exe
+[2021/2/20-11:28-tab]	 Windows Default Lock Screen
+[2021/2/20-11:55-focus]	 
+[2021/2/20-11:55-tab]	 
+[2021/2/20-11:55-focus]	 C:\Program Files\Git\usr\bin\mintty.exe
+[2021/2/20-11:55-tab]	 MINGW64:/c/Users/Michaels
+[2021/2/20-11:55-focus]	 C:\Windows\explorer.exe
+[2021/2/20-11:55-tab]	 Program Manager
+[2021/2/20-11:55-focus]	 C:\Program Files\Git\usr\bin\mintty.exe
+[2021/2/20-11:55-tab]	 MINGW64:/c/Users/Michaels
+[2021/2/20-11:56-input]	 rm log	
+[2021/2/20-11:56-input]	 
+[2021/2/20-11:56-input]	 cat i_	
+[2021/2/20-11:56-input]	 
+[2021/2/20-11:56-focus]	 C:\Program Files\Mozilla Firefox\firefox.exe
+[2021/2/20-11:56-tab]	 Forbidden File Names on Windows 10 – KIZU 514 — Mozilla Firefox
+[2021/2/20-11:56-tab]	 Mozilla Firefox
+[2021/2/20-11:56-input]	 i_crashed_bash
+[2021/2/20-11:56-focus]	 C:\Program Files\Git\usr\bin\mintty.exe
+[2021/2/20-11:56-tab]	 MINGW64:/c/Users/Michaels
+[2021/2/20-11:56-input]	 
+[2021/2/20-11:56-focus]	 
+[2021/2/20-11:56-tab]	 
+[2021/2/20-11:56-focus]	 C:\Windows\explorer.exe
+[2021/2/20-11:56-focus]	 C:\Program Files\Git\usr\bin\mintty.exe
+[2021/2/20-11:56-tab]	 MINGW64:/c/Projects/quick
+[2021/2/20-11:56-focus]	 C:\Program Files\Mozilla Firefox\firefox.exe
+[2021/2/20-11:56-tab]	 Mozilla Firefox
+[2021/2/20-11:56-clip]	 i_crashed_bash
+[2021/2/20-11:56-input]	 ac
+[2021/2/20-11:56-tab]	 i_crashed_bash at DuckDuckGo — Mozilla Firefox
+[2021/2/20-11:56-input]	 
+[2021/2/20-11:56-input]	  !g
+[2021/2/20-11:56-tab]	 Mozilla Firefox
+[2021/2/20-11:56-tab]	 i_crashed_bash - Google Search — Mozilla Firefox
+[2021/2/20-11:56-input]	 
+[2021/2/20-11:57-input]	 ''
+[2021/2/20-11:57-tab]	 'i_crashed_bash' - Google Search — Mozilla Firefox
+[2021/2/20-11:57-input]	 
+[2021/2/20-11:57-input]	 ""
+[2021/2/20-11:57-tab]	 "i_crashed_bash" - Google Search — Mozilla Firefox
+[2021/2/20-11:57-input]	 
+[2021/2/20-11:57-focus]	 C:\Program Files\Git\usr\bin\mintty.exe
+[2021/2/20-11:57-tab]	 MINGW64:/c/Users/Michaels
+[2021/2/20-11:57-focus]	 C:\Program Files\Mozilla Firefox\firefox.exe
+[2021/2/20-11:57-tab]	 "i_crashed_bash" - Google Search — Mozilla Firefox
+[2021/2/20-11:57-input]	 av
+[2021/2/20-11:57-tab]	 i_crashed_bash - Google Search — Mozilla Firefox
+[2021/2/20-11:57-input]	 
+[2021/2/20-11:57-focus]	 C:\Program Files\Git\usr\bin\mintty.exe
+[2021/2/20-11:57-tab]	 MINGW64:/c/Users/Michaels
+[2021/2/20-11:57-input]	 date
+[2021/2/20-11:57-input]	 
+[2021/2/20-11:57-input]	 dat -h
+[2021/2/20-11:57-input]	 e
+[2021/2/20-11:57-input]	 -help
+[2021/2/20-11:58-input]	 
+[2021/2/20-11:58-input]	 \%X
+[2021/2/20-11:58-input]	 h
+[2021/2/20-11:58-input]	 
+[2021/2/20-11:58-input]	 
+[2021/2/20-11:58-input]	 
+[2021/2/20-11:58-focus]	 C:\Windows\explorer.exe
+[2021/2/20-11:58-tab]	 Program Manager
+[2021/2/20-11:58-focus]	 
+[2021/2/20-11:58-tab]	 
+[2021/2/20-11:58-focus]	 C:\Program Files\Mozilla Firefox\firefox.exe
+[2021/2/20-11:58-tab]	 i_crashed_bash - Google Search — Mozilla Firefox
+[2021/2/20-11:58-input]	 f
+[2021/2/20-11:58-focus]	 C:\Program Files\Git\usr\bin\mintty.exe
+[2021/2/20-11:58-tab]	 MINGW64:/c/Users/Michaels
+[2021/2/20-11:59-focus]	 C:\Program Files\Mozilla Firefox\firefox.exe
+[2021/2/20-11:59-tab]	 i_crashed_bash - Google Search — Mozilla Firefox
+[2021/2/20-11:59-input]	 bsash date command
+[2021/2/20-11:59-tab]	 bash date command at DuckDuckGo — Mozilla Firefox
+[2021/2/20-11:59-input]	 
+[2021/2/20-11:59-tab]	 Mozilla Firefox
+[2021/2/20-11:59-tab]	 How to Work with Date and Time in Bash Using date Command — Mozilla Firefox
+[2021/2/20-12:0-focus]	 
+[2021/2/20-12:0-tab]	 
+[2021/2/20-12:0-focus]	 C:\Program Files\Git\usr\bin\mintty.exe
+[2021/2/20-12:0-tab]	 MINGW64:/c/Users/Michaels
+[2021/2/20-12:0-input]	 mman
+[2021/2/20-12:0-input]	 
+[2021/2/20-12:0-focus]	 C:\Program Files\Mozilla Firefox\firefox.exe
+[2021/2/20-12:0-tab]	 How to Work with Date and Time in Bash Using date Command — Mozilla Firefox
+[2021/2/20-12:0-tab]	 Mozilla Firefox
+[2021/2/20-12:0-input]	 why git bash man
+[2021/2/20-12:0-tab]	 why git bash man at DuckDuckGo — Mozilla Firefox
+[2021/2/20-12:0-input]	 
+[2021/2/20-12:0-tab]	 Man pages for Git Bash on Windows 7 - Super User — Mozilla Firefox
+[2021/2/20-12:1-tab]	 Mozilla Firefox
+[2021/2/20-12:2-input]	 e
+[2021/2/20-12:2-tab]	 Amazon Music Unlimited | Stream Millions of Songs & Podcasts — Mozilla Firefox
+[2021/2/20-12:2-tab]	 Boards Of Canada on Amazon Music Unlimited — Mozilla Firefox
+[2021/2/20-12:2-tab]	 XYZ by Boards Of Canada on Amazon Music Unlimited — Mozilla Firefox
+[2021/2/20-12:2-tab]	 Boards Of Canada on Amazon Music Unlimited — Mozilla Firefox
+[2021/2/20-12:2-tab]	 Peel Session by Boards Of Canada on Amazon Music Unlimited — Mozilla Firefox
+[2021/2/20-12:2-tab]	 Inbox - michael.schurman@gmail.com - Gmail — Mozilla Firefox
+[2021/2/20-12:2-tab]	 Inbox - michael.schurman@otherocean.com - Other Ocean Group, Inc. Mail — Mozilla Firefox
+[2021/2/20-12:2-tab]	 How to have better arguments online | Hacker News — Mozilla Firefox
+[2021/2/20-12:4-tab]	 Mozilla Firefox
+[2021/2/20-12:4-input]	 y
+[2021/2/20-12:4-tab]	 YouTube — Mozilla Firefox
+[2021/2/20-12:4-input]	 
+[2021/2/20-12:4-tab]	 Jordan Peterson Is Not Profound, and Here's Why - YouTube — Mozilla Firefox
+[2021/2/20-12:9-tab]	 How to have better arguments online | Hacker News — Mozilla Firefox
+[2021/2/20-12:9-tab]	 Man pages for Git Bash on Windows 7 - Super User — Mozilla Firefox
+[2021/2/20-12:10-tab]	 Peel Session by Boards Of Canada on Amazon Music Unlimited — Mozilla Firefox
+[2021/2/20-12:10-tab]	 How to Work with Date and Time in Bash Using date Command — Mozilla Firefox
+[2021/2/20-12:10-focus]	 C:\Program Files\Git\usr\bin\mintty.exe
+[2021/2/20-12:10-tab]	 MINGW64:/c/Users/Michaels
+[2021/2/20-12:10-input]	 echo "
+[2021/2/20-12:10-input]	 $(date)"
+[2021/2/20-12:10-input]	 
+[2021/2/20-12:10-input]	  +%Y
+[2021/2/20-12:10-input]	 
+[2021/2/20-12:10-input]	 ```
+[2021/2/20-12:11-input]	 cc
+[2021/2/20-12:11-input]	 
+[2021/2/20-12:11-input]	 \
+[2021/2/20-12:11-input]	 
+[2021/2/20-12:11-input]	 -%y
+[2021/2/20-12:11-input]	 
+[2021/2/20-12:11-input]	 d
+[2021/2/20-12:11-input]	 m
+[2021/2/20-12:11-input]	 M
+[2021/2/20-12:11-input]	 
+[2021/2/20-12:11-input]	 m
+[2021/2/20-12:11-input]	 
+[2021/2/20-12:11-input]	 -d%d
+[2021/2/20-12:11-input]	 
+[2021/2/20-12:12-input]	 .
+[2021/2/20-12:12-input]	 %h-%M
+[2021/2/20-12:12-input]	 
+[2021/2/20-12:12-input]	 h
+[2021/2/20-12:12-input]	 
+[2021/2/20-12:12-input]	 H
+[2021/2/20-12:12-input]	 
+[2021/2/20-12:13-input]	 
+[2021/2/20-12:13-input]	 
+[2021/2/20-12:13-input]	 log-
+[2021/2/20-12:13-input]	 ,.txt
+[2021/2/20-12:13-input]	 
+[2021/2/20-12:14-clip]	  echo log-`date +%Y-%m-%d`.txt
+
+[2021/2/20-12:14-focus]	 C:\Program Files\Mozilla Firefox\firefox.exe
+[2021/2/20-12:14-tab]	 How to Work with Date and Time in Bash Using date Command — Mozilla Firefox
+[2021/2/20-12:14-tab]	 Inbox - michael.schurman@otherocean.com - Other Ocean Group, Inc. Mail — Mozilla Firefox
+[2021/2/20-12:14-tab]	 Inbox - michael.schurman@gmail.com - Gmail — Mozilla Firefox
+[2021/2/20-12:14-tab]	 100 dreams, 50-300 words — Mozilla Firefox
+[2021/2/20-12:15-tab]	 How Mendeleev Invented His Periodic Table in a Dream – Brain Pickings — Mozilla Firefox
+[2021/2/20-12:15-focus]	 C:\Program Files\Git\usr\bin\mintty.exe
+[2021/2/20-12:15-tab]	 MINGW64:/c/Users/Michaels
+[2021/2/20-12:15-input]	 cd /Projc/{ProProj	qui	
+[2021/2/20-12:15-tab]	 MINGW64:/c/Projects/quick
+[2021/2/20-12:15-input]	 
+[2021/2/20-12:15-focus]	 C:\Program Files\Mozilla Firefox\firefox.exe
+[2021/2/20-12:15-tab]	 How Mendeleev Invented His Periodic Table in a Dream – Brain Pickings — Mozilla Firefox
+[2021/2/20-12:15-tab]	 Mozilla Firefox
+[2021/2/20-12:15-input]	 git bash
+[2021/2/20-12:15-tab]	 git bash at DuckDuckGo — Mozilla Firefox
+[2021/2/20-12:15-input]	 
+[2021/2/20-12:16-tab]	 What is Git Bash and How to Install it on Windows? - Appuals.com — Mozilla Firefox
+[2021/2/20-12:17-focus]	 C:\Windows\explorer.exe
+[2021/2/20-12:17-tab]	 Program Manager
+[2021/2/20-12:17-focus]	 C:\Program Files\Mozilla Firefox\firefox.exe
+[2021/2/20-12:17-tab]	 What is Git Bash and How to Install it on Windows? - Appuals.com — Mozilla Firefox
+[2021/2/20-12:17-tab]	 Mozilla Firefox
+[2021/2/20-12:17-input]	 cyg
+[2021/2/20-12:17-input]	  vs git
+[2021/2/20-12:17-tab]	 cygwin vs git bash at DuckDuckGo — Mozilla Firefox
+[2021/2/20-12:17-input]	 
+[2021/2/20-12:18-tab]	 Cygwin or Git Bash command window? - Stack Overflow — Mozilla Firefox
+[2021/2/20-12:18-tab]	 msysgit/Git Bash.vbs at master · msysgit/msysgit — Mozilla Firefox
+[2021/2/20-12:18-tab]	 Cygwin or Git Bash command window? - Stack Overflow — Mozilla Firefox
+[2021/2/20-12:18-tab]	 cygwin vs git bash at DuckDuckGo — Mozilla Firefox
+[2021/2/20-12:19-tab]	 Git for Windows vs Cygwin detailed comparison as of 2021 - Slant — Mozilla Firefox
+[2021/2/20-12:19-tab]	 9 Best collections of Unix libraries for Windows as of 2021 - Slant — Mozilla Firefox
+[2021/2/20-12:21-tab]	 What is Git Bash and How to Install it on Windows? - Appuals.com — Mozilla Firefox
+[2021/2/20-12:21-tab]	 How to have better arguments online | Hacker News — Mozilla Firefox
+[2021/2/20-12:24-clip]	 HN is really the only place I even bother to write a comment, on the whole people seem to be at least have a somewhat charitable interpretation of other people's comments. 
+[2021/2/20-12:24-input]	 c
+[2021/2/20-12:29-tab]	 Add Comment | Hacker News — Mozilla Firefox
+[2021/2/20-12:29-input]	 This is a very interesting way to interact with a computer.
+[2021/2/20-12:30-tab]	 Peel Session by Boards Of Canada on Amazon Music Unlimited — Mozilla Firefox
+[2021/2/20-12:30-tab]	 Add Comment | Hacker News — Mozilla Firefox
+[2021/2/20-12:30-input]	  I'm currently exploring 
+[2021/2/20-12:30-tab]	 Mozilla Firefox
+[2021/2/20-12:30-input]	 other sort os f somwehwwhat-novel(?) ways ofnovel
+[2021/2/20-12:30-tab]	 novel at DuckDuckGo — Mozilla Firefox
+[2021/2/20-12:30-input]	 
+[2021/2/20-12:30-tab]	 Add Comment | Hacker News — Mozilla Firefox
+[2021/2/20-12:30-input]	 s
+[2021/2/20-12:30-input]	  using ocmputercomputers
+[2021/2/20-12:30-input]	 , so this intrigues me.
+[2021/2/20-12:31-input]	 
+[2021/2/20-12:31-input]	 What tools do you use for sentiment alnalysis?
+[2021/2/20-12:31-input]	 use 
+[2021/2/20-12:31-tab]	 How to have better arguments online | Hacker News — Mozilla Firefox
+[2021/2/20-12:32-clip]	 Sure you can try to have a proper discussion online, but too many people want to DESTROY people with FACTS and LOGIC.
+[2021/2/20-12:32-input]	 c
+[2021/2/20-12:33-focus]	 C:\Program Files\Git\usr\bin\mintty.exe
+[2021/2/20-12:33-tab]	 MINGW64:/c/Projects/quick
+[2021/2/20-12:33-focus]	 C:\Program Files\Mozilla Firefox\firefox.exe
+[2021/2/20-12:33-tab]	 Forbidden File Names on Windows 10 – KIZU 514 — Mozilla Firefox
+[2021/2/20-12:33-tab]	 Top 10 Unix Command Line Utilities 2013 - Coldflake Blog — Mozilla Firefox
+[2021/2/20-12:33-focus]	 C:\Program Files\Git\usr\bin\mintty.exe
+[2021/2/20-12:33-tab]	 MINGW64:/c/Projects/quick
+[2021/2/20-12:34-focus]	 C:\Program Files\Mozilla Firefox\firefox.exe
+[2021/2/20-12:34-tab]	 How to have better arguments online | Hacker News — Mozilla Firefox
+[2021/2/20-12:35-tab]	 Inbox - michael.schurman@gmail.com - Gmail — Mozilla Firefox
+[2021/2/20-12:35-tab]	 Inbox - michael.schurman@otherocean.com - Other Ocean Group, Inc. Mail — Mozilla Firefox
+[2021/2/20-12:35-tab]	 novel at DuckDuckGo — Mozilla Firefox
+[2021/2/20-12:35-tab]	 What is Git Bash and How to Install it on Windows? - Appuals.com — Mozilla Firefox
+[2021/2/20-12:36-tab]	 How to have better arguments online | Hacker News — Mozilla Firefox
+[2021/2/20-12:37-tab]	 Profile: MikeSchurman | Hacker News — Mozilla Firefox
+[2021/2/20-12:37-clip]	 noprocrast
+[2021/2/20-12:37-tab]	 Mozilla Firefox
+[2021/2/20-12:38-input]	 chacker news v
+[2021/2/20-12:38-tab]	 hacker news noprocrast at DuckDuckGo — Mozilla Firefox
+[2021/2/20-12:38-input]	 
+[2021/2/20-12:38-tab]	 Ask HN: What are the noprocrast, maxvisit and minaway settings? | Hacker News — Mozilla Firefox
+[2021/2/20-12:38-tab]	 File Not Found | Y Combinator — Mozilla Firefox
+[2021/2/20-12:38-tab]	 Ask HN: What are the noprocrast, maxvisit and minaway settings? | Hacker News — Mozilla Firefox
+[2021/2/20-12:38-tab]	 hacker news noprocrast at DuckDuckGo — Mozilla Firefox
+[2021/2/20-12:38-tab]	 Noprocrast (2010) | Hacker News — Mozilla Firefox
+[2021/2/20-12:40-clip]	 doomscrolling 
+[2021/2/20-12:40-input]	 cv
+[2021/2/20-12:40-tab]	 doomscrolling at DuckDuckGo — Mozilla Firefox
+[2021/2/20-12:40-input]	 
+[2021/2/20-12:40-tab]	 Doomscrolling - Wikipedia — Mozilla Firefox
+[2021/2/20-12:40-tab]	 Profile: MikeSchurman | Hacker News — Mozilla Firefox
+[2021/2/20-12:40-tab]	 MikeSchurman's comments | Hacker News — Mozilla Firefox
+[2021/2/20-12:40-tab]	 This sort of stuff is why I refuse to participate in "traditional" social media,... | Hacker News — Mozilla Firefox
+[2021/2/20-12:40-clip]	 Nvidia Jetson
+[2021/2/20-12:40-tab]	 Mozilla Firefox
+[2021/2/20-12:40-input]	 cv
+[2021/2/20-12:40-tab]	 Nvidia Jetson at DuckDuckGo — Mozilla Firefox
+[2021/2/20-12:40-input]	 
+[2021/2/20-12:41-tab]	 Nvidia Jetson - Wikipedia — Mozilla Firefox
+[2021/2/20-12:41-input]	 c
+[2021/2/20-12:42-tab]	 This sort of stuff is why I refuse to participate in "traditional" social media,... | Hacker News — Mozilla Firefox
+[2021/2/20-12:42-tab]	 Doomscrolling - Wikipedia — Mozilla Firefox
+[2021/2/20-12:42-tab]	 Peel Session by Boards Of Canada on Amazon Music Unlimited — Mozilla Firefox
+[2021/2/20-12:53-focus]	 
+[2021/2/20-12:53-tab]	 
+[2021/2/20-12:53-focus]	 C:\Windows\SystemApps\Microsoft.LockApp_cw5n1h2txyewy\LockApp.exe
+[2021/2/20-12:53-tab]	 Windows Default Lock Screen
+[2021/2/20-13:18-focus]	 
+[2021/2/20-13:18-tab]	 
+[2021/2/20-13:18-focus]	 C:\Program Files\Mozilla Firefox\firefox.exe
+[2021/2/20-13:18-tab]	 Peel Session by Boards Of Canada on Amazon Music Unlimited — Mozilla Firefox
+[2021/2/20-13:18-tab]	 This sort of stuff is why I refuse to participate in "traditional" social media,... | Hacker News — Mozilla Firefox
+[2021/2/20-13:18-tab]	 How to have better arguments online | Hacker News — Mozilla Firefox
+[2021/2/20-13:20-tab]	 Profile: MikeSchurman | Hacker News — Mozilla Firefox
+[2021/2/20-13:20-tab]	 Upvoted comments | Hacker News — Mozilla Firefox
+[2021/2/20-13:20-tab]	 How to have better arguments online | Hacker News — Mozilla Firefox
+[2021/2/20-13:20-tab]	 Mozilla Firefox
+[2021/2/20-13:20-tab]	 Upvoted comments | Hacker News — Mozilla Firefox
+[2021/2/20-13:20-tab]	 Profile: disabled | Hacker News — Mozilla Firefox
+[2021/2/20-13:20-tab]	 Mozilla Firefox
+[2021/2/20-13:20-tab]	 disabled's comments | Hacker News — Mozilla Firefox
+[2021/2/20-13:20-tab]	 Profile: MikeSchurman | Hacker News — Mozilla Firefox
+[2021/2/20-13:21-tab]	 Mozilla Firefox
+[2021/2/20-13:21-tab]	 Hacker News — Mozilla Firefox
+[2021/2/20-13:21-tab]	 How to Destroy the Earth | Hacker News — Mozilla Firefox
+[2021/2/20-13:22-tab]	 Hacker News — Mozilla Firefox
+[2021/2/20-13:22-tab]	 I don't know, Timmy, being God is a big responsibility (2007) | Hacker News — Mozilla Firefox
+[2021/2/20-13:22-tab]	 Hacker News — Mozilla Firefox
+[2021/2/20-13:22-tab]	 New malware found on 30k Macs has security pros stumped | Hacker News — Mozilla Firefox
+[2021/2/20-13:23-tab]	 Hacker News — Mozilla Firefox
+[2021/2/20-13:23-tab]	 How Mendeleev Invented His Periodic Table in a Dream – Brain Pickings — Mozilla Firefox
+[2021/2/20-13:23-tab]	 Dream series available for searching — Mozilla Firefox
+[2021/2/20-13:23-tab]	 Metallica's BlizzCon Performance Ruined by Twitch | Hacker News — Mozilla Firefox
+[2021/2/20-13:24-tab]	 Metallica's BlizzCon Performance Ruined By Twitch - GameSpot — Mozilla Firefox
+[2021/2/20-13:25-tab]	 Metallica's BlizzCon Performance Ruined by Twitch | Hacker News — Mozilla Firefox
+[2021/2/20-13:25-tab]	 Hacker News — Mozilla Firefox
+[2021/2/20-13:26-tab]	 I’ve used DuckDuckGo as my search engine for a year | Hacker News — Mozilla Firefox
+[2021/2/20-13:26-tab]	 Inbox (1) - michael.schurman@gmail.com - Gmail — Mozilla Firefox
+[2021/2/20-13:26-tab]	 Do Americans really think their healthcare system is better than the UK's NHS? If so, why? - michael.schurman@gmail.com - Gmail — Mozilla Firefox
+[2021/2/20-13:26-tab]	 Mozilla Firefox
+[2021/2/20-13:26-tab]	 (20) Canada Immigration - Quora — Mozilla Firefox
+[2021/2/20-13:26-tab]	 (20) Do Americans really think their healthcare system is better than the UK's NHS? If so, why? - Quora — Mozilla Firefox
+[2021/2/20-13:31-tab]	 What is Git Bash and How to Install it on Windows? - Appuals.com — Mozilla Firefox
+[2021/2/20-13:32-tab]	 (20) Canada Immigration - Quora — Mozilla Firefox
+[2021/2/20-13:32-tab]	 (20) Do Americans really think their healthcare system is better than the UK's NHS? If so, why? - Quora — Mozilla Firefox
+[2021/2/20-13:32-tab]	 Do Americans really think their healthcare system is better than the UK's NHS? If so, why? - michael.schurman@gmail.com - Gmail — Mozilla Firefox
+[2021/2/20-13:32-tab]	 Inbox - michael.schurman@gmail.com - Gmail — Mozilla Firefox
+[2021/2/20-13:32-tab]	 Keep up with Alexa - michael.schurman@gmail.com - Gmail — Mozilla Firefox
+[2021/2/20-13:33-clip]	 Alexa, drop in
+[2021/2/20-13:33-tab]	 Mozilla Firefox
+[2021/2/20-13:33-tab]	 Alexa, drop in at DuckDuckGo — Mozilla Firefox
+[2021/2/20-13:33-input]	 
+[2021/2/20-13:33-tab]	 Amazon.com Help: How Does Drop In Work? — Mozilla Firefox
+[2021/2/20-13:33-tab]	 Forbidden File Names on Windows 10 – KIZU 514 — Mozilla Firefox
+[2021/2/20-13:34-tab]	 How to Work with Date and Time in Bash Using date Command — Mozilla Firefox
+[2021/2/20-13:34-tab]	 Peel Session by Boards Of Canada on Amazon Music Unlimited — Mozilla Firefox
+[2021/2/20-13:34-tab]	 Top 10 Unix Command Line Utilities 2013 - Coldflake Blog — Mozilla Firefox
+[2021/2/20-13:37-tab]	 Amazon.com Help: How Does Drop In Work? — Mozilla Firefox
+[2021/2/20-13:37-tab]	 I’ve used DuckDuckGo as my search engine for a year | Hacker News — Mozilla Firefox
+[2021/2/20-13:37-tab]	 Top 10 Unix Command Line Utilities 2013 - Coldflake Blog — Mozilla Firefox
+[2021/2/20-13:37-tab]	 Sending cron output to a file with a timestamp in its name - Server Fault — Mozilla Firefox
+[2021/2/20-13:37-tab]	 I’ve used DuckDuckGo as my search engine for a year | Hacker News — Mozilla Firefox
+[2021/2/20-13:38-tab]	 novel at DuckDuckGo — Mozilla Firefox
+[2021/2/20-13:38-tab]	 Amazon.com Help: How Does Drop In Work? — Mozilla Firefox
+[2021/2/20-13:39-tab]	 I’ve used DuckDuckGo as my search engine for a year | Hacker News — Mozilla Firefox
+[2021/2/20-13:39-tab]	 Profile: MikeSchurman | Hacker News — Mozilla Firefox
+[2021/2/20-13:39-tab]	 MikeSchurman's favorites | Hacker News — Mozilla Firefox
+[2021/2/20-13:39-tab]	 Mozilla Firefox
+[2021/2/20-13:39-tab]	 New Comments | Hacker News — Mozilla Firefox
+[2021/2/20-13:40-tab]	 Sending cron output to a file with a timestamp in its name - Server Fault — Mozilla Firefox
+[2021/2/20-13:41-tab]	 Adding a timestamp to command output in linux - Abdullah Diab's Blog — Mozilla Firefox
+[2021/2/20-13:42-tab]	 Mozilla Firefox
+[2021/2/20-13:42-input]	 f
+[2021/2/20-13:42-tab]	 Facebook — Mozilla Firefox
+[2021/2/20-13:42-input]	 
+[2021/2/20-13:43-tab]	 Jason Perry | Facebook — Mozilla Firefox
+[2021/2/20-13:48-tab]	 Facebook — Mozilla Firefox
+[2021/2/20-13:51-tab]	 Mozilla Firefox
+[2021/2/20-13:51-input]	 define:prudent
+[2021/2/20-13:51-tab]	 define prudent at DuckDuckGo — Mozilla Firefox
+[2021/2/20-13:51-input]	 
+[2021/2/20-13:51-tab]	 Facebook — Mozilla Firefox
+[2021/2/20-13:55-tab]	 Amazon.com Help: How Does Drop In Work? — Mozilla Firefox
+[2021/2/20-14:5-focus]	 
+[2021/2/20-14:5-tab]	 
+[2021/2/20-14:5-focus]	 C:\Windows\SystemApps\Microsoft.LockApp_cw5n1h2txyewy\LockApp.exe
+[2021/2/20-14:5-tab]	 Windows Default Lock Screen
+[2021/2/20-14:24-focus]	 
+[2021/2/20-14:24-tab]	 
+[2021/2/20-14:24-focus]	 C:\Program Files\Mozilla Firefox\firefox.exe
+[2021/2/20-14:24-tab]	 Amazon.com Help: How Does Drop In Work? — Mozilla Firefox
+[2021/2/20-14:25-tab]	 Doomscrolling - Wikipedia — Mozilla Firefox
+[2021/2/20-14:25-tab]	 novel at DuckDuckGo — Mozilla Firefox
+[2021/2/20-14:25-tab]	 What is Git Bash and How to Install it on Windows? - Appuals.com — Mozilla Firefox
+[2021/2/20-14:25-tab]	 Peel Session by Boards Of Canada on Amazon Music Unlimited — Mozilla Firefox
+[2021/2/20-14:25-tab]	 Adding a timestamp to command output in linux - Abdullah Diab's Blog — Mozilla Firefox
+[2021/2/20-14:25-tab]	 Top 10 Unix Command Line Utilities 2013 - Coldflake Blog — Mozilla Firefox
+[2021/2/20-14:29-focus]	 
+[2021/2/20-14:29-tab]	 
+[2021/2/20-14:29-focus]	 C:\Windows\SystemApps\Microsoft.Windows.Cortana_cw5n1h2txyewy\SearchUI.exe
+[2021/2/20-14:29-tab]	 Cortana
+[2021/2/20-14:29-input]	 sdis
+[2021/2/20-14:29-focus]	 C:\Windows\explorer.exe
+[2021/2/20-14:29-tab]	 
+[2021/2/20-14:29-focus]	 C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+[2021/2/20-14:29-tab]	 Discord Updater
+[2021/2/20-14:29-input]	 
+[2021/2/20-14:29-tab]	 Discord
+[2021/2/20-14:29-tab]	 #loot-general - Discord
+[2021/2/20-14:29-tab]	 #loot-ui - Discord
+[2021/2/20-14:30-input]	 
+[2021/2/20-14:30-tab]	 #loot-jira - Discord
+[2021/2/20-14:30-focus]	 C:\Program Files\Mozilla Firefox\firefox.exe
+[2021/2/20-14:30-tab]	 Mozilla Firefox
+[2021/2/20-14:30-tab]	 [SOTI-2592] Onyx Biome Hole prop can appear partially in adjacent Biomes - Sculpin QA — Mozilla Firefox
+[2021/2/20-14:30-tab]	 Top 10 Unix Command Line Utilities 2013 - Coldflake Blog — Mozilla Firefox
+[2021/2/20-14:30-focus]	 C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+[2021/2/20-14:30-tab]	 #loot-jira - Discord
+[2021/2/20-14:31-tab]	 #loot-leads - Discord
+[2021/2/20-14:31-tab]	 #loot-code - Discord
+[2021/2/20-14:32-focus]	 C:\Program Files\Mozilla Firefox\firefox.exe
+[2021/2/20-14:32-tab]	 Top 10 Unix Command Line Utilities 2013 - Coldflake Blog — Mozilla Firefox
+[2021/2/20-14:32-tab]	 Mozilla Firefox
+[2021/2/20-14:32-input]	 56.9/22.133.1
+[2021/2/20-14:32-tab]	 56.9/33.1 at DuckDuckGo — Mozilla Firefox
+[2021/2/20-14:32-input]	 
+[2021/2/20-14:32-input]	 *()()
+[2021/2/20-14:32-input]	 (
+[2021/2/20-14:32-input]	 15.7/
+[2021/2/20-14:32-input]	 86.7
+[2021/2/20-14:32-tab]	 Mozilla Firefox
+[2021/2/20-14:32-tab]	 (56.9/33.1)*(15.7/86.7) at DuckDuckGo — Mozilla Firefox
+[2021/2/20-14:32-input]	 
+[2021/2/20-14:33-input]	 /
+[2021/2/20-14:33-tab]	 (56.9/33.1)/(15.7/86.7) at DuckDuckGo — Mozilla Firefox
+[2021/2/20-14:33-input]	 
+[2021/2/20-14:33-input]	 
+[2021/2/20-14:33-tab]	 56.9/33.1/(15.7/86.7) at DuckDuckGo — Mozilla Firefox
+[2021/2/20-14:33-input]	 
+[2021/2/20-14:33-input]	 
+[2021/2/20-14:33-tab]	 56.9/33.1/15.7/86.7 at DuckDuckGo — Mozilla Firefox
+[2021/2/20-14:33-input]	 
+[2021/2/20-14:33-tab]	 Top 10 Unix Command Line Utilities 2013 - Coldflake Blog — Mozilla Firefox
+[2021/2/20-14:34-tab]	 Mozilla Firefox
+[2021/2/20-14:34-input]	 redirect ampersand
+[2021/2/20-14:34-tab]	 redirect ampersand at DuckDuckGo — Mozilla Firefox
+[2021/2/20-14:34-input]	 
+[2021/2/20-14:34-tab]	 Mozilla Firefox
+[2021/2/20-14:34-tab]	 scripting - What does the ampersand indicate in this bash command 1>&2 - Stack Overflow — Mozilla Firefox
+[2021/2/20-14:35-tab]	 Top 10 Unix Command Line Utilities 2013 - Coldflake Blog — Mozilla Firefox
+[2021/2/20-14:37-tab]	 Keep up with Alexa - michael.schurman@gmail.com - Gmail — Mozilla Firefox
+[2021/2/20-14:37-tab]	 Inbox (2) - michael.schurman@gmail.com - Gmail — Mozilla Firefox
+[2021/2/20-14:37-tab]	 Your Alexa settings have been updated - michael.schurman@gmail.com - Gmail — Mozilla Firefox
+[2021/2/20-14:38-tab]	 Mozilla Firefox
+[2021/2/20-14:38-tab]	 Amazon.ca Help: Alexa Terms of Use — Mozilla Firefox
+[2021/2/20-14:38-tab]	 Your Alexa settings have been updated - michael.schurman@gmail.com - Gmail — Mozilla Firefox
+[2021/2/20-14:38-tab]	 Inbox (1) - michael.schurman@gmail.com - Gmail — Mozilla Firefox
+[2021/2/20-14:38-tab]	 Mozilla Firefox
+[2021/2/20-14:38-tab]	 Facebook — Mozilla Firefox
+[2021/2/20-14:39-input]	 f
+[2021/2/20-14:41-tab]	 Inbox (1) - michael.schurman@gmail.com - Gmail — Mozilla Firefox
+[2021/2/20-14:42-tab]	 Wieners - michael.schurman@gmail.com - Gmail — Mozilla Firefox
+[2021/2/20-14:42-focus]	 C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+[2021/2/20-14:42-tab]	 #loot-code - Discord
+[2021/2/20-14:42-focus]	 C:\Program Files\Mozilla Firefox\firefox.exe
+[2021/2/20-14:42-tab]	 Wieners - michael.schurman@gmail.com - Gmail — Mozilla Firefox
+[2021/2/20-14:43-input]	 Sure, we'll take thmeem. I'll swing by 
+[2021/2/20-14:44-input]	 4pm or so.?
+[2021/2/20-14:44-tab]	 Mozilla Firefox
+[2021/2/20-14:44-tab]	 TD Login — Mozilla Firefox
+[2021/2/20-14:44-input]	 e
+[2021/2/20-14:44-tab]	 EasyWeb Login — Mozilla Firefox
+[2021/2/20-14:44-tab]	 EasyWeb — Mozilla Firefox
+[2021/2/20-14:44-tab]	 Accounts Overview — Mozilla Firefox
+[2021/2/20-14:44-tab]	 EasyWeb — Mozilla Firefox
+[2021/2/20-14:44-input]	 5000
+[2021/2/20-14:44-tab]	 Accounts Overview — Mozilla Firefox
+[2021/2/20-14:44-tab]	 EasyWeb — Mozilla Firefox
+[2021/2/20-14:45-focus]	 C:\Windows\explorer.exe
+[2021/2/20-14:45-tab]	 
+[2021/2/20-14:45-focus]	 C:\Windows\SystemApps\ShellExperienceHost_cw5n1h2txyewy\ShellExperienceHost.exe
+[2021/2/20-14:45-tab]	 Date and Time Information
+[2021/2/20-14:45-focus]	 C:\Program Files\Mozilla Firefox\firefox.exe
+[2021/2/20-14:45-tab]	 EasyWeb — Mozilla Firefox
+[2021/2/20-14:45-focus]	 C:\Program Files\ShareX\ShareX.exe
+[2021/2/20-14:45-tab]	 ShareX - Region capture
+[2021/2/20-14:45-focus]	 C:\Program Files\Mozilla Firefox\firefox.exe
+[2021/2/20-14:45-tab]	 EasyWeb — Mozilla Firefox
+[2021/2/20-14:45-tab]	 Accounts Overview — Mozilla Firefox
+[2021/2/20-14:45-tab]	 Mozilla Firefox
+[2021/2/20-14:45-tab]	 EasyWeb — Mozilla Firefox
+[2021/2/20-14:46-tab]	 Accounts Overview — Mozilla Firefox
+[2021/2/20-14:47-tab]	 Wieners - michael.schurman@gmail.com - Gmail — Mozilla Firefox
+[2021/2/20-14:47-focus]	 
+[2021/2/20-14:47-tab]	 
+[2021/2/20-14:47-focus]	 C:\Program Files\Everything\Everything.exe
+[2021/2/20-14:47-tab]	 Everything
+[2021/2/20-14:47-tab]	 l - Everything
+[2021/2/20-14:47-tab]	 log - Everything
+[2021/2/20-14:47-input]	 log
+[2021/2/20-14:47-tab]	 log. - Everything
+[2021/2/20-14:47-tab]	 log.* - Everything
+[2021/2/20-14:47-tab]	 log.*t - Everything
+[2021/2/20-14:47-tab]	 log.*tx - Everything
+[2021/2/20-14:47-tab]	 log.*txt - Everything
+[2021/2/20-14:47-input]	 .*txt
+[2021/2/20-14:47-tab]	 \log.*txt - Everything
+[2021/2/20-14:47-tab]	 \blog.*txt - Everything
+[2021/2/20-14:47-tab]	 \log.*txt - Everything
+[2021/2/20-14:47-tab]	 log.*txt - Everything
+[2021/2/20-14:47-tab]	 ^log.*txt - Everything
+[2021/2/20-14:47-input]	 \b^
+[2021/2/20-14:47-focus]	 
+[2021/2/20-14:47-tab]	 
+[2021/2/20-14:47-focus]	 C:\Windows\explorer.exe
+[2021/2/20-14:47-focus]	 C:\Program Files\Git\usr\bin\mintty.exe
+[2021/2/20-14:47-tab]	 MINGW64:/c/Projects/quick
+[2021/2/20-14:47-focus]	 
+[2021/2/20-14:47-tab]	 
+[2021/2/20-14:47-focus]	 C:\Program Files\Everything\Everything.exe
+[2021/2/20-14:47-tab]	 ^log.*txt - Everything
+[2021/2/20-14:47-tab]	 
+[2021/2/20-14:47-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/20-14:47-tab]	 test222.txt.hexdump - Notes - Visual Studio Code
+[2021/2/20-14:47-focus]	 
+[2021/2/20-14:47-tab]	 
+[2021/2/20-14:47-focus]	 C:\Program Files\Everything\Everything.exe
+[2021/2/20-14:47-tab]	 ^log.*txt - Everything
+[2021/2/20-14:47-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/20-14:47-tab]	 log-02-20.txt - Notes - Visual Studio Code
+[2021/2/20-14:48-focus]	 C:\Program Files\ShareX\ShareX.exe
+[2021/2/20-14:48-tab]	 ShareX - Region capture
+[2021/2/20-14:48-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/20-14:48-tab]	 log-02-20.txt - Notes - Visual Studio Code
+[2021/2/20-14:49-tab]	 test222.txt.hexdump - Notes - Visual Studio Code
+[2021/2/20-14:49-tab]	 test222.txt - Notes - Visual Studio Code
+[2021/2/20-14:49-tab]	 notes.md - Notes - Visual Studio Code
+[2021/2/20-14:49-focus]	 
+[2021/2/20-14:49-tab]	 
+[2021/2/20-14:49-focus]	 C:\Program Files\Mozilla Firefox\firefox.exe
+[2021/2/20-14:49-tab]	 Wieners - michael.schurman@gmail.com - Gmail — Mozilla Firefox
+[2021/2/20-14:49-tab]	 Mozilla Firefox
+[2021/2/20-14:49-input]	 fireforxx get url programmatically
+[2021/2/20-14:49-tab]	 firefox get url programmatically at DuckDuckGo — Mozilla Firefox
+[2021/2/20-14:49-input]	 
+[2021/2/20-14:49-tab]	 Mozilla Firefox
+[2021/2/20-14:50-tab]	 Getting Firefox URL programmatically — Mozilla Firefox
+[2021/2/20-14:50-tab]	 firefox get url programmatically at DuckDuckGo — Mozilla Firefox
+[2021/2/20-14:50-tab]	 Getting Firefox URL programmatically — Mozilla Firefox
+[2021/2/20-14:50-tab]	 firefox get url programmatically at DuckDuckGo — Mozilla Firefox
+[2021/2/20-14:50-tab]	 Getting Current Browser URL with VB.NET - CodeProject — Mozilla Firefox
+[2021/2/20-14:52-tab]	 firefox get url programmatically at DuckDuckGo — Mozilla Firefox
+[2021/2/20-14:52-input]	  !g
+[2021/2/20-14:52-tab]	 Mozilla Firefox
+[2021/2/20-14:52-tab]	 firefox get url programmatically - Google Search — Mozilla Firefox
+[2021/2/20-14:52-input]	 
+[2021/2/20-14:52-tab]	 C# how to get current url of Firefox - Stack Overflow — Mozilla Firefox
+[2021/2/20-14:52-tab]	 Mozilla Firefox
+[2021/2/20-14:52-tab]	 Getting the current tab's URL from Google Chrome using C# - Stack Overflow — Mozilla Firefox
+[2021/2/20-14:53-focus]	 C:\Windows\SystemApps\Microsoft.Windows.Cortana_cw5n1h2txyewy\SearchUI.exe
+[2021/2/20-14:53-tab]	 Cortana
+[2021/2/20-14:53-focus]	 C:\Program Files\Mozilla Firefox\firefox.exe
+[2021/2/20-14:53-tab]	 Getting the current tab's URL from Google Chrome using C# - Stack Overflow — Mozilla Firefox
+[2021/2/20-14:53-tab]	 Mozilla Firefox
+[2021/2/20-14:53-input]	 sspy++spy++
+[2021/2/20-14:53-tab]	 spy++ at DuckDuckGo — Mozilla Firefox
+[2021/2/20-14:53-input]	 
+[2021/2/20-14:53-tab]	 Mozilla Firefox
+[2021/2/20-14:53-tab]	 Introducing Spy++ - Visual Studio | Microsoft Docs — Mozilla Firefox
+[2021/2/20-14:53-tab]	 Start Spy++ - Visual Studio | Microsoft Docs — Mozilla Firefox
+[2021/2/20-14:53-focus]	 C:\Windows\SystemApps\Microsoft.Windows.Cortana_cw5n1h2txyewy\SearchUI.exe
+[2021/2/20-14:53-tab]	 Cortana
+[2021/2/20-14:53-input]	 svisu
+[2021/2/20-14:53-focus]	 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\devenv.exe
+[2021/2/20-14:53-tab]	 Microsoft Visual Studio Community 2019
+[2021/2/20-14:53-input]	 
+[2021/2/20-14:53-tab]	 
+[2021/2/20-14:54-focus]	 C:\Program Files\Mozilla Firefox\firefox.exe
+[2021/2/20-14:54-tab]	 Start Spy++ - Visual Studio | Microsoft Docs — Mozilla Firefox
+[2021/2/20-14:54-focus]	 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\devenv.exe
+[2021/2/20-14:54-tab]	 Microsoft Visual Studio
+[2021/2/20-14:54-input]	 spy++
+[2021/2/20-14:54-focus]	 C:\Program Files (x86)\Microsoft Visual Studio\Installer\setup.exe
+[2021/2/20-14:54-tab]	 Visual Studio Installer
+[2021/2/20-14:54-focus]	 
+[2021/2/20-14:54-tab]	 
+[2021/2/20-14:54-focus]	 C:\Program Files\Mozilla Firefox\firefox.exe
+[2021/2/20-14:54-tab]	 Start Spy++ - Visual Studio | Microsoft Docs — Mozilla Firefox
+[2021/2/20-14:54-tab]	 Mozilla Firefox
+[2021/2/20-14:54-input]	 getting psyspy++
+[2021/2/20-14:54-tab]	 getting spy++ at DuckDuckGo — Mozilla Firefox
+[2021/2/20-14:54-tab]	 Start Spy++ - Visual Studio | Microsoft Docs — Mozilla Firefox
+[2021/2/20-14:54-input]	 
+[2021/2/20-14:54-tab]	 Getting the current tab's URL from Google Chrome using C# - Stack Overflow — Mozilla Firefox
+[2021/2/20-14:54-tab]	 Start Spy++ - Visual Studio | Microsoft Docs — Mozilla Firefox
+[2021/2/20-14:54-focus]	 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\devenv.exe
+[2021/2/20-14:54-tab]	 Microsoft Visual Studio
+[2021/2/20-14:54-focus]	 
+[2021/2/20-14:54-tab]	 
+[2021/2/20-14:54-focus]	 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\devenv.exe
+[2021/2/20-14:54-tab]	 Microsoft Visual Studio
+[2021/2/20-14:54-focus]	 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\Tools\spyxx.exe
+[2021/2/20-14:54-tab]	 Microsoft Spy++ - Windows 1
+[2021/2/20-14:54-focus]	 C:\Windows\explorer.exe
+[2021/2/20-14:54-tab]	 
+[2021/2/20-14:54-focus]	 C:\Program Files (x86)\Microsoft Visual Studio\Installer\setup.exe
+[2021/2/20-14:54-tab]	 Visual Studio Installer
+[2021/2/20-14:55-focus]	 C:\Windows\explorer.exe
+[2021/2/20-14:55-tab]	 
+[2021/2/20-14:55-focus]	 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\Tools\spyxx.exe
+[2021/2/20-14:55-tab]	 Microsoft Spy++ - Windows 1
+[2021/2/20-14:55-tab]	 Microsoft Spy++ - [Windows 1]
+[2021/2/20-14:55-tab]	 Window Search
+[2021/2/20-14:55-focus]	 
+[2021/2/20-14:55-tab]	 
+[2021/2/20-14:55-focus]	 C:\Program Files\Mozilla Firefox\firefox.exe
+[2021/2/20-14:55-tab]	 Start Spy++ - Visual Studio | Microsoft Docs — Mozilla Firefox
+[2021/2/20-14:55-focus]	 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\Tools\spyxx.exe
+[2021/2/20-14:55-tab]	 Window Search
+[2021/2/20-14:55-tab]	 Microsoft Spy++ - [Windows 1]
+[2021/2/20-14:55-focus]	 C:\Program Files\Mozilla Firefox\firefox.exe
+[2021/2/20-14:55-tab]	 Start Spy++ - Visual Studio | Microsoft Docs — Mozilla Firefox
+[2021/2/20-14:55-focus]	 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\Tools\spyxx.exe
+[2021/2/20-14:55-tab]	 Microsoft Spy++ - [Windows 1]
+[2021/2/20-14:55-tab]	 Find Window
+[2021/2/20-14:56-tab]	 Window Properties
+[2021/2/20-14:56-tab]	 Property Inspector
+[2021/2/20-14:56-tab]	 Microsoft Spy++ - [Windows 1]
+[2021/2/20-14:56-tab]	 Find Window
+[2021/2/20-14:56-tab]	 Window Properties
+[2021/2/20-14:56-tab]	 Property Inspector
+[2021/2/20-14:57-tab]	 Microsoft Spy++ - [Windows 1]
+[2021/2/20-14:57-tab]	 Window Search
+[2021/2/20-14:57-tab]	 Microsoft Spy++ - [Windows 1]
+[2021/2/20-14:57-focus]	 C:\Program Files\Mozilla Firefox\firefox.exe
+[2021/2/20-14:57-tab]	 Start Spy++ - Visual Studio | Microsoft Docs — Mozilla Firefox
+[2021/2/20-14:57-focus]	 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\devenv.exe
+[2021/2/20-14:57-tab]	 Microsoft Visual Studio
+[2021/2/20-14:57-focus]	 C:\Program Files\Mozilla Firefox\firefox.exe
+[2021/2/20-14:57-tab]	 Start Spy++ - Visual Studio | Microsoft Docs — Mozilla Firefox
+[2021/2/20-14:57-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/20-14:57-tab]	 notes.md - Notes - Visual Studio Code
+[2021/2/20-14:57-focus]	 C:\Program Files\Mozilla Firefox\firefox.exe
+[2021/2/20-14:57-tab]	 Start Spy++ - Visual Studio | Microsoft Docs — Mozilla Firefox
+[2021/2/20-14:57-tab]	 getting spy++ at DuckDuckGo — Mozilla Firefox
+[2021/2/20-14:57-tab]	 Getting the current tab's URL from Google Chrome using C# - Stack Overflow — Mozilla Firefox
+[2021/2/20-15:0-focus]	 
+[2021/2/20-15:0-tab]	 
+[2021/2/20-15:0-focus]	 C:\Windows\SystemApps\Microsoft.Windows.Cortana_cw5n1h2txyewy\SearchUI.exe
+[2021/2/20-15:0-tab]	 Cortana
+[2021/2/20-15:0-input]	 slinq
+[2021/2/20-15:0-focus]	 C:\Windows\explorer.exe
+[2021/2/20-15:0-tab]	 
+[2021/2/20-15:0-focus]	 C:\Program Files (x86)\LINQPad5\LINQPad.exe
+[2021/2/20-15:0-input]	 
+[2021/2/20-15:0-tab]	 LINQPad 5
+[2021/2/20-15:0-focus]	 C:\Program Files\Mozilla Firefox\firefox.exe
+[2021/2/20-15:0-tab]	 Getting the current tab's URL from Google Chrome using C# - Stack Overflow — Mozilla Firefox
+[2021/2/20-15:0-focus]	 
+[2021/2/20-15:0-tab]	 
+[2021/2/20-15:0-focus]	 C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[2021/2/20-15:0-tab]	 Untitled - Google Chrome
+[2021/2/20-15:0-tab]	 Inspect with Chrome Developer Tools - Google Chrome
+[2021/2/20-15:0-focus]	 C:\Program Files (x86)\LINQPad5\LINQPad.exe
+[2021/2/20-15:0-tab]	 LINQPad 5
+[2021/2/20-15:0-focus]	 C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[2021/2/20-15:0-tab]	 Inspect with Chrome Developer Tools - Google Chrome
+[2021/2/20-15:0-focus]	 C:\Program Files\Mozilla Firefox\firefox.exe
+[2021/2/20-15:0-tab]	 Mozilla Firefox
+[2021/2/20-15:0-tab]	 What's new in LINQPad — Mozilla Firefox
+[2021/2/20-15:0-tab]	 Getting the current tab's URL from Google Chrome using C# - Stack Overflow — Mozilla Firefox
+[2021/2/20-15:0-clip]	 Process[] procsChrome = Process.GetProcessesByName("chrome");
+foreach (Process chrome in procsChrome)
+{
+    if (chrome.MainWindowHandle == IntPtr.Zero)
+        continue;
+
+    AutomationElement element = AutomationElement.FromHandle(chrome.MainWindowHandle);
+    if (element == null)
+        return null;
+    Condition conditions = new AndCondition(
+        new PropertyCondition(AutomationElement.ProcessIdProperty, chrome.Id),
+        new PropertyCondition(AutomationElement.IsControlElementProperty, true),
+        new PropertyCondition(AutomationElement.IsContentElementProperty, true),
+        new PropertyCondition(AutomationElement.ControlTypeProperty, ControlType.Edit));
+
+    AutomationElement elementx = element.FindFirst(TreeScope.Descendants, conditions);
+    return ((ValuePattern)elementx.GetCurrentPattern(ValuePattern.Pattern)).Current.Value as string;
+}
+[2021/2/20-15:0-input]	 c
+[2021/2/20-15:0-focus]	 
+[2021/2/20-15:0-tab]	 
+[2021/2/20-15:0-focus]	 C:\ProgramData\LINQPad\Updates50\543\LINQPad.exe
+[2021/2/20-15:0-tab]	 LINQPad 5
+[2021/2/20-15:1-input]	 v
+[2021/2/20-15:1-input]	 .
+[2021/2/20-15:1-input]	 
+[2021/2/20-15:1-clip]	 Process[] procsChrome = Process.GetProcessesByName("chrome");
+foreach (Process chrome in procsChrome)
+{
+	if (chrome.MainWindowHandle == IntPtr.Zero)
+		continue;
+
+	AutomationElement element = AutomationElement.FromHandle(chrome.MainWindowHandle);
+	if (element == null)
+		return null;
+	Condition conditions = new AndCondition(
+		new PropertyCondition(AutomationElement.ProcessIdProperty, chrome.Id),
+		new PropertyCondition(AutomationElement.IsControlElementProperty, true),
+		new PropertyCondition(AutomationElement.IsContentElementProperty, true),
+		new PropertyCondition(AutomationElement.ControlTypeProperty, ControlType.Edit));
+
+	AutomationElement elementx = element.FindFirst(TreeScope.Descendants, conditions);
+	return ((ValuePattern)elementx.GetCurrentPattern(ValuePattern.Pattern)).Current.Value as string;
+}
+[2021/2/20-15:1-input]	 acc
+[2021/2/20-15:1-input]	 
+[2021/2/20-15:1-input]	 }
+[2021/2/20-15:1-input]	 
+[2021/2/20-15:1-input]	 
+[2021/2/20-15:1-input]	 voidstring gGetSTuftuff() {
+[2021/2/20-15:1-input]	 
+[2021/2/20-15:1-focus]	 C:\Program Files\Mozilla Firefox\firefox.exe
+[2021/2/20-15:1-tab]	 Getting the current tab's URL from Google Chrome using C# - Stack Overflow — Mozilla Firefox
+[2021/2/20-15:1-focus]	 C:\ProgramData\LINQPad\Updates50\543\LINQPad.exe
+[2021/2/20-15:1-tab]	 LINQPad 5
+[2021/2/20-15:1-input]	 
+[2021/2/20-15:1-input]	 return null;
+[2021/2/20-15:1-input]	 .
+[2021/2/20-15:2-input]	 z
+[2021/2/20-15:2-input]	 .
+[2021/2/20-15:2-input]	 
+[2021/2/20-15:2-input]	 
+[2021/2/20-15:2-input]	 .
+[2021/2/20-15:2-input]	 
+[2021/2/20-15:2-input]	 using	
+[2021/2/20-15:2-input]	 
+[2021/2/20-15:3-tab]	 Query Properties
+[2021/2/20-15:3-tab]	 LINQPad 5
+[2021/2/20-15:3-input]	 
+[2021/2/20-15:3-tab]	 Query Properties
+[2021/2/20-15:3-input]	 
+[2021/2/20-15:3-tab]	 Add Custom Assembly References (Working...)
+[2021/2/20-15:3-tab]	 Add Custom Assembly References
+[2021/2/20-15:3-tab]	 Query Properties
+[2021/2/20-15:3-input]	 uiaut
+[2021/2/20-15:3-tab]	 LINQPad 5
+[2021/2/20-15:3-clip]	 GetStuff
+[2021/2/20-15:3-input]	 c
+[2021/2/20-15:3-input]	 Cons	.lwr	(this.v())
+[2021/2/20-15:3-input]	 ;
+[2021/2/20-15:4-focus]	 C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[2021/2/20-15:4-tab]	 Inspect with Chrome Developer Tools - Google Chrome
+[2021/2/20-15:4-input]	 testfac
+[2021/2/20-15:4-tab]	 facebook - Google Search - Google Chrome
+[2021/2/20-15:4-tab]	 Facebook - Log In or Sign Up - Google Chrome
+[2021/2/20-15:4-input]	 
+[2021/2/20-15:4-focus]	 C:\ProgramData\LINQPad\Updates50\543\LINQPad.exe
+[2021/2/20-15:4-tab]	 LINQPad 5
+[2021/2/20-15:4-input]	 "test", 
+[2021/2/20-15:4-input]	  +
+[2021/2/20-15:4-focus]	 C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[2021/2/20-15:4-tab]	 Facebook - Log In or Sign Up - Google Chrome
+[2021/2/20-15:5-input]	 gooogle.com
+[2021/2/20-15:5-tab]	 Google - Google Chrome
+[2021/2/20-15:5-input]	 
+[2021/2/20-15:5-focus]	 C:\ProgramData\LINQPad\Updates50\543\LINQPad.exe
+[2021/2/20-15:5-tab]	 LINQPad 5
+[2021/2/20-15:5-focus]	 C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[2021/2/20-15:5-tab]	 Google - Google Chrome
+[2021/2/20-15:5-input]	 fa.com
+[2021/2/20-15:5-tab]	 Facebook - Log In or Sign Up - Google Chrome
+[2021/2/20-15:5-input]	 
+[2021/2/20-15:5-focus]	 C:\ProgramData\LINQPad\Updates50\543\LINQPad.exe
+[2021/2/20-15:5-tab]	 LINQPad 5
+[2021/2/20-15:5-focus]	 C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[2021/2/20-15:5-tab]	 Facebook - Log In or Sign Up - Google Chrome
+[2021/2/20-15:5-input]	 ared
+[2021/2/20-15:5-tab]	 reddit: the front page of the internet - Google Chrome
+[2021/2/20-15:5-tab]	 Connection is secure
+[2021/2/20-15:5-tab]	 reddit: the front page of the internet - Google Chrome
+[2021/2/20-15:5-input]	 
+[2021/2/20-15:5-focus]	 
+[2021/2/20-15:5-tab]	 
+[2021/2/20-15:5-focus]	 C:\ProgramData\LINQPad\Updates50\543\LINQPad.exe
+[2021/2/20-15:5-tab]	 LINQPad 5
+[2021/2/20-15:5-focus]	 C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[2021/2/20-15:5-tab]	 reddit: the front page of the internet - Google Chrome
+[2021/2/20-15:5-input]	 go
+[2021/2/20-15:5-tab]	 Google - Google Chrome
+[2021/2/20-15:5-input]	 
+[2021/2/20-15:5-tab]	 Connection is secure
+[2021/2/20-15:6-tab]	 Google - Google Chrome
+[2021/2/20-15:6-focus]	 C:\ProgramData\LINQPad\Updates50\543\LINQPad.exe
+[2021/2/20-15:6-tab]	 LINQPad 5
+[2021/2/20-15:6-input]	 
+[2021/2/20-15:6-focus]	 C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[2021/2/20-15:6-tab]	 Google - Google Chrome
+[2021/2/20-15:6-input]	 re
+[2021/2/20-15:6-tab]	 reddit: the front page of the internet - Google Chrome
+[2021/2/20-15:6-input]	 
+[2021/2/20-15:6-focus]	 
+[2021/2/20-15:6-tab]	 
+[2021/2/20-15:6-focus]	 C:\ProgramData\LINQPad\Updates50\543\LINQPad.exe
+[2021/2/20-15:6-tab]	 LINQPad 5
+[2021/2/20-15:6-focus]	 
+[2021/2/20-15:6-tab]	 
+[2021/2/20-15:6-focus]	 C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[2021/2/20-15:6-tab]	 reddit: the front page of the internet - Google Chrome
+[2021/2/20-15:6-input]	 h
+[2021/2/20-15:6-tab]	 Hacker News - Google Chrome
+[2021/2/20-15:6-focus]	 C:\ProgramData\LINQPad\Updates50\543\LINQPad.exe
+[2021/2/20-15:6-tab]	 LINQPad 5
+[2021/2/20-15:6-focus]	 C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[2021/2/20-15:6-tab]	 Hacker News - Google Chrome
+[2021/2/20-15:6-tab]	 Submissions from qntm.org | Hacker News - Google Chrome
+[2021/2/20-15:7-tab]	 How to destroy the Earth @ Things Of Interest - Google Chrome
+[2021/2/20-15:7-focus]	 C:\ProgramData\LINQPad\Updates50\543\LINQPad.exe
+[2021/2/20-15:7-tab]	 LINQPad 5
+[2021/2/20-15:7-focus]	 C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[2021/2/20-15:7-tab]	 How to destroy the Earth @ Things Of Interest - Google Chrome
+[2021/2/20-15:7-input]	 go
+[2021/2/20-15:7-tab]	 Google - Google Chrome
+[2021/2/20-15:7-focus]	 C:\ProgramData\LINQPad\Updates50\543\LINQPad.exe
+[2021/2/20-15:7-tab]	 LINQPad 5
+[2021/2/20-15:7-input]	 
+[2021/2/20-15:7-focus]	 C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[2021/2/20-15:7-tab]	 Google - Google Chrome
+[2021/2/20-15:7-tab]	 Hacker News - Google Chrome
+[2021/2/20-15:7-input]	 h
+[2021/2/20-15:7-focus]	 C:\ProgramData\LINQPad\Updates50\543\LINQPad.exe
+[2021/2/20-15:7-tab]	 LINQPad 5
+[2021/2/20-15:7-focus]	 C:\Program Files\Mozilla Firefox\firefox.exe
+[2021/2/20-15:7-tab]	 Getting the current tab's URL from Google Chrome using C# - Stack Overflow — Mozilla Firefox
+[2021/2/20-15:7-tab]	 New Comments | Hacker News — Mozilla Firefox
+[2021/2/20-15:7-tab]	 Profile: MikeSchurman | Hacker News — Mozilla Firefox
+[2021/2/20-15:7-tab]	 Upvoted comments | Hacker News — Mozilla Firefox
+[2021/2/20-15:8-tab]	 Mozilla Firefox
+[2021/2/20-15:8-tab]	 Profile: MikeSchurman | Hacker News — Mozilla Firefox
+[2021/2/20-15:8-tab]	 MikeSchurman's favorites | Hacker News — Mozilla Firefox
+[2021/2/20-15:8-tab]	 Profile: MikeSchurman | Hacker News — Mozilla Firefox
+[2021/2/20-15:8-tab]	 MikeSchurman's comments | Hacker News — Mozilla Firefox
+[2021/2/20-15:9-tab]	 Profile: disabled | Hacker News — Mozilla Firefox
+[2021/2/20-15:9-clip]	  secretsquirrel89@protonmail.com 
+[2021/2/20-15:9-input]	 c
+[2021/2/20-15:9-clip]	 user:	disabled
+created:	December 26, 2018
+karma:	655
+about:	Email: secretsquirrel89@protonmail.com
+	submissions
+	comments
+	favorites
+[2021/2/20-15:9-input]	 c
+[2021/2/20-15:9-focus]	 C:\Windows\SystemApps\Microsoft.Windows.Cortana_cw5n1h2txyewy\SearchUI.exe
+[2021/2/20-15:9-tab]	 Cortana
+[2021/2/20-15:9-input]	 s
+[2021/2/20-15:9-focus]	 C:\Program Files\Everything\Everything.exe
+[2021/2/20-15:9-tab]	 Everything
+[2021/2/20-15:9-tab]	 l - Everything
+[2021/2/20-15:9-tab]	 lo - Everything
+[2021/2/20-15:9-tab]	 log - Everything
+[2021/2/20-15:9-tab]	 log. - Everything
+[2021/2/20-15:9-tab]	 log.t - Everything
+[2021/2/20-15:9-tab]	 log - Everything
+[2021/2/20-15:9-tab]	 log. - Everything
+[2021/2/20-15:9-tab]	 log.* - Everything
+[2021/2/20-15:9-tab]	 log.*t - Everything
+[2021/2/20-15:9-tab]	 log.*tx - Everything
+[2021/2/20-15:9-input]	 log.t.*tx
+[2021/2/20-15:9-tab]	 
+[2021/2/20-15:9-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/20-15:9-tab]	 notes.md - Notes - Visual Studio Code
+[2021/2/20-15:9-tab]	 log-02-20.txt - Notes - Visual Studio Code
+[2021/2/20-15:9-input]	 
+[2021/2/20-15:9-focus]	 C:\Program Files\Everything\Everything.exe
+[2021/2/20-15:9-tab]	 log.*tx - Everything
+[2021/2/20-15:9-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/20-15:9-tab]	 log-02-20.txt - Notes - Visual Studio Code
+[2021/2/20-15:10-focus]	 C:\Program Files\Everything\Everything.exe
+[2021/2/20-15:10-tab]	 log.*tx - Everything
+[2021/2/20-15:10-focus]	 C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021/2/20-15:10-tab]	 log-02-20.txt - Notes - Visual Studio Code
+[2021/2/20-15:10-tab]	 notes.md - Notes - Visual Studio Code
+[2021/2/20-15:10-focus]	 
+[2021/2/20-15:10-tab]	 
+[2021/2/20-15:10-focus]	 C:\Program Files\Mozilla Firefox\firefox.exe
+[2021/2/20-15:10-tab]	 Profile: disabled | Hacker News — Mozilla Firefox
+[2021/2/20-15:10-tab]	 MikeSchurman's comments | Hacker News — Mozilla Firefox
+[2021/2/20-15:11-tab]	 raymondlo84/nvidia-jetson-ai-monitor: An example development repository for using Nvidia Jetson Nano or Xavier as health monitor using computer vision. — Mozilla Firefox
+[2021/2/20-15:11-tab]	 Profile: disabled | Hacker News — Mozilla Firefox
+[2021/2/20-15:11-tab]	 MikeSchurman's comments | Hacker News — Mozilla Firefox
+[2021/2/20-15:12-tab]	 nickbild/browzen: BrowZen correlates your emotional states with the web sites you visit to give you actionable insights about how you spend your time browsing the web. — Mozilla Firefox
+[2021/2/20-15:12-tab]	 Profile: disabled | Hacker News — Mozilla Firefox
+[2021/2/20-15:12-tab]	 MikeSchurman's comments | Hacker News — Mozilla Firefox
+[2021/2/20-15:12-clip]	 	
+	
+disabled 1 hour ago | unvote [–]
+
+I hope this helps, with respect to ideas.
+
+While I can technically create my own scripts using AI, I tend to utilize others' scripts, as programming this stuff is not the best use of my time. This sort of stuff is almost always exclusively posted on GitHub. I do not use a ton of packages. I do have to keep this concise (check my profile for my email, which I will keep available for a couple of days).
+
+-Video: It should be noted that all video hosted in the cloud can usually be downloaded, one way or another, using scripts. I have an ongoing, organized, paper list of video types/genres that interest me and keep me happy, which I try to stick to. I frequently update it though. I know when to give myself neurochemical "hits", from the stuff I accumulate online, from reading books like "The Molecule of More" and "HØY PÅ DEG SJÆL: ENDORFIN SOM MEDISIN" (HIGH ON YOUR SOUL: ENDORPHINS AS MEDICINE) [I used a cloud service to translate it into English...I find out about various books in different languages via deep searches using foreign language keywords via DuckDuckGo.]. For video searches I use DuckDuckGo video search: https://duckduckgo.com/video?ia=web# (with "site:youtube.com" [without quotes] in the query box)
+
+Here are some scripts I use. I really do not use many scripts.
+
+YouTube: https://github.com/aksharbarchha/Only-for-Youtubers
+
+IMDB Movie Reviews: https://github.com/RubixML/Sentiment
+
+I have Plex (and other database/recommendation engines) on my computer, Synology NAS, and Nvidia Shield TV Pro. I transfer the videos typically to my NAS and stream them on the Shield via Plex. I can also access all of this via my NAS and stream on mobile data via Plex, for example, on my phone/tablet, as there is also a Plex app.
+
+-Nvidia Jetson: I use an NVIDIA Jetson AGX Xavier Developer Kit (32GB). Likewise, I do not use many scripts. I just started using it. I generally use an Intel Realsense camera as a webcam. However, sometimes I do use a standard Logitech webcam.
+
+AI pose/emotion analysis: https://github.com/raymondlo84/nvidia-jetson-ai-monitor
+
+Sentiment analysis for web browsing: https://github.com/nickbild/browzen [I have to VNC into the Jetson when using my laptop and have the webcam pointed at me: https://github.com/Aravindseenu/Nvidia-jetson-VNC-remote-acc... ]
+
+Intel Realsense Emotion Analysis: https://github.com/intel/ros_openvino_toolkit
+
+Driving-DBSE Monitor: Drowsiness, Blind Spot and Emotions monitor: https://github.com/altaga/DBSE-monitor/tree/master/Jetson 
+[2021/2/20-15:12-input]	 c
+[2021/2/20-15:12-tab]	 raymondlo84/nvidia-jetson-ai-monitor: An example development repository for using Nvidia Jetson Nano or Xavier as health monitor using computer vision. — Mozilla Firefox
+[2021/2/20-15:12-tab]	 nickbild/browzen: BrowZen correlates your emotional states with the web sites you visit to give you actionable insights about how you spend your time browsing the web. — Mozilla Firefox
+[2021/2/20-15:12-tab]	 MikeSchurman's comments | Hacker News — Mozilla Firefox
+[2021/2/20-15:17-tab]	 How to have better arguments online | Hacker News — Mozilla Firefox
+[2021/2/20-15:18-tab]	 aksharbarchha/Only-for-Youtubers: Sentiment Analysis of Youtube Video Comments using Youtube Data Api — Mozilla Firefox
+[2021/2/20-15:18-tab]	 MikeSchurman's comments | Hacker News — Mozilla Firefox
+[2021/2/20-15:20-tab]	 more MikeSchurman's comments | Hacker News — Mozilla Firefox
+[2021/2/20-15:21-tab]	 MikeSchurman's comments | Hacker News — Mozilla Firefox
+[2021/2/20-15:32-focus]	 
+[2021/2/20-15:32-tab]	 
+[2021/2/20-15:32-focus]	 C:\Windows\SystemApps\Microsoft.LockApp_cw5n1h2txyewy\LockApp.exe
+[2021/2/20-15:32-tab]	 Windows Default Lock Screen
+[2021/2/20-16:5-focus]	 
+[2021/2/20-16:5-tab]	 
+[2021/2/20-16:5-input]	 o
+[2021/2/20-16:5-focus]	 C:\Program Files\Mozilla Firefox\firefox.exe
+[2021/2/20-16:5-tab]	 MikeSchurman's comments | Hacker News — Mozilla Firefox
+[2021/2/20-16:6-focus]	 C:\ProgramData\LINQPad\Updates50\543\LINQPad.exe
+[2021/2/20-16:6-tab]	 LINQPad 5
+[2021/2/20-16:6-tab]	 LINQPad
+[2021/2/20-16:6-focus]	 C:\Program Files\Mozilla Firefox\firefox.exe
+[2021/2/20-16:6-tab]	 MikeSchurman's comments | Hacker News — Mozilla Firefox
+[2021/2/20-16:6-tab]	 Facebook — Mozilla Firefox
+[2021/2/20-16:7-tab]	 Mark Boyd | Facebook — Mozilla Firefox
+[2021/2/20-16:8-tab]	 Facebook — Mozilla Firefox
+[2021/2/20-16:10-clip]	 anointed
+[2021/2/20-16:10-tab]	 Getting the current tab's URL from Google Chrome using C# - Stack Overflow — Mozilla Firefox
+[2021/2/20-16:10-tab]	 anointed at DuckDuckGo — Mozilla Firefox
+[2021/2/20-16:10-input]	 
+[2021/2/20-16:10-tab]	 Getting the current tab's URL from Google Chrome using C# - Stack Overflow — Mozilla Firefox
+[2021/2/20-16:10-tab]	 What's new in LINQPad — Mozilla Firefox
+[2021/2/20-16:10-tab]	 Facebook — Mozilla Firefox
+[2021/2/20-16:15-input]	 marcia ear
+[2021/2/20-16:15-tab]	 marcia earl hale - Search Results | Facebook — Mozilla Firefox
+[2021/2/20-16:15-tab]	 Marcia Earl Hale | Facebook — Mozilla Firefox
+[2021/2/20-16:16-tab]	 Peel Session by Boards Of Canada on Amazon Music Unlimited — Mozilla Firefox
+[2021/2/20-16:17-tab]	 Sending cron output to a file with a timestamp in its name - Server Fault — Mozilla Firefox
+[2021/2/20-16:17-tab]	 Wieners - michael.schurman@gmail.com - Gmail — Mozilla Firefox
+[2021/2/20-16:17-tab]	 Inbox (1) - michael.schurman@gmail.com - Gmail — Mozilla Firefox
+[2021/2/20-16:17-tab]	 Wieners - michael.schurman@gmail.com - Gmail — Mozilla Firefox
+[2021/2/20-16:17-tab]	 Inbox - michael.schurman@gmail.com - Gmail — Mozilla Firefox
+[2021/2/20-16:17-tab]	 MikeSchurman's comments | Hacker News — Mozilla Firefox
+[2021/2/20-16:17-tab]	 Profile: disabled | Hacker News — Mozilla Firefox
+[2021/2/20-16:17-tab]	 disabled's submissions | Hacker News — Mozilla Firefox
+[2021/2/20-16:17-tab]	 Profile: disabled | Hacker News — Mozilla Firefox
+[2021/2/20-16:17-tab]	 disabled's comments | Hacker News — Mozilla Firefox
+[2021/2/20-16:21-tab]	 Adding a timestamp to command output in linux - Abdullah Diab's Blog — Mozilla Firefox
+[2021/2/20-16:21-tab]	 Mozilla Firefox
+[2021/2/20-16:22-tab]	 Facebook — Mozilla Firefox
+[2021/2/20-16:22-input]	 f
+[2021/2/20-16:26-tab]	 YouTube — Mozilla Firefox
+[2021/2/20-16:26-input]	 y
+[2021/2/20-16:26-tab]	 Hollow Knight - The Pantheon of Nightmares (Trailer) - YouTube — Mozilla Firefox
+[2021/2/20-16:28-tab]	 fireb0rn - YouTube — Mozilla Firefox
+[2021/2/20-16:29-tab]	 YouTube — Mozilla Firefox
+[2021/2/20-16:29-tab]	 This is How Easy It Is to Lie With Statistics - YouTube — Mozilla Firefox
+[2021/2/20-16:30-tab]	 YouTube — Mozilla Firefox
+[2021/2/20-16:33-tab]	 Adding a timestamp to command output in linux - Abdullah Diab's Blog — Mozilla Firefox
+[2021/2/20-16:33-tab]	 disabled's comments | Hacker News — Mozilla Firefox
+[2021/2/20-16:33-tab]	 MikeSchurman's comments | Hacker News — Mozilla Firefox
+[2021/2/20-16:33-tab]	 nickbild/browzen: BrowZen correlates your emotional states with the web sites you visit to give you actionable insights about how you spend your time browsing the web. — Mozilla Firefox
+[2021/2/20-16:33-tab]	 MikeSchurman's comments | Hacker News — Mozilla Firefox
+[2021/2/20-16:34-input]	 fsent
+[2021/2/20-16:34-input]	 imen
+[2021/2/20-16:34-input]	 imen
+[2021/2/20-16:34-tab]	 RubixML/Sentiment: An example project using a feed-forward neural network for text sentiment classification trained with 25,000 movie reviews from the IMDB website. — Mozilla Firefox
+[2021/2/20-16:34-tab]	 disabled's comments | Hacker News — Mozilla Firefox
+[2021/2/20-16:35-tab]	 MikeSchurman's comments | Hacker News — Mozilla Firefox
+[2021/2/20-16:35-tab]	 aksharbarchha/Only-for-Youtubers: Sentiment Analysis of Youtube Video Comments using Youtube Data Api — Mozilla Firefox
+[2021/2/20-16:35-focus]	 C:\Program Files\Git\usr\bin\mintty.exe
+[2021/2/20-16:35-tab]	 MINGW64:/c/Projects/quick
+[2021/2/20-16:35-input]	 pp
+[2021/2/20-16:35-input]	 pip
+[2021/2/20-16:35-input]	 
+[2021/2/20-16:35-input]	 c
+[2021/2/20-16:36-input]	 ls
+[2021/2/20-16:36-input]	 giss
+[2021/2/20-16:36-input]	 
+[2021/2/20-16:36-input]	 gd
+[2021/2/20-16:36-input]	 
+[2021/2/20-16:36-input]	 cat .gi	itg	
+[2021/2/20-16:36-input]	 
+refresh_locale_list [476]: GetKeyboardLayoutList(0, NULL) found 4 layouts.
+refresh_locale_list [493]: Received 4 locales.
+load_input_helper [866]: refresh_locale_list() found 4 locale(s).
+Terminate batch job (Y/N)? 

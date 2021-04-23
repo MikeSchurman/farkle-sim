@@ -1,0 +1,72 @@
+
+> quick@1.0.0 main C:\Projects\quick
+> npx ts-node src/main.ts
+
+focus: C:\Program Files\Git\usr\bin\mintty.exe
+tab: MINGW64:/c/Projects/quick
+clip: // case ColliderT
+mousewheel
+mousemove
+mousedown
+focus: 
+tab: 
+mouseup
+focus: C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+tab: collision-system.ts - loot - Visual Studio Code
+mouseclick
+mousedrag
+focus: 
+tab: 
+focus: C:\Program Files\Git\usr\bin\mintty.exe
+tab: MINGW64:/c/Projects/quick
+focus: C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+tab: collision-system.ts - loot - Visual Studio Code
+keydown
+clip: testPointColliders
+keypress
+keyup
+c
+focus: C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+tab: #loot-broken-stuff - Discord
+tab: #loot-art - Discord
+focus: C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+tab: collision-system.ts - loot - Visual Studio Code
+Fv
+focus: C:\Program Files\ConEmu\ConEmu64.exe
+tab: MINGW64:/c/Projects/loot
+clip: // case Collid
+focus: C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+tab: collision-system.ts - loot - Visual Studio Code
+tab: colliders.ts - loot - Visual Studio Code
+cav
+tab: ● colliders.ts - loot - Visual Studio Code
+\
+throw new Error
+clip: 			throw new Error(`unhandled collider type: ${collider.type}`)
+
+c
+case deafuiltfaut:{
+v	
+clip: colliderConfig
+tab: colliders.ts - loot - Visual Studio Code
+cvs
+focus: C:\Program Files\ConEmu\ConEmu64.exe
+tab: MINGW64:/c/Projects/loot
+tab: npm
+tab: MINGW64:/c/Projects/loot
+q
+focus: C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+tab: #loot-art - Discord
+tab: #loot-broken-stuff - Discord
+tab: #loot-code - Discord
+focus: C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+tab: colliders.ts - loot - Visual Studio Code
+focus: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+tab: Untitled - Google Chrome
+tab: about:blank - Google Chrome
+tab: Loot.io - Google Chrome
+focus: 
+tab: 
+focus: C:\Program Files\ConEmu\ConEmu64.exe
+tab: MINGW64:/c/Projects/loot
+killnode

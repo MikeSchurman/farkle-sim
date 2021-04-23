@@ -1,0 +1,228 @@
+
+> quick@1.0.0 main C:\Projects\quick
+> npx ts-node src/main.ts
+
+focus: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+tab: Loot.io - Google Chrome
+clip: description
+mousemove
+mousedown
+mouseup
+mouseclick
+keydown
+keypress
+keyup
+dt
+/tt bea.*bos
+sassssssssssssssssssssssssssssdf
+fwf
+awfdf
+saff
+mousedrag
+fwdwf
+saff
+wffawda
+focus: C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+tab: game-client.ts - loot - Visual Studio Code
+tab: adventure.ts - loot - Visual Studio Code
+Fenter arnena
+focus: 
+tab: 
+focus: C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+tab: #loot-qa - Discord
+tab: #loot-leads - Discord
+have you ascended?
+
+focus: C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+tab: adventure.ts - loot - Visual Studio Code
+focus: 
+tab: 
+focus: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+tab: Loot.io - Google Chrome
+focus: 
+tab: 
+focus: C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+tab: #loot-leads - Discord
+dfwfad
+focus: 
+tab: 
+focus: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+tab: Loot.io - Google Chrome
+focus: 
+tab: 
+focus: C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+tab: adventure.ts - loot - Visual Studio Code
+focus: 
+tab: 
+focus: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+tab: Loot.io - Google Chrome
+focus: 
+tab: 
+focus: C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+tab: #loot-leads - Discord
+par
+
+focus: 
+tab: 
+focus: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+tab: Loot.io - Google Chrome
+dff
+focus: C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+tab: adventure.ts - loot - Visual Studio Code
+tab: ● adventure.ts - loot - Visual Studio Code
+tab: adventure.ts - loot - Visual Studio Code
+az
+mousewheel
+tab: hub.ts - loot - Visual Studio Code
+F
+a
+tab: ● hub.ts - loot - Visual Studio Code
+
+
+
+clip: addStaticInteractableNPC
+tab: adventure.ts - loot - Visual Studio Code
+c
+v
+tab: ● adventure.ts - loot - Visual Studio Code
+
+tab: adventure.ts - loot - Visual Studio Code
+ks
+focus: 
+tab: 
+focus: C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+tab: #loot-leads - Discord
+focus: 
+tab: 
+focus: C:\Users\Michaels\AppData\Local\Obsidian\Obsidian.exe
+tab: Notes - Obsidian v0.10.11
+focus: 
+tab: 
+focus: C:\Program Files\Git\usr\bin\mintty.exe
+tab: MINGW64:/c/Projects/quick
+focus: 
+tab: 
+focus: C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+tab: adventure.ts - loot - Visual Studio Code
+Func
+tab: ● adventure.ts - loot - Visual Studio Code
+
+Ui
+
+F
+const 
+
+F
+
+focus: 
+tab: 
+focus: C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+tab: #loot-leads - Discord
+tab: #loot-qa - Discord
+focus: C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+tab: ● adventure.ts - loot - Visual Studio Code
+focus: 
+tab: 
+focus: C:\Program Files\Mozilla Firefox\firefox.exe
+tab: [JIRA] (SOTI-2092) Add debuffing status effects for elemental damage (ignite, chill, shock, poison, bleed) - michael.schurman@otherocean.com - Other Ocean Group, Inc. Mail — Mozilla Firefox
+tab: Inbox (1) - michael.schurman@otherocean.com - Other Ocean Group, Inc. Mail — Mozilla Firefox
+tab: Inbox - michael.schurman@otherocean.com - Other Ocean Group, Inc. Mail — Mozilla Firefox
+tab: SOTI board - Agile Board - Sculpin QA — Mozilla Firefox
+
+
+
+focus: 
+tab: 
+focus: C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+tab: #loot-qa - Discord
+tab: #loot-code - Discord
+tab: #loot-art - Discord
+focus: C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+tab: ● adventure.ts - loot - Visual Studio Code
+focus: 
+tab: 
+focus: C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+tab: #loot-art - Discord
+tab: #loot-game-design - Discord
+when th e arean na gate npc is no longer allowing you to leave the arena
+, shoule d they disappear
+?
+
+focus: C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+tab: ● adventure.ts - loot - Visual Studio Code
+focus: C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+tab: #loot-game-design - Discord
+focus: C:\Program Files\Mozilla Firefox\firefox.exe
+tab: SOTI board - Agile Board - Sculpin QA — Mozilla Firefox
+tab: Inbox - michael.schurman@gmail.com - Gmail — Mozilla Firefox
+tab: [SOTI-2092] Add debuffing status effects for elemental damage (ignite, chill, shock, poison, bleed) - Sculpin QA — Mozilla Firefox
+tab: Inbox - michael.schurman@otherocean.com - Other Ocean Group, Inc. Mail — Mozilla Firefox
+focus: C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+tab: #loot-game-design - Discord
+when the boss reas=sspawns
+focus: C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+tab: ● adventure.ts - loot - Visual Studio Code
+focus: 
+tab: 
+focus: C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+tab: #loot-game-design - Discord
+a
+focus: C:\Program Files\Mozilla Firefox\firefox.exe
+tab: SOTI board - Agile Board - Sculpin QA — Mozilla Firefox
+
+
+
+tab: Mozilla Firefox
+boss
+tab: Boss Arena Lock-ins Tasks - Google Docs — Mozilla Firefox
+
+boss
+tab: LOOT - Boss Arenas - Google Docs — Mozilla Firefox
+focus: C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+tab: #loot-game-design - Discord
+that is also a good question. We changed the dsesign
+ but the choice of a visible npc is not in the deissign. I was assuming that when the boss spawns
+ this would happen, but
+however the old design siadaid
+ all players would be teleported aoutoutside the areanna when the boss spanwswns.
+So I guess they would disappear when you use them to teleport inside the dreanarena (while*while* the boss is alive?
+ I'm ntoot sure
+
+ok, 
+soudnsnds good to me. When you try to interract with them, would they do nothing? Or have a OK popup that said "can't leave now' or" or something?
+
+
+tab: #loot-audio - Discord
+tab: #loot-leads - Discord
+tab: #loot-qa - Discord
+tab: #loot-game-design - Discord
+tab: @Kaitlin Richard - Discord
+focus: C:\Program Files\Mozilla Firefox\firefox.exe
+tab: Mozilla Firefox
+tab: [SOTI-2410] Change Username/Password Delete Account Popups Hook-up - Sculpin QA — Mozilla Firefox
+tab: LOOT - Boss Arenas - Google Docs — Mozilla Firefox
+focus: C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+tab: @Kaitlin Richard - Discord
+tab: #loot-game-design - Discord
+focus: C:\Program Files\Mozilla Firefox\firefox.exe
+tab: Inbox - michael.schurman@gmail.com - Gmail — Mozilla Firefox
+tab: [SOTI-2092] Add debuffing status effects for elemental damage (ignite, chill, shock, poison, bleed) - Sculpin QA — Mozilla Firefox
+tab: Inbox - michael.schurman@otherocean.com - Other Ocean Group, Inc. Mail — Mozilla Firefox
+focus: 
+tab: 
+focus: C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+tab: #loot-game-design - Discord
+in the interesti of cutting copescipope, they will do nohtingthing at all. I'll probably make the "Enter Arena" text at thiereir feet disappear (if we even want that text at all)
+
+focus: C:\Users\Michaels\AppData\Local\Programs\Microsoft VS Code\Code.exe
+tab: ● adventure.ts - loot - Visual Studio Code
+focus: C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+tab: #loot-game-design - Discord
+tab: #loot-art - Discord
+focus: C:\Program Files\ShareX\ShareX.exe
+tab: ShareX - Region capture
+focus: C:\Users\Michaels\AppData\Local\Discord\app-0.0.309\Discord.exe
+tab: #loot-art - Discord
+refresh_locale_list [476]: GetKeyboardLayoutList(0, NULL) found 4 layouts.
+refresh_locale_list [493]: Received 4 locales.
+load_input_helper [866]: refresh_locale_list() found 4 locale(s).
